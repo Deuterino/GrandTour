@@ -1,0 +1,223 @@
+# Italian unit stories, units 21–30 (Piemonte e Liguria: Ricordi e progetti).
+
+=== u21 | dialogue | La giacca di Torino
+intro: Turin was Italy's first capital. Tom needs a warm jacket and goes shopping under the arcades. Direct object pronouns: lo, la, li, le.
+Commessa: Buongiorno! Posso aiutarLa? | Good morning! Can I help you?
+Tom: Sì, cerco una giacca calda. Quella blu in vetrina, la posso provare? | Yes, I'm looking for a warm jacket. The blue one in the window, can I try it on?
+Commessa: Certo. Che taglia porta? | Of course. What size do you wear?
+Tom: La cinquanta, credo. | Fifty, I think.
+Commessa: Eccola. Come va? | Here it is. How is it?
+Tom: È perfetta. Quanto costa? | It's perfect. How much is it?
+Commessa: Centoventi euro, ma oggi c'è lo sconto del venti per cento. | A hundred and twenty euros, but today there's a twenty per cent discount.
+Tom: Allora la prendo! E questi guanti? | Then I'll take it! And these gloves?
+Commessa: Li vuole vedere? Sono di pelle, fatti a mano qui a Torino. | Would you like to see them? They're leather, handmade here in Turin.
+Tom: Sono belli, ma li compro un'altra volta. Oggi ho già speso abbastanza! | They're nice, but I'll buy them another time. I've spent enough today!
+q: La giacca? Tom ___ prova. | la | lo | li | en: The jacket? Tom tries it on. | why: la giacca → la
+q: I guanti? Tom ___ compra un'altra volta. | li | le | lo | en: The gloves? Tom will buy them another time. | why: i guanti (m pl) → li
+q: Oggi c'è lo sconto del ___ per cento. | venti | dieci | cinquanta | en: Today there's a twenty per cent discount. | why: «lo sconto del venti per cento»
+
+=== u21 | reading | La prima capitale
+intro: Turin, between the Alps and the Po, gave Italy many firsts.
+- Nel 1861 Torino è diventata la prima capitale del Regno d'Italia. | In 1861 Turin became the first capital of the Kingdom of Italy.
+- Qui è nata la FIAT nel 1899: la Fabbrica Italiana Automobili Torino. | FIAT was born here in 1899: the Italian Automobile Factory of Turin.
+- Torino è famosa anche per il cioccolato. Il gianduia, cioccolato con le nocciole, lo hanno inventato qui. | Turin is also famous for chocolate. Gianduia, chocolate with hazelnuts, was invented here.
+- Il caffè con il cioccolato e la crema si chiama «bicerin». Lo bevono i torinesi da duecento anni. | Coffee with chocolate and cream is called "bicerin". The people of Turin have been drinking it for two hundred years.
+- Sotto i portici, lunghi diciotto chilometri, si cammina anche quando piove. | Under the arcades, eighteen kilometres long, you can walk even when it rains.
+q: Torino è diventata capitale nel ___. | 1861 | 1899 | 1946 | en: Turin became the capital in 1861. | why: «Nel 1861 Torino è diventata la prima capitale»
+q: Il gianduia? ___ hanno inventato a Torino. | Lo | La | Li | en: Gianduia? It was invented in Turin. | why: il gianduia → lo
+q: I portici sono lunghi diciotto ___. | chilometri | metri | anni | en: The arcades are eighteen kilometres long. | why: «lunghi diciotto chilometri»
+
+=== u22 | dialogue | Il Palio di Asti
+intro: Asti's Palio is a horse race through the town, run since at least 1275. Tom and Giulia watch. Indirect pronouns and piacere.
+Giulia: Ti piacciono i cavalli? | Do you like horses?
+Tom: Mi piacciono molto, ma non ci vado mai sopra! E a te? | I like them a lot, but I never get on them! And you?
+Giulia: A me piace la corsa, ma ho paura per i cavalli. | I like the race, but I'm afraid for the horses.
+Tom: Chi vince il palio? | Who wins the palio?
+Giulia: Il primo cavallo che arriva, anche senza fantino! Al vincitore danno un drappo di seta. | The first horse to arrive, even without a jockey! They give the winner a silk banner.
+Tom: E all'ultimo? | And the last one?
+Giulia: Gli danno un'acciuga! È una tradizione. | They give him an anchovy! It's a tradition.
+Tom: Un'acciuga? Mi sembra un po' crudele. | An anchovy? It seems a bit cruel to me.
+Giulia: Ma no, è uno scherzo. Dopo la corsa offrono a tutti un bicchiere di vino. Ti va? | No, it's a joke. After the race they offer everyone a glass of wine. Do you fancy it?
+Tom: Mi va! | I'm in!
+q: A Tom ___ molto i cavalli. | piacciono | piace | piacciamo | en: Tom likes horses a lot. | why: plural subject (i cavalli) → piacciono
+q: All'ultimo ___ danno un'acciuga. | gli | lo | le | en: They give the last one an anchovy. | why: to him → gli
+q: Al vincitore danno un drappo di ___. | seta | pelle | carta | en: The winner gets a silk banner. | why: «un drappo di seta»
+
+=== u22 | reading | Mi piace, non mi piace
+intro: Tom's notebook: what he likes and dislikes in Italy. Piacere works backwards: the thing liked is the subject.
+- Mi piace il caffè italiano. Mi piacciono i bar dove si beve in piedi. | I like Italian coffee. I like the bars where you drink standing up.
+- Non mi piace il traffico di Roma. Non mi piacciono le zanzare d'estate. | I don't like Rome's traffic. I don't like mosquitoes in summer.
+- A Giulia piace l'arte antica. Le piacciono soprattutto i mosaici. | Giulia likes ancient art. She especially likes mosaics.
+- Ai bambini italiani piace il gelato. Gli piace a qualsiasi ora! | Italian children like ice cream. They like it at any time of day!
+- E a me manca la mia famiglia. Mi mancano anche i panini inglesi … ma solo un po'. | And I miss my family. I miss English sandwiches too … but only a little.
+q: A Giulia ___ soprattutto i mosaici. | piacciono | piace | piacere | en: Giulia especially likes mosaics. | why: i mosaici (plural) → piacciono
+q: A Tom ___ la sua famiglia. | manca | mancano | piace | en: Tom misses his family. | why: mancare like piacere: la famiglia (singular) → manca
+
+=== u23 | dialogue | Quando ero piccola
+intro: Alba is the town of white truffles and of Nutella. Giulia tells Tom about her childhood. The imperfetto paints memories.
+Tom: Venivi spesso ad Alba da bambina? | Did you often come to Alba as a child?
+Giulia: Sì! Mia nonna abitava qui. Ogni estate passavo un mese da lei. | Yes! My grandmother lived here. Every summer I spent a month with her.
+Tom: Che cosa facevate? | What did you do?
+Giulia: La mattina andavamo al mercato. Il pomeriggio facevo i compiti, ma non studiavo molto! | In the morning we went to the market. In the afternoon I did my homework, but I didn't study much!
+Tom: E mangiavi la Nutella? | And did you eat Nutella?
+Giulia: Tutti i giorni! La fabbrica era qui vicino e c'era sempre un buon profumo di nocciole. | Every day! The factory was near here and there was always a lovely smell of hazelnuts.
+Tom: E i tartufi? | And the truffles?
+Giulia: Quelli erano troppo cari. Il nonno li cercava nel bosco con il suo cane, ma non li vendeva mai. Li mangiava lui! | Those were too expensive. Grandpa looked for them in the woods with his dog, but he never sold them. He ate them himself!
+q: La nonna di Giulia ___ ad Alba. | abitava | ha abitato | abita | en: Giulia's grandmother lived in Alba. | why: habit / description in the past → imperfetto
+q: Giulia mangiava la Nutella ___ i giorni. | tutti | ogni | qualche | en: Giulia ate Nutella every day. | why: tutti i giorni = every day
+q: Il nonno cercava i tartufi con il suo ___. | cane | gatto | amico | en: Grandpa looked for truffles with his dog. | why: «con il suo cane»
+
+=== u23 | gouin | Le domeniche dalla nonna
+intro: A Gouin series in the imperfetto: what used to happen every Sunday. Put the steps back in order.
+- Mi svegliavo presto. | I used to wake up early.
+- Andavo in cucina dalla nonna. | I would go into the kitchen to Grandma.
+- La nonna preparava la pasta fresca. | Grandma would make fresh pasta.
+- Io la aiutavo a tagliare le tagliatelle. | I would help her cut the tagliatelle.
+- A mezzogiorno arrivava tutta la famiglia. | At noon the whole family would arrive.
+- Mangiavamo per tre ore. | We would eat for three hours.
+- La sera tornavo a casa felice e stanca. | In the evening I would go home happy and tired.
+
+=== u24 | reading | Il ragazzo di Genova
+intro: Christopher Columbus was born in Genoa. His youth in the imperfetto, his great voyage in the passato prossimo.
+- Cristoforo Colombo era figlio di un tessitore di Genova. | Christopher Columbus was the son of a weaver from Genoa.
+- Da ragazzo lavorava con il padre, ma il suo cuore era sempre al porto. | As a boy he worked with his father, but his heart was always at the harbour.
+- Guardava le navi che partivano e sognava terre lontane. | He watched the ships leaving and dreamed of faraway lands.
+- Leggeva i libri di Marco Polo e studiava le carte del mare. | He read Marco Polo's books and studied sea charts.
+- Era sicuro di poter arrivare in India andando sempre verso ovest. | He was sure he could reach India by always sailing west.
+- Nel 1492 è partito dalla Spagna con tre navi. Non è arrivato in India, ma in America. | In 1492 he set off from Spain with three ships. He didn't reach India, but America.
+q: Il padre di Colombo era un ___. | tessitore | marinaio | re | en: Columbus's father was a weaver. | why: «era figlio di un tessitore»
+q: Da ragazzo Colombo ___ le navi che partivano. | guardava | ha guardato | guarda | en: As a boy Columbus watched the ships leaving. | why: repeated past action → imperfetto
+q: Nel 1492 Colombo è arrivato in ___. | America | India | Spagna | en: In 1492 Columbus reached America. | why: «Non è arrivato in India, ma in America.»
+
+=== u24 | dialogue | Il pesto
+intro: In a small trattoria in Genoa, the cook shows Tom how to make pesto the old way.
+Cuoca: Il vero pesto si fa nel mortaio, non con la macchina. | Real pesto is made in a mortar, not with a machine.
+Tom: Che cosa ci metti? | What do you put in it?
+Cuoca: Basilico di Genova, pinoli, aglio, sale, parmigiano, pecorino e olio. | Genoese basil, pine nuts, garlic, salt, parmesan, pecorino and oil.
+Tom: Mia nonna in Inghilterra non sapeva cos'era il pesto! | My grandmother in England didn't know what pesto was!
+Cuoca: Quando ero giovane, nemmeno a Milano lo conoscevano. Adesso lo mangiano in tutto il mondo. | When I was young, even in Milan they didn't know it. Now they eat it all over the world.
+Tom: E con quale pasta lo mangiate qui? | And which pasta do you eat it with here?
+Cuoca: Con le trofie, o con le trenette, con patate e fagiolini. Siediti, te lo preparo! | With trofie, or with trenette, with potatoes and green beans. Sit down, I'll make it for you!
+q: Il vero pesto si fa nel ___. | mortaio | forno | frigorifero | en: Real pesto is made in a mortar. | why: «si fa nel mortaio»
+q: Nel pesto ci sono basilico, pinoli e ___. | aglio | cipolla | pomodoro | en: Pesto contains basil, pine nuts and garlic. | why: «Basilico di Genova, pinoli, aglio …»
+
+=== u25 | dialogue | Sulla barca a Portofino
+intro: In Portofino, a fisherman lets Tom help on his boat. The imperative: commands with tu.
+Pescatore: Sali! Attento, la barca si muove. | Get in! Careful, the boat moves.
+Tom: Che cosa devo fare? | What should I do?
+Pescatore: Prendi quella corda e tienila forte. Non lasciarla! | Take that rope and hold it tight. Don't let go of it!
+Tom: Così? | Like this?
+Pescatore: Bravo. Adesso siediti e guarda il mare. Senti? È calmo. | Well done. Now sit down and look at the sea. Can you feel it? It's calm.
+Tom: È bellissimo. Le case colorate sembrano un quadro. | It's beautiful. The coloured houses look like a painting.
+Pescatore: Allora disegnale! Ma prima aiutami con la rete. Tira! | Then draw them! But first help me with the net. Pull!
+Tom: Tiro! Ci sono tanti pesci! | I'm pulling! There are lots of fish!
+Pescatore: Dimmi la verità: preferisci disegnare o pescare? | Tell me the truth: do you prefer drawing or fishing?
+q: «Prendi la corda e ___ forte!» | tienila | la tieni | tieni la | en: "Take the rope and hold it tight!" | why: pronoun attaches to the tu imperative: tieni + la
+q: «Non ___!» (lasciare, tu) | lasciarla | la lasci | lasciala | en: "Don't let go of it!" | why: negative tu imperative = non + infinitive (+ pronoun)
+q: «___ la verità!» (dire + mi) | Dimmi | Dici me | Dimi | en: "Tell me the truth!" | why: di' + mi → dimmi
+
+=== u25 | reading | La ricetta della focaccia
+intro: The imperative in a recipe from Liguria.
+- Prendi mezzo chilo di farina e mettila in una ciotola. | Take half a kilo of flour and put it in a bowl.
+- Aggiungi acqua, lievito, sale e un po' di olio. | Add water, yeast, salt and a little oil.
+- Impasta per dieci minuti, poi lascia riposare l'impasto per due ore. | Knead for ten minutes, then let the dough rest for two hours.
+- Stendi l'impasto nella teglia e fai dei buchi con le dita. | Spread the dough in the tin and make holes with your fingers.
+- Versa sopra olio e acqua, e metti il sale grosso. | Pour oil and water over it, and sprinkle on coarse salt.
+- Cuoci in forno a duecentoventi gradi per venti minuti. Non aprire il forno! | Bake in the oven at two hundred and twenty degrees for twenty minutes. Don't open the oven!
+q: Lascia riposare l'impasto per due ___. | ore | minuti | giorni | en: Let the dough rest for two hours. | why: «lascia riposare l'impasto per due ore»
+q: Fai dei buchi con le ___. | dita | mani | forchette | en: Make holes with your fingers. | why: irregular plural: il dito → le dita
+q: «Non ___ il forno!» | aprire | apri | apra | en: "Don't open the oven!" | why: negative tu imperative = non + infinitive
+
+=== u26 | dialogue | Domani cammineremo
+intro: Tom and Giulia plan a hike along the footpaths of the Cinque Terre, five villages once reachable only by sea or on foot. The future tense.
+Giulia: Domani faremo il sentiero da Monterosso a Vernazza. | Tomorrow we'll do the path from Monterosso to Vernazza.
+Tom: Quanto tempo ci vorrà? | How long will it take?
+Giulia: Circa due ore. Partiremo presto, perché farà caldo. | About two hours. We'll leave early, because it will be hot.
+Tom: E dopo Vernazza? | And after Vernazza?
+Giulia: Mangeremo qualcosa al porto. Poi, se avremo ancora forza, andremo fino a Corniglia. | We'll eat something at the harbour. Then, if we still have the strength, we'll go as far as Corniglia.
+Tom: E come torneremo? | And how will we get back?
+Giulia: Con il treno! Una volta non c'era, solo il mare. La ferrovia è arrivata nel 1874. | By train! Once it wasn't there, only the sea. The railway arrived in 1874.
+Tom: Porterò il mio quaderno. Disegnerò ogni villaggio. | I'll bring my notebook. I'll draw every village.
+Giulia: Allora non arriveremo mai! | Then we'll never get there!
+q: Domani Tom e Giulia ___ il sentiero. | faranno | fanno | hanno fatto | en: Tomorrow Tom and Giulia will do the path. | why: future of fare: faranno
+q: Partiranno presto perché ___ caldo. | farà | fa | faceva | en: They'll leave early because it will be hot. | why: future: farà caldo
+q: Torneranno con il ___. | treno | traghetto | autobus | en: They'll come back by train. | why: «Con il treno!»
+
+=== u26 | reading | Le cinque terre
+intro: Five villages clinging to the cliffs: Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore.
+- Per secoli i contadini hanno costruito terrazze sulle colline, pietra su pietra. | For centuries farmers built terraces on the hills, stone upon stone.
+- Su queste terrazze crescono la vite e l'olivo. | On these terraces grow vines and olive trees.
+- Corniglia è l'unico villaggio che non tocca il mare: sta in cima a una collina. | Corniglia is the only village that doesn't touch the sea: it sits on top of a hill.
+- Per arrivarci bisogna salire trecentottantadue scalini. | To get there you have to climb three hundred and eighty-two steps.
+- Oggi arrivano milioni di turisti. Forse in futuro ci saranno meno visitatori, ma più rispetto. | Today millions of tourists come. Perhaps in future there will be fewer visitors, but more respect.
+q: Corniglia è l'unico villaggio che non tocca il ___. | mare | cielo | porto | en: Corniglia is the only village that doesn't touch the sea. | why: «non tocca il mare»
+q: Sulle terrazze crescono la vite e l'___. | olivo | arancio | limone | en: Vines and olive trees grow on the terraces. | why: «crescono la vite e l'olivo»
+
+=== u27 | dialogue | Al mercato di La Spezia
+intro: In La Spezia, Tom buys food for a picnic. Ci and ne: "there" and "of it / of them".
+Venditore: Buongiorno! Cosa le do? | Good morning! What can I give you?
+Tom: Vorrei delle pesche. Sono buone? | I'd like some peaches. Are they good?
+Venditore: Buonissime! Quante ne vuole? | Very good! How many would you like?
+Tom: Ne prendo quattro. E del formaggio? | I'll take four. And cheese?
+Venditore: Ne ho di tre tipi: pecorino, parmigiano e una robiola fresca. | I have three kinds: pecorino, parmesan and a fresh robiola.
+Tom: Ne vorrei un etto di pecorino, per favore. | I'd like a hundred grams of pecorino, please.
+Venditore: Ecco. Va al mare? | Here you are. Are you going to the seaside?
+Tom: Sì, ci vado oggi pomeriggio, a Lerici. | Yes, I'm going this afternoon, to Lerici.
+Venditore: Bella! Ci andava anche il poeta Shelley. Il golfo si chiama «Golfo dei Poeti». | Lovely! The poet Shelley used to go there too. The gulf is called the "Gulf of Poets".
+q: Pesche? Tom ___ prende quattro. | ne | le | ci | en: Peaches? Tom takes four. | why: quantity → ne
+q: Al mare? Sì, Tom ___ va oggi. | ci | ne | lo | en: To the seaside? Yes, Tom is going today. | why: a place → ci
+q: Il golfo si chiama «Golfo dei ___». | Poeti | Pittori | Pescatori | en: The gulf is called the "Gulf of Poets". | why: «Golfo dei Poeti»
+
+=== u28 | dialogue | Il festival di Sanremo
+intro: Every February all of Italy watches the Sanremo song festival. Tom and Giulia compare singers. Comparatives.
+Giulia: Questa canzone è più bella di quella di ieri. | This song is more beautiful than yesterday's.
+Tom: Sì, ma il cantante di ieri cantava meglio. | Yes, but yesterday's singer sang better.
+Giulia: Meglio? Era meno famoso, ma la sua voce era migliore, è vero. | Better? He was less famous, but his voice was better, it's true.
+Tom: Qual è la canzone più famosa di Sanremo? | What's the most famous Sanremo song?
+Giulia: «Nel blu dipinto di blu», del 1958. La conosci? «Volare, oh oh…» | "Nel blu dipinto di blu", from 1958. Do you know it? "Volare, oh oh…"
+Tom: Certo! È famosissima, anche in Inghilterra. | Of course! It's extremely famous, in England too.
+Giulia: Per me è la canzone italiana più bella di sempre. | For me it's the most beautiful Italian song ever.
+Tom: Tu canti meglio di tutti i cantanti di stasera. | You sing better than all of tonight's singers.
+Giulia: Bugiardo! Ma grazie. | Liar! But thank you.
+q: Questa canzone è più bella ___ quella di ieri. | di | che | come | en: This song is more beautiful than yesterday's. | why: comparing two things → più … di
+q: Il cantante di ieri cantava ___. | meglio | migliore | più buono | en: Yesterday's singer sang better. | why: adverb → meglio
+q: «Volare» è ___, anche in Inghilterra. | famosissima | più famosa | molto famosissima | en: "Volare" is extremely famous, in England too. | why: absolute superlative: -issimo
+
+=== u29 | dialogue | Ad Aosta
+intro: In Aosta, "the Rome of the Alps", Tom asks for help at the tourist office. The conditional for polite requests.
+Tom: Buongiorno. Vorrei visitare il teatro romano. Potrebbe darmi una cartina? | Good morning. I'd like to visit the Roman theatre. Could you give me a map?
+Impiegata: Certo. Il teatro è qui vicino, dietro la Porta Pretoria. Vorrebbe anche un biglietto per il museo? | Of course. The theatre is close by, behind the Porta Pretoria. Would you also like a ticket for the museum?
+Tom: Sì, grazie. Mi piacerebbe anche salire in montagna. Che cosa mi consiglierebbe? | Yes, thanks. I'd also like to go up into the mountains. What would you recommend?
+Impiegata: Le consiglierei la funivia per il Monte Bianco. Ma dovrebbe partire domani mattina presto. | I'd recommend the cable car to Mont Blanc. But you should leave early tomorrow morning.
+Tom: Sarebbe possibile prenotare qui? | Would it be possible to book here?
+Impiegata: Sì. Un'ultima cosa: qui parliamo anche francese. Bonjour! | Yes. One last thing: here we also speak French. Bonjour!
+Tom: Allora domani direi «merci» invece di «grazie»! | Then tomorrow I'd say "merci" instead of "grazie"!
+q: «___ darmi una cartina?» | Potrebbe | Può essere | Potere | en: "Could you give me a map?" | why: polite request → conditional: potrebbe
+q: Tom ___ salire in montagna. | vorrebbe | voleva | vuole stato | en: Tom would like to go up into the mountains. | why: «Mi piacerebbe anche salire in montagna.»
+q: Ad Aosta parlano anche ___. | francese | tedesco | spagnolo | en: In Aosta they also speak French. | why: «qui parliamo anche francese»
+
+=== u30 | dialogue | Una cena a Parma
+intro: Review: Parma, the city of prosciutto and Parmigiano. Giulia's family invites Tom to dinner.
+Mamma di Giulia: Benvenuto, Tom! Ti piace il prosciutto di Parma? | Welcome, Tom! Do you like Parma ham?
+Tom: Moltissimo! In Inghilterra lo compravo sempre, ma qui è più buono. | Very much! In England I always used to buy it, but here it's better.
+Papà di Giulia: Perché qui lo tagliano a mano e lo mangiano subito. Ne vuoi ancora? | Because here they slice it by hand and eat it straight away. Would you like some more?
+Tom: Sì, grazie, ne prendo un po'. E il parmigiano? Quanto tempo deve stagionare? | Yes, thank you, I'll have a little. And the Parmesan? How long does it have to age?
+Papà di Giulia: Almeno dodici mesi. Questo ne ha trentasei! | At least twelve months. This one is thirty-six!
+Giulia: Papà, non fare il professore. Lascialo mangiare! | Dad, don't play the teacher. Let him eat!
+Tom: No, mi piace imparare. Se potessi, resterei a Parma per sempre. | No, I like learning. If I could, I'd stay in Parma forever.
+Mamma di Giulia: Allora resta! C'è sempre un posto a tavola per te. Buon appetito! | Then stay! There's always a place at the table for you. Enjoy your meal!
+q: Qui il prosciutto lo tagliano a ___. | mano | macchina | pezzi | en: Here they slice the ham by hand. | why: «lo tagliano a mano»
+q: Il parmigiano deve stagionare almeno ___ mesi. | dodici | trentasei | sei | en: Parmesan has to age at least twelve months. | why: «Almeno dodici mesi.»
+q: Se potesse, Tom ___ a Parma per sempre. | resterebbe | resta | restava | en: If he could, Tom would stay in Parma forever. | why: «Se potessi, resterei» → he would stay
+
+=== u30 | reading | Parma, città della gastronomia
+intro: Review: a short text about Parma's food — present, past and future together.
+- Parma è una città dell'Emilia, famosa nel mondo per il suo cibo. | Parma is a city in Emilia, world-famous for its food.
+- Il Parmigiano Reggiano si fa da secoli, solo con latte, sale e caglio. | Parmigiano Reggiano has been made for centuries, only with milk, salt and rennet.
+- Per fare una forma di formaggio ci vogliono circa cinquecento litri di latte. | To make one wheel of cheese takes about five hundred litres of milk.
+- Il prosciutto di Parma, invece, è fatto solo con carne di maiale e sale. | Parma ham, on the other hand, is made only with pork and salt.
+- Nel 2015 l'UNESCO ha nominato Parma «città creativa della gastronomia». | In 2015 UNESCO named Parma a "creative city of gastronomy".
+- Chi viene a Parma non dimenticherà mai i suoi sapori. | Anyone who comes to Parma will never forget its flavours.
+q: Il Parmigiano si fa con latte, sale e ___. | caglio | zucchero | olio | en: Parmigiano is made with milk, salt and rennet. | why: «solo con latte, sale e caglio»
+q: Per una forma di formaggio ci vogliono circa ___ litri di latte. | cinquecento | cinquanta | cinquemila | en: One wheel of cheese takes about five hundred litres of milk. | why: «circa cinquecento litri di latte»
+q: Il prosciutto è fatto con carne di maiale e ___. | sale | latte | olio | en: The ham is made with pork and salt. | why: «solo con carne di maiale e sale»

@@ -356,6 +356,11 @@ function buildFormsIT(L) {
     const e = L.lemma(lemma, 'v');
     if (e) add(m, form, e.id, 'V:imp.0');
   }
+  // older participles still in use: perduto (= perso), veduto (= visto)
+  for (const [form, lemma] of [['perduto', 'perdere'], ['veduto', 'vedere']]) {
+    const e = L.lemma(lemma, 'v');
+    if (e) { add(m, form, e.id, 'V:pp'); for (const end of ['a', 'i', 'e']) add(m, form.slice(0, -1) + end, e.id, `V:pp.${end}`); }
+  }
   const entrambi = L.lemma('entrambi');
   if (entrambi) add(m, 'entrambe', entrambi.id, 'A:fp');
   // me lo, te la, ce ne, ve li, se lo: mi/ti/ci/vi/si turn -e before lo, la, li, le, ne

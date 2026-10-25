@@ -54,3 +54,133 @@ bici|n.f|bike|note=Short for bicicletta; invariable: la bici, le bici.
 professoressa|n.f|(female) teacher, professor|note=Masculine professore.
 # func
 la|pron|her; it (feminine)|note=La vedo = I see her/it. Polite La = you (formal): La ringrazio. Before a vowel: l'ho vista.
+# work
+restauratrice|n.f|(female) restorer (of art)|note=Masculine restauratore; il restauro = restoration.
+liutaio|n.m|luthier, violin maker|note=Cremona's liutai made Stradivari's violins.
+# city
+duomo|n.m|cathedral|note=il Duomo di Milano, il Duomo di Firenze.
+# greet
+ah|intj|ah, oh
+# words listed in the course that were missing from the lexicon
+# food
+arancina|n.f|arancina (fried rice ball, Sicily)|note=In eastern Sicily people say l'arancino (m).
+cannolo|n.m|cannolo (Sicilian pastry filled with ricotta)|note=Plural cannoli.
+prosecco|n.m|prosecco (sparkling white wine)
+trattoria|n.f|trattoria, simple family restaurant
+pizzaiolo|n.m|pizza maker
+mascarpone|n.m|mascarpone (cream cheese)
+cacao|n.m|cocoa
+liquore|n.m|liqueur
+tiramisù|n.m|tiramisù|note=From «tirami su» = pick me up. Invariable.
+cicchetto|n.m|small bar snack (Venice); (coll.) a small drink|note=Plural cicchetti.
+# free
+violino|n.m|violin
+festival|n.m|festival|note=Invariable: il festival di Sanremo.
+mito|n.m|myth
+gladiatore|n.m|gladiator
+papiro|n.m|papyrus
+# arts
+barocco|n.m|baroque|note=Also an adjective: una chiesa barocca. Lecce and Noto are baroque cities.
+bronzo|n.m|bronze|note=I Bronzi di Riace = the Riace bronzes.
+mosaico|n.m|mosaic|note=Plural mosaici.
+affresco|n.m|fresco|note=Plural affreschi.
+colonna|n.f|column
+cappella|n.f|chapel|note=la Cappella Sistina.
+architetto|n.m|architect
+# people
+frate|n.m|friar|note=Before a name: fra (fra Cristoforo).
+imperatore|n.m|emperor|note=Feminine imperatrice.
+inventore|n.m|inventor|note=Feminine inventrice.
+mercante|n.m|merchant|note=Il mercante di Venezia = The Merchant of Venice.
+guerriero|n.m|warrior
+papa|n.m|pope|note=Plural papi. Careful: il papà (with accent) = dad!
+segretaria|n.f|(female) secretary|note=Masculine segretario.
+volontario|n.m|volunteer|note=Feminine volontaria.
+mugnaio|n.m|miller
+vetraio|n.m|glassmaker|note=il maestro vetraio = master glassblower (Murano).
+# soc
+repubblica|n.f|republic|note=la Repubblica di Venezia, called la Serenissima.
+commercio|n.m|trade, commerce
+patrimonio|n.m|heritage; estate|note=patrimonio dell'UNESCO = UNESCO World Heritage.
+Medioevo|n.m|Middle Ages|note=Adjective: medievale.
+# nature
+laguna|n.f|lagoon|note=la laguna di Venezia.
+lava|n.f|lava
+cenere|n.f|ash, ashes|note=In 79 AD Pompeii disappeared under the ash.
+fenicottero|n.m|flamingo
+alloro|n.m|laurel, bay|note=la corona d'alloro, worn on graduation day.
+# travel
+traghetto|n.m|ferry
+gondola|n.f|gondola|note=il gondoliere = gondolier.
+vaporetto|n.m|water bus (Venice)
+terme|n.fpl|thermal baths, spa|note=le Terme di Caracalla.
+remare|v|to row
+# home
+villa|n.f|villa, country house|note=le ville palladiane.
+soffitto|n.m|ceiling
+loggia|n.f|loggia, open gallery|note=Plural logge.
+mura|n.fpl|city walls|note=Irregular plural of il muro: le mura (of a city), i muri (of a house).
+palco|n.m|stage; box (at the theatre)
+strato|n.m|layer
+grado|n.m|degree|note=mille gradi = a thousand degrees.
+tomba|n.f|tomb, grave
+flash|n.m|(camera) flash|note=Invariable.
+# act
+ricostruire|v|to rebuild|note=-isc- verb: ricostruisco.
+brindare|v|to make a toast|note=Brindiamo! = Cheers! (Let's toast!)
+brillare|v|to shine, to sparkle
+# desc
+romano|a|Roman
+veneziano|a|Venetian
+fiorentino|a|Florentine
+friulano|a|Friulian
+anatomico|a|anatomical|note=il teatro anatomico di Padova (1594).
+ideale|a|ideal|note=Also a noun: l'ideale.
+# food
+frico|n.m|frico (Friulian cheese and potato pancake)
+# nature
+bora|n.f|bora (strong north-east wind of Trieste)
+# people
+volontaria|n.f|(female) volunteer|note=Masculine volontario.
+# food
+pesto|n.m|pesto (basil sauce from Genoa)
+acciuga|n.f|anchovy|note=Plural acciughe.
+impasto|n.m|dough, mixture
+impastare|v|to knead, to mix
+gianduia|n.m|gianduia (chocolate with hazelnuts, Turin)
+tartufo|n.m|truffle|note=il tartufo bianco d'Alba.
+mortaio|n.m|mortar (for grinding)
+pinolo|n.m|pine nut|note=Usually plural: i pinoli.
+stagionare|v|to age, to mature (cheese, ham)
+caglio|n.m|rennet
+tagliatelle|n.fpl|tagliatelle (ribbon pasta)
+trofie|n.fpl|trofie (short twisted pasta from Liguria)
+ciotola|n.f|bowl
+teglia|n.f|baking tin, tray
+cuocere|v|to cook, to bake|note=Irregular: cuocio, cuoci, cuoce; cotto.
+robiola|n.f|robiola (soft fresh cheese, Piedmont)
+etto|n.m|a hundred grams|note=un etto di prosciutto = 100 g of ham.
+gastronomia|n.f|gastronomy; delicatessen
+bicerin|n.m|bicerin (Turin drink: coffee, chocolate and cream)
+# soc
+palio|n.m|palio (traditional horse race; its prize banner)|note=il Palio di Siena, il Palio di Asti.
+drappo|n.m|cloth, banner
+vincitore|n.m|winner|note=Feminine vincitrice.
+fantino|n.m|jockey
+tessitore|n.m|weaver
+poeta|n.m|poet|note=Masculine in -a: il poeta, i poeti. Feminine: la poetessa.
+visitatore|n.m|visitor|note=Feminine visitatrice.
+torinese|a|from Turin; (n.) person from Turin
+# nature
+olivo|n.m|olive tree|note=Also ulivo. The fruit is l'oliva.
+golfo|n.m|gulf, bay|note=il Golfo dei Poeti, il Golfo di Napoli.
+# travel
+ferrovia|n.f|railway
+funivia|n.f|cable car
+# act
+pescare|v|to fish
+# desc
+colorato|a|colourful, coloured
+creativo|a|creative
+# greet
+oh|intj|oh

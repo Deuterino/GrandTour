@@ -102,7 +102,16 @@ def build_noun(e, recs, report):
                     out["plg"] = "m"
             if "pl" not in out:
                 l = e["lemma"]
-                if re.search(r"([^aeiou]|[àèéìòù]|[^aeiou]i|ie)$", l) or "uncountable" not in head:
+                regular = {"m": [("o", "i"), ("e", "i")], "f": [("a", "e"), ("e", "i")]}.get(g, [])
+                end = next(((a, b) for a, b in regular if l.endswith(a) and " " not in l), None)
+                if end and not head.startswith(l + " f sg") and "pl" not in head and rec.get("pos") != "noun":
+                    # no noun record (only an adjective or a form): use the regular plural, la volontaria → le volontarie
+                    out["pl"] = l[: -len(end[0])] + end[1]
+                    report.append(f"PLURAL-RULE {l} -> {out['pl']}")
+                elif end and head.startswith(l + " f sg"):
+                    out["pl"] = l[:-1] + "e"  # arancina f sg (no plural given) → arancine
+                    report.append(f"PLURAL-RULE {l} -> {out['pl']}")
+                elif re.search(r"([^aeiou]|[àèéìòù]|[^aeiou]i|ie)$", l) or "uncountable" not in head:
                     out["pl"] = l
                     out["inv"] = 1
                     if not re.search(r"([^aeiou]|[àèéìòù]|i|ie)$", l):

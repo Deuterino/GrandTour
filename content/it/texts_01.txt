@@ -1,0 +1,251 @@
+# Italian unit stories, units 1–10 (Le Alpi e i laghi). Tom, a young English painter, begins his
+# Grand Tour in Bolzano, following Goethe's Italian Journey. He meets Giulia, a restorer from Bologna.
+
+=== u1 | dialogue | Al museo di Ötzi
+intro: Tom has just crossed the Alps. In Bolzano, at the museum of Ötzi the Iceman, a young woman speaks to him.
+Giulia: Buongiorno! Scusa, sei italiano? | Good morning! Excuse me, are you Italian?
+Tom: No, non sono italiano. Sono inglese. | No, I'm not Italian. I'm English.
+Giulia: Ah! Come ti chiami? | Ah! What's your name?
+Tom: Mi chiamo Tom. E tu? | My name is Tom. And you?
+Giulia: Io sono Giulia. Piacere! | I'm Giulia. Nice to meet you!
+Tom: Piacere! Abiti a Bolzano? | Nice to meet you! Do you live in Bolzano?
+Giulia: No, abito a Bologna. Sono qui per lavoro. E tu, dove abiti? | No, I live in Bologna. I'm here for work. And you, where do you live?
+Tom: Abito a Londra. Sono qui in vacanza. | I live in London. I'm here on holiday.
+Giulia: Come stai? Sei stanco? | How are you? Are you tired?
+Tom: No, sto bene, grazie. Molto bene! | No, I'm fine, thanks. Very well!
+Giulia: Bene! Ciao, Tom. A presto! | Good! Bye, Tom. See you soon!
+Tom: Ciao, Giulia! Arrivederci! | Bye, Giulia! Goodbye!
+q: Tom non è italiano, è ___. | inglese | tedesco | francese | en: Tom isn't Italian, he's English. | why: «Sono inglese.»
+q: Giulia abita a ___. | Bologna | Bolzano | Londra | en: Giulia lives in Bologna. | why: «No, abito a Bologna.»
+q: Tom sta molto ___. | bene | male | stanco | en: Tom is very well. | why: «sto bene, grazie. Molto bene!»
+
+=== u1 | dialogue | Buonasera, signora
+intro: In the evening Tom arrives at a small hotel. With an older stranger he uses Lei, the polite "you".
+Tom: Buonasera, signora! | Good evening, madam!
+Signora Rossi: Buonasera! Come si chiama? | Good evening! What's your name?
+Tom: Mi chiamo Tom. Sono inglese. | My name is Tom. I'm English.
+Signora Rossi: Piacere, signor Tom. Io sono la signora Rossi. Lei è di Londra? | Pleased to meet you, Mr Tom. I'm Mrs Rossi. Are you from London?
+Tom: Sì, sono di Londra. E Lei? | Yes, I'm from London. And you?
+Signora Rossi: Io sono di Bolzano. Qui parliamo italiano e tedesco! | I'm from Bolzano. Here we speak Italian and German!
+Tom: Grazie, signora. Buonanotte! | Thank you, madam. Good night!
+Signora Rossi: Prego! Buonanotte! | You're welcome! Good night!
+q: La signora Rossi: «Come si ___?» | chiama | chiami | chiamo | en: Mrs Rossi: "What is your name?" (formal) | why: polite Lei → 3rd person: si chiama
+q: A Bolzano parlano italiano e ___. | tedesco | inglese | francese | en: In Bolzano they speak Italian and German. | why: «Qui parliamo italiano e tedesco!»
+
+=== u2 | dialogue | Chi è?
+intro: In Trento, Giulia shows Tom a photo of her friends.
+Tom: Chi è questo ragazzo? | Who is this boy?
+Giulia: È Marco. È uno studente. È molto simpatico. | That's Marco. He's a student. He's very nice.
+Tom: E la ragazza? | And the girl?
+Giulia: È Anna, la ragazza di Marco. Anche lei è studentessa. | That's Anna, Marco's girlfriend. She's a student too.
+Tom: E questo signore? È vecchio! | And this gentleman? He's old!
+Giulia: È il professor Bianchi. È vecchio, ma è molto simpatico. | That's Professor Bianchi. He's old, but he's very nice.
+Tom: E chi è la donna qui? | And who is the woman here?
+Giulia: È Sara. È medico. Abbiamo molti amici in comune. | That's Sara. She's a doctor. We have lots of friends in common.
+Tom: E io? Chi sono io? | And me? Who am I?
+Giulia: Tu? Tu sei un amico nuovo! | You? You're a new friend!
+q: Marco è uno ___. | studente | professore | medico | en: Marco is a student. | why: «È uno studente.»
+q: Il professor Bianchi è vecchio, ma è molto ___. | simpatico | giovane | stanco | en: Professor Bianchi is old but very nice. | why: «È vecchio, ma è molto simpatico.»
+q: Sara è ___. | medico | studentessa | professoressa | en: Sara is a doctor. | why: «È medico.»
+
+=== u2 | reading | Chi è? Che cosa è?
+intro: Questions and answers in the style of old grammar books (Ollendorff).
+- Il ragazzo è giovane? — Sì, il ragazzo è giovane. | Is the boy young? — Yes, the boy is young.
+- Il professore è giovane? — No, il professore non è giovane. È vecchio. | Is the teacher young? — No, the teacher isn't young. He's old.
+- Chi è Giulia? — Giulia è un'amica di Tom. | Who is Giulia? — Giulia is a friend of Tom's.
+- Tom ha un amico a Trento? — No, ma ha un'amica. | Does Tom have a friend in Trento? — No, but he has a female friend.
+- Chi ha un cane? — Marco ha un cane. Anna ha un gatto. | Who has a dog? — Marco has a dog. Anna has a cat.
+- Voi siete studenti? — Sì, noi siamo studenti. | Are you students? — Yes, we are students.
+q: Il professore non è giovane, è ___. | vecchio | piccolo | simpatico | en: The teacher isn't young, he's old. | why: «È vecchio.»
+q: Marco ha un ___. | cane | gatto | amico | en: Marco has a dog. | why: «Marco ha un cane.»
+
+=== u3 | dialogue | La famiglia di Giulia
+intro: At Riva del Garda, by the lake, Tom and Giulia talk about their families.
+Tom: Hai fratelli o sorelle, Giulia? | Do you have brothers or sisters, Giulia?
+Giulia: Ho un fratello e una sorella. Il fratello si chiama Luca, la sorella si chiama Chiara. | I have a brother and a sister. My brother is called Luca, my sister is called Chiara.
+Tom: E i tuoi genitori? | And your parents?
+Giulia: Mio padre è medico e mia madre è professoressa. Abitano a Bologna. | My father is a doctor and my mother is a teacher. They live in Bologna.
+Tom: Io ho solo una sorella. Si chiama Emma. È sposata e ha un figlio. | I only have a sister. She's called Emma. She's married and has a son.
+Giulia: Allora sei zio! | So you're an uncle!
+Tom: Sì! Mio nipote ha tre anni. | Yes! My nephew is three.
+Giulia: E i nonni? | And your grandparents?
+Tom: La nonna abita con noi. Il nonno non c'è più. | My grandma lives with us. My grandpa has passed away.
+Giulia: Mi dispiace. Anche io ho una nonna. Ha novanta anni! | I'm sorry. I have a grandma too. She's ninety!
+q: Giulia ha un fratello e una ___. | sorella | figlia | nonna | en: Giulia has a brother and a sister. | why: «Ho un fratello e una sorella.»
+q: Il padre di Giulia è ___. | medico | professore | studente | en: Giulia's father is a doctor. | why: «Mio padre è medico»
+q: Tom è ___, perché la sorella ha un figlio. | zio | nonno | padre | en: Tom is an uncle because his sister has a son. | why: «Allora sei zio!»
+
+=== u3 | reading | Il, la, lo, l'
+intro: Articles in a family portrait. Masculine il / lo / l', feminine la / l'.
+- Questa è la famiglia Bianchi. | This is the Bianchi family.
+- Il padre si chiama Paolo. La madre si chiama Lucia. | The father is called Paolo. The mother is called Lucia.
+- Lo zio si chiama Stefano. È il fratello di Paolo. | The uncle is called Stefano. He's Paolo's brother.
+- L'amico di famiglia si chiama Antonio. L'amica si chiama Elena. | The family friend is called Antonio. The female friend is called Elena.
+- I figli sono due: un ragazzo e una ragazza. | There are two children: a boy and a girl.
+- Il cane si chiama Leo. Il gatto si chiama Micio. | The dog is called Leo. The cat is called Micio.
+q: ___ zio si chiama Stefano. | Lo | Il | La | en: The uncle is called Stefano. | why: z- → lo: lo zio
+q: ___ amico di famiglia si chiama Antonio. | L' | Lo | Il | en: The family friend is called Antonio. | why: before a vowel → l': l'amico
+
+=== u4 | dialogue | Una camera a Sirmione
+intro: In Sirmione, on a peninsula in Lake Garda, Tom looks for a room. The owner shows him around. Plurals.
+Proprietaria: Ecco la camera. Ha due letti e due finestre. | Here's the room. It has two beds and two windows.
+Tom: Due letti? Ma io sono solo! | Two beds? But I'm on my own!
+Proprietaria: Non è un problema. Qui c'è il bagno, e qui c'è la cucina. | That's not a problem. Here's the bathroom, and here's the kitchen.
+Tom: E le chiavi? | And the keys?
+Proprietaria: Ecco le chiavi: una per la camera e una per la porta della casa. | Here are the keys: one for the room and one for the front door of the house.
+Tom: Grazie. Ci sono anche libri? | Thank you. Are there books too?
+Proprietaria: Sì, sul tavolo ci sono molti libri. E in cucina ci sono uova per la colazione. | Yes, there are lots of books on the table. And in the kitchen there are eggs for breakfast.
+Tom: Perfetto! Sirmione è una città bellissima. | Perfect! Sirmione is a beautiful town.
+Proprietaria: Una città piccola, ma con un castello nel lago! | A small town, but with a castle in the lake!
+q: La camera ha due letti e due ___. | finestre | porte | cucine | en: The room has two beds and two windows. | why: la finestra → le finestre
+q: Le chiavi sono ___: una per la camera e una per la porta. | due | tre | quattro | en: There are two keys: one for the room and one for the door. | why: «una per la camera e una per la porta della casa»
+q: In cucina ci sono ___ per la colazione. | uova | uovi | uove | en: In the kitchen there are eggs for breakfast. | why: irregular plural: l'uovo → le uova
+
+=== u4 | reading | Uno, due, tante cose
+intro: Singular and plural: -o → -i, -a → -e, -e → -i, and a few surprises.
+- Un libro, due libri. Una casa, due case. | One book, two books. One house, two houses.
+- Una chiave, due chiavi. Un padre, due padri. | One key, two keys. One father, two fathers.
+- Una città, due città. Un caffè, due caffè. | One city, two cities. One coffee, two coffees.
+- Un problema, due problemi. | One problem, two problems.
+- Una mano, due mani. Un uovo, due uova. | One hand, two hands. One egg, two eggs.
+q: una chiave, due ___ | chiavi | chiave | chiava | en: one key, two keys | why: -e → -i
+q: una città, due ___ | città | citte | cittadi | en: one city, two cities | why: words ending in an accented vowel don't change
+
+=== u5 | dialogue | Che lavoro?
+intro: In Como, by the lake where Alessandro Volta was born, Tom meets Giulia's cousin Davide.
+Davide: Ciao! Tu sei Tom, l'amico di Giulia? | Hi! You're Tom, Giulia's friend?
+Tom: Sì, piacere! Abiti qui a Como? | Yes, nice to meet you! Do you live here in Como?
+Davide: Sì, abito e lavoro qui. Lavoro in un museo: il Tempio Voltiano. | Yes, I live and work here. I work in a museum: the Tempio Voltiano.
+Tom: Interessante! Io non lavoro adesso. Disegno e dipingo. | Interesting! I'm not working at the moment. I draw and paint.
+Davide: E parli italiano molto bene! Studi da molto tempo? | And you speak Italian very well! Have you been studying for a long time?
+Tom: Studio sempre: ascolto la radio, guardo i film, parlo con la gente. | I study all the time: I listen to the radio, watch films, talk to people.
+Davide: Bravo! Allora oggi mangiamo insieme. Ti piace il pesce del lago? | Well done! Then today we'll eat together. Do you like fish from the lake?
+Tom: Sì, molto! Ma oggi pago io. | Yes, very much! But today I'm paying.
+Davide: No, no, sei mio ospite! Paghi tu la prossima volta. | No, no, you're my guest! You pay next time.
+q: Davide lavora in un ___. | museo | ufficio | ristorante | en: Davide works in a museum. | why: «Lavoro in un museo»
+q: Tom disegna e ___. | dipinge | lavora | paga | en: Tom draws and paints. | why: «Disegno e dipingo.»
+q: Tom studia: ascolta la radio e ___ i film. | guarda | mangia | paga | en: Tom studies: he listens to the radio and watches films. | why: guardare → guarda
+
+=== u5 | gouin | Imparo una parola
+intro: A Gouin series: everyday actions told in the order they happen. Read it, then put the steps back in order.
+- Ascolto una parola nuova. | I hear a new word.
+- Non capisco la parola. | I don't understand the word.
+- Chiamo Giulia: «Che cosa significa?» | I call Giulia: "What does it mean?"
+- Giulia spiega la parola. | Giulia explains the word.
+- Adesso capisco. | Now I understand.
+- Scrivo la parola nel quaderno. | I write the word in my notebook.
+- Imparo la parola. | I learn the word.
+
+=== u6 | dialogue | Il Duomo di Milano
+intro: In Milan, Tom and Giulia stand in front of the cathedral, which took almost six hundred years to finish.
+Tom: Quanto è grande il Duomo! | How big the cathedral is!
+Giulia: Sì, e ci sono più di tremila statue. | Yes, and there are more than three thousand statues.
+Tom: Tremila! Incredibile. | Three thousand! Incredible.
+Giulia: La gente lavora qui da secoli. Il Duomo non è mai finito! | People have been working here for centuries. The cathedral is never finished!
+Tom: E dov'è il Cenacolo di Leonardo? | And where is Leonardo's Last Supper?
+Giulia: Non è qui, è in una chiesa vicino. Ma bisogna prenotare. | It's not here, it's in a church nearby. But you have to book.
+Tom: Allora scrivo subito una lettera! | Then I'll write a letter straight away!
+Giulia: Una lettera? No, chiamo un amico. Lavora lì. | A letter? No, I'll call a friend. He works there.
+Tom: Grazie! Tu conosci tutti! | Thank you! You know everybody!
+Giulia: Sono restauratrice: lavoro sempre con i musei e le chiese. | I'm a restorer: I always work with museums and churches.
+q: Sul Duomo ci sono più di tremila ___. | statue | chiese | finestre | en: There are more than three thousand statues on the cathedral. | why: «ci sono più di tremila statue»
+q: Il Cenacolo è in una ___ vicino. | chiesa | piazza | casa | en: The Last Supper is in a church nearby. | why: «è in una chiesa vicino»
+q: Giulia è ___. | restauratrice | professoressa | medico | en: Giulia is a restorer. | why: «Sono restauratrice»
+
+=== u6 | gouin | Scrivo una lettera
+intro: A Gouin series with -ere and -ire verbs. Put the steps back in order.
+- Prendo un foglio e una penna. | I take a sheet of paper and a pen.
+- Scrivo una lettera alla nonna. | I write a letter to my grandmother.
+- Leggo la lettera. | I read the letter.
+- Chiudo la busta. | I close the envelope.
+- Apro la porta ed esco. | I open the door and go out.
+- Spedisco la lettera. | I send the letter.
+- La nonna riceve la lettera e risponde subito. | Grandma receives the letter and answers straight away.
+
+=== u7 | dialogue | Domande a Bergamo
+intro: In Bergamo, Tom takes the funicular up to the old town. An elderly man sits next to him.
+Signore: Di dove è Lei? | Where are you from?
+Tom: Sono inglese, di Londra. | I'm English, from London.
+Signore: E perché è a Bergamo? | And why are you in Bergamo?
+Tom: Perché viaggio in Italia, come Goethe. | Because I'm travelling in Italy, like Goethe.
+Signore: Quanto tempo resta in Italia? | How long are you staying in Italy?
+Tom: Un anno, forse di più. | A year, maybe longer.
+Signore: E quale città preferisce? | And which city do you prefer?
+Tom: Non lo so ancora! Ogni città è bella. | I don't know yet! Every city is beautiful.
+Signore: Bergamo Alta è la più bella! Non c'è dubbio. | Bergamo Alta is the most beautiful! No doubt about it.
+Tom: Allora oggi preferisco Bergamo. | Then today I prefer Bergamo.
+q: Tom viaggia in Italia come ___. | Goethe | Dante | Leonardo | en: Tom is travelling in Italy like Goethe. | why: «viaggio in Italia, come Goethe»
+q: Tom resta in Italia un ___. | anno | mese | giorno | en: Tom is staying in Italy for a year. | why: «Un anno, forse di più.»
+q: «___ città preferisce?» | Quale | Chi | Dove | en: "Which city do you prefer?" | why: quale = which
+
+=== u7 | reading | Non, mai, niente
+intro: Negation in Italian: non before the verb, and double negatives that are perfectly correct.
+- Tom non parla tedesco. | Tom doesn't speak German.
+- Non mangia mai carne. | He never eats meat.
+- Oggi non compra niente. | Today he isn't buying anything.
+- Non conosce nessuno a Bergamo. | He doesn't know anybody in Bergamo.
+- Non è più stanco. | He isn't tired any more.
+- Ma non perde mai la speranza! | But he never loses hope!
+q: Tom non mangia ___ carne. | mai | niente | nessuno | en: Tom never eats meat. | why: non … mai = never
+q: Non conosce ___ a Bergamo. | nessuno | niente | mai | en: He doesn't know anybody in Bergamo. | why: non … nessuno = nobody
+
+=== u8 | dialogue | La macchina rossa
+intro: In Brescia, the Mille Miglia car race passes through. Tom and Giulia watch the old cars. Adjectives agree with the noun.
+Giulia: Guarda quella macchina rossa! È bellissima! | Look at that red car! It's beautiful!
+Tom: È vecchia? | Is it old?
+Giulia: Sì, è molto vecchia, ma è ancora veloce. | Yes, it's very old, but it's still fast.
+Tom: E quelle macchine bianche? | And those white cars?
+Giulia: Sono nuove, sono le macchine della polizia! | They're new, they're the police cars!
+Tom: Le macchine italiane sono belle. Le strade, invece, sono piccole e difficili. | Italian cars are beautiful. The roads, on the other hand, are small and difficult.
+Giulia: Per un inglese tutto è difficile: qui guidiamo a destra! | For an Englishman everything is difficult: here we drive on the right!
+q: La macchina rossa è ___. | vecchia | vecchio | vecchie | en: The red car is old. | why: la macchina → feminine singular: vecchia
+q: Le macchine bianche sono ___. | nuove | nuovi | nuova | en: The white cars are new. | why: feminine plural → -e: nuove
+q: In Italia guidano a ___. | destra | sinistra | piedi | en: In Italy they drive on the right. | why: «qui guidiamo a destra!»
+
+=== u9 | dialogue | Che ore sono?
+intro: In Mantua, Tom wants to visit the Ducal Palace before it closes.
+Tom: Scusi, che ore sono? | Excuse me, what time is it?
+Signora: Sono le tre e mezza. | It's half past three.
+Tom: A che ora chiude il Palazzo Ducale? | What time does the Ducal Palace close?
+Signora: Alle sette. Ma il palazzo è enorme: ha cinquecento stanze! | At seven. But the palace is huge: it has five hundred rooms!
+Tom: Cinquecento? In tre ore e mezza non vedo tutto. | Five hundred? In three and a half hours I won't see everything.
+Signora: No, ma la Camera degli Sposi è la più bella. Non deve perderla. | No, but the Bridal Chamber is the most beautiful. You mustn't miss it.
+Tom: Grazie! Quanto costa il biglietto? | Thank you! How much is the ticket?
+Signora: Quindici euro. | Fifteen euros.
+q: Sono le tre e ___. | mezza | quarto | dieci | en: It's half past three. | why: «Sono le tre e mezza.»
+q: Il palazzo chiude alle ___. | sette | tre | cinque | en: The palace closes at seven. | why: «Alle sette.»
+q: Il palazzo ha ___ stanze. | cinquecento | cinquanta | quindici | en: The palace has five hundred rooms. | why: «ha cinquecento stanze!»
+
+=== u9 | reading | L'orologio
+intro: Telling the time in Italian: sono le… (but è l'una, è mezzogiorno).
+- 1:00 — È l'una. | It's one o'clock.
+- 3:00 — Sono le tre. | It's three o'clock.
+- 3:15 — Sono le tre e un quarto. | It's a quarter past three.
+- 3:30 — Sono le tre e mezza. | It's half past three.
+- 3:45 — Sono le quattro meno un quarto. | It's a quarter to four.
+- 12:00 — È mezzogiorno. 24:00 — È mezzanotte. | It's midday. It's midnight.
+q: 1:00 = È ___. | l'una | le una | uno | en: 1:00 = It's one o'clock. | why: singular: è l'una
+q: 3:45 = Sono le quattro ___ un quarto. | meno | e | più | en: 3:45 = It's a quarter to four. | why: meno = minus, to
+
+=== u10 | reading | Una cartolina da Cremona
+intro: Review: Tom writes a postcard to Giulia from Cremona, the city of violins.
+- Cara Giulia, | Dear Giulia,
+- sono a Cremona da tre giorni. È una città piccola ma molto bella. | I've been in Cremona for three days. It's a small but very beautiful city.
+- Qui ci sono molte botteghe di violini. Un liutaio lavora un mese per un violino! | There are lots of violin workshops here. A luthier works a month on one violin!
+- Ieri ho ascoltato un concerto: un violino di Stradivari, di trecento anni. | Yesterday I listened to a concert: a Stradivarius violin, three hundred years old.
+- È settembre, e il tempo è ancora caldo. | It's September, and the weather is still warm.
+- Ad ottobre arrivo a Verona. Tu sei ancora a Bologna? | In October I arrive in Verona. Are you still in Bologna?
+- A presto! Tom | See you soon! Tom
+q: Tom è a Cremona da tre ___. | giorni | mesi | anni | en: Tom has been in Cremona for three days. | why: «sono a Cremona da tre giorni»
+q: Un liutaio lavora un ___ per un violino. | mese | giorno | anno | en: A luthier works a month on one violin. | why: «Un liutaio lavora un mese per un violino!»
+q: Ad ottobre Tom arriva a ___. | Verona | Bologna | Milano | en: In October Tom arrives in Verona. | why: «Ad ottobre arrivo a Verona.»
+
+=== u10 | reading | Le stagioni
+intro: An old school-reader text about the seasons.
+- L'anno ha quattro stagioni: la primavera, l'estate, l'autunno e l'inverno. | The year has four seasons: spring, summer, autumn and winter.
+- In primavera i fiori sono belli e l'aria è fresca. | In spring the flowers are beautiful and the air is fresh.
+- In estate fa caldo. Molti italiani sono al mare ad agosto. | In summer it's hot. Many Italians are at the seaside in August.
+- In autunno gli alberi cambiano colore: rosso, giallo, marrone. | In autumn the trees change colour: red, yellow, brown.
+- In inverno fa freddo, e sulle Alpi c'è la neve. | In winter it's cold, and there's snow on the Alps.
+q: L'anno ha ___ stagioni. | quattro | dodici | tre | en: The year has four seasons. | why: «L'anno ha quattro stagioni»
+q: In inverno sulle Alpi c'è la ___. | neve | pioggia | sole | en: In winter there's snow on the Alps. | why: «sulle Alpi c'è la neve»

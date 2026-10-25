@@ -225,3 +225,45 @@ Bianchi|name|Bianchi (common surname)
 Ferrari|name|Ferrari (common surname; the car maker)
 Esposito|name|Esposito (common surname in Naples)
 Colosseo|place|the Colosseum, Rome
+Goethe|name|Johann Wolfgang von Goethe (1749–1832), author of the Italian Journey
+Emma|name|Emma
+Leo|name|Leo (a dog's name here)
+Micio|name|Micio: "kitty" — the classic Italian name for a cat
+Voltiano|place|the Tempio Voltiano, Volta's museum in Como
+Cenacolo|name|il Cenacolo: Leonardo's Last Supper (Milan)
+Ducale|name|ducale (adj.): ducal — il Palazzo Ducale
+Stradivari|name|Antonio Stradivari (1644–1737), violin maker of Cremona
+Ötzi|name|Ötzi, the 5,300-year-old Iceman (Bolzano)
+Giulietta|name|Juliet (Romeo e Giulietta)
+Romeo|name|Romeo
+Palladio|name|Andrea Palladio (1508–1580), architect of Vicenza
+Arena|place|the Roman Arena of Verona (c. 30 AD)
+Aida|name|Aida, opera by Verdi (1871)
+Scamozzi|name|Vincenzo Scamozzi (1548–1616), architect
+Grand|name|(the) Grand (Tour)
+Tour|name|(the Grand) Tour: the young traveller's educational journey through Italy
+UNESCO|name|UNESCO
+Scrovegni|place|the Scrovegni Chapel, Padua (frescoes by Giotto)
+Bo|place|Palazzo del Bo, the University of Padua's historic seat
+Galilei|name|Galileo Galilei (1564–1642)
+Cornaro|name|Elena Cornaro Piscopia (1646–1684), first woman to receive a doctorate
+Piscopia|name|(Elena Cornaro) Piscopia
+Giustiniano|name|Justinian I (482–565), Byzantine emperor
+b|name|in b = in bicchiere (Trieste coffee slang: un capo in b)
+Corniglia|city|Corniglia, the Cinque Terre village on a hill
+Vernazza|city|Vernazza (Cinque Terre)
+Monterosso|city|Monterosso al Mare (Cinque Terre)
+Manarola|city|Manarola (Cinque Terre)
+Riomaggiore|city|Riomaggiore (Cinque Terre)
+Lerici|city|Lerici, on the Gulf of Poets
+Shelley|name|Percy Bysshe Shelley (1792–1822), English poet
+Cristoforo|name|Cristoforo (Christopher)
+Polo|name|Marco Polo (1254–1324), Venetian traveller
+India|country|India
+Nutella|name|Nutella, the hazelnut spread invented in Alba (1964)
+FIAT|name|FIAT: Fabbrica Italiana Automobili Torino (1899)
+Pretoria|place|Porta Pretoria, the Roman gate of Aosta
+Bonjour|name|bonjour (French): good day
+Reggiano|name|(Parmigiano) Reggiano
+Bianco|place|(Monte) Bianco: Mont Blanc
+Regno|name|il Regno d'Italia: the Kingdom of Italy (1861–1946)

@@ -307,3 +307,9 @@ merci|intj|thank you (Swiss, from French)|reg=reg
 Schweizer|n.m|Swiss (man)|note=Feminine Schweizerin; also as an invariable adjective: Schweizer Käse.
 # lang
 Rätoromanisch|n.n|Romansh (Switzerland's fourth language)
+# words listed in the course that were missing from the lexicon
+Karriere|n.f|career
+Mittelalter|n.n|Middle Ages|note=No plural: im Mittelalter = in the Middle Ages.
+Ski|n.m|ski|note=Plural Ski or Skier; Ski fahren = to ski.
+Studium|n.n|(university) studies|note=Plural Studien.
+Umwelt|n.f|environment

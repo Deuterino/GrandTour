@@ -1,0 +1,216 @@
+# Italian unit stories, units 11–20 (Il Nord-Est: Venezia e dintorni).
+
+=== u11 | dialogue | Stasera all'Arena
+intro: In Verona Tom meets Giulia again. The Roman Arena, almost two thousand years old, still hosts operas. Irregular verbs: vado, faccio, vengo, esco.
+Giulia: Tom! Che cosa fai a Verona? | Tom! What are you doing in Verona?
+Tom: Giulia! Faccio il turista, come sempre. E tu? | Giulia! I'm being a tourist, as always. And you?
+Giulia: Lavoro in una chiesa qui vicino. Stasera esci? | I'm working in a church near here. Are you going out tonight?
+Tom: Sì, vado all'Arena. C'è l'Aida! Vieni con me? | Yes, I'm going to the Arena. It's Aida! Are you coming with me?
+Giulia: Volentieri! A che ora comincia? | Gladly! What time does it start?
+Tom: Alle nove. Ma dicono che bisogna arrivare prima, perché i posti sono di pietra. | At nine. But they say you have to arrive early, because the seats are stone.
+Giulia: Allora porto un cuscino! E tu, che cosa bevi durante l'opera? | Then I'll bring a cushion! And you, what will you drink during the opera?
+Tom: Un bicchiere di vino rosso, naturalmente. Siamo a Verona! | A glass of red wine, of course. We're in Verona!
+q: Stasera Tom va all'___. | Arena | opera di Milano | ufficio | en: Tonight Tom is going to the Arena. | why: «vado all'Arena»
+q: «___ con me?» (venire, tu) | Vieni | Vengo | Viene | en: "Are you coming with me?" | why: venire: tu vieni
+q: I posti dell'Arena sono di ___. | pietra | legno | vetro | en: The seats of the Arena are made of stone. | why: «i posti sono di pietra»
+
+=== u11 | reading | Le lettere a Giulietta
+intro: Romeo and Juliet were "from Verona". Today the city receives thousands of letters for Juliet every year.
+- A Verona c'è la casa di Giulietta, con un piccolo balcone. | In Verona there is Juliet's house, with a little balcony.
+- Il balcone è nuovo: lo hanno messo nel Novecento. Ma i turisti vengono lo stesso. | The balcony is new: it was added in the twentieth century. But tourists come all the same.
+- Ogni anno migliaia di persone scrivono lettere a Giulietta. | Every year thousands of people write letters to Juliet.
+- Scrivono del loro amore, dei loro problemi, delle loro speranze. | They write about their love, their problems, their hopes.
+- Un gruppo di volontarie, le «segretarie di Giulietta», risponde a tutte le lettere. | A group of volunteers, "Juliet's secretaries", answers every letter.
+- E Romeo? Lui non riceve quasi niente! | And Romeo? He gets almost nothing!
+q: Il balcone di Giulietta è ___. | nuovo | antico | romano | en: Juliet's balcony is new. | why: «Il balcone è nuovo: lo hanno messo nel Novecento.»
+q: Le «segretarie di Giulietta» rispondono a ___ le lettere. | tutte | poche | nessune | en: "Juliet's secretaries" answer every letter. | why: «risponde a tutte le lettere»
+
+=== u12 | dialogue | Al Teatro Olimpico
+intro: In Vicenza, Andrea Palladio's Teatro Olimpico (1585) is the oldest surviving indoor theatre in the world. Modal verbs: posso, voglio, devo.
+Tom: Scusi, posso fare una foto? | Excuse me, may I take a photo?
+Custode: Sì, può fare foto, ma senza flash. | Yes, you may take photos, but without flash.
+Tom: Voglio vedere anche la scena da vicino. Possiamo salire sul palco? | I want to see the stage up close as well. Can we go up on the stage?
+Custode: No, mi dispiace, non si può. Deve restare qui. | No, I'm sorry, that's not allowed. You have to stay here.
+Tom: Le strade sulla scena sembrano lunghissime! | The streets on the stage look very long!
+Custode: Sono lunghe solo pochi metri. È un trucco di Palladio e di Scamozzi. | They're only a few metres long. It's a trick by Palladio and Scamozzi.
+Tom: Incredibile. Devo disegnarle! | Incredible. I must draw them!
+Custode: Può disegnare quanto vuole. Il disegno è permesso! | You may draw as much as you like. Drawing is allowed!
+q: Tom può fare foto, ma senza ___. | flash | biglietto | permesso | en: Tom may take photos, but without flash. | why: «può fare foto, ma senza flash»
+q: Tom non può ___ sul palco. | salire | disegnare | restare | en: Tom can't go up on the stage. | why: «Possiamo salire sul palco?» — «non si può»
+q: Le strade sulla scena sono lunghe solo pochi ___. | metri | chilometri | minuti | en: The streets on the stage are only a few metres long. | why: «Sono lunghe solo pochi metri.»
+
+=== u12 | reading | Palladio nel mondo
+intro: Andrea Palladio (1508–1580) built villas around Vicenza that were copied all over the world.
+- Palladio era figlio di un mugnaio. Prima di diventare architetto, lavorava la pietra. | Palladio was the son of a miller. Before becoming an architect, he worked with stone.
+- Le sue ville hanno colonne, scale grandi e forme semplici, come i templi romani. | His villas have columns, grand stairs and simple shapes, like Roman temples.
+- Gli inglesi del Grand Tour amavano queste ville e le copiavano nelle loro case. | The English on the Grand Tour loved these villas and copied them in their houses.
+- Anche in America piace lo stile di Palladio: la Casa Bianca ne è un esempio. | Palladio's style is popular in America too: the White House is an example of it.
+- Oggi molte ville sono un patrimonio dell'UNESCO. | Today many of the villas are UNESCO World Heritage sites.
+q: Palladio era figlio di un ___. | mugnaio | re | architetto | en: Palladio was the son of a miller. | why: «Palladio era figlio di un mugnaio.»
+q: Le ville di Palladio sono come i templi ___. | romani | greci | inglesi | en: Palladio's villas are like Roman temples. | why: «come i templi romani»
+
+=== u13 | dialogue | Nella cappella di Giotto
+intro: In Padua, Giulia is restoring frescoes. She shows Tom around. Prepositions and articulated prepositions: nel, della, sul.
+Giulia: Benvenuto nella Cappella degli Scrovegni! Gli affreschi sono di Giotto, del Trecento. | Welcome to the Scrovegni Chapel! The frescoes are by Giotto, from the fourteenth century.
+Tom: Che blu! Il cielo sopra di noi è pieno di stelle. | What a blue! The sky above us is full of stars.
+Giulia: Sì, il soffitto è come il cielo di notte. Io lavoro su quella parete, vicino alla porta. | Yes, the ceiling is like the night sky. I work on that wall, near the door.
+Tom: Quanto tempo puoi restare dentro? | How long can you stay inside?
+Giulia: I turisti restano solo quindici minuti, per proteggere i colori. Io lavoro qui dalle otto alle cinque. | Tourists stay only fifteen minutes, to protect the colours. I work here from eight until five.
+Tom: E dopo? | And afterwards?
+Giulia: Dopo vado all'università. Galileo ha insegnato qui per diciotto anni! | Afterwards I go to the university. Galileo taught here for eighteen years!
+Tom: Allora andiamo insieme: dalla cappella all'università, a piedi. | Then let's go together: from the chapel to the university, on foot.
+q: Gli affreschi sono ___ Giotto. | di | da | a | en: The frescoes are by Giotto. | why: di = by (author)
+q: I turisti restano solo quindici ___. | minuti | ore | giorni | en: Tourists stay only fifteen minutes. | why: «I turisti restano solo quindici minuti»
+q: Giulia lavora ___ otto alle cinque. | dalle | delle | alle | en: Giulia works from eight until five. | why: da + le → dalle; time: dalle … alle
+
+=== u13 | reading | L'università di Padova
+intro: One of the oldest universities in the world. Prepositions of place and time.
+- L'università di Padova è nata nel 1222. | The University of Padua was founded in 1222.
+- Nel Palazzo del Bo c'è il teatro anatomico più antico del mondo. | In the Palazzo del Bo there is the oldest anatomy theatre in the world.
+- Galileo Galilei ha insegnato a Padova dal 1592 al 1610. | Galileo Galilei taught in Padua from 1592 to 1610.
+- Nel 1678, a Padova, una donna ha ricevuto per la prima volta al mondo una laurea: Elena Cornaro Piscopia. | In 1678, in Padua, a woman received a university degree for the first time in the world: Elena Cornaro Piscopia.
+- Ancora oggi gli studenti festeggiano la laurea in piazza, con una corona di alloro sulla testa. | Still today students celebrate their degree in the square, with a laurel wreath on their head.
+q: L'università di Padova è nata nel ___. | 1222 | 1592 | 1678 | en: The University of Padua was founded in 1222. | why: «è nata nel 1222»
+q: Galileo ha insegnato a Padova ___ 1592 al 1610. | dal | del | nel | en: Galileo taught in Padua from 1592 to 1610. | why: da + il → dal
+q: Gli studenti festeggiano con una corona di ___. | alloro | fiori | oro | en: Students celebrate with a laurel wreath. | why: «con una corona di alloro»
+
+=== u14 | dialogue | Dov'è la mia valigia?
+intro: Tom arrives in Venice by train. On the vaporetto (water bus) he can't find his suitcase. Possessives.
+Tom: Giulia, dov'è la mia valigia? | Giulia, where's my suitcase?
+Giulia: La tua valigia? È questa qui, quella blu? | Your suitcase? Is it this one here, the blue one?
+Tom: No, la mia valigia è nera. Quella è la valigia di un signore. | No, my suitcase is black. That's a gentleman's suitcase.
+Giulia: E queste sono le tue scarpe? | And are these your shoes?
+Tom: Sì, sono le mie scarpe! E il mio cappello! | Yes, they're my shoes! And my hat!
+Giulia: Ah, ecco la tua valigia, sotto la mia borsa. | Ah, here's your suitcase, under my bag.
+Tom: Grazie! Senza la mia valigia sono perduto. Ci sono i miei disegni dentro. | Thanks! Without my suitcase I'm lost. My drawings are in it.
+Giulia: I tuoi disegni sono più importanti dei tuoi vestiti! | Your drawings are more important than your clothes!
+q: La valigia di Tom è ___. | nera | blu | rossa | en: Tom's suitcase is black. | why: «la mia valigia è nera»
+q: Le scarpe sono ___ scarpe di Tom. | le | i | gli | en: The shoes are Tom's shoes. | why: «sono le mie scarpe» — feminine plural
+q: Nella valigia ci sono i ___ di Tom. | disegni | libri | soldi | en: Tom's drawings are in the suitcase. | why: «Ci sono i miei disegni dentro.»
+
+=== u14 | reading | Una città senza macchine
+intro: Venice is built on 118 islands. Possessives and everyday life.
+- Venezia è costruita su centodiciotto isole, unite da circa quattrocento ponti. | Venice is built on 118 islands, joined by about four hundred bridges.
+- In città non ci sono macchine. La gente cammina o prende il vaporetto. | There are no cars in the city. People walk or take the water bus.
+- Il postino porta le lettere a piedi, e la sua borsa è sempre pesante. | The postman delivers the letters on foot, and his bag is always heavy.
+- Anche le ambulanze e i pompieri hanno le loro barche. | The ambulances and the firefighters have their own boats too.
+- I bambini veneziani imparano a remare come i loro nonni. | Venetian children learn to row like their grandparents.
+q: Venezia è costruita su ___ isole. | centodiciotto | quattrocento | diciotto | en: Venice is built on 118 islands. | why: «su centodiciotto isole»
+q: I pompieri hanno le ___ barche. | loro | sue | suoi | en: The firefighters have their own boats. | why: loro never changes: le loro barche
+
+=== u15 | dialogue | Nella fornace di Murano
+intro: On the island of Murano, Tom and Giulia watch a glassblower at work. C'è and ci sono.
+Tom: Che caldo! C'è un fuoco enorme. | How hot it is! There's a huge fire.
+Maestro vetraio: Il forno è a mille gradi. Senza fuoco non c'è vetro. | The furnace is at a thousand degrees. Without fire there is no glass.
+Giulia: Quanti colori ci sono! | How many colours there are!
+Maestro vetraio: Ci sono più di cento colori. Guardate: adesso faccio un cavallo. | There are more than a hundred colours. Look: now I'll make a horse.
+Tom: In un minuto! È magia. | In one minute! It's magic.
+Maestro vetraio: Non c'è magia. Ci sono quarant'anni di lavoro. | There's no magic. There are forty years of work.
+Giulia: È vero che nel Medioevo i vetrai non potevano lasciare l'isola? | Is it true that in the Middle Ages the glassmakers couldn't leave the island?
+Maestro vetraio: È vero. C'era un segreto da proteggere. Venezia voleva tutto il vetro per sé! | It's true. There was a secret to protect. Venice wanted all the glass for itself!
+q: Il forno è a mille ___. | gradi | metri | euro | en: The furnace is at a thousand degrees. | why: «Il forno è a mille gradi.»
+q: ___ più di cento colori. | Ci sono | C'è | È | en: There are more than a hundred colours. | why: plural → ci sono
+q: Il vetraio fa un ___. | cavallo | gatto | bicchiere | en: The glassmaker makes a horse. | why: «adesso faccio un cavallo»
+
+=== u16 | reading | Il tiramisù
+intro: Treviso is the home of tiramisù. A recipe with modal verbs: devi, puoi, vuoi.
+- Il tiramisù è nato a Treviso. Il nome significa «tirami su»: dà energia! | Tiramisù was born in Treviso. The name means "pick me up": it gives energy!
+- Per prima cosa devi fare un buon caffè e lasciarlo raffreddare. | First of all you have to make a good coffee and let it cool.
+- Poi devi sbattere le uova con lo zucchero e aggiungere il mascarpone. | Then you have to beat the eggs with the sugar and add the mascarpone.
+- Puoi bagnare i biscotti nel caffè, ma solo per un secondo! | You can dip the biscuits in the coffee, but only for a second!
+- Devi fare uno strato di biscotti e uno strato di crema, e poi ancora. | You have to make a layer of biscuits and a layer of cream, and then again.
+- Alla fine metti il cacao. Se vuoi, puoi aggiungere un po' di liquore. | At the end you put on the cocoa. If you want, you can add a little liqueur.
+- Il tiramisù deve restare in frigorifero per qualche ora. | The tiramisù has to stay in the fridge for a few hours.
+q: «Tiramisù» significa «tirami ___». | su | giù | via | en: "Tiramisù" means "pick me up". | why: «Il nome significa tirami su»
+q: I biscotti nel caffè: solo per un ___! | secondo | minuto | giorno | en: The biscuits in the coffee: only for a second! | why: «ma solo per un secondo!»
+q: Il tiramisù ___ restare in frigorifero. | deve | può non | vuole | en: Tiramisù has to stay in the fridge. | why: dovere: deve restare
+
+=== u16 | dialogue | Prosecco a Treviso
+intro: In a bar in Treviso, Tom and Giulia celebrate the end of her work in Padua.
+Tom: Che cosa vuoi bere? | What do you want to drink?
+Giulia: Un prosecco, naturalmente! Qui siamo nella terra del prosecco. | A prosecco, of course! Here we're in prosecco country.
+Tom: Possiamo ordinare anche qualcosa da mangiare? | Can we order something to eat too?
+Giulia: Certo. Devi provare i cicchetti: sono piccoli panini con pesce o formaggio. | Of course. You must try the cicchetti: they're little bites with fish or cheese.
+Tom: Domani devo partire per Trieste. Vuoi venire? | Tomorrow I have to leave for Trieste. Do you want to come?
+Giulia: Non posso, devo tornare a Bologna. Ma possiamo sentirci al telefono. | I can't, I have to go back to Bologna. But we can talk on the phone.
+Tom: Va bene. Allora brindiamo: alla tua salute! | All right. Then let's toast: to your health!
+q: Giulia vuole bere un ___. | prosecco | caffè | tè | en: Giulia wants to drink a prosecco. | why: «Un prosecco, naturalmente!»
+q: Domani Tom ___ partire per Trieste. | deve | può non | vuole non | en: Tomorrow Tom has to leave for Trieste. | why: «Domani devo partire per Trieste.»
+q: Giulia non può venire: deve tornare a ___. | Bologna | Padova | Venezia | en: Giulia can't come: she has to go back to Bologna. | why: «devo tornare a Bologna»
+
+=== u17 | gouin | La mia mattina a Trieste
+intro: A Gouin series with reflexive verbs: mi sveglio, mi alzo, mi lavo. Put the steps back in order.
+- Mi sveglio alle sette. | I wake up at seven.
+- Mi alzo subito. | I get up straight away.
+- Mi lavo e mi vesto. | I wash and get dressed.
+- Esco di casa. Fuori c'è la bora: un vento fortissimo! | I go out. Outside there's the bora: a very strong wind!
+- Entro in un caffè e mi siedo. | I go into a café and sit down.
+- Ordino «un nero», cioè un espresso. | I order "un nero", that is, an espresso.
+- Mi sento finalmente sveglio. | I finally feel awake.
+
+=== u17 | dialogue | Al caffè, come a Trieste
+intro: Trieste is Italy's coffee capital, with its own coffee words. Tom asks the barman.
+Barista: Buongiorno! Cosa prende? | Good morning! What will you have?
+Tom: Un caffè, per favore. | A coffee, please.
+Barista: Qui a Trieste si dice «un nero». E con il latte, «un capo». | Here in Trieste you say "un nero". And with milk, "un capo".
+Tom: Allora un capo in b, per favore. Ho letto che si dice così. | Then a "capo in b", please. I read that's what you say.
+Barista: Bravo! Un capo in bicchiere. Lei si ricorda tutto! | Well done! A capo in a glass. You remember everything!
+Tom: Mi diverto molto a imparare queste parole. | I have great fun learning these words.
+Barista: E si ricordi: quando c'è la bora, si tenga forte! | And remember: when the bora blows, hold on tight!
+q: A Trieste un espresso si chiama «un ___». | nero | capo | bianco | en: In Trieste an espresso is called "un nero". | why: «Qui a Trieste si dice un nero.»
+q: Tom ___ diverte a imparare le parole. | si | ci | mi | en: Tom has fun learning the words. | why: divertirsi: lui si diverte
+q: «Un capo in b» è un caffè con latte in ___. | bicchiere | tazza | bottiglia | en: "Un capo in b" is a coffee with milk in a glass. | why: «Un capo in bicchiere.»
+
+=== u18 | dialogue | Che cosa hai fatto ieri?
+intro: Tom is in Udine. Giulia calls him from Bologna. The passato prossimo with avere.
+Giulia: Ciao Tom! Che cosa hai fatto ieri? | Hi Tom! What did you do yesterday?
+Tom: Ho visitato la piazza della Libertà. Dicono che è la più bella piazza veneziana fuori da Venezia. | I visited the Piazza della Libertà. They say it's the most beautiful Venetian square outside Venice.
+Giulia: E hai disegnato qualcosa? | And did you draw anything?
+Tom: Sì, ho disegnato la loggia e la torre dell'orologio. Poi ho mangiato il frico. | Yes, I drew the loggia and the clock tower. Then I ate frico.
+Giulia: Il frico! Ti è piaciuto? | Frico! Did you like it?
+Tom: Moltissimo. È fatto di formaggio e patate. Ho bevuto anche un bicchiere di vino friulano. | Very much. It's made of cheese and potatoes. I also drank a glass of Friulian wine.
+Giulia: Hai lavorato o hai solo mangiato? | Did you work, or did you just eat?
+Tom: Ho fatto anche tre disegni! E ho scritto una lettera a mia nonna. | I also did three drawings! And I wrote a letter to my grandmother.
+q: Tom ha ___ la loggia e la torre. | disegnato | mangiato | scritto | en: Tom drew the loggia and the tower. | why: «ho disegnato la loggia e la torre dell'orologio»
+q: Il frico è fatto di formaggio e ___. | patate | pane | carne | en: Frico is made of cheese and potatoes. | why: «È fatto di formaggio e patate.»
+q: Tom ___ scritto una lettera a sua nonna. | ha | è | hai | en: Tom wrote a letter to his grandmother. | why: scrivere → avere: ha scritto
+
+=== u19 | dialogue | In bicicletta sulle mura
+intro: Ferrara is the city of bicycles, surrounded by nine kilometres of walls. Giulia has come to meet Tom. The passato prossimo with essere.
+Giulia: Sei arrivato ieri? | Did you arrive yesterday?
+Tom: No, sono arrivato stamattina, con il treno delle otto. E tu? | No, I arrived this morning, on the eight o'clock train. And you?
+Giulia: Sono venuta in bicicletta da Bologna! Sono partita alle sei. | I came by bike from Bologna! I left at six.
+Tom: Da Bologna? Sono più di quaranta chilometri! | From Bologna? That is more than forty kilometres!
+Giulia: Sì, ma sono stata bene. Adesso andiamo sulle mura? | Yes, but I had a good time. Shall we go on the walls now?
+Tom: Ho noleggiato una bicicletta. Andiamo! | I've rented a bike. Let's go!
+Giulia: Siamo andati tutto intorno alla città: nove chilometri! Sei stanco? | We've gone all the way round the city: nine kilometres! Are you tired?
+Tom: Un po'. Sono caduto una volta, ma non è successo niente. | A bit. I fell once, but nothing happened.
+q: Tom è arrivato ___. | stamattina | ieri | stasera | en: Tom arrived this morning. | why: «sono arrivato stamattina»
+q: Giulia è ___ in bicicletta da Bologna. | venuta | venuto | venuti | en: Giulia came by bike from Bologna. | why: essere → agreement: Giulia → venuta
+q: Le mura di Ferrara sono lunghe ___ chilometri. | nove | quaranta | sei | en: Ferrara's walls are nine kilometres long. | why: «nove chilometri!»
+
+=== u20 | reading | La tomba di Dante
+intro: Review: Dante Alighieri, exiled from Florence, died in Ravenna in 1321. His tomb is still there — and Florence still wants him back.
+- Dante è nato a Firenze nel 1265. Ha scritto la Divina Commedia. | Dante was born in Florence in 1265. He wrote the Divine Comedy.
+- Nel 1302 i suoi nemici politici lo hanno cacciato da Firenze. Non è mai più tornato. | In 1302 his political enemies drove him out of Florence. He never went back.
+- Ha passato gli ultimi anni a Ravenna, dove è morto nel 1321. | He spent his last years in Ravenna, where he died in 1321.
+- Più tardi Firenze ha chiesto molte volte i suoi resti, ma Ravenna ha sempre detto di no. | Later Florence asked for his remains many times, but Ravenna always said no.
+- Una volta i frati hanno nascosto le ossa in un muro, per non darle ai fiorentini. | Once the friars hid the bones in a wall, so as not to give them to the Florentines.
+- Oggi, ogni anno, Firenze manda a Ravenna l'olio per la lampada sulla tomba. | Today, every year, Florence sends Ravenna the oil for the lamp on the tomb.
+q: Dante è nato a ___ nel 1265. | Firenze | Ravenna | Bologna | en: Dante was born in Florence in 1265. | why: «Dante è nato a Firenze nel 1265.»
+q: Dante è morto a Ravenna nel ___. | 1321 | 1302 | 1265 | en: Dante died in Ravenna in 1321. | why: «dove è morto nel 1321»
+q: Ogni anno Firenze manda l'___ per la lampada. | olio | oro | acqua | en: Every year Florence sends the oil for the lamp. | why: «Firenze manda a Ravenna l'olio per la lampada»
+
+=== u20 | dialogue | I mosaici d'oro
+intro: Review: Giulia has a job restoring a mosaic in Ravenna. Tom watches her work.
+Tom: Questi mosaici sono vecchissimi! | These mosaics are incredibly old!
+Giulia: Hanno millecinquecento anni. Ogni pezzetto di vetro è messo a mano. | They're fifteen hundred years old. Every little piece of glass was placed by hand.
+Tom: E perché brillano così? | And why do they shine like that?
+Giulia: Perché dietro il vetro c'è una foglia d'oro. Con la luce delle candele, tutto brillava. | Because behind the glass there's a leaf of gold. In candlelight everything used to shine.
+Tom: Che cosa hai fatto oggi? | What have you done today?
+Giulia: Ho pulito due metri di cielo e tre angeli. Domani faccio l'imperatore Giustiniano. | I've cleaned two metres of sky and three angels. Tomorrow I'll do Emperor Justinian.
+Tom: Un lavoro da artista. | An artist's job.
+Giulia: No, un lavoro da formica. Ma mi piace tantissimo! | No, an ant's job. But I like it so much!
+q: I mosaici hanno ___ anni. | millecinquecento | cinquecento | millecento | en: The mosaics are fifteen hundred years old. | why: «Hanno millecinquecento anni.»
+q: Dietro il vetro c'è una foglia d'___. | oro | argento | rame | en: Behind the glass there's a gold leaf. | why: «dietro il vetro c'è una foglia d'oro»
+q: Oggi Giulia ha pulito tre ___. | angeli | imperatori | cieli | en: Today Giulia cleaned three angels. | why: «Ho pulito due metri di cielo e tre angeli.»
