@@ -40,3 +40,30 @@ for (const [where, text, kind] of texts) {
 }
 print(`${texts.length} sentences checked; ${unknown.size} unknown words`);
 for (const [w, where] of [...unknown.entries()].sort((a, b) => b[1].length - a[1].length)) print(`${w}\t${where.length}\t${[...new Set(where)].slice(0, 3).join(', ')}`);
+
+// "grade": words each unit's texts use before the course teaches them (jsc -m tools/check_text.mjs -- de grade)
+if (args[1] === 'grade') {
+  let course, t;
+  try { course = JSON.parse(read(`app/data/${lang}/course.json`)); t = JSON.parse(read(`app/data/${lang}/texts.json`)); } catch (e) { t = null; }
+  if (t) {
+    const unitOf = new Map();
+    course.units.forEach((u) => u.words.forEach((w) => unitOf.set(w, u.n)));
+    for (const [uid, list] of Object.entries(t.units)) {
+      const n = course.units.find((u) => u.id === uid).n;
+      const ahead = new Map();
+      let total = 0, taught = 0;
+      for (const x of list) for (const l of [...x.lines, ...(x.questions || []).map((q) => ({ t: q.q.replace('___', q.o[0]) }))]) {
+        for (const tok of analyzeText(l.t, L)) {
+          if (tok.k !== 'w' || !tok.cands?.length) continue;
+          total++;
+          // taught if any reading of the word is taught by this unit (names and numbers have no unit)
+          const us = tok.cands.map((c) => unitOf.get(c.entry.id)).filter((x) => x != null);
+          if (!us.length || Math.min(...us) <= n) taught++;
+          else ahead.set(tok.t, Math.min(...us));
+        }
+      }
+      const pct = total ? Math.round((100 * taught) / total) : 100;
+      print(`${uid}\t${pct}%\t${[...ahead].map(([w, u]) => `${w}(${u})`).join(' ')}`);
+    }
+  }
+}

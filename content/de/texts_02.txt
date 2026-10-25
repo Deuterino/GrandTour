@@ -1,0 +1,285 @@
+# German unit stories, units 11–20 (Berlin und Brandenburg).
+
+=== u11 | dialogue | Wo ist das Museum?
+intro: Tom is in Berlin and wants to see the Museum Island. He asks a man at a busy square.
+Tom: Entschuldigung, wie komme ich zur Museumsinsel? | Excuse me, how do I get to Museum Island?
+Mann: Zur Museumsinsel? Das ist nicht weit. Sie gehen hier geradeaus und dann links. | To Museum Island? That's not far. You go straight on here and then left.
+Tom: Geradeaus und dann links. Und dann? | Straight on and then left. And then?
+Mann: Dann sehen Sie eine Brücke. Sie gehen über die Brücke, und da ist das Museum. | Then you'll see a bridge. You go over the bridge, and there's the museum.
+Tom: Kann ich auch den Bus nehmen? | Can I take the bus too?
+Mann: Ja, der Bus fährt hier ab, aber zu Fuß sind es nur zehn Minuten. | Yes, the bus leaves from here, but on foot it's only ten minutes.
+Tom: Dann laufe ich. Danke! | Then I'll walk. Thank you!
+Mann: Gern! Und vergessen Sie nicht: Berlin hat mehr Brücken als Venedig! | You're welcome! And don't forget: Berlin has more bridges than Venice!
+Tom: Wirklich? Das sehe ich heute! | Really? I'll see that today!
+q: Tom geht geradeaus und dann ___. | links | rechts | zurück | en: Tom goes straight on and then left. | why: „Sie gehen hier geradeaus und dann links.“
+q: Zu Fuß sind es nur zehn ___. | Minuten | Stunden | Brücken | en: On foot it's only ten minutes. | why: „zu Fuß sind es nur zehn Minuten“
+q: Berlin hat mehr Brücken als ___. | Venedig | Hamburg | London | en: Berlin has more bridges than Venice. | why: „mehr Brücken als Venedig“
+
+=== u11 | reading | Tom und Lena in Berlin
+intro: Stem-changing verbs: ich fahre, du fährst, er fährt. Read about Tom's day with Lena, who is visiting.
+- Lena fährt mit dem Zug nach Berlin. Tom läuft zum Bahnhof. | Lena takes the train to Berlin. Tom walks to the station.
+- Er sieht Lena auf dem Bahnsteig und lacht. | He sees Lena on the platform and laughs.
+- Lena trägt einen großen Koffer. Tom hilft ihr. | Lena is carrying a big suitcase. Tom helps her.
+- „Schläfst du in einem Hotel?“, fragt Tom. | "Are you sleeping in a hotel?" asks Tom.
+- „Nein, ich schlafe bei einer Freundin“, sagt Lena. | "No, I'm sleeping at a friend's," says Lena.
+- Sie fahren mit der U-Bahn in die Stadt. | They take the underground into the city.
+- An der Ampel sieht Lena das Ampelmännchen. „Wie süß!“, sagt sie. | At the traffic light Lena sees the little traffic-light man. "How sweet!" she says.
+- Tom vergisst die Zeit. Der Tag ist so schön! | Tom forgets the time. The day is so lovely!
+q: Lena ___ einen großen Koffer. | trägt | tragt | trage | en: Lena is carrying a big suitcase. | why: tragen → sie trägt (a → ä)
+q: Tom ___ ihr. | hilft | helft | helfe | en: Tom helps her. | why: helfen → er hilft (e → i)
+q: Lena schläft bei einer ___. | Freundin | Tante | Oma | en: Lena is sleeping at a friend's. | why: „ich schlafe bei einer Freundin“
+
+=== u11 | gouin | Mit dem Bus
+intro: A Gouin series: taking the bus. Read it, then put the steps back in order.
+- Ich gehe zur Haltestelle. | I go to the bus stop.
+- Ich warte auf den Bus. | I wait for the bus.
+- Der Bus kommt. | The bus comes.
+- Ich steige ein. | I get on.
+- Ich fahre drei Stationen. | I ride three stops.
+- Ich steige aus. | I get off.
+- Ich laufe zum Park. | I walk to the park.
+
+=== u12 | dialogue | Wo ist mein Hut?
+intro: Journeymen on the road wear black clothes and a wide hat. In Potsdam, Tom can't find his hat.
+Tom: Lena, wo ist mein Hut? | Lena, where is my hat?
+Lena: Dein Hut? Ich weiß es nicht. Ist das dein Hut hier? | Your hat? I don't know. Is this your hat here?
+Tom: Nein, das ist nicht mein Hut. Mein Hut ist schwarz und groß. | No, that's not my hat. My hat is black and big.
+Lena: Und die Jacke? Ist das deine Jacke? | And the jacket? Is that your jacket?
+Tom: Ja, das ist meine Jacke. Und das sind meine Schuhe. | Yes, that's my jacket. And those are my shoes.
+Lena: Und die Brille? | And the glasses?
+Tom: Die Brille ist nicht meine. Ist sie deine? | The glasses aren't mine. Are they yours?
+Lena: Nein! Vielleicht ist sie von Paul. Paul vergisst immer seine Sachen. | No! Maybe they're Paul's. Paul always forgets his things.
+Tom: Ah, da ist mein Hut! Unter dem Tisch. | Ah, there's my hat! Under the table.
+Lena: Und unser Kaffee wird kalt. Komm! | And our coffee is getting cold. Come on!
+q: Toms Hut ist schwarz und ___. | groß | klein | neu | en: Tom's hat is black and big. | why: „Mein Hut ist schwarz und groß.“
+q: Die Brille ist vielleicht von ___. | Paul | Lena | Tom | en: The glasses may be Paul's. | why: „Vielleicht ist sie von Paul.“
+q: Der Hut ist ___ dem Tisch. | unter | auf | neben | en: The hat is under the table. | why: „Unter dem Tisch.“
+
+=== u12 | reading | Sanssouci
+intro: A short reading about King Frederick the Great's summer palace in Potsdam.
+- In Potsdam steht das Schloss Sanssouci. | In Potsdam stands Sanssouci Palace.
+- „Sanssouci“ ist Französisch und heißt „ohne Sorge“. | "Sanssouci" is French and means "without worry".
+- Friedrich der Große liebt sein Schloss und seinen Garten. | Frederick the Great loves his palace and his garden.
+- Er liebt auch seine Hunde. | He also loves his dogs.
+- Heute liegt der König im Garten, neben seinen Hunden. | Today the king lies in the garden, next to his dogs.
+- Die Leute bringen ihm Kartoffeln. Warum? | People bring him potatoes. Why?
+- Friedrich bringt die Kartoffel nach Preußen. Die Leute danken ihm bis heute. | Frederick brought the potato to Prussia. People still thank him today.
+q: „Sanssouci“ heißt „ohne ___“. | Sorge | Garten | Hund | en: "Sanssouci" means "without worry". | why: „ohne Sorge“
+q: Der König liegt neben seinen ___. | Hunden | Kindern | Freunden | en: The king lies next to his dogs. | why: „neben seinen Hunden“
+
+=== u13 | dialogue | Kann ich hier arbeiten?
+intro: In Brandenburg an der Havel, Tom knocks at a carpenter's workshop and asks the master for work.
+Tom: Guten Tag! Ich bin Zimmermann und auf der Walz. Kann ich hier arbeiten? | Good afternoon! I'm a carpenter on my journeyman travels. Can I work here?
+Meisterin: Guten Tag! Was können Sie denn? | Good afternoon! So what can you do?
+Tom: Ich kann Dächer bauen und Möbel machen. | I can build roofs and make furniture.
+Meisterin: Gut. Wir müssen ein Dach reparieren. Wollen Sie helfen? | Good. We have to repair a roof. Do you want to help?
+Tom: Ja, sehr gern! Wann soll ich anfangen? | Yes, very much! When should I start?
+Meisterin: Morgen früh um sieben. Sie dürfen hier auch schlafen. | Tomorrow morning at seven. You may sleep here too.
+Tom: Danke! Darf ich auch Ihre Werkstatt sehen? | Thank you! May I see your workshop too?
+Meisterin: Natürlich. Aber Vorsicht, Sie müssen hier immer Schuhe tragen. | Of course. But careful, you must always wear shoes here.
+Tom: Kein Problem. Ich möchte viel lernen. | No problem. I'd like to learn a lot.
+q: Tom kann Dächer bauen und ___ machen. | Möbel | Kaffee | Musik | en: Tom can build roofs and make furniture. | why: „Ich kann Dächer bauen und Möbel machen.“
+q: Tom soll morgen um ___ Uhr anfangen. | sieben | acht | zehn | en: Tom should start tomorrow at seven. | why: „Morgen früh um sieben.“
+q: In der Werkstatt muss man immer ___ tragen. | Schuhe | einen Hut | eine Brille | en: In the workshop you must always wear shoes. | why: „Sie müssen hier immer Schuhe tragen.“
+
+=== u13 | reading | Die Regeln der Walz
+intro: Journeymen follow old rules. Modal verbs say what they must, may and want to do.
+- Ein Geselle auf der Walz muss mindestens drei Jahre und einen Tag reisen. | A journeyman on the road must travel at least three years and a day.
+- Er darf nicht nach Hause kommen. | He may not come home.
+- Er darf kein Geld für die Reise bezahlen: Er soll laufen oder mitfahren. | He may not pay money for the journey: he is supposed to walk or hitch a ride.
+- Er muss immer seine schwarze Kleidung tragen. | He must always wear his black clothes.
+- Er soll in vielen Städten arbeiten und viel lernen. | He is supposed to work in many towns and learn a lot.
+- Er kann überall Freunde finden. | He can find friends everywhere.
+- Und am Ende will er Meister werden. | And in the end he wants to become a master.
+q: Ein Geselle muss drei Jahre und einen ___ reisen. | Tag | Monat | Woche | en: A journeyman must travel three years and a day. | why: „drei Jahre und einen Tag“
+q: Der Geselle ___ nicht nach Hause kommen. | darf | will | kann gern | en: The journeyman may not come home. | why: nicht dürfen = must not, not allowed
+
+=== u14 | gouin | Mein Morgen
+intro: A Gouin series with separable verbs: the prefix jumps to the end. Read it, then put the steps back in order.
+- Ich wache um sechs Uhr auf. | I wake up at six o'clock.
+- Ich stehe auf. | I get up.
+- Ich dusche. | I take a shower.
+- Ich frühstücke in der Küche. | I have breakfast in the kitchen.
+- Ich rufe Lena an. | I call Lena.
+- Um sieben fange ich mit der Arbeit an. | At seven I start work.
+- Um fünf höre ich auf. | At five I stop.
+- Am Abend sehe ich ein bisschen fern. | In the evening I watch a bit of TV.
+- Um zehn schlafe ich ein. | At ten I fall asleep.
+
+=== u14 | dialogue | Post mit dem Boot
+intro: In the Spreewald, mail comes by boat. Tom phones Lena from a village on the canals.
+Lena: Hallo Tom! Wo bist du? | Hello Tom! Where are you?
+Tom: Im Spreewald! Hier kommt die Post mit dem Boot. Die Postbotin fährt jeden Morgen durch das Dorf. | In the Spreewald! Here the post comes by boat. The postwoman goes through the village every morning.
+Lena: Toll! Wann kommst du nach Hamburg zurück? | Great! When are you coming back to Hamburg?
+Tom: Noch nicht. Am Montag fahre ich nach Cottbus ab. | Not yet. On Monday I leave for Cottbus.
+Lena: Und am Wochenende? Kommst du mit nach Berlin? Ich kaufe dort ein. | And at the weekend? Are you coming with me to Berlin? I'm going shopping there.
+Tom: Am Samstag arbeite ich, aber am Sonntag komme ich gern mit. | On Saturday I'm working, but on Sunday I'd love to come along.
+Lena: Super! Der Zug kommt um zehn Uhr an. Ruf mich an! | Great! The train arrives at ten o'clock. Call me!
+Tom: Mache ich. Bis Sonntag! | Will do. Until Sunday!
+q: Im Spreewald kommt die Post mit dem ___. | Boot | Zug | Bus | en: In the Spreewald the post comes by boat. | why: „Hier kommt die Post mit dem Boot.“
+q: Am Montag fährt Tom nach Cottbus ___. | ab | an | mit | en: On Monday Tom leaves for Cottbus. | why: abfahren: Ich fahre … ab.
+q: Am ___ kommt Tom mit. | Sonntag | Samstag | Montag | en: Tom comes along on Sunday. | why: „am Sonntag komme ich gern mit“
+
+=== u15 | dialogue | In der Werkstatt
+intro: In Cottbus, Tom helps a master in his workshop. The master gives a lot of orders.
+Meister: Tom, komm bitte her! Hol den Hammer! | Tom, come here please! Fetch the hammer!
+Tom: Hier ist der Hammer. | Here's the hammer.
+Meister: Danke. Bring mir jetzt das Holz. Und leg es auf den Tisch. | Thanks. Now bring me the wood. And put it on the table.
+Tom: So? | Like this?
+Meister: Ja, gut. Mach bitte das Fenster auf. Es ist so warm hier. | Yes, good. Please open the window. It's so warm in here.
+Tom: Gern. Was soll ich jetzt machen? | Sure. What should I do now?
+Meister: Warte! Vorsicht! Die Säge! | Wait! Careful! The saw!
+Tom: Oh, danke! | Oh, thanks!
+Meister: Setz dich und trink einen Kaffee. Dann zeige ich dir alles. | Sit down and have a coffee. Then I'll show you everything.
+q: Tom soll den ___ holen. | Hammer | Kaffee | Hut | en: Tom is supposed to fetch the hammer. | why: „Hol den Hammer!“
+q: Tom legt das Holz auf den ___. | Tisch | Stuhl | Boden | en: Tom puts the wood on the table. | why: „leg es auf den Tisch“
+q: „Mach bitte das Fenster ___!“ | auf | an | zu Hause | en: "Please open the window!" | why: aufmachen = to open: Mach … auf!
+
+=== u15 | reading | Ostereier wie bei den Sorben
+intro: The Sorbs around Cottbus paint famous Easter eggs. Instructions use the imperative.
+- Nimm ein Ei und koch es zehn Minuten. | Take an egg and boil it for ten minutes.
+- Warte, bis das Ei kalt ist. | Wait until the egg is cold.
+- Nimm Wachs und eine Feder. | Take wax and a feather.
+- Mal kleine Bilder mit dem Wachs auf das Ei. | Paint little pictures on the egg with the wax.
+- Leg das Ei in die Farbe. | Put the egg into the dye.
+- Hol das Ei wieder heraus und mach das Wachs weg. | Take the egg out again and remove the wax.
+- Fertig! Zeig deinen Freunden das Ei! | Done! Show your friends the egg!
+q: Koch das Ei ___ Minuten. | zehn | zwei | zwanzig | en: Boil the egg for ten minutes. | why: „koch es zehn Minuten“
+q: Mit dem Wachs ___ man kleine Bilder. | malt | kocht | trinkt | en: With the wax you paint little pictures. | why: „Mal kleine Bilder mit dem Wachs“
+
+=== u16 | dialogue | Ein Geschenk für Lena
+intro: It's Lena's birthday. In Magdeburg, Tom looks for a present and asks a shop assistant for advice.
+Tom: Guten Tag! Meine Freundin hat morgen Geburtstag. Können Sie mir helfen? | Good afternoon! My friend has her birthday tomorrow. Can you help me?
+Verkäuferin: Gern! Was gefällt Ihrer Freundin? | Gladly! What does your friend like?
+Tom: Sie liest gern. Und sie trinkt gern Tee. | She likes reading. And she likes drinking tea.
+Verkäuferin: Dann schenken Sie ihr doch ein Buch! Dieses Buch hier gefällt vielen Leuten. | Then why not give her a book! Lots of people like this book here.
+Tom: Gehört das zu einer Serie? | Does that belong to a series?
+Verkäuferin: Ja, aber man kann es allein lesen. Und dazu eine Tasse für den Tee? | Yes, but you can read it on its own. And a cup for the tea to go with it?
+Tom: Gute Idee! Die Tasse passt zu dem Buch. | Good idea! The cup goes with the book.
+Verkäuferin: Ich mache Ihnen ein schönes Paket. | I'll make you a nice parcel.
+Tom: Vielen Dank! | Thank you very much!
+q: Lena liest gern und trinkt gern ___. | Tee | Kaffee | Bier | en: Lena likes reading and drinking tea. | why: „Sie liest gern. Und sie trinkt gern Tee.“
+q: Tom schenkt ___ ein Buch und eine Tasse. | ihr | ihm | mir | en: Tom gives her a book and a cup. | why: schenken + dative: ihr (to her)
+q: Die Tasse passt zu dem ___. | Buch | Tee | Paket | en: The cup goes with the book. | why: „Die Tasse passt zu dem Buch.“
+
+=== u16 | dialogue | Herzlichen Glückwunsch!
+intro: The next day Tom calls Lena.
+Tom: Herzlichen Glückwunsch zum Geburtstag, Lena! Alles Gute! | Happy birthday, Lena! All the best!
+Lena: Danke, Tom! Und danke für das Paket. Das Buch gefällt mir sehr! | Thank you, Tom! And thanks for the parcel. I like the book very much!
+Tom: Und die Tasse? | And the cup?
+Lena: Die Tasse auch! Ich trinke gerade meinen Tee aus ihr. | The cup too! I'm drinking my tea from it right now.
+Tom: Wie feierst du? | How are you celebrating?
+Lena: Ich gehe mit meinen Freunden essen. Wir gehen zu einem Italiener. | I'm going out to eat with my friends. We're going to an Italian restaurant.
+Tom: Viel Spaß! Und grüß deine Familie von mir! | Have fun! And say hello to your family from me!
+q: Das Buch ___ Lena sehr. | gefällt | gehört | hilft | en: Lena likes the book very much. | why: „Das Buch gefällt mir sehr!“
+q: Lena trinkt ihren Tee aus der ___. | Tasse | Flasche | Hand | en: Lena drinks her tea from the cup. | why: „Ich trinke gerade meinen Tee aus ihr.“
+
+=== u17 | dialogue | Am Bahnhof
+intro: Tom wants to travel from Wittenberg to Leipzig. He buys a ticket at the counter.
+Tom: Guten Morgen! Eine Fahrkarte nach Leipzig, bitte. | Good morning! A ticket to Leipzig, please.
+Mann: Einfach oder hin und zurück? | Single or return?
+Tom: Nur einfach, bitte. Wann fährt der nächste Zug? | Just a single, please. When does the next train leave?
+Mann: Um neun Uhr zwölf, von Gleis drei. | At 9:12, from platform three.
+Tom: Muss ich umsteigen? | Do I have to change?
+Mann: Nein, der Zug fährt direkt nach Leipzig. Die Fahrt dauert eine Stunde. | No, the train goes directly to Leipzig. The journey takes an hour.
+Tom: Und was kostet die Fahrkarte? | And how much is the ticket?
+Mann: Achtzehn Euro fünfzig. | Eighteen euros fifty.
+Tom: Hier, bitte. Kann ich mein Fahrrad mitnehmen? | Here you are. Can I take my bike with me?
+Mann: Ja, aber Sie brauchen eine Fahrkarte für das Fahrrad. Gute Reise! | Yes, but you need a ticket for the bike. Have a good trip!
+q: Der Zug fährt von Gleis ___. | drei | neun | zwölf | en: The train leaves from platform three. | why: „von Gleis drei“
+q: Tom muss nicht ___. | umsteigen | bezahlen | warten | en: Tom doesn't have to change trains. | why: „der Zug fährt direkt nach Leipzig“
+q: Für das Fahrrad braucht Tom eine ___. | Fahrkarte | Karte von Leipzig | Tasche | en: For the bike Tom needs a ticket. | why: „Sie brauchen eine Fahrkarte für das Fahrrad.“
+
+=== u17 | reading | Luther in Wittenberg
+intro: Martin Luther translated the Bible into German. His German still shapes the language today.
+- Im Jahr 1517 lebt in Wittenberg ein Mönch. Er heißt Martin Luther. | In 1517 a monk lives in Wittenberg. His name is Martin Luther.
+- Luther schreibt 95 Thesen und hängt sie an die Tür der Kirche. | Luther writes 95 theses and hangs them on the church door.
+- Später übersetzt er die Bibel ins Deutsche. | Later he translates the Bible into German.
+- Er will, dass alle Menschen die Bibel lesen können. | He wants all people to be able to read the Bible.
+- Er sagt: Man muss „dem Volk aufs Maul schauen“. | He says: you have to "look at the people's mouths" (listen to how ordinary people speak).
+- Viele Wörter von Luther sprechen wir noch heute. | We still speak many of Luther's words today.
+q: Luther hängt die Thesen an die Tür der ___. | Kirche | Schule | Burg | en: Luther hangs the theses on the church door. | why: „an die Tür der Kirche“
+q: Luther übersetzt die Bibel ins ___. | Deutsche | Englische | Italienische | en: Luther translates the Bible into German. | why: „ins Deutsche“
+
+=== u18 | dialogue | Wo ist der Hammer?
+intro: In Dessau, home of the Bauhaus, Tom works in a modern workshop. Nothing is where it should be.
+Tom: Wo ist der Hammer? | Where's the hammer?
+Klara: Er liegt auf dem Tisch, neben der Lampe. | It's lying on the table, next to the lamp.
+Tom: Nein, da liegt er nicht. | No, it's not lying there.
+Klara: Dann liegt er vielleicht unter dem Tisch. | Then maybe it's under the table.
+Tom: Ah, ja! Danke. Und wohin lege ich das Holz? | Ah, yes! Thanks. And where shall I put the wood?
+Klara: Leg es bitte in die Ecke, zwischen den Schrank und die Tür. | Please put it in the corner, between the cupboard and the door.
+Tom: Und das Bild? | And the picture?
+Klara: Häng es an die Wand, über das Sofa. | Hang it on the wall, above the sofa.
+Tom: Jetzt hängt das Bild an der Wand. Schön! | Now the picture is hanging on the wall. Nice!
+Klara: Wie bei Bauhaus: Alles hat seinen Ort! | Like at the Bauhaus: everything has its place!
+q: Der Hammer liegt ___ dem Tisch. | unter | auf | neben | en: The hammer is under the table. | why: „Dann liegt er vielleicht unter dem Tisch.“ — „Ah, ja!“
+q: Tom legt das Holz in die ___. | Ecke | Küche | Tasche | en: Tom puts the wood in the corner. | why: „Leg es bitte in die Ecke“
+q: Jetzt hängt das Bild an der ___. | Wand | Tür | Lampe | en: Now the picture hangs on the wall. | why: wo? → dative: an der Wand
+
+=== u18 | gouin | Ich räume auf
+intro: A Gouin series with two-way prepositions: wohin? (accusative) and wo? (dative). Put the steps back in order.
+- Ich komme in mein Zimmer. | I come into my room.
+- Die Bücher liegen auf dem Boden. | The books are lying on the floor.
+- Ich stelle die Bücher in den Schrank. | I put the books in the cupboard.
+- Die Jacke liegt auf dem Bett. | The jacket is lying on the bed.
+- Ich hänge die Jacke an die Tür. | I hang the jacket on the door.
+- Ich stelle den Stuhl an den Tisch. | I put the chair at the table.
+- Ich setze mich auf den Stuhl. | I sit down on the chair.
+- Jetzt ist alles an seinem Platz. | Now everything is in its place.
+
+=== u19 | dialogue | Was sind Sie von Beruf?
+intro: On the train to Halle, Tom talks with a woman who works at the old chocolate factory.
+Frau Fischer: Sind Sie auch aus Halle? | Are you from Halle too?
+Tom: Nein, ich komme aus England. Ich bin Zimmermann und auf der Walz. | No, I'm from England. I'm a carpenter on my journeyman travels.
+Frau Fischer: Interessant! Und was machen Sie in Halle? | Interesting! And what are you doing in Halle?
+Tom: Morgen habe ich einen Termin bei einer Firma. Vielleicht arbeite ich dort zwei Monate. Und Sie? Was sind Sie von Beruf? | Tomorrow I have an appointment with a company. Maybe I'll work there for two months. And you? What do you do for a living?
+Frau Fischer: Ich arbeite bei Halloren. Das ist die älteste Schokoladenfabrik in Deutschland. | I work at Halloren. That's the oldest chocolate factory in Germany.
+Tom: Wirklich? Dann essen Sie jeden Tag Schokolade! | Really? Then you eat chocolate every day!
+Frau Fischer: Nein, ich arbeite im Büro. Trotzdem esse ich viel Schokolade. | No, I work in the office. I still eat a lot of chocolate.
+Tom: Verdient man dort gut? | Do you earn well there?
+Frau Fischer: Es geht. Aber meine Kollegen sind nett, deshalb arbeite ich gern dort. | It's OK. But my colleagues are nice, so I like working there.
+q: Morgen hat Tom einen ___ bei einer Firma. | Termin | Zug | Kaffee | en: Tomorrow Tom has an appointment with a company. | why: „Morgen habe ich einen Termin bei einer Firma.“
+q: Frau Fischer arbeitet im ___. | Büro | Café | Hotel | en: Mrs Fischer works in the office. | why: „ich arbeite im Büro“
+q: Die Kollegen sind nett, ___ arbeitet sie gern dort. | deshalb | trotzdem | aber | en: Her colleagues are nice, so she likes working there. | why: deshalb = therefore (verb comes next)
+
+=== u19 | reading | Händel aus Halle
+intro: Word order: the verb always stands in second place, even when the sentence starts with a time or a reason.
+- Georg Friedrich Händel kommt 1685 in Halle auf die Welt. | George Frideric Handel is born in Halle in 1685.
+- Sein Vater will einen Juristen aus ihm machen. | His father wants to make a lawyer of him.
+- Aber Georg liebt die Musik. Deshalb spielt er heimlich in der Nacht. | But Georg loves music. So he plays secretly at night.
+- Später arbeitet er in Hamburg, in Italien und dann in London. | Later he works in Hamburg, in Italy and then in London.
+- In London schreibt er den „Messias“. | In London he writes the "Messiah".
+- Heute steht seine Statue auf dem Marktplatz in Halle. | Today his statue stands in the market square in Halle.
+q: Georg liebt die Musik. Deshalb ___ er in der Nacht. | spielt | er spielt | spielen | en: Georg loves music. So he plays at night. | why: after deshalb the verb comes second: deshalb spielt er
+q: In London schreibt Händel den ___. | Messias | Brief | Termin | en: In London Handel writes the "Messiah". | why: „In London schreibt er den Messias.“
+
+=== u20 | reading | Die Bremer Stadtmusikanten
+intro: A Grimm fairy tale, retold simply in the present tense. Remember the bronze animals in Bremen?
+- Es war einmal ein Esel. Er ist alt und kann nicht mehr arbeiten. | Once upon a time there was a donkey. He is old and can't work any more.
+- „Ich gehe nach Bremen“, denkt er. „Dort kann ich Musik machen.“ | "I'll go to Bremen," he thinks. "There I can make music."
+- Auf dem Weg trifft er einen Hund. Der Hund ist auch alt und müde. | On the way he meets a dog. The dog is old and tired too.
+- „Komm mit!“, sagt der Esel. „Wir machen zusammen Musik.“ | "Come along!" says the donkey. "We'll make music together."
+- Dann treffen sie eine Katze und einen Hahn. Alle kommen mit. | Then they meet a cat and a rooster. They all come along.
+- In der Nacht sehen sie ein Haus im Wald. Im Haus sitzen Räuber und essen. | At night they see a house in the forest. Robbers are sitting in the house, eating.
+- Der Hund steht auf dem Esel, die Katze auf dem Hund und der Hahn auf der Katze. | The dog stands on the donkey, the cat on the dog and the rooster on the cat.
+- Dann machen sie zusammen „Musik“: Der Esel schreit, der Hund bellt, die Katze miaut und der Hahn kräht. | Then they make "music" together: the donkey brays, the dog barks, the cat miaows and the rooster crows.
+- Die Räuber haben Angst und laufen weg. | The robbers are afraid and run away.
+- Die vier Freunde gehen nie nach Bremen. Das Haus gefällt ihnen zu gut! | The four friends never go to Bremen. They like the house too much!
+q: Der Esel will in Bremen ___ machen. | Musik | Kaffee | Möbel | en: The donkey wants to make music in Bremen. | why: „Dort kann ich Musik machen.“
+q: Im Haus sitzen ___. | Räuber | Kinder | Könige | en: Robbers are sitting in the house. | why: „Im Haus sitzen Räuber und essen.“
+q: Die vier Freunde gehen ___ nach Bremen. | nie | oft | morgen | en: The four friends never go to Bremen. | why: „Die vier Freunde gehen nie nach Bremen.“
+
+=== u20 | dialogue | Im Fachwerkhaus
+intro: Quedlinburg has more than 1,300 half-timbered houses. Tom, the carpenter, is in heaven.
+Tom: Schau mal, Lena! Das Haus ist über fünfhundert Jahre alt! | Look, Lena! The house is over five hundred years old!
+Lena: Und es steht noch! Wie machen die Zimmerleute das? | And it's still standing! How do the carpenters do that?
+Tom: Mit gutem Holz und mit Nägeln aus Holz. Die Balken halten zusammen. | With good wood and with wooden pegs. The beams hold together.
+Lena: Die Stadt sieht aus wie in einem Märchen. | The town looks like something in a fairy tale.
+Tom: Ja! Dort oben ist das Schloss. Dort war früher ein König zu Hause. | Yes! Up there is the castle. A king used to live there.
+Lena: Ein König? Echt? | A king? Really?
+Tom: Ja, Heinrich der Erste. Er war der erste deutsche König. | Yes, Henry the First. He was the first German king.
+Lena: Dann bist du heute mein König, Herr Zimmermann. Du zeigst mir die schönste Stadt! | Then today you're my king, Mr Carpenter. You're showing me the most beautiful town!
+q: Das Haus ist über ___ Jahre alt. | fünfhundert | fünfzig | hundert | en: The house is over five hundred years old. | why: „über fünfhundert Jahre alt“
+q: Die Nägel sind aus ___. | Holz | Stein | Glas | en: The pegs are made of wood. | why: „mit Nägeln aus Holz“
+q: Die Stadt sieht aus wie in einem ___. | Märchen | Museum | Büro | en: The town looks like something in a fairy tale. | why: „wie in einem Märchen“

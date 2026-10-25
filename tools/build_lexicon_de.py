@@ -109,6 +109,9 @@ def build_noun(e, recs, report):
                 out["pl"] = m.group(1)
             else:
                 report.append(f"NOPLURAL {e['lemma']} ({head[:70]})")
+        fem = next((f for f, t in rec.get("f", []) if t == "feminine"), None)
+        if fem and g == "m":
+            out["fem"] = fem  # der Lehrer → die Lehrerin
     if "pl" in kv:
         out["pl"] = kv["pl"]
     if "gen" in kv:

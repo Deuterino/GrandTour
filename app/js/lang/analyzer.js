@@ -27,11 +27,13 @@ export function describeTag(tag, lang) {
   const [kind, rest = ''] = tag.split(':');
   const parts = rest.split('.');
   if (kind === 'X' && rest === 'number') return 'cardinal number';
+  if (kind === 'X' && rest === 'phrase') return 'set phrase: learn it as a whole';
   if (kind === 'X' && rest === 'ordinal') return 'ordinal number (takes adjective endings)';
   if (lang === 'de') {
     if (kind === 'N') {
       if (parts[0] === 'adjn') return 'adjectival noun (declines like an adjective)';
       if (parts[0] === 'dim') return 'diminutive (-chen / -lein): always das, plural unchanged';
+      if (parts[0] === 'fem') return parts[1] === 'pl' ? 'feminine plural (die …innen)' : 'feminine form of this noun (die …in)';
       if (parts[0] === 'pl') return 'plural';
       return `${CASE_EN[parts[0]] || parts[0]} ${parts[1] === 'pl' ? 'plural' : 'singular'}`;
     }
@@ -99,10 +101,40 @@ export function analyzeText(text, L) {
   const tokens = tokenize(text, L.lang);
   const words = tokens.map((t, i) => ({ ...t, i })).filter((t) => t.k === 'w');
   for (const w of words) w.cands = lookupWord(w.t, L);
+  markPhrases(words, L);
   if (L.lang === 'de') contextDE(tokens, words, L);
   else contextIT(tokens, words, L);
   for (const w of words) w.cands.sort((a, b) => b.score - a.score);
   return tokens.map((t, i) => words.find((w) => w.i === i) || t);
+}
+
+// Multi-word entries (guten Tag, auf Wiedersehen, per favore, d'accordo) indexed by their first word.
+function phraseIndex(L) {
+  if (L._phrases) return L._phrases;
+  const idx = new Map();
+  for (const e of L.entries) {
+    if (e.x || e.l.startsWith('sich ')) continue;
+    const ws = tokenize(e.l, L.lang).filter((t) => t.k === 'w').map((t) => t.t.toLowerCase());
+    if (ws.length < 2) continue;
+    if (!idx.has(ws[0])) idx.set(ws[0], []);
+    idx.get(ws[0]).push({ ws, e });
+  }
+  for (const list of idx.values()) list.sort((a, b) => b.ws.length - a.ws.length);
+  L._phrases = idx;
+  return idx;
+}
+
+// Every word inside a known phrase also gets the phrase itself as its first reading.
+function markPhrases(words, L) {
+  const idx = phraseIndex(L);
+  for (let i = 0; i < words.length; i++) {
+    const ph = (idx.get(words[i].t.toLowerCase()) || []).find((p) => p.ws.every((w, j) => words[i + j]?.t.toLowerCase() === w));
+    if (!ph) continue;
+    for (let j = 0; j < ph.ws.length; j++) {
+      words[i + j].cands.unshift({ entry: ph.e, tags: ['X:phrase'], score: 2, notes: [`Part of the phrase “${ph.e.l}”.`] });
+    }
+    i += ph.ws.length - 1;
+  }
 }
 
 // All readings of one word, without context.
@@ -129,6 +161,12 @@ export function lookupWord(word, L) {
     const [lemma, note] = archaic;
     const e = L.lemma(lemma, 'v') || L.lemma(lemma);
     if (e) cands = [{ entry: e, tags: [], score: 0, notes: [note] }];
+  }
+  // geht's, gibt's, hab's: colloquial verb + es
+  if (!cands.length && L.lang === 'de' && /['’]s$/.test(word)) {
+    const base = word.slice(0, -2);
+    cands = group(L, L.lookupForm(base));
+    cands.forEach((x) => x.notes.push(`${word} = ${base} es (colloquial).`));
   }
   // educated guesses below give way to the extended dictionary when it knows the word (marina is not "little sea")
   const guess = !cands.length && !(L.ext && L.ext.lookup(word).length);

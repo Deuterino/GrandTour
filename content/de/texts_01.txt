@@ -1,0 +1,278 @@
+# German unit stories, units 1–10 (Der Norden). Tom, a young English carpenter, starts his
+# journeyman years (die Wanderjahre) in Hamburg and meets Lena, a student.
+
+=== u1 | dialogue | Moin!
+intro: Tom arrives at the harbour in Hamburg. A young woman greets him the northern way.
+Lena: Moin! | Hi! (Moin is the northern hello, at any time of day.)
+Tom: Moin! Guten Tag! | Hi! Good afternoon!
+Lena: Wie heißt du? | What's your name?
+Tom: Ich heiße Tom. Und du? | My name is Tom. And you?
+Lena: Ich heiße Lena. Woher kommst du, Tom? | I'm Lena. Where are you from, Tom?
+Tom: Ich komme aus England. Und du? | I'm from England. And you?
+Lena: Ich komme aus Hamburg. Ich wohne auch in Hamburg. | I'm from Hamburg. I live in Hamburg too.
+Tom: Super! Wie geht's? | Great! How are you?
+Lena: Gut, danke! Und du? | Fine, thanks! And you?
+Tom: Sehr gut, danke. | Very well, thank you.
+Lena: Tschüss, Tom! Bis bald! | Bye, Tom! See you soon!
+Tom: Tschüss, Lena! Auf Wiedersehen! | Bye, Lena! Goodbye!
+q: Tom kommt aus ___. | England | Hamburg | Deutschland | en: Tom comes from England. | why: „Ich komme aus England.“
+q: Lena wohnt in ___. | Hamburg | England | Kiel | en: Lena lives in Hamburg. | why: „Ich wohne auch in Hamburg.“
+q: „Wie geht's?“ — „Sehr ___, danke.“ | gut | schade | Mist | en: "How are you?" — "Very well, thanks." | why: gut = good, well
+
+=== u1 | dialogue | Guten Abend, Frau Weber
+intro: In the evening Tom knocks at a little guesthouse. With an older stranger he uses Sie.
+Tom: Guten Abend! Entschuldigung, wie heißen Sie? | Good evening! Excuse me, what is your name?
+Frau Weber: Guten Abend! Ich heiße Weber. Frau Weber. | Good evening! My name is Weber. Mrs Weber.
+Tom: Ich heiße Tom. Ich komme aus England. | My name is Tom. I'm from England.
+Frau Weber: Aus England? Prima! Und wo wohnen Sie? | From England? Splendid! And where do you live?
+Tom: Ich wohne nicht in Hamburg. Ich wohne in London. | I don't live in Hamburg. I live in London.
+Frau Weber: Ach so. Gute Nacht, Herr Tom! | I see. Good night, Mr Tom!
+Tom: Danke! Gute Nacht! | Thank you! Good night!
+q: Tom: „Guten Abend! Wie heißen ___?“ | Sie | du | ich | en: Tom: "Good evening! What is your name?" | why: Sie is the polite "you" for adults you don't know
+q: Tom wohnt in ___. | London | Hamburg | Kiel | en: Tom lives in London. | why: „Ich wohne in London.“
+
+=== u2 | dialogue | Wer ist das?
+intro: In Lübeck, Lena shows Tom a photo of her friends.
+Tom: Wer ist das? | Who is that?
+Lena: Das ist Paul. Er ist Student. | That's Paul. He's a student.
+Tom: Und das Mädchen? | And the girl?
+Lena: Das ist Mia. Sie ist noch klein, aber sehr nett. | That's Mia. She is still little, but very nice.
+Tom: Und wer ist das hier? | And who is this here?
+Lena: Das ist Herr Schmidt. Er ist Lehrer. Er ist alt, aber nett. | That's Mr Schmidt. He's a teacher. He's old, but nice.
+Tom: Ist er dein Lehrer? | Is he your teacher?
+Lena: Ja! Und das ist Max. Er ist Arzt. | Yes! And that's Max. He's a doctor.
+Tom: Max ist groß! | Max is tall!
+Lena: Ja, Max ist sehr groß. Wir sind Freunde. | Yes, Max is very tall. We are friends.
+Tom: Und ich? | And me?
+Lena: Du bist auch ein Freund! | You're a friend too!
+q: Paul ist ___. | Student | Lehrer | Arzt | en: Paul is a student. | why: „Er ist Student.“
+q: Herr Schmidt ist alt, aber ___. | nett | klein | jung | en: Mr Schmidt is old, but nice. | why: „Er ist alt, aber nett.“
+q: Max ist sehr ___. | groß | klein | alt | en: Max is very tall. | why: „Max ist sehr groß.“
+
+=== u2 | reading | Was ist er? Was ist sie?
+intro: Lena's little sister Mia asks questions the way old grammar books did, and Lena answers.
+- Mia: Ist Tom ein Mann oder ein Junge? | Mia: Is Tom a man or a boy?
+- Lena: Tom ist ein Mann. Er ist jung. | Lena: Tom is a man. He's young.
+- Mia: Ist Herr Schmidt jung? | Mia: Is Mr Schmidt young?
+- Lena: Nein, er ist nicht jung. Er ist alt. | Lena: No, he isn't young. He's old.
+- Mia: Was ist Herr Schmidt? | Mia: What is Mr Schmidt?
+- Lena: Er ist Lehrer. | Lena: He's a teacher.
+- Mia: Und was bin ich? | Mia: And what am I?
+- Lena: Du bist ein Kind. Du bist mein Kind! | Lena: You're a child. You're my child!
+- Mia: Nein! Ich bin ein Mädchen! | Mia: No! I'm a girl!
+q: Tom ist ein Mann. Er ist ___. | jung | alt | klein | en: Tom is a man. He is young. | why: „Er ist jung.“
+q: Mia ist ein ___. | Mädchen | Junge | Mann | en: Mia is a girl. | why: „Ich bin ein Mädchen!“
+
+=== u3 | dialogue | Die Oma in Kiel
+intro: Lena's grandmother lives in Kiel, by the Baltic. Tom and Lena visit her.
+Oma: Hallo! Du bist Tom? | Hello! You're Tom?
+Tom: Ja, guten Tag! Ich bin Lenas Freund. | Yes, good afternoon! I'm Lena's friend.
+Oma: Prima! Hast du Geschwister, Tom? | Splendid! Do you have brothers and sisters, Tom?
+Tom: Ja, ich habe einen Bruder und eine Schwester. | Yes, I have a brother and a sister.
+Oma: Und deine Eltern? Wo wohnen sie? | And your parents? Where do they live?
+Tom: Mein Vater und meine Mutter wohnen in London. | My father and my mother live in London.
+Lena: Ich habe nur einen Onkel und eine Tante. Und eine Katze! | I only have an uncle and an aunt. And a cat!
+Oma: Und eine Oma! | And a grandma!
+Lena: Ja, und eine Oma! Ich liebe dich, Oma. | Yes, and a grandma! I love you, Grandma.
+Oma: Ich liebe dich auch. | I love you too.
+q: Tom hat einen Bruder und eine ___. | Schwester | Tochter | Tante | en: Tom has a brother and a sister. | why: „Ich habe einen Bruder und eine Schwester.“
+q: Toms Eltern wohnen in ___. | London | Kiel | Hamburg | en: Tom's parents live in London. | why: „Mein Vater und meine Mutter wohnen in London.“
+q: Lena hat eine ___. | Katze | Tochter | Schwester | en: Lena has a cat. | why: „Und eine Katze!“
+
+=== u3 | reading | Die Familie Weber
+intro: A family portrait in the style of an old school reader: who belongs to whom?
+- Das ist die Familie Weber. | This is the Weber family.
+- Der Vater heißt Peter. Die Mutter heißt Anna. | The father is called Peter. The mother is called Anna.
+- Peter und Anna sind verheiratet. | Peter and Anna are married.
+- Sie haben einen Sohn und eine Tochter. | They have a son and a daughter.
+- Der Sohn heißt Felix. Die Tochter heißt Emma. | The son is called Felix. The daughter is called Emma.
+- Felix ist der Bruder von Emma. Emma ist die Schwester von Felix. | Felix is Emma's brother. Emma is Felix's sister.
+- Die Familie hat auch einen Hund. Der Hund heißt Max. | The family also has a dog. The dog is called Max.
+- Der Hund ist auch ein Teil der Familie! | The dog is part of the family too!
+q: Peter und Anna sind ___. | verheiratet | ledig | Geschwister | en: Peter and Anna are married. | why: „Peter und Anna sind verheiratet.“
+q: Emma ist die ___ von Felix. | Schwester | Mutter | Tante | en: Emma is Felix's sister. | why: „Emma ist die Schwester von Felix.“
+q: Der Hund heißt ___. | Max | Felix | Peter | en: The dog is called Max. | why: „Der Hund heißt Max.“
+
+=== u4 | dialogue | Was machst du?
+intro: In Bremen, beside the bronze Town Musicians (a donkey, a dog, a cat and a rooster), Tom meets Jan, who works in a café.
+Jan: Hallo! Was machst du hier in Bremen? | Hi! What are you doing here in Bremen?
+Tom: Ich bin Zimmermann. Ich arbeite hier. | I'm a carpenter. I work here.
+Jan: Und was machst du heute? | And what are you doing today?
+Tom: Heute arbeite ich nicht. Heute lerne ich Deutsch. Ich lese und ich schreibe viel. | Today I'm not working. Today I'm learning German. I read and I write a lot.
+Jan: Verstehst du alles? | Do you understand everything?
+Tom: Nein, nicht alles! Aber ich frage oft, und ich lerne immer etwas. | No, not everything! But I ask a lot, and I always learn something.
+Jan: Ich lerne Englisch. Ich höre gern Musik auf Englisch. | I'm learning English. I like listening to music in English.
+Tom: Super! Und was trinkst du gern? | Great! And what do you like to drink?
+Jan: Kaffee! Ich trinke immer Kaffee. Ich arbeite ja im Café! | Coffee! I always drink coffee. I do work in the café, after all!
+Tom: Ich trinke auch gern Kaffee. | I like drinking coffee too.
+q: Tom ist ___. | Zimmermann | Student | Lehrer | en: Tom is a carpenter. | why: „Ich bin Zimmermann.“
+q: Heute lernt Tom ___. | Deutsch | Englisch | Kaffee | en: Today Tom is learning German. | why: „Heute lerne ich Deutsch.“
+q: Jan trinkt ___ Kaffee. | immer | nie | nicht | en: Jan always drinks coffee. | why: „Ich trinke immer Kaffee.“
+
+=== u4 | gouin | Ein neues Wort
+intro: A Gouin series: everyday actions told in the order they happen. Read it, then put the steps back in order.
+- Ich höre ein Wort. | I hear a word.
+- Ich verstehe das Wort nicht. | I don't understand the word.
+- Ich frage Lena: „Was heißt das?“ | I ask Lena: "What does that mean?"
+- Lena antwortet. | Lena answers.
+- Jetzt verstehe ich das Wort. | Now I understand the word.
+- Ich schreibe das Wort in mein Heft. | I write the word in my notebook.
+- Ich lerne das Wort. | I learn the word.
+- Ich kenne das Wort jetzt! | Now I know the word!
+
+=== u5 | dialogue | Was heißt das?
+intro: In Hannover, where people say the most "standard" German is spoken, Tom asks a lady at a café about words.
+Tom: Entschuldigung, sprechen Sie Englisch? | Excuse me, do you speak English?
+Frau Klein: Ja, aber nicht gut. Sprechen Sie Deutsch? | Yes, but not well. Do you speak German?
+Tom: Ja, ich lerne Deutsch. Was heißt das Wort „Moin“? | Yes, I'm learning German. What does the word "Moin" mean?
+Frau Klein: „Moin“ heißt „guten Tag“. Man sagt es im Norden. | "Moin" means "good day". People say it in the north.
+Tom: Ach so! Und warum sagt man nicht „Moin“ in Hannover? | I see! And why don't people say "Moin" in Hannover?
+Frau Klein: Man sagt es hier auch, aber nicht so oft. | People say it here too, but not so often.
+Tom: Wie bitte? Langsam, bitte! | Pardon? Slowly, please!
+Frau Klein: Man sagt es hier auch. Aber nicht so oft. | People say it here too. But not so often.
+Tom: Ah, klar. Danke! | Ah, I see. Thank you!
+Frau Klein: Gern geschehen! Sie sprechen schon sehr gut Deutsch. | You're welcome! You already speak very good German.
+q: Frau Klein spricht ___ gut Englisch. | nicht | sehr | immer | en: Mrs Klein doesn't speak English well. | why: „Ja, aber nicht gut.“
+q: „Moin“ sagt man im ___. | Norden | Süden | Hannover | en: People say "Moin" in the north. | why: „Man sagt es im Norden.“
+q: Tom sagt: „___, bitte!“ | Langsam | Schnell | Später | en: Tom says: "Slowly, please!" | why: he asks her to speak slowly
+
+=== u5 | reading | Fragen über Fragen
+intro: Questions with W-words, and the answers: an Ollendorff-style exercise.
+- Wer ist Tom? — Tom ist ein Freund von Lena. | Who is Tom? — Tom is a friend of Lena's.
+- Woher kommt Tom? — Er kommt aus England. | Where does Tom come from? — He comes from England.
+- Wo ist Tom jetzt? — Er ist in Hannover. | Where is Tom now? — He's in Hannover.
+- Wohin geht Tom morgen? — Er geht nach Lüneburg. | Where is Tom going tomorrow? — He's going to Lüneburg.
+- Welche Sprache lernt er? — Er lernt Deutsch. | Which language is he learning? — He's learning German.
+- Warum lernt er Deutsch? — Er arbeitet in Deutschland. | Why is he learning German? — He works in Germany.
+- Wann lernt er? — Er lernt jeden Tag. | When does he study? — He studies every day.
+q: Tom lernt ___. | Deutsch | Englisch | Italienisch | en: Tom is learning German. | why: „Er lernt Deutsch.“
+q: Morgen geht Tom nach ___. | Lüneburg | London | Hamburg | en: Tomorrow Tom is going to Lüneburg. | why: „Er geht nach Lüneburg.“
+
+=== u6 | dialogue | Ein Zimmer in Lüneburg
+intro: Tom needs a room for a few weeks. Mrs Meyer shows him the flat.
+Frau Meyer: Hier ist die Wohnung. Das ist die Küche. | Here is the flat. This is the kitchen.
+Tom: Die Küche ist schön. Und wo ist das Bad? | The kitchen is nice. And where is the bathroom?
+Frau Meyer: Das Bad ist hier, neben der Küche. | The bathroom is here, next to the kitchen.
+Tom: Und mein Zimmer? | And my room?
+Frau Meyer: Das hier. Es hat zwei Fenster, ein Bett, einen Tisch und zwei Stühle. | This one. It has two windows, a bed, a table and two chairs.
+Tom: Gibt es auch einen Schrank? | Is there a wardrobe too?
+Frau Meyer: Ja, natürlich. Und eine Lampe. Hier sind die Schlüssel: der Schlüssel für die Tür und der Schlüssel für den Garten. | Yes, of course. And a lamp. Here are the keys: the key for the door and the key for the garden.
+Tom: Danke! Das Haus ist sehr alt, oder? | Thank you! The house is very old, isn't it?
+Frau Meyer: Ja, sehr alt. Die Häuser in Lüneburg sind schief, aber sicher! | Yes, very old. The houses in Lüneburg are crooked, but safe!
+q: Das Zimmer hat zwei ___. | Fenster | Betten | Küchen | en: The room has two windows. | why: „Es hat zwei Fenster.“ (das Fenster, die Fenster)
+q: Das Bad ist neben der ___. | Küche | Tür | Wohnung | en: The bathroom is next to the kitchen. | why: „Das Bad ist hier, neben der Küche.“
+q: Die Häuser in Lüneburg sind schief, aber ___. | sicher | neu | klein | en: The houses in Lüneburg are crooked but safe. | why: „schief, aber sicher!“
+
+=== u6 | gouin | Ich komme nach Hause
+intro: A Gouin series: coming home in the evening. Read it, then put the steps back in order.
+- Ich komme nach Hause. | I come home.
+- Ich suche den Schlüssel. | I look for the key.
+- Ich finde den Schlüssel. | I find the key.
+- Ich öffne die Tür. | I open the door.
+- Ich gehe in die Küche. | I go into the kitchen.
+- Ich setze mich auf den Stuhl. | I sit down on the chair.
+- Ich bleibe eine Stunde da. | I stay there for an hour.
+- Dann gehe ich ins Bett. | Then I go to bed.
+
+=== u7 | dialogue | Frühstück im Gasthaus
+intro: Breakfast in a guesthouse in Schwerin, near the castle on the lake.
+Wirtin: Guten Morgen! Kaffee oder Tee? | Good morning! Coffee or tea?
+Tom: Guten Morgen! Kaffee, bitte. Mit Milch, aber ohne Zucker. | Good morning! Coffee, please. With milk, but without sugar.
+Wirtin: Hier ist Brot, Butter und Käse. Möchten Sie auch Wurst? | Here is bread, butter and cheese. Would you like some sausage too?
+Tom: Nein danke, ich esse kein Fleisch. | No thanks, I don't eat meat.
+Wirtin: Kein Fleisch? Auch keinen Fisch? | No meat? No fish either?
+Tom: Doch, Fisch esse ich gern. | Oh yes, I like eating fish.
+Wirtin: Gut. Und einen Apfel? | Good. And an apple?
+Tom: Ja, gern. Das Frühstück ist sehr lecker! | Yes, please. The breakfast is very tasty!
+Wirtin: Danke! Guten Appetit! | Thank you! Enjoy your meal!
+q: Tom trinkt Kaffee mit ___. | Milch | Zucker | Tee | en: Tom drinks coffee with milk. | why: „Mit Milch, aber ohne Zucker.“
+q: Tom isst kein ___. | Fleisch | Brot | Käse | en: Tom doesn't eat meat. | why: „Ich esse kein Fleisch.“
+q: „Auch keinen Fisch?“ — „___, Fisch esse ich gern.“ | Doch | Nein | Ja | en: "No fish either?" — "Oh yes, I like fish." | why: doch = yes, contradicting a negative question
+
+=== u7 | gouin | Ich mache Kaffee
+intro: A Gouin series: making coffee in the morning. Read it, then put the steps back in order.
+- Ich gehe in die Küche. | I go into the kitchen.
+- Ich nehme Wasser. | I take some water.
+- Ich koche das Wasser. | I boil the water.
+- Ich mache den Kaffee. | I make the coffee.
+- Ich nehme eine Tasse. | I take a cup.
+- Ich trinke den Kaffee. | I drink the coffee.
+- Der Kaffee ist heiß und lecker. | The coffee is hot and tasty.
+
+=== u8 | dialogue | Die alte Uhr
+intro: In St Mary's Church in Rostock, Tom looks at the astronomical clock from 1472.
+Tom: Entschuldigung, wie spät ist es? | Excuse me, what time is it?
+Mann: Es ist halb zwölf. | It's half past eleven.
+Tom: Danke! Ist die Uhr wirklich so alt? | Thank you! Is the clock really that old?
+Mann: Ja, sie ist über fünfhundert Jahre alt. | Yes, it's over five hundred years old.
+Tom: Und sie geht noch? | And it still works?
+Mann: Ja! Um zwölf Uhr kommen die Apostel. Das dauert ein paar Minuten. | Yes! At twelve o'clock the apostles come out. It lasts a few minutes.
+Tom: Um zwölf? Das ist in einer halben Stunde. | At twelve? That's in half an hour.
+Mann: Genau. Kommen Sie um Viertel vor zwölf wieder! | Exactly. Come back at a quarter to twelve!
+q: Es ist halb ___. | zwölf | elf | zehn | en: It's half past eleven (halb zwölf). | why: German counts towards the next hour: halb zwölf = 11:30
+q: Die Uhr ist über ___ Jahre alt. | fünfhundert | fünfzig | tausend | en: The clock is over five hundred years old. | why: „über fünfhundert Jahre alt“
+q: Die Apostel kommen um ___ Uhr. | zwölf | elf | eins | en: The apostles come out at twelve o'clock. | why: „Um zwölf Uhr kommen die Apostel.“
+
+=== u8 | reading | Wie spät ist es?
+intro: Telling the time, the German way: halb means "half way to" the next hour.
+- 8:00 — Es ist acht Uhr. | It's eight o'clock.
+- 8:15 — Es ist Viertel nach acht. | It's a quarter past eight.
+- 8:30 — Es ist halb neun. | It's half past eight. (half way to nine)
+- 8:45 — Es ist Viertel vor neun. | It's a quarter to nine.
+- 8:50 — Es ist zehn vor neun. | It's ten to nine.
+- 20:05 — Es ist zwanzig Uhr fünf. | It's 8:05 p.m. (official time)
+q: 9:30 = Es ist halb ___. | zehn | neun | acht | en: 9:30 = It's half past nine. | why: halb zehn = half way to ten
+q: 7:45 = Es ist Viertel ___ acht. | vor | nach | halb | en: 7:45 = It's a quarter to eight. | why: Viertel vor acht
+
+=== u9 | dialogue | Auf dem Markt
+intro: Market day in Stralsund. Tom buys lunch.
+Verkäuferin: Guten Tag! Was möchten Sie? | Good afternoon! What would you like?
+Tom: Ich möchte ein Fischbrötchen, bitte. | I'd like a fish roll, please.
+Verkäuferin: Mit Zwiebeln? | With onions?
+Tom: Ja, gern. Und einen Apfel, bitte. Was kostet der Apfel? | Yes, please. And an apple, please. How much is the apple?
+Verkäuferin: Fünfzig Cent. Das Fischbrötchen kostet vier Euro. | Fifty cents. The fish roll costs four euros.
+Tom: Vier Euro? Das ist nicht billig! | Four euros? That's not cheap!
+Verkäuferin: Der Fisch ist ganz frisch, von heute! | The fish is very fresh, from today!
+Tom: Na gut. Ich nehme das Fischbrötchen und den Apfel. Kann ich mit Karte zahlen? | All right. I'll take the fish roll and the apple. Can I pay by card?
+Verkäuferin: Nein, leider nur bar. | No, unfortunately only cash.
+Tom: Kein Problem. Hier sind fünf Euro. | No problem. Here are five euros.
+Verkäuferin: Danke, und fünfzig Cent zurück. | Thank you, and fifty cents change.
+q: Das Fischbrötchen kostet ___ Euro. | vier | fünf | fünfzig | en: The fish roll costs four euros. | why: „Das Fischbrötchen kostet vier Euro.“
+q: Tom bezahlt ___. | bar | mit Karte | nichts | en: Tom pays cash. | why: „nur bar“ — and he gives her five euros
+q: Tom nimmt den Apfel und das ___. | Fischbrötchen | Brot | Wasser | en: Tom takes the apple and the fish roll. | why: „Ich nehme das Fischbrötchen und den Apfel.“
+
+=== u9 | gouin | Im Supermarkt
+intro: A Gouin series: shopping. Read it, then put the steps back in order.
+- Ich gehe in den Supermarkt. | I go into the supermarket.
+- Ich nehme einen Korb. | I take a basket.
+- Ich suche Brot, Käse und Milch. | I look for bread, cheese and milk.
+- Ich lege alles in den Korb. | I put everything in the basket.
+- Ich gehe zur Kasse. | I go to the checkout.
+- Ich bezahle. | I pay.
+- Ich lege alles in meine Tasche. | I put everything in my bag.
+
+=== u10 | reading | Eine Karte von Rügen
+intro: Tom spends a few days on the island of Rügen and writes a postcard to Lena.
+- Liebe Lena, | Dear Lena,
+- ich bin jetzt auf Rügen. Die Insel ist wunderschön! | I'm on Rügen now. The island is beautiful!
+- Das Wetter ist gut: Die Sonne scheint und es ist warm. | The weather is good: the sun is shining and it's warm.
+- Ich schwimme jeden Tag im Meer. Das Wasser ist kalt, aber schön. | I swim in the sea every day. The water is cold, but lovely.
+- Am Strand ist viel Wind. | There's a lot of wind on the beach.
+- Heute sehe ich die weißen Felsen. Sie sind sehr hoch. | Today I'm seeing the white cliffs. They are very high.
+- Ein Maler, Caspar David Friedrich, hat sie gemalt. | A painter, Caspar David Friedrich, painted them.
+- Im Juli fahre ich weiter nach Berlin. | In July I'm travelling on to Berlin.
+- Bis bald! Dein Tom | See you soon! Your Tom
+q: Auf Rügen scheint die ___. | Sonne | Wind | Meer | en: On Rügen the sun is shining. | why: „Die Sonne scheint.“
+q: Das Wasser ist kalt, aber ___. | schön | warm | hoch | en: The water is cold, but lovely. | why: „Das Wasser ist kalt, aber schön.“
+q: Im Juli fährt Tom nach ___. | Berlin | Hamburg | Rügen | en: In July Tom is going on to Berlin. | why: „Im Juli fahre ich weiter nach Berlin.“
+
+=== u10 | reading | Die Jahreszeiten
+intro: An old school-reader text about the four seasons.
+- Das Jahr hat vier Jahreszeiten: Frühling, Sommer, Herbst und Winter. | The year has four seasons: spring, summer, autumn and winter.
+- Im Frühling ist es nicht mehr kalt. Die Blumen kommen. | In spring it's no longer cold. The flowers come.
+- Im Sommer ist es warm. Wir schwimmen im Meer und gehen an den Strand. | In summer it's warm. We swim in the sea and go to the beach.
+- Im Herbst ist viel Wind. Die Blätter fallen. | In autumn there's a lot of wind. The leaves fall.
+- Im Winter ist es kalt. Manchmal fällt Schnee. | In winter it's cold. Sometimes snow falls.
+- Ein Jahr hat zwölf Monate. Welcher Monat ist dein Monat? | A year has twelve months. Which month is your month?
+q: Das Jahr hat ___ Jahreszeiten. | vier | zwölf | zwei | en: The year has four seasons. | why: „Das Jahr hat vier Jahreszeiten.“
+q: Im Herbst fallen die ___. | Blätter | Blumen | Monate | en: In autumn the leaves fall. | why: „Im Herbst … Die Blätter fallen.“

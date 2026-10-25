@@ -1,0 +1,57 @@
+# German core vocabulary, part 11 — words the unit stories need
+# work
+Zimmermann|n.m|carpenter (timber framing)|note=Plural Zimmerleute. Journeymen carpenters on the Walz wear black corduroy and a wide-brimmed hat.
+Tischler|n.m|cabinetmaker, joiner|note=In the south: Schreiner. Feminine Tischlerin.
+Walz|n.f|journeyman's travels|note=auf der Walz sein = to be on the road as a journeyman (traditionally three years and a day).
+# food
+Café|n.n|café|note=das Café (the place) vs. der Kaffee (the drink).
+# money
+bar|adv|in cash|note=bar bezahlen = to pay cash; das Bargeld = cash.
+# home
+Korb|n.m|basket|note=Plural Körbe. Einen Korb bekommen = to be turned down.
+# story
+Apostel|n.m|apostle
+# greet
+ah|intj|ah, oh
+# story
+These|n.f|thesis|note=Plural Thesen: Luther's 95 Thesen (1517).
+Messias|n.m|Messiah|note=Händel's oratorio „Der Messias“.
+Mönch|n.m|monk
+Maul|n.n|mouth (of an animal); (coarse) gob|note=Luther: „dem Volk aufs Maul schauen“ = listen to how ordinary people talk.
+Statue|n.f|statue
+# travel
+mitfahren|v|to ride along, to get a lift|note=Separable: Ich fahre mit. Kann ich mitfahren?
+ab|prep|from (a time or place) on; off|note=ab Montag = from Monday on; ab Gleis 3. Also a separable prefix: abfahren.
+# work
+Postbote|n.m|postman, mail carrier|note=Weak noun: den Postboten. Feminine Postbotin.
+Jurist|n.m|lawyer, jurist|note=Weak noun: den Juristen.
+Säge|n.f|saw
+Balken|n.m|beam (of wood)
+# people
+Italiener|n.m|Italian (man); (coll.) Italian restaurant|note=zum Italiener gehen = to go to an Italian restaurant. Feminine Italienerin.
+# desc
+heimlich|a|secret; secretly
+# nature
+krähen|v|to crow|note=Der Hahn kräht.
+# work
+Porzellan|n.n|porcelain, china|note=Meißner Porzellan: Europe's first hard porcelain (1710).
+Platte|n.f|plate, slab; top (of a table)|note=die Tischplatte = tabletop.
+Pilot|n.m|pilot|note=Weak noun: den Piloten.
+# free
+Dichter|n.m|poet, writer|note=Goethe and Schiller: die Dichter von Weimar.
+Chor|n.m|choir|note=der Thomanerchor in Leipzig sings Bach.
+Star|n.m|star (celebrity)|note=A star in the sky is der Stern.
+Planetarium|n.n|planetarium|note=Plural Planetarien.
+# city
+Denkmal|n.n|monument|note=Plural Denkmäler.
+# story
+Testament|n.n|testament; will|note=das Neue Testament = the New Testament.
+Junker|n.m|squire, young nobleman|reg=lit
+Tinte|n.f|ink
+Fass|n.n|barrel, cask|note=das Tintenfass = inkpot.
+Fleck|n.m|stain, spot|note=Plural Flecken.
+# soc
+demonstrieren|v|to demonstrate, to protest
+einstürzen|v|to collapse|note=Separable; with sein: Die Kirche ist eingestürzt.
+# greet
+hm|intj|hm, hmm

@@ -190,7 +190,7 @@ sowieso|adv|anyway, in any case
 irgendwie|adv|somehow
 nämlich|adv|namely; you see (giving a reason)|note=Ich kann nicht kommen, ich bin nämlich krank.
 einfach|adv|simply, just; (adj.) simple, easy
-echt|adv|really (coll); (adj.) real, genuine
+echt|a|real, genuine; (coll.) really|note=Das ist echt gut! = That is really good! ein echtes Bild = a genuine painting.
 total|adv|totally (coll)
 ganz und gar|phr|completely, utterly
 

@@ -180,6 +180,10 @@ function buildFormsDE(L) {
       } else if (e.pl) add(m, e.pl, id, 'N:pl');
       if (e.gen) add(m, e.gen, id, 'N:gen.sg');
       for (const [k, f] of Object.entries(e.alt || {})) add(m, f, id, `N:${DE.CASES[+k.slice(2)]}.${k.slice(0, 2)}`);
+      if (e.fem) { // die Lehrerin, die Lehrerinnen
+        add(m, e.fem, id, 'N:fem');
+        add(m, e.fem + (e.fem.endsWith('in') ? 'nen' : 'n'), id, 'N:fem.pl');
+      }
     } else if (e.p === 'v' && e.v) {
       const inf = DE.infinitive(e);
       add(m, inf, id, 'V:inf');
@@ -267,6 +271,13 @@ function addFunctionWordsDE(L, m) {
   }
   const werden = L.lemma('werden', 'v');
   if (werden) add(m, 'worden', werden.id, 'V:pp.passive'); // Das Haus ist gebaut worden.
+  // viel, wenig, beide, einige, alle…: endings like adjectives (viele Leute, mit vielen Freunden, beides)
+  for (const lemma of ['viel', 'wenig', 'beide', 'einige', 'mehrere', 'manche', 'alle']) {
+    const e = L.lemma(lemma, 'det');
+    if (!e) continue;
+    const stem = lemma.replace(/e$/, '');
+    for (const end of ADJ_ENDINGS) add(m, stem + end, e.id, 'A:pos.decl');
+  }
 }
 
 // ---------- Italian forms ----------

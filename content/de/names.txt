@@ -238,3 +238,21 @@ Hoffmann|name|Hoffmann (common surname)
 Schröder|name|Schröder (common surname)
 Neumann|name|Neumann (common surname)
 Krüger|name|Krüger (common surname)
+Caspar|name|Caspar (David Friedrich), painter (1774–1840)
+David|name|David
+Halle|city|Halle (Saale): Handel's birthplace
+Sanssouci|place|Sanssouci, Frederick the Great's palace in Potsdam
+Georg|name|Georg (George)
+Martin|name|Martin
+Preußen|country|Prussia
+Bauhaus|place|the Bauhaus school of design (Weimar, Dessau, Berlin)
+Halloren|name|Halloren, Germany's oldest chocolate factory (Halle, 1804)
+Ampelmännchen|name|the little traffic-light man of East Berlin
+Marx|name|Karl Marx (1818–1883)
+Nischel|name|"der Nischel": Saxon nickname for the Karl Marx head in Chemnitz
+Jörg|name|Jörg (a form of Georg)
+Nikolaikirche|place|St Nicholas Church, Leipzig
+Thomaskirche|place|St Thomas Church, Leipzig (Bach)
+Frauenkirche|place|Church of Our Lady (Dresden, Munich)
+Meißner|name|from Meißen (invariable): Meißner Porzellan
+Zeiss|name|Carl Zeiss (1816–1888), optics maker in Jena

@@ -1,0 +1,250 @@
+# German unit stories, units 21–30 (Sachsen und Thüringen).
+
+=== u21 | dialogue | Was hast du gestern gemacht?
+intro: Tom is working in Leipzig. On Sunday evening Lena calls him.
+Lena: Hallo Tom! Was hast du gestern gemacht? | Hi Tom! What did you do yesterday?
+Tom: Gestern habe ich nicht gearbeitet. Am Morgen habe ich lange geschlafen. | Yesterday I didn't work. In the morning I slept for a long time.
+Lena: Und dann? | And then?
+Tom: Dann habe ich in einem Café gefrühstückt und die Zeitung gelesen. | Then I had breakfast in a café and read the newspaper.
+Lena: Hast du die Thomaskirche gesehen? | Did you see St Thomas Church?
+Tom: Ja! Am Nachmittag habe ich dort ein Konzert gehört. Ein Chor hat Bach gesungen. | Yes! In the afternoon I heard a concert there. A choir sang Bach.
+Lena: Toll! Bach hat dort siebenundzwanzig Jahre gearbeitet. | Great! Bach worked there for twenty-seven years.
+Tom: Das hat mir die Frau neben mir auch gesagt. Sie hat mir viel erklärt. | The woman next to me told me that too. She explained a lot to me.
+Lena: Und am Abend? | And in the evening?
+Tom: Am Abend habe ich gekocht und ein Buch gelesen. Ein ruhiger Tag! | In the evening I cooked and read a book. A quiet day!
+q: Am Morgen hat Tom lange ___. | geschlafen | gearbeitet | gekocht | en: In the morning Tom slept for a long time. | why: schlafen → hat geschlafen
+q: In der Thomaskirche hat ein Chor ___ gesungen. | Bach | Händel | Luther | en: In St Thomas Church a choir sang Bach. | why: „Ein Chor hat Bach gesungen.“
+q: Am Abend hat Tom ___. | gekocht | getanzt | gefragt | en: In the evening Tom cooked. | why: kochen → hat gekocht
+
+=== u21 | reading | Montag in Leipzig
+intro: In autumn 1989, the people of Leipzig went onto the streets every Monday. The Perfekt tells what happened.
+- Im Herbst 1989 haben viele Menschen in Leipzig demonstriert. | In autumn 1989 many people demonstrated in Leipzig.
+- Sie haben jeden Montag in der Nikolaikirche gebetet. | Every Monday they prayed in St Nicholas Church.
+- Dann haben sie Kerzen genommen und sind auf die Straße gegangen. | Then they took candles and went out onto the street.
+- Sie haben gerufen: „Wir sind das Volk!“ | They shouted: "We are the people!"
+- Am 9. Oktober haben siebzigtausend Menschen demonstriert, ohne Gewalt. | On 9 October seventy thousand people demonstrated, without violence.
+- Einen Monat später ist die Mauer in Berlin gefallen. | One month later the Wall in Berlin fell.
+q: Die Menschen haben ___ genommen. | Kerzen | Steine | Fahnen | en: The people took candles. | why: „Dann haben sie Kerzen genommen“
+q: Sie haben gerufen: „Wir sind das ___!“ | Volk | Land | Recht | en: They shouted: "We are the people!" | why: „Wir sind das Volk!“
+
+=== u21 | gouin | Gestern Morgen
+intro: A Gouin series in the Perfekt: what I did yesterday morning. Put the steps back in order.
+- Ich habe den Wecker gehört. | I heard the alarm clock.
+- Ich habe kurz gewartet. | I waited for a moment.
+- Ich habe mich gewaschen. | I washed.
+- Ich habe Kaffee gekocht. | I made coffee.
+- Ich habe ein Brot mit Käse gegessen. | I ate a slice of bread with cheese.
+- Ich habe die Zeitung gelesen. | I read the newspaper.
+- Ich habe die Tür abgeschlossen. | I locked the door.
+
+=== u22 | dialogue | Wohin bist du gefahren?
+intro: Tom has travelled on to Dresden. He tells Lena about his trip.
+Lena: Wohin bist du gefahren? | Where did you go?
+Tom: Ich bin nach Dresden gefahren. Ich bin am Freitag angekommen. | I went to Dresden. I arrived on Friday.
+Lena: Mit dem Zug? | By train?
+Tom: Nein, ich bin mitgefahren, mit einem Kollegen. Dann bin ich zu Fuß in die Stadt gegangen. | No, I got a lift with a colleague. Then I walked into town.
+Lena: Und was ist dann passiert? | And then what happened?
+Tom: Ich bin an der Elbe gewandert. Dann bin ich in die Frauenkirche gegangen. Sie ist wunderschön! | I walked along the Elbe. Then I went into the Frauenkirche. It's beautiful!
+Lena: Bist du auch oben gewesen? | Did you go up too?
+Tom: Ja! Ich bin ganz nach oben gestiegen. Die Stadt sieht von oben toll aus. | Yes! I climbed all the way to the top. The city looks great from above.
+Lena: Und wie lange bleibst du? | And how long are you staying?
+Tom: Ich bin gerade erst gekommen! Ich bleibe zwei Monate. | I've only just arrived! I'm staying two months.
+q: Tom ist am ___ angekommen. | Freitag | Montag | Sonntag | en: Tom arrived on Friday. | why: „Ich bin am Freitag angekommen.“
+q: Tom ist an der ___ gewandert. | Elbe | Spree | Mosel | en: Tom walked along the Elbe. | why: „Ich bin an der Elbe gewandert.“
+q: Fahren, gehen, wandern: Im Perfekt sagt man „ich ___ gefahren“. | bin | habe | war | en: Movement verbs: "ich bin gefahren". | why: verbs of movement take sein in the Perfekt
+
+=== u22 | reading | Die Frauenkirche
+intro: The story of Dresden's Church of Our Lady, which rose again from its own stones.
+- Die Frauenkirche in Dresden ist fast dreihundert Jahre alt. | The Frauenkirche in Dresden is almost three hundred years old.
+- Im Februar 1945 ist die Kirche im Krieg eingestürzt. | In February 1945 the church collapsed in the war.
+- Fast fünfzig Jahre ist nur ein großer Berg aus Steinen geblieben. | For almost fifty years only a big mountain of stones remained.
+- Nach 1990 haben die Menschen die Kirche wieder aufgebaut. | After 1990 people rebuilt the church.
+- Sie haben die alten Steine gesucht und gefunden. Die alten Steine sind schwarz, die neuen hell. | They looked for the old stones and found them. The old stones are black, the new ones light.
+- Ein Goldschmied aus London hat das Kreuz für die Kirche gemacht. Sein Vater war Pilot im Krieg. | A goldsmith from London made the cross for the church. His father was a pilot in the war.
+- Im Jahr 2005 war die Kirche wieder fertig. | In 2005 the church was finished again.
+q: Die alten Steine sind ___. | schwarz | hell | rot | en: The old stones are black. | why: „Die alten Steine sind schwarz, die neuen hell.“
+q: Das Kreuz kommt aus ___. | London | Dresden | Berlin | en: The cross comes from London. | why: „Ein Goldschmied aus London hat das Kreuz … gemacht.“
+
+=== u23 | dialogue | In der Porzellanmanufaktur
+intro: In Meißen, Tom visits the porcelain factory. A painter tells him how she learned her craft.
+Tom: Wie lange haben Sie das gelernt? | How long did you learn this for?
+Malerin: Ich habe drei Jahre als Lehrling gelernt. Dann bin ich Gesellin geworden. | I trained for three years as an apprentice. Then I became a journeywoman.
+Tom: Wie ich! Ich bin Geselle. Ich möchte später Meister werden. | Like me! I'm a journeyman. I'd like to become a master later.
+Malerin: Was machen Sie? | What do you do?
+Tom: Ich bin Zimmermann. Ich baue Dächer und Häuser aus Holz. | I'm a carpenter. I build roofs and houses out of wood.
+Malerin: Holz ist schön. Aber Porzellan ist schwer. Sehen Sie diese Tasse? Ich habe sie gestern gemalt. | Wood is nice. But porcelain is difficult. Do you see this cup? I painted it yesterday.
+Tom: Wunderschön! Und was bedeuten die zwei blauen Schwerter? | Beautiful! And what do the two blue swords mean?
+Malerin: Sie zeigen: Das ist echtes Meißner Porzellan. Seit 1710 machen wir es hier. | They show: this is real Meissen porcelain. We've been making it here since 1710.
+Tom: Darf ich ein Foto machen? | May I take a photo?
+Malerin: Natürlich! | Of course!
+q: Die Malerin hat drei Jahre als ___ gelernt. | Lehrling | Meister | Chef | en: The painter trained for three years as an apprentice. | why: „Ich habe drei Jahre als Lehrling gelernt.“
+q: Tom möchte später ___ werden. | Meister | Maler | Lehrling | en: Tom would like to become a master later. | why: „Ich möchte später Meister werden.“
+q: Die zwei blauen ___ zeigen: Das ist echtes Porzellan. | Schwerter | Tassen | Steine | en: The two blue swords show it's real porcelain. | why: „die zwei blauen Schwerter“
+
+=== u23 | gouin | Ich baue einen Tisch
+intro: A Gouin series from the workshop: making a table. Put the steps back in order.
+- Ich zeichne einen Plan. | I draw a plan.
+- Ich suche gutes Holz. | I look for good wood.
+- Ich schneide das Holz. | I cut the wood.
+- Ich baue die vier Beine. | I build the four legs.
+- Ich mache die Platte fest. | I fix the top on.
+- Ich male den Tisch an. | I paint the table.
+- Der Tisch ist fertig! | The table is finished!
+
+=== u24 | dialogue | Görliwood
+intro: Görlitz is so well preserved that film crews love it. Tom and Lena see cameras in the old town.
+Lena: Schau mal! Ich glaube, dass sie hier einen Film machen. | Look! I think they're making a film here.
+Tom: Wirklich? Weißt du, welcher Film das ist? | Really? Do you know which film it is?
+Lena: Nein. Aber ich habe gelesen, dass sie viele Filme in Görlitz machen. Die Stadt ist so schön alt. | No. But I've read that they make lots of films in Görlitz. The town is so beautifully old.
+Tom: Meinst du, dass wir zusehen dürfen? | Do you think we're allowed to watch?
+Lena: Ich weiß nicht, ob das geht. Wir können fragen. | I don't know whether that's possible. We can ask.
+Tom: Entschuldigung, dürfen wir hier stehen bleiben? | Excuse me, may we stay standing here?
+Frau: Wenn Sie ganz leise sind, ja. | If you're very quiet, yes.
+Lena: Ich hoffe, dass wir einen Star sehen! | I hope we see a star!
+Tom: Ich hoffe, dass ich im Film bin! | I hope I'm in the film!
+q: Lena glaubt, dass sie hier einen ___ machen. | Film | Kaffee | Termin | en: Lena thinks they're making a film here. | why: „Ich glaube, dass sie hier einen Film machen.“
+q: Lena weiß nicht, ___ das geht. | ob | dass | wenn | en: Lena doesn't know whether that's possible. | why: ob = whether (yes/no question inside a sentence)
+q: Sie dürfen bleiben, wenn sie ganz ___ sind. | leise | laut | schnell | en: They may stay if they're very quiet. | why: „Wenn Sie ganz leise sind, ja.“
+
+=== u24 | reading | Was Tom denkt
+intro: In subordinate clauses with dass, ob and wenn, the verb goes to the end.
+- Tom denkt, dass Görlitz eine der schönsten Städte in Deutschland ist. | Tom thinks that Görlitz is one of the most beautiful towns in Germany.
+- Er weiß nicht, ob er hier Arbeit findet. | He doesn't know whether he'll find work here.
+- Wenn er Arbeit findet, bleibt er einen Monat. | If he finds work, he'll stay for a month.
+- Er hofft, dass Lena noch ein paar Tage bleibt. | He hopes that Lena will stay a few more days.
+- Lena sagt, dass sie am Montag wieder in Hamburg sein muss. | Lena says that she has to be back in Hamburg on Monday.
+- Tom ist traurig, wenn sie geht. Aber er sagt es nicht. | Tom is sad when she leaves. But he doesn't say it.
+q: Tom weiß nicht, ob er hier Arbeit ___. | findet | finden | gefunden | en: Tom doesn't know whether he'll find work here. | why: in an ob-clause the conjugated verb goes to the end
+q: Lena muss am ___ wieder in Hamburg sein. | Montag | Freitag | Sonntag | en: Lena has to be back in Hamburg on Monday. | why: „dass sie am Montag wieder in Hamburg sein muss“
+
+=== u25 | dialogue | Warum bist du so müde?
+intro: Tom is working on a building site in Chemnitz. His colleague Uwe asks how he is.
+Uwe: Warum bist du so müde, Tom? | Why are you so tired, Tom?
+Tom: Weil ich heute um fünf Uhr aufgestanden bin. Das Dach ist noch nicht fertig. | Because I got up at five today. The roof isn't finished yet.
+Uwe: Und warum lernst du so viel Deutsch am Abend? | And why do you study so much German in the evening?
+Tom: Ich lerne viel, denn ich möchte hier in Deutschland Meister werden. | I study a lot, because I'd like to become a master here in Germany.
+Uwe: Obwohl die Prüfung so schwer ist? | Although the exam is so hard?
+Tom: Ja, obwohl sie schwer ist. Ich lerne, damit ich die Prüfung schaffe. | Yes, even though it's hard. I'm studying so that I pass the exam.
+Uwe: Respekt! Komm, wir trinken einen Kaffee, damit du wach bleibst. | Respect! Come on, let's have a coffee so that you stay awake.
+Tom: Gute Idee. Und dann zeigst du mir den großen Kopf von Karl Marx? | Good idea. And then you'll show me Karl Marx's big head?
+Uwe: Den „Nischel“? Klar! Er ist sieben Meter hoch. | The "Nischel"? Sure! It's seven metres high.
+q: Tom ist müde, weil er um fünf Uhr ___ ist. | aufgestanden | gearbeitet | geschlafen | en: Tom is tired because he got up at five. | why: aufstehen → ist aufgestanden (verb at the end after weil)
+q: Tom lernt, ___ er die Prüfung schafft. | damit | obwohl | denn | en: Tom studies so that he passes the exam. | why: damit = so that
+q: Der Kopf von Karl Marx ist ___ Meter hoch. | sieben | siebzig | zwei | en: Karl Marx's head is seven metres high. | why: „Er ist sieben Meter hoch.“
+
+=== u25 | reading | Weil, denn, obwohl
+intro: Reasons and contrasts: weil and obwohl send the verb to the end; denn does not.
+- Lena fährt nach Hamburg zurück, weil sie am Montag eine Prüfung hat. | Lena is going back to Hamburg because she has an exam on Monday.
+- Sie ist ein bisschen traurig, denn sie bleibt gern bei Tom. | She's a little sad, because she likes staying with Tom.
+- Obwohl sie wenig Zeit hat, schreibt sie ihm jeden Tag. | Although she has little time, she writes to him every day.
+- Tom antwortet immer sofort, weil er sich freut. | Tom always answers straight away, because he's happy.
+- Er schreibt auf Deutsch, damit er besser schreibt. | He writes in German so that his writing gets better.
+q: Lena fährt zurück, weil sie eine Prüfung ___. | hat | haben | gehabt | en: Lena is going back because she has an exam. | why: after weil the verb goes to the end
+q: Sie ist traurig, ___ sie bleibt gern bei Tom. | denn | weil | obwohl | en: She's sad, because she likes staying with Tom. | why: denn keeps normal word order (verb second)
+
+=== u26 | dialogue | Wie sieht er aus?
+intro: In Weimar, Lena's brother is coming to visit. Tom has never met him.
+Tom: Wie sieht dein Bruder aus? | What does your brother look like?
+Lena: Er ist groß und dünn. Er hat kurze, blonde Haare und blaue Augen. | He's tall and thin. He has short blond hair and blue eyes.
+Tom: Und wie ist er? | And what's he like?
+Lena: Er ist ein lustiger, ehrlicher Typ. Und er ist sehr fleißig. Er studiert Medizin. | He's a funny, honest guy. And he's very hard-working. He studies medicine.
+Tom: Ein fleißiger Bruder! Und du? Bist du auch fleißig? | A hard-working brother! And you? Are you hard-working too?
+Lena: Natürlich! Ich bin die klügste Schwester der Welt. | Of course! I'm the cleverest sister in the world.
+Tom: Und die lustigste! | And the funniest!
+Lena: Da kommt er! Der junge Mann mit der roten Jacke. | Here he comes! The young man with the red jacket.
+q: Lenas Bruder hat kurze, blonde ___. | Haare | Augen | Hände | en: Lena's brother has short blond hair. | why: „Er hat kurze, blonde Haare“
+q: Er ist ein lustiger, ___ Typ. | ehrlicher | ehrliche | ehrlichen | en: He's a funny, honest guy. | why: ein + masculine nominative → -er: ein ehrlicher Typ
+q: Der Bruder trägt eine ___ Jacke. | rote | blaue | schwarze | en: The brother is wearing a red jacket. | why: „mit der roten Jacke“
+
+=== u26 | reading | Goethe und Schiller
+intro: Adjective endings in a short portrait of Weimar's two famous poets.
+- Vor dem Theater in Weimar steht ein großes Denkmal. | In front of the theatre in Weimar stands a big monument.
+- Es zeigt zwei berühmte Dichter: Goethe und Schiller. | It shows two famous poets: Goethe and Schiller.
+- Der ältere Mann ist Goethe. Der jüngere Mann ist Schiller. | The older man is Goethe. The younger man is Schiller.
+- Im Leben war Schiller größer als Goethe. Aber im Denkmal sind beide gleich groß. | In life Schiller was taller than Goethe. But in the monument both are the same height.
+- Die beiden Dichter hatten eine tiefe, wichtige Freundschaft. | The two poets had a deep, important friendship.
+- Goethe legt eine Hand auf Schillers Schulter. | Goethe rests a hand on Schiller's shoulder.
+q: Im Leben war Schiller ___ als Goethe. | größer | kleiner | älter | en: In life Schiller was taller than Goethe. | why: „Im Leben war Schiller größer als Goethe.“
+q: Die beiden Dichter hatten eine tiefe, ___ Freundschaft. | wichtige | wichtiger | wichtigen | en: The two poets had a deep, important friendship. | why: eine + feminine accusative → -e
+
+=== u27 | dialogue | Auf der Krämerbrücke
+intro: In Erfurt, Tom looks for a present in a little shop on the Krämerbrücke, a bridge covered with houses.
+Verkäufer: Guten Tag! Suchen Sie etwas? | Good afternoon! Are you looking for something?
+Tom: Ja, ich suche eine Tasse für meine Freundin. Eine kleine, blaue Tasse. | Yes, I'm looking for a cup for my girlfriend. A small blue cup.
+Verkäufer: Blaue Tassen haben wir leider nicht mehr. Wir haben rote, grüne und gelbe. | Unfortunately we don't have any blue cups left. We have red, green and yellow ones.
+Tom: Hm. Ist die grüne Tasse da teuer? | Hm. Is the green cup there expensive?
+Verkäufer: Nein, sie kostet nur acht Euro. Sie ist neu, aber sie sieht alt aus. | No, it only costs eight euros. It's new, but it looks old.
+Tom: Und das bunte Bild an der Wand? | And the colourful picture on the wall?
+Verkäufer: Das zeigt die Brücke vor dreihundert Jahren. Es ist ein sehr altes Bild. | That shows the bridge three hundred years ago. It's a very old picture.
+Tom: Wie viele Häuser stehen auf der Brücke? | How many houses stand on the bridge?
+Verkäufer: Zweiunddreißig! Und in allen wohnen Leute. | Thirty-two! And people live in all of them.
+Tom: Toll! Ich nehme die grüne Tasse. | Great! I'll take the green cup.
+q: Blaue Tassen hat der Verkäufer nicht ___. | mehr | gern | heute | en: The shopkeeper doesn't have any blue cups left. | why: nicht mehr = no longer, not any more
+q: Die grüne Tasse kostet ___ Euro. | acht | achtzehn | achtzig | en: The green cup costs eight euros. | why: „sie kostet nur acht Euro“
+q: Auf der Brücke stehen ___ Häuser. | zweiunddreißig | dreiundzwanzig | zwölf | en: Thirty-two houses stand on the bridge. | why: „Zweiunddreißig!“
+
+=== u28 | dialogue | Größer, besser, am besten
+intro: Jena is famous for optics: Carl Zeiss made his lenses here. Tom visits the planetarium with his colleague Jürgen.
+Jürgen: Das Planetarium in Jena ist das älteste der Welt. | The planetarium in Jena is the oldest in the world.
+Tom: Älter als das Planetarium in London? | Older than the planetarium in London?
+Jürgen: Viel älter! Es ist hundert Jahre alt. | Much older! It's a hundred years old.
+Tom: Ist Jena größer als Weimar? | Is Jena bigger than Weimar?
+Jürgen: Ja, Jena ist größer. Aber Leipzig ist viel größer als Jena. | Yes, Jena is bigger. But Leipzig is much bigger than Jena.
+Tom: Und wo gefällt es dir am besten? | And where do you like it best?
+Jürgen: Hier in Jena, natürlich! Hier ist das Bier billiger und die Luft besser. | Here in Jena, of course! Here the beer is cheaper and the air is better.
+Tom: Und die Sterne sind näher! | And the stars are closer!
+Jürgen: Genau. Mit einem Fernrohr von Zeiss siehst du sie am besten. | Exactly. With a Zeiss telescope you see them best.
+q: Das Planetarium in Jena ist das ___ der Welt. | älteste | ältere | alte | en: The planetarium in Jena is the oldest in the world. | why: superlative: das älteste
+q: Leipzig ist viel ___ als Jena. | größer | kleiner | älter | en: Leipzig is much bigger than Jena. | why: „Leipzig ist viel größer als Jena.“
+q: Jürgen gefällt es in Jena am ___. | besten | gut | besser | en: Jürgen likes it best in Jena. | why: gut → besser → am besten
+
+=== u29 | dialogue | Freust du dich?
+intro: In Eisenach, below the Wartburg, Tom has a letter from home. Lena calls.
+Lena: Hallo Tom! Du klingst so froh. Freust du dich über etwas? | Hi Tom! You sound so happy. Are you pleased about something?
+Tom: Ja! Ich habe einen Brief von meiner Mutter bekommen. Ich freue mich sehr. | Yes! I got a letter from my mother. I'm very happy.
+Lena: Wie schön! Erinnerst du dich an unser erstes Treffen in Hamburg? | How lovely! Do you remember our first meeting in Hamburg?
+Tom: Natürlich erinnere ich mich! Du hast „Moin“ gesagt, und ich habe nichts verstanden. | Of course I remember! You said "Moin", and I didn't understand a thing.
+Lena: Und jetzt sprichst du so gut Deutsch! Ärgerst du dich manchmal über die Grammatik? | And now you speak German so well! Do you sometimes get annoyed about the grammar?
+Tom: Jeden Tag! Aber ich interessiere mich für die Sprache. | Every day! But I'm interested in the language.
+Lena: Und fühlst du dich wohl in Eisenach? | And do you feel at home in Eisenach?
+Tom: Ja, sehr. Morgen gehe ich auf die Wartburg. Ich freue mich schon darauf! | Yes, very. Tomorrow I'm going up to the Wartburg. I'm already looking forward to it!
+q: Tom freut sich, denn er hat einen Brief von seiner ___ bekommen. | Mutter | Schwester | Lena | en: Tom is happy because he got a letter from his mother. | why: „Ich habe einen Brief von meiner Mutter bekommen.“
+q: Tom erinnert ___ an das erste Treffen. | sich | ihn | mich | en: Tom remembers the first meeting. | why: sich erinnern an: er erinnert sich
+q: Tom interessiert sich für die ___. | Sprache | Grammatik nicht | Wartburg nicht | en: Tom is interested in the language. | why: „ich interessiere mich für die Sprache“
+
+=== u29 | reading | Junker Jörg
+intro: In 1521 Martin Luther had to hide. Reflexive verbs tell his story.
+- Im Jahr 1521 muss sich Luther verstecken. Der Kaiser ist böse auf ihn. | In 1521 Luther has to hide. The emperor is angry with him.
+- Freunde bringen ihn auf die Wartburg. Dort nennt er sich „Junker Jörg“. | Friends take him to the Wartburg. There he calls himself "Junker Jörg" (Squire George).
+- Er lässt sich einen Bart wachsen, damit ihn niemand erkennt. | He lets a beard grow so that nobody recognizes him.
+- In nur elf Wochen übersetzt er das Neue Testament ins Deutsche. | In only eleven weeks he translates the New Testament into German.
+- Er fühlt sich oft allein. Er ärgert sich über den Teufel und wirft sein Tintenfass nach ihm — sagt die Legende. | He often feels alone. He gets angry at the Devil and throws his inkpot at him — so the legend says.
+- Noch heute zeigt man Besuchern einen Fleck an der Wand. | To this day visitors are shown a stain on the wall.
+q: Auf der Wartburg nennt sich Luther „Junker ___“. | Jörg | Georg | Martin | en: At the Wartburg Luther calls himself "Junker Jörg". | why: „Dort nennt er sich Junker Jörg.“
+q: Luther übersetzt das Neue Testament in elf ___. | Wochen | Tagen | Jahren | en: Luther translates the New Testament in eleven weeks. | why: „In nur elf Wochen“
+
+=== u30 | reading | Der Sängerkrieg auf der Wartburg
+intro: Review: a medieval legend from the Wartburg, told in the Perfekt and present. It inspired Wagner's opera Tannhäuser.
+- Vor achthundert Jahren hat auf der Wartburg ein Fürst gelebt. Er hat Musik und Lieder geliebt. | Eight hundred years ago a prince lived at the Wartburg. He loved music and songs.
+- Eines Tages hat er die besten Sänger auf die Burg eingeladen. | One day he invited the best singers to the castle.
+- Sie haben ein Spiel gemacht: Wer singt das schönste Lied? | They played a game: who sings the most beautiful song?
+- Aber das Spiel war gefährlich. Wer verliert, muss sterben! | But the game was dangerous. Whoever loses must die!
+- Ein Sänger hat verloren. Er hatte große Angst. | One singer lost. He was very afraid.
+- Er ist zu der Fürstin gelaufen und hat um Hilfe gebeten. | He ran to the princess and begged for help.
+- Die Fürstin hat ihn gerettet. Und alle haben weiter gesungen. | The princess saved him. And everyone carried on singing.
+q: Der Fürst hat Musik und ___ geliebt. | Lieder | Spiele | Kriege | en: The prince loved music and songs. | why: „Er hat Musik und Lieder geliebt.“
+q: Wer verliert, muss ___. | sterben | singen | tanzen | en: Whoever loses must die. | why: „Wer verliert, muss sterben!“
+q: Die ___ hat den Sänger gerettet. | Fürstin | Königin | Mutter | en: The princess saved the singer. | why: „Die Fürstin hat ihn gerettet.“
+
+=== u30 | dialogue | Ein Lied am Abend
+intro: Review: back in the town, Tom and Lena talk about the day — Perfekt, adjectives and comparisons.
+Lena: Wie hat dir die Wartburg gefallen? | How did you like the Wartburg?
+Tom: Sehr gut! Sie ist die schönste Burg, die ich gesehen habe. | Very much! It's the most beautiful castle I've seen.
+Lena: Schöner als die Burg in Quedlinburg? | More beautiful than the castle in Quedlinburg?
+Tom: Ja, und älter. Ich habe auch Luthers Zimmer gesehen, mit dem schwarzen Fleck an der Wand. | Yes, and older. I also saw Luther's room, with the black stain on the wall.
+Lena: Glaubst du, dass er wirklich mit Tinte geworfen hat? | Do you think he really threw ink?
+Tom: Ich weiß es nicht. Aber es ist eine gute Geschichte! | I don't know. But it's a good story!
+Lena: Singst du mir ein Lied, wie die Sänger auf der Wartburg? | Will you sing me a song, like the singers at the Wartburg?
+Tom: Nur, wenn du nicht lachst! | Only if you don't laugh!
+q: Für Tom ist die Wartburg die ___ Burg. | schönste | schöne | schöner | en: For Tom the Wartburg is the most beautiful castle. | why: superlative: die schönste Burg
+q: An der Wand ist ein ___ Fleck. | schwarzer | roter | kleiner weißer | en: There's a black stain on the wall. | why: „mit dem schwarzen Fleck an der Wand“
