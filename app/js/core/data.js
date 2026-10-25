@@ -269,6 +269,11 @@ function addFunctionWordsDE(L, m) {
     const e = L.lemma(prep, 'prep');
     if (e) add(m, form, e.id, `C:${prep}+${article}`);
   }
+  // meins, deins, unsers: possessives standing alone (Das ist meins.)
+  for (const stem of ['mein', 'dein', 'sein', 'unser', 'euer']) {
+    const e = (L.byLemma.get(stem) || []).find((x) => x.p === 'det');
+    if (e) add(m, (stem === 'euer' ? 'eur' : stem) + 's', e.id, 'P:standing alone (meins = mine)');
+  }
   const werden = L.lemma('werden', 'v');
   if (werden) add(m, 'worden', werden.id, 'V:pp.passive'); // Das Haus ist gebaut worden.
   // viel, wenig, beide, einige, alle…: endings like adjectives (viele Leute, mit vielen Freunden, beides)

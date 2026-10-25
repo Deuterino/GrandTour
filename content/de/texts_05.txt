@@ -1,0 +1,247 @@
+# German unit stories, units 41–50 (Rhein und Ruhr).
+
+=== u41 | reading | Der Dom von Köln
+intro: Cologne Cathedral took more than six hundred years to build. The Plusquamperfekt (hatte/war + participle) tells what had happened before.
+- Im Jahr 1248 fingen die Kölner an, einen riesigen Dom zu bauen. | In 1248 the people of Cologne began to build a giant cathedral.
+- Nachdem sie mehr als zweihundert Jahre gebaut hatten, hörten sie plötzlich auf. Das Geld war alle. | After they had built for more than two hundred years, they suddenly stopped. The money had run out.
+- Ein alter Kran stand jahrhundertelang auf dem Turm, wo die Arbeiter ihn gelassen hatten. | An old crane stood on the tower for centuries, where the workers had left it.
+- Erst im 19. Jahrhundert fand man die alten Pläne wieder, die man verloren hatte. | Only in the 19th century were the old plans, which had been lost, found again.
+- Nachdem man die Pläne gefunden hatte, baute man weiter. | After the plans had been found, building continued.
+- 1880 war der Dom endlich fertig — 632 Jahre nach dem Anfang. | In 1880 the cathedral was finally finished — 632 years after the start.
+q: Die Arbeiter hörten auf, weil das ___ alle war. | Geld | Holz | Wetter | en: The workers stopped because the money had run out. | why: „Das Geld war alle.“
+q: Nachdem man die Pläne gefunden ___, baute man weiter. | hatte | hat | war | en: After the plans had been found, building continued. | why: Plusquamperfekt: hatte + participle
+q: Der Dom war ___ fertig. | 1880 | 1248 | 1945 | en: The cathedral was finished in 1880. | why: „1880 war der Dom endlich fertig“
+
+=== u41 | dialogue | Kölle Alaaf!
+intro: Carnival in Cologne. Tom arrives late and meets Lena, dressed as a pirate.
+Lena: Da bist du ja endlich! Der Umzug hatte schon angefangen, als ich ankam. | There you are at last! The parade had already started when I arrived.
+Tom: Entschuldigung! Mein Zug hatte eine Stunde Verspätung. Was habe ich verpasst? | Sorry! My train was an hour late. What did I miss?
+Lena: Nicht viel. Ich hatte vorher noch nie so viele Leute gesehen! Alle rufen „Kölle Alaaf!“. | Not much. I had never seen so many people before! Everyone is shouting "Kölle Alaaf!".
+Tom: Und warum bist du ein Pirat? | And why are you a pirate?
+Lena: Weil ich mein Kostüm zu Hause vergessen hatte. Das hier habe ich heute Morgen gekauft. | Because I had forgotten my costume at home. I bought this one this morning.
+Tom: Und was werfen die Leute von den Wagen? | And what are people throwing from the floats?
+Lena: Süßigkeiten! Man nennt sie „Kamelle“. Fang! | Sweets! They're called "Kamelle". Catch!
+q: Der Umzug hatte schon ___, als Lena ankam. | angefangen | aufgehört | gekauft | en: The parade had already started when Lena arrived. | why: Plusquamperfekt: hatte angefangen
+q: Toms Zug hatte eine Stunde ___. | Verspätung | Pause | Zeit | en: Tom's train was an hour late. | why: „Mein Zug hatte eine Stunde Verspätung.“
+q: Die Süßigkeiten heißen in Köln „___“. | Kamelle | Kölsch | Alaaf | en: In Cologne the sweets are called "Kamelle". | why: „Man nennt sie Kamelle.“
+
+=== u42 | reading | Der junge Beethoven
+intro: Beethoven was born in Bonn. Memories and the past before the past.
+- Ludwig van Beethoven kam 1770 in Bonn auf die Welt. | Ludwig van Beethoven was born in Bonn in 1770.
+- Sein Vater hatte von Mozart gehört, der schon als Kind berühmt geworden war. | His father had heard of Mozart, who had already become famous as a child.
+- Darum musste der kleine Ludwig jeden Tag stundenlang Klavier spielen, oft auch in der Nacht. | So little Ludwig had to play the piano for hours every day, often at night too.
+- Mit einundzwanzig Jahren ging er nach Wien. Er hatte Bonn vorher fast nie verlassen. | At twenty-one he went to Vienna. He had hardly ever left Bonn before.
+- Später wurde er taub. Er konnte seine eigene Musik nicht mehr hören. | Later he became deaf. He could no longer hear his own music.
+- Trotzdem schrieb er seine Neunte Sinfonie. Am Ende des Konzerts drehte ihn jemand zum Publikum um, damit er den Applaus sehen konnte. | Even so, he wrote his Ninth Symphony. At the end of the concert someone turned him round to face the audience so that he could see the applause.
+q: Der Vater hatte von ___ gehört. | Mozart | Bach | Händel | en: The father had heard of Mozart. | why: „Sein Vater hatte von Mozart gehört“
+q: Mit einundzwanzig ging Beethoven nach ___. | Wien | Berlin | Bonn | en: At twenty-one Beethoven went to Vienna. | why: „Mit einundzwanzig Jahren ging er nach Wien.“
+q: Beethoven konnte den Applaus nur ___. | sehen | hören | spielen | en: Beethoven could only see the applause. | why: he was deaf: „damit er den Applaus sehen konnte“
+
+=== u42 | dialogue | Erinnerungen
+intro: In Bonn, Tom and Lena talk about their childhoods.
+Lena: Woran erinnerst du dich, wenn du an deine Kindheit denkst? | What do you remember when you think of your childhood?
+Tom: An die Werkstatt meines Großvaters. Bevor ich zur Schule ging, hatte er mir schon gezeigt, wie man einen Nagel einschlägt. | My grandfather's workshop. Before I went to school, he had already shown me how to hammer in a nail.
+Lena: Deshalb bist du Zimmermann geworden! | That's why you became a carpenter!
+Tom: Genau. Und du? | Exactly. And you?
+Lena: Ich erinnere mich an die Bücher meiner Mutter. Als ich zehn war, hatte ich sie schon alle gelesen. | I remember my mother's books. When I was ten, I had already read them all.
+Tom: Alle? Auch die langweiligen? | All of them? Even the boring ones?
+Lena: Ja, auch die! Deshalb studiere ich jetzt Literatur. | Yes, even those! That's why I'm studying literature now.
+q: Toms Großvater hatte ihm gezeigt, wie man einen ___ einschlägt. | Nagel | Ball | Baum | en: Tom's grandfather had shown him how to hammer in a nail. | why: „wie man einen Nagel einschlägt“
+q: Als Lena zehn war, hatte sie alle Bücher ___. | gelesen | geschrieben | verkauft | en: When Lena was ten, she had read all the books. | why: „hatte ich sie schon alle gelesen“
+
+=== u43 | dialogue | Wie wird das Bier gemacht?
+intro: In Düsseldorf, Tom visits an old brewery that makes dark Altbier.
+Tom: Wie wird das Altbier gemacht? | How is the Altbier made?
+Brauer: Zuerst wird das Malz mit Wasser gemischt und gekocht. Dann wird der Hopfen dazugegeben. | First the malt is mixed with water and boiled. Then the hops are added.
+Tom: Und dann? | And then?
+Brauer: Dann wird das Bier ein paar Wochen kühl gelagert. Es wird nach alter Tradition gebraut. | Then the beer is stored in a cool place for a few weeks. It's brewed according to old tradition.
+Tom: In welchen Gläsern wird es serviert? | In which glasses is it served?
+Brauer: In kleinen Gläsern. Und wenn ein Glas leer ist, wird sofort ein neues gebracht. | In small glasses. And when a glass is empty, a new one is brought straight away.
+Tom: Und wenn ich kein Bier mehr möchte? | And if I don't want any more beer?
+Brauer: Dann legen Sie den Bierdeckel auf das Glas. Aber bestellen Sie hier nie ein Kölsch! | Then you put the beer mat on the glass. But never order a Kölsch here!
+q: Zuerst wird das Malz mit Wasser ___. | gemischt | getrunken | gebracht | en: First the malt is mixed with water. | why: passive: wird + participle: wird gemischt
+q: Wenn das Glas leer ist, wird ein neues ___. | gebracht | gekocht | bezahlt | en: When the glass is empty, a new one is brought. | why: „wird sofort ein neues gebracht“
+q: Wenn man kein Bier mehr möchte, legt man den ___ auf das Glas. | Bierdeckel | Hut | Schlüssel | en: If you don't want any more beer, you put the beer mat on the glass. | why: „Dann legen Sie den Bierdeckel auf das Glas.“
+
+=== u43 | gouin | In der Werkstatt wird gearbeitet
+intro: A Gouin series in the passive: what is done to the wood. Put the steps back in order.
+- Das Holz wird gebracht. | The wood is brought.
+- Das Holz wird gemessen. | The wood is measured.
+- Das Holz wird geschnitten. | The wood is cut.
+- Die Teile werden zusammengesetzt. | The parts are put together.
+- Der Schrank wird geschliffen. | The cupboard is sanded.
+- Der Schrank wird angemalt. | The cupboard is painted.
+- Der Schrank wird zum Kunden gebracht. | The cupboard is taken to the customer.
+
+=== u44 | reading | Karl der Große
+intro: Charlemagne ruled from Aachen. The passive in the past: wurde + participle.
+- Karl der Große war König der Franken. Er wurde im Jahr 800 in Rom zum Kaiser gekrönt. | Charlemagne was King of the Franks. In 800 he was crowned emperor in Rome.
+- Sein Reich war riesig. Es wurde von Aachen aus regiert. | His empire was huge. It was ruled from Aachen.
+- In Aachen wurde eine große Kirche gebaut: der Dom. | In Aachen a great church was built: the cathedral.
+- Nach seinem Tod wurde Karl im Dom begraben. | After his death Charlemagne was buried in the cathedral.
+- Später wurden dort einunddreißig deutsche Könige gekrönt. | Later thirty-one German kings were crowned there.
+- Karls Thron aus Stein kann noch heute im Dom gesehen werden. | Charlemagne's stone throne can still be seen in the cathedral today.
+q: Karl wurde im Jahr 800 in ___ zum Kaiser gekrönt. | Rom | Aachen | Paris | en: Charles was crowned emperor in Rome in 800. | why: „Er wurde im Jahr 800 in Rom zum Kaiser gekrönt.“
+q: Im Dom wurden einunddreißig Könige ___. | gekrönt | gebaut | gefunden | en: Thirty-one kings were crowned in the cathedral. | why: passive past: wurden gekrönt
+q: Karls Thron ist aus ___. | Stein | Holz | Gold | en: Charlemagne's throne is made of stone. | why: „Karls Thron aus Stein“
+
+=== u44 | dialogue | Aachener Printen
+intro: In a bakery in Aachen, Tom tries the local gingerbread.
+Tom: Was ist das? Es sieht aus wie Lebkuchen. | What's that? It looks like gingerbread.
+Bäckerin: Das sind Aachener Printen. Sie werden nur hier in Aachen gebacken. | Those are Aachen Printen. They're only baked here in Aachen.
+Tom: Wie werden sie gemacht? | How are they made?
+Bäckerin: Das wird nicht verraten! Das Rezept ist ein Geheimnis. | That isn't revealed! The recipe is a secret.
+Tom: Sind sie hart? | Are they hard?
+Bäckerin: Ja, ziemlich. Aber sie schmecken sehr gut zum Kaffee. | Yes, quite. But they taste very good with coffee.
+Tom: Dann nehme ich zehn. Zwei für mich und acht für meine Kollegen. | Then I'll take ten. Two for me and eight for my colleagues.
+q: Printen werden nur in ___ gebacken. | Aachen | Nürnberg | Köln | en: Printen are only baked in Aachen. | why: „Sie werden nur hier in Aachen gebacken.“
+q: Das Rezept ist ein ___. | Geheimnis | Märchen | Problem | en: The recipe is a secret. | why: „Das Rezept ist ein Geheimnis.“
+
+=== u45 | dialogue | Woran denkst du?
+intro: In Essen, Tom and his colleague Ben visit Zollverein, the old coal mine that is now a museum.
+Ben: Woran denkst du, Tom? | What are you thinking about, Tom?
+Tom: Daran, wie schwer die Arbeit hier früher war. | About how hard the work here used to be.
+Ben: Ja. Mein Opa hat hier gearbeitet. Er hat oft davon erzählt. | Yes. My grandpa worked here. He often told stories about it.
+Tom: Wovon hat er erzählt? | What did he tell about?
+Ben: Von der Dunkelheit unten in der Erde. Und von seinen Kollegen. Er war sehr stolz darauf. | About the darkness deep down in the earth. And about his colleagues. He was very proud of it.
+Tom: Und wofür benutzt man die Gebäude heute? | And what are the buildings used for today?
+Ben: Für Museen, Design und Kunst. Und im Winter gibt es hier eine Eisbahn. Hast du Lust darauf? | For museums, design and art. And in winter there's an ice rink here. Do you feel like it?
+Tom: Ja, ich freue mich darauf! | Yes, I'm looking forward to it!
+q: Bens Opa war sehr stolz ___. | darauf | dafür | davon | en: Ben's grandpa was very proud of it. | why: stolz auf → darauf
+q: Wofür benutzt man die Gebäude heute? Für ___. | Museen | Kohle | Wohnungen | en: What are the buildings used for today? For museums. | why: „Für Museen, Design und Kunst.“
+q: Im Winter gibt es eine ___. | Eisbahn | Party | Kirche | en: In winter there's an ice rink. | why: „im Winter gibt es hier eine Eisbahn“
+
+=== u45 | reading | Kohle und Natur
+intro: The Ruhr used to be grey with coal. Today it is surprisingly green.
+- Früher war das Ruhrgebiet voll von Kohle, Rauch und Fabriken. | The Ruhr used to be full of coal, smoke and factories.
+- Die Luft war so schmutzig, dass die Wäsche draußen grau wurde. | The air was so dirty that the washing outside turned grey.
+- Heute gibt es keine Kohle mehr. Die letzte Zeche hat 2018 geschlossen. | Today there's no coal any more. The last mine closed in 2018.
+- Auf den alten Bergen aus Stein wachsen jetzt Bäume und Blumen. | Trees and flowers now grow on the old spoil heaps.
+- Vögel, Füchse und sogar Wölfe sind zurückgekommen. Darüber freuen sich viele Menschen. | Birds, foxes and even wolves have come back. Lots of people are happy about that.
+q: Früher war die Luft sehr ___. | schmutzig | sauber | warm | en: The air used to be very dirty. | why: „Die Luft war so schmutzig“
+q: Die letzte Zeche hat ___ geschlossen. | 2018 | 1989 | 1945 | en: The last mine closed in 2018. | why: „Die letzte Zeche hat 2018 geschlossen.“
+
+=== u46 | dialogue | Womit fährst du?
+intro: Münster has more bicycles than people. Tom borrows one.
+Klara: Womit fährst du zur Arbeit, Tom? | How do you get to work, Tom?
+Tom: Mit dem Bus. | By bus.
+Klara: Mit dem Bus? In Münster? Hier fährt jeder mit dem Fahrrad! Damit bist du viel schneller. | By bus? In Münster? Everybody here cycles! You're much quicker that way.
+Tom: Aber ich habe kein Fahrrad. | But I don't have a bike.
+Klara: Kein Problem, ich leihe dir meins. Ich habe drei! | No problem, I'll lend you mine. I have three!
+Tom: Wofür brauchst du drei Fahrräder? | What do you need three bikes for?
+Klara: Eins für die Uni, eins für den Markt und eins für den Regen. | One for uni, one for the market and one for the rain.
+Tom: Und worauf muss ich achten? | And what do I have to watch out for?
+Klara: Auf die anderen Radfahrer! Und darauf, dass du immer rechts fährst. | The other cyclists! And that you always ride on the right.
+q: In Münster fährt jeder mit dem ___. | Fahrrad | Bus | Auto | en: In Münster everyone rides a bike. | why: „Hier fährt jeder mit dem Fahrrad!“
+q: Klara hat ___ Fahrräder. | drei | zwei | keine | en: Klara has three bikes. | why: „Ich habe drei!“
+q: Tom muss ___ achten, dass er rechts fährt. | darauf | dafür | damit | en: Tom has to make sure he rides on the right. | why: achten auf → darauf
+
+=== u46 | reading | Der Westfälische Friede
+intro: In 1648 the Thirty Years' War ended with a peace signed in Münster and Osnabrück.
+- Dreißig Jahre lang hatte in Europa Krieg geherrscht. | For thirty years war had raged in Europe.
+- Viele Städte waren zerstört, und viele Menschen waren gestorben. | Many towns had been destroyed, and many people had died.
+- Ab 1643 trafen sich Gesandte aus ganz Europa in Münster und Osnabrück. | From 1643 envoys from all over Europe met in Münster and Osnabrück.
+- Worüber sprachen sie? Über Grenzen, Religion und Frieden. | What did they talk about? About borders, religion and peace.
+- Fünf Jahre lang diskutierten sie. Dann, im Oktober 1648, war der Frieden da. | They discussed for five years. Then, in October 1648, there was peace.
+- Darüber freuten sich die Menschen so sehr, dass sie die Glocken läuten ließen. | People were so happy about it that they had the bells rung.
+q: Der Krieg hatte ___ Jahre gedauert. | dreißig | fünf | hundert | en: The war had lasted thirty years. | why: „Dreißig Jahre lang hatte in Europa Krieg geherrscht.“
+q: ___ sprachen die Gesandten? Über Grenzen, Religion und Frieden. | Worüber | Wofür | Womit | en: What did the envoys talk about? | why: sprechen über → worüber
+
+=== u47 | reading | Die Loreley
+intro: Heinrich Heine's poem (1824) about the siren on a cliff above the Rhine, upstream from Koblenz. It is still sung everywhere.
+- Ich weiß nicht, was soll es bedeuten, | I don't know what it is supposed to mean
+- Dass ich so traurig bin; | that I am so sad;
+- Ein Märchen aus alten Zeiten, | a fairy tale from olden times
+- Das kommt mir nicht aus dem Sinn. | will not leave my mind.
+- Die Luft ist kühl und es dunkelt, | The air is cool and it grows dark,
+- Und ruhig fließt der Rhein; | and calmly flows the Rhine;
+- Der Gipfel des Berges funkelt | the summit of the mountain sparkles
+- Im Abendsonnenschein. | in the evening sunshine.
+q: Der Dichter weiß nicht, warum er so ___ ist. | traurig | froh | müde | en: The poet doesn't know why he is so sad. | why: „Dass ich so traurig bin“
+q: Ruhig fließt der ___. | Rhein | Main | Wind | en: Calmly flows the Rhine. | why: „Und ruhig fließt der Rhein“
+
+=== u47 | dialogue | Am Deutschen Eck
+intro: In Koblenz the Moselle flows into the Rhine. Tom meets a customer at the riverside. Weak nouns add -(e)n: der Kunde, den Kunden.
+Tom: Guten Tag! Sind Sie Herr Bär, der neue Kunde? | Good afternoon! Are you Mr Bär, the new customer?
+Herr Bär: Ja, der bin ich. Und Sie sind der Zimmermann aus England? | Yes, that's me. And you're the carpenter from England?
+Tom: Genau. Mein Chef hat mir von seinem Kunden erzählt, der ein altes Schiff hat. | Exactly. My boss told me about his customer who has an old boat.
+Herr Bär: Ja! Das Schiff gehörte meinem Großvater. Er war ein Held: Er hat einen Jungen aus dem Rhein gerettet. | Yes! The boat belonged to my grandfather. He was a hero: he rescued a boy from the Rhine.
+Tom: Und Sie möchten, dass ich das Schiff repariere? | And you'd like me to repair the boat?
+Herr Bär: Ja. Ich habe schon mit einem anderen Menschen gesprochen, aber er hatte keine Zeit. | Yes. I've already spoken to someone else, but he had no time.
+Tom: Ich habe Zeit. Zeigen Sie mir das Schiff! | I've got time. Show me the boat!
+q: Herr Bär ist der neue ___. | Kunde | Kunden | Chef | en: Mr Bär is the new customer. | why: nominative: der Kunde (weak noun)
+q: Der Großvater hat einen ___ aus dem Rhein gerettet. | Jungen | Junge | Junges | en: The grandfather rescued a boy from the Rhine. | why: weak noun: accusative den Jungen
+q: Das Schiff gehörte Herrn Bärs ___. | Großvater | Vater | Chef | en: The boat belonged to Mr Bär's grandfather. | why: „Das Schiff gehörte meinem Großvater.“
+
+=== u48 | dialogue | Komm doch mal her!
+intro: Mainz, Gutenberg's city. Tom and Lena in the Gutenberg Museum — full of the little words that make German sound natural.
+Lena: Tom, komm doch mal her! Schau mal, das ist eine Gutenberg-Bibel. | Tom, come over here! Have a look, that's a Gutenberg Bible.
+Tom: Wow. Die ist ja wunderschön! Wie alt ist die denn? | Wow. It's really beautiful! How old is it, then?
+Lena: Fast sechshundert Jahre. Gutenberg hat eben den Buchdruck erfunden. | Almost six hundred years. Gutenberg invented printing, you see.
+Tom: Eigentlich dachte ich, dass die Chinesen das zuerst gemacht hatten. | Actually, I thought the Chinese had done that first.
+Lena: Stimmt, aber Gutenberg hat es halt für Europa erfunden. Mit Buchstaben aus Metall. | True, but Gutenberg invented it for Europe. With letters made of metal.
+Tom: Und wo ist er wohl begraben? | And where might he be buried?
+Lena: Das weiß man leider nicht. Ach, schau bloß nicht auf die Uhr! Wir haben ja noch Zeit. | Unfortunately nobody knows. Oh, just don't look at the clock! We've got time.
+Tom: Na gut. Dann zeig mir mal die nächste Bibel! | All right. Then show me the next Bible!
+q: „Komm ___ mal her!“ | doch | denn | eben | en: "Come over here!" | why: doch mal makes an invitation friendly
+q: „Wie alt ist die ___?“ | denn | doch | halt | en: "How old is it, then?" | why: denn adds curiosity to questions
+q: Gutenbergs Buchstaben waren aus ___. | Metall | Holz | Papier | en: Gutenberg's letters were made of metal. | why: „Mit Buchstaben aus Metall.“
+
+=== u48 | reading | Die kleinen Wörter
+intro: Modal particles in action: they add feeling, not facts. The English shows what each one does.
+- „Das ist ja toll!“ | "That's great!" (ja = surprise: you can see it's great)
+- „Komm doch mit!“ | "Do come along!" (doch = a friendly push)
+- „Ruf mich mal an!“ | "Give me a call some time." (mal = casual)
+- „Das ist halt so.“ | "That's just how it is." (halt = resignation)
+- „Wo ist er denn?“ | "So where is he?" (denn = curiosity or impatience)
+- „Er ist wohl krank.“ | "He's probably ill." (wohl = I suppose)
+- „Sei bloß vorsichtig!“ | "Just be careful!" (bloß = warning)
+q: „Er ist ___ krank.“ | wohl | ja | doch | en: "He's probably ill." | why: wohl = probably, I suppose
+q: „Das ist ___ so.“ | halt | denn | mal | en: "That's just the way it is." | why: halt = resignation
+
+=== u49 | reading | Die älteste Stadt Deutschlands
+intro: Trier was founded by the Romans. Reported speech in the Konjunktiv I, as in newspapers.
+- Die Zeitung schreibt, Trier sei die älteste Stadt Deutschlands. | The newspaper writes that Trier is the oldest city in Germany.
+- Die Römer hätten die Stadt im Jahr 16 vor Christus gegründet. | The Romans founded the city in 16 BC.
+- Ein Historiker sagt, die Porta Nigra sei etwa 1800 Jahre alt. | A historian says the Porta Nigra is about 1,800 years old.
+- Man habe die großen Steine ohne Mörtel gebaut, nur mit Eisen. | They built the big stones without mortar, only with iron.
+- Er erklärt, das Tor habe nur überlebt, weil es später eine Kirche gewesen sei. | He explains that the gate only survived because it later became a church.
+- Außerdem berichtet die Zeitung, Karl Marx sei 1818 in Trier geboren. | The newspaper also reports that Karl Marx was born in Trier in 1818.
+q: Die Zeitung schreibt, Trier ___ die älteste Stadt Deutschlands. | sei | ist gewesen | wäre gern | en: The newspaper writes that Trier is the oldest city in Germany. | why: reported speech: Konjunktiv I: sei
+q: Die Porta Nigra sei etwa ___ Jahre alt. | 1800 | 180 | 500 | en: The Porta Nigra is said to be about 1,800 years old. | why: „etwa 1800 Jahre alt“
+q: Man habe die Steine ohne ___ gebaut. | Mörtel | Eisen | Holz | en: The stones were built without mortar. | why: „ohne Mörtel, nur mit Eisen“
+
+=== u49 | dialogue | Was hat er gesagt?
+intro: Tom reports to Lena what the tour guide said. In speech, Germans also use the indicative or würde.
+Lena: Was hat der Führer gesagt? Ich habe nichts gehört. | What did the guide say? I didn't hear anything.
+Tom: Er hat gesagt, die Porta Nigra sei das größte Römertor nördlich der Alpen. | He said the Porta Nigra is the largest Roman gate north of the Alps.
+Lena: Und was noch? | And what else?
+Tom: Er meinte, die Leute hätten im Mittelalter viel Eisen aus dem Tor geholt. Und ein Mönch habe dort gewohnt. | He said people took a lot of iron out of the gate in the Middle Ages. And a monk lived there.
+Lena: Ein Mönch in einem Tor? | A monk in a gate?
+Tom: Ja! Er sagte, der Mönch sei sieben Jahre dort geblieben. | Yes! He said the monk stayed there for seven years.
+Lena: Dann frag ihn, ob er dort auch Wein getrunken habe! | Then ask him whether he drank wine there too!
+q: Der Führer sagte, die Porta Nigra ___ das größte Römertor nördlich der Alpen. | sei | habe | wird | en: The guide said the Porta Nigra is the largest Roman gate north of the Alps. | why: Konjunktiv I of sein: er sei
+q: Der Mönch sei ___ Jahre im Tor geblieben. | sieben | siebzehn | siebzig | en: The monk is said to have stayed in the gate for seven years. | why: „der Mönch sei sieben Jahre dort geblieben“
+
+=== u50 | gouin | Die Weinlese
+intro: Review: the grape harvest on the steep slopes of the Moselle. Put the steps back in order.
+- Ich stehe früh auf und ziehe alte Kleidung an. | I get up early and put on old clothes.
+- Ich steige den steilen Weinberg hinauf. | I climb up the steep vineyard.
+- Ich nehme eine Schere und einen Eimer. | I take secateurs and a bucket.
+- Ich schneide die Trauben ab. | I cut off the grapes.
+- Ich lege die Trauben in den Eimer. | I put the grapes in the bucket.
+- Ich trage den vollen Eimer zum Wagen. | I carry the full bucket to the cart.
+- Am Abend trinke ich mit den anderen ein Glas Wein. | In the evening I drink a glass of wine with the others.
+
+=== u50 | dialogue | Beim Winzer
+intro: Review: Tom helps a winemaker at Bremm, where the vineyard is one of the steepest in Europe.
+Winzerin: Na, Tom, wie hat dir die Weinlese gefallen? | Well, Tom, how did you like the harvest?
+Tom: Sie war anstrengend! Der Weinberg ist ja so steil wie ein Dach. | It was exhausting! The vineyard is as steep as a roof!
+Winzerin: Er ist der steilste Weinberg Europas. Manche Stellen haben fünfundsechzig Grad. | It's the steepest vineyard in Europe. Some spots are sixty-five degrees.
+Tom: Wie wurde das früher gemacht, ohne Maschinen? | How was it done in the past, without machines?
+Winzerin: Genau wie heute: mit den Händen. Hier kann keine Maschine arbeiten. | Just like today: by hand. No machine can work here.
+Tom: Wenn ich mehr Zeit hätte, würde ich das ganze Jahr bleiben. | If I had more time, I'd stay the whole year.
+Winzerin: Dann komm nächstes Jahr wieder! Wir brauchen immer Leute, die keine Angst vor Bergen haben. | Then come back next year! We always need people who aren't afraid of mountains.
+q: Der Weinberg ist so steil wie ein ___. | Dach | Turm | Baum | en: The vineyard is as steep as a roof. | why: „so steil wie ein Dach“
+q: Manche Stellen haben ___ Grad. | fünfundsechzig | fünfzehn | fünfundfünfzig | en: Some spots are sixty-five degrees. | why: „Manche Stellen haben fünfundsechzig Grad.“
+q: Die Winzerin braucht Leute, ___ keine Angst vor Bergen haben. | die | denen | der | en: The winemaker needs people who aren't afraid of mountains. | why: plural subject → die

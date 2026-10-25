@@ -256,3 +256,30 @@ Thomaskirche|place|St Thomas Church, Leipzig (Bach)
 Frauenkirche|place|Church of Our Lady (Dresden, Munich)
 Meißner|name|from Meißen (invariable): Meißner Porzellan
 Zeiss|name|Carl Zeiss (1816–1888), optics maker in Jena
+Bonifatius|name|Saint Boniface (c. 675–754), "Apostle of the Germans"
+Winfried|name|Winfried, Boniface's English name
+Donar|name|Donar, Germanic god of thunder (Thor)
+Mainhattan|name|nickname for Frankfurt's skyline
+Main|place|the Main river (Frankfurt am Main)
+Frankfurter|name|people from Frankfurt; also a frankfurter sausage
+Nürnberger|name|from Nuremberg (invariable): Nürnberger Lebkuchen
+Darmstadtium|name|darmstadtium, element 110
+Silvaner|name|Silvaner, a white grape and wine
+Balthasar|name|Balthasar (Neumann), architect (1687–1753)
+Tiepolo|name|Giovanni Battista Tiepolo, Venetian painter
+Tilly|name|Johann Tserclaes, Count of Tilly, general (1559–1632)
+Nusch|name|Georg Nusch, mayor of Rothenburg (legend of the Meistertrunk)
+Richard|name|Richard
+Christkindlesmarkt|place|Nuremberg's Christmas market
+Porta|place|Porta (Nigra), the Roman gate of Trier
+Nigra|place|(Porta) Nigra, "the black gate" of Trier
+Kölner|name|from Cologne (invariable): der Kölner Dom
+Kölle|name|Cologne in Kölsch dialect: Kölle Alaaf! (carnival cheer)
+Alaaf|name|carnival cheer in Cologne: Kölle Alaaf!
+Kamelle|name|sweets thrown from carnival floats (Cologne dialect)
+Kölsch|name|Kölsch: Cologne's pale beer, and its dialect
+Printen|name|Aachener Printen, a hard gingerbread from Aachen
+Aachener|name|from Aachen (invariable)
+van|name|van ("of", in Flemish and Dutch names: Ludwig van Beethoven)
+Osnabrück|city|Osnabrück
+Christus|name|Christ: vor Christus = BC, nach Christus = AD

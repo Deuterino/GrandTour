@@ -1,0 +1,258 @@
+# German unit stories, units 31–40 (Hessen und Franken: Es war einmal…).
+
+=== u31 | reading | Rotkäppchen
+intro: The Brothers Grimm collected this tale in Hessen. Fairy tales are told in the Präteritum: war, hatte, ging, sagte.
+- Es war einmal ein kleines Mädchen. Es trug immer eine rote Kappe, darum hieß es Rotkäppchen. | Once upon a time there was a little girl. She always wore a red cap, so she was called Little Red Cap.
+- Eines Tages sagte die Mutter: „Bring der Großmutter Kuchen und Wein. Sie ist krank.“ | One day her mother said: "Take Grandmother some cake and wine. She is ill."
+- Die Großmutter wohnte draußen im Wald. | Grandmother lived out in the forest.
+- Im Wald traf Rotkäppchen den Wolf. Es hatte keine Angst, denn es kannte ihn nicht. | In the forest Little Red Cap met the wolf. She wasn't afraid, because she didn't know him.
+- Der Wolf fragte: „Wohin gehst du?“ Rotkäppchen antwortete: „Zu meiner Großmutter.“ | The wolf asked: "Where are you going?" Little Red Cap answered: "To my grandmother's."
+- Der Wolf lief schnell zum Haus der Großmutter und fraß sie. | The wolf ran quickly to Grandmother's house and gobbled her up.
+- Dann legte er sich in ihr Bett. | Then he lay down in her bed.
+- „Großmutter, was hast du für große Ohren?“ — „Damit ich dich besser hören kann!“ | "Grandmother, what big ears you have!" — "All the better to hear you with!"
+- „Großmutter, was hast du für einen großen Mund?“ — „Damit ich dich besser fressen kann!“ | "Grandmother, what a big mouth you have!" — "All the better to eat you with!"
+- Zum Glück kam ein Jäger vorbei. Er rettete Rotkäppchen und die Großmutter. | Luckily a hunter came by. He rescued Little Red Cap and her grandmother.
+q: Das Mädchen trug immer eine rote ___. | Kappe | Jacke | Hose | en: The girl always wore a red cap. | why: „Es trug immer eine rote Kappe“
+q: Die Großmutter wohnte im ___. | Wald | Dorf | Schloss | en: Grandmother lived in the forest. | why: „Die Großmutter wohnte draußen im Wald.“
+q: Ein ___ rettete Rotkäppchen. | Jäger | König | Wolf | en: A hunter rescued Little Red Cap. | why: „Zum Glück kam ein Jäger vorbei.“
+
+=== u31 | dialogue | In der Grimmwelt
+intro: Tom visits the Grimmwelt museum in Kassel with Lena, who studies literature.
+Tom: Haben die Brüder Grimm die Märchen selbst geschrieben? | Did the Brothers Grimm write the fairy tales themselves?
+Lena: Nein, sie sammelten sie. Sie hörten die Geschichten von vielen Leuten und schrieben sie auf. | No, they collected them. They heard the stories from lots of people and wrote them down.
+Tom: Von wem? | From whom?
+Lena: Zum Beispiel von einer Frau aus einem Dorf bei Kassel. Sie kannte über dreißig Märchen. | For example from a woman from a village near Kassel. She knew over thirty fairy tales.
+Tom: Und warum taten sie das? | And why did they do that?
+Lena: Sie wollten die alte deutsche Sprache und die alten Geschichten retten. | They wanted to save the old German language and the old stories.
+Tom: Und dann? | And then?
+Lena: Dann schrieben sie ein großes Wörterbuch. Es war erst 1961 fertig! | Then they wrote a big dictionary. It wasn't finished until 1961!
+Tom: Hundert Jahre für ein Buch? Das ist ein Märchen! | A hundred years for one book? That's a fairy tale!
+q: Die Brüder Grimm ___ die Märchen. | sammelten | erfanden | kauften | en: The Brothers Grimm collected the fairy tales. | why: „sie sammelten sie“
+q: Die Frau aus dem Dorf kannte über ___ Märchen. | dreißig | dreizehn | dreihundert | en: The woman from the village knew over thirty fairy tales. | why: „Sie kannte über dreißig Märchen.“
+q: Das Wörterbuch war erst ___ fertig. | 1961 | 1812 | 1900 | en: The dictionary wasn't finished until 1961. | why: „Es war erst 1961 fertig!“
+
+=== u32 | reading | Der Froschkönig
+intro: The very first tale in the Grimms' collection. In their version, the princess is not exactly kind.
+- Es war einmal eine Prinzessin. Sie spielte gern mit einer goldenen Kugel. | Once upon a time there was a princess. She liked to play with a golden ball.
+- Eines Tages fiel die Kugel in einen tiefen Brunnen. Die Prinzessin weinte laut. | One day the ball fell into a deep well. The princess cried loudly.
+- Da kam ein Frosch und fragte: „Was gibst du mir, wenn ich dir die Kugel hole?“ | Then a frog came and asked: "What will you give me if I fetch the ball for you?"
+- „Alles, was du willst!“, sagte sie. „Ich will dein Freund sein“, sagte der Frosch. | "Anything you want!" she said. "I want to be your friend," said the frog.
+- Der Frosch holte die Kugel. Aber die Prinzessin nahm sie und lief schnell nach Hause. | The frog fetched the ball. But the princess took it and ran quickly home.
+- Am Abend klopfte es an die Tür. Der Frosch war da! | In the evening there was a knock at the door. The frog was there!
+- Der König sagte: „Was du versprochen hast, musst du auch halten.“ | The king said: "What you have promised, you must also keep."
+- In der Nacht wollte der Frosch in ihr Bett. Da wurde die Prinzessin böse und warf ihn an die Wand. | At night the frog wanted to get into her bed. Then the princess got angry and threw him against the wall.
+- Und plötzlich war er kein Frosch mehr, sondern ein schöner Prinz! | And suddenly he was no longer a frog, but a handsome prince!
+q: Die Kugel fiel in einen tiefen ___. | Brunnen | Wald | Fluss | en: The ball fell into a deep well. | why: „Eines Tages fiel die Kugel in einen tiefen Brunnen.“
+q: Der Frosch wollte ihr ___ sein. | Freund | König | Lehrer | en: The frog wanted to be her friend. | why: „Ich will dein Freund sein.“
+q: Die Prinzessin warf den Frosch an die ___. | Wand | Tür | Decke | en: The princess threw the frog against the wall. | why: „und warf ihn an die Wand“
+
+=== u32 | dialogue | Im Wald bei Marburg
+intro: Tom and Lena hike in the woods near Marburg, where the Grimms studied law.
+Lena: Hier waren die Brüder Grimm Studenten. Sie studierten Jura. | The Brothers Grimm were students here. They studied law.
+Tom: Und sie liefen auch durch diesen Wald? | And they walked through this forest too?
+Lena: Bestimmt! Schau, da hinten steht eine kleine Hütte. | Surely! Look, there's a little hut back there.
+Tom: Wohnt da eine Hexe? Oder sieben Zwerge? | Does a witch live there? Or seven dwarfs?
+Lena: Vielleicht ein Zauberer, der dich in einen Frosch verwandelt! | Maybe a wizard who will turn you into a frog!
+Tom: Dann musst du mich küssen, damit ich wieder ein Mensch werde. | Then you'll have to kiss me so that I become human again.
+Lena: Im Märchen küsst die Prinzessin den Frosch nicht. Sie wirft ihn an die Wand! | In the fairy tale the princess doesn't kiss the frog. She throws him against the wall!
+Tom: Dann bleibe ich lieber ein Mensch. | Then I'd rather stay human.
+q: Die Brüder Grimm studierten in Marburg ___. | Jura | Medizin | Musik | en: The Brothers Grimm studied law in Marburg. | why: „Sie studierten Jura.“
+q: Hinten steht eine kleine ___. | Hütte | Burg | Kirche | en: There's a little hut back there. | why: „da hinten steht eine kleine Hütte“
+
+=== u33 | dialogue | Wessen Rucksack ist das?
+intro: Fulda grew up around a monastery. In the cathedral, Tom finds a rucksack nobody seems to own.
+Tom: Entschuldigung, wessen Rucksack ist das? | Excuse me, whose rucksack is this?
+Frau: Ich glaube, das ist der Rucksack des Mannes dort, mit dem grauen Mantel. | I think it's the rucksack of the man over there, with the grey coat.
+Tom: Hallo! Ist das Ihr Rucksack? | Hello! Is this your rucksack?
+Mann: Oh ja, danke! Wegen des Regens habe ich alles vergessen. | Oh yes, thank you! Because of the rain I forgot everything.
+Tom: Kein Problem. Trotz des Wetters sind viele Leute hier. | No problem. Despite the weather there are lots of people here.
+Mann: Ja, während der Messe ist die Kirche immer voll. Sind Sie Tourist? | Yes, during Mass the church is always full. Are you a tourist?
+Tom: Nein, ich bin Zimmermann. Statt eines Hotels schlafe ich bei den Leuten, für die ich arbeite. | No, I'm a carpenter. Instead of a hotel I sleep at the homes of the people I work for.
+Mann: Ach, ein Geselle auf der Walz! Wissen Sie, dass das Grab des heiligen Bonifatius hier ist? | Ah, a journeyman on the road! Do you know that the tomb of Saint Boniface is here?
+Tom: Nein! Wer war das? | No! Who was that?
+Mann: Ein Engländer, wie Sie! | An Englishman, like you!
+q: Das ist der Rucksack ___ Mannes. | des | der | dem | en: That's the man's rucksack. | why: genitive masculine: des Mannes
+q: Wegen des ___ hat der Mann alles vergessen. | Regens | Wetters | Mantels | en: Because of the rain the man forgot everything. | why: „Wegen des Regens habe ich alles vergessen.“
+q: Bonifatius war ein ___. | Engländer | Zimmermann | König | en: Boniface was an Englishman. | why: „Ein Engländer, wie Sie!“
+
+=== u33 | reading | Bonifatius
+intro: The "Apostle of the Germans" came from England. Genitives: des, der; wegen, während, trotz.
+- Bonifatius kam aus England. Sein englischer Name war Winfried. | Boniface came from England. His English name was Winfried.
+- Er reiste im Jahr 719 nach Deutschland, um den Leuten vom Christentum zu erzählen. | In 719 he travelled to Germany to tell people about Christianity.
+- In Hessen stand eine sehr alte Eiche, der Baum des Gottes Donar. | In Hessen there stood a very old oak, the tree of the god Donar (Thor).
+- Trotz der Angst der Leute fällte Bonifatius den Baum. | Despite the people's fear, Boniface cut the tree down.
+- Nichts passierte. Aus dem Holz der Eiche baute er eine Kapelle. | Nothing happened. From the wood of the oak he built a chapel.
+- Im Jahr 744 gründete sein Schüler das Kloster in Fulda. | In 744 his pupil founded the monastery in Fulda.
+- Bonifatius starb 754. Sein Grab liegt im Dom von Fulda. | Boniface died in 754. His tomb lies in Fulda Cathedral.
+q: Der englische Name des Bonifatius war ___. | Winfried | Wilhelm | Walter | en: Boniface's English name was Winfried. | why: „Sein englischer Name war Winfried.“
+q: Trotz der ___ der Leute fällte er den Baum. | Angst | Freude | Hilfe | en: Despite the people's fear, he cut down the tree. | why: trotz + genitive: trotz der Angst
+q: Aus dem Holz baute er eine ___. | Kapelle | Burg | Brücke | en: From the wood he built a chapel. | why: „baute er eine Kapelle“
+
+=== u34 | dialogue | Auf der Bank
+intro: In Frankfurt, the city of banks, Tom opens an account. The bank clerk asks about his plans.
+Bankangestellte: Guten Tag! Was kann ich für Sie tun? | Good afternoon! What can I do for you?
+Tom: Ich möchte ein Konto eröffnen. Ich werde ein Jahr in Deutschland arbeiten. | I'd like to open an account. I'm going to work in Germany for a year.
+Bankangestellte: Gern. Haben Sie Ihren Pass dabei? | Certainly. Do you have your passport with you?
+Tom: Ja, hier ist er. | Yes, here it is.
+Bankangestellte: Danke. Und was werden Sie nach diesem Jahr machen? | Thank you. And what will you do after this year?
+Tom: Ich werde nach England zurückgehen und Meister werden. Ich werde eine eigene Werkstatt haben. | I'll go back to England and become a master. I'll have my own workshop.
+Bankangestellte: Ein guter Plan! Dann werden Sie bestimmt viel sparen. | A good plan! Then you'll certainly save a lot.
+Tom: Ich hoffe es! Aber Frankfurt ist teuer. | I hope so! But Frankfurt is expensive.
+Bankangestellte: Das stimmt. Hier ist Ihre Karte. Sie wird in einer Woche aktiv sein. | That's true. Here's your card. It will be active in a week.
+q: Tom wird ___ in Deutschland arbeiten. | ein Jahr | eine Woche | zehn Jahre | en: Tom is going to work in Germany for a year. | why: „Ich werde ein Jahr in Deutschland arbeiten.“
+q: Später wird Tom eine eigene ___ haben. | Werkstatt | Bank | Wohnung in Frankfurt | en: Later Tom will have his own workshop. | why: „Ich werde eine eigene Werkstatt haben.“
+q: Die Karte wird in einer ___ aktiv sein. | Woche | Stunde | Minute | en: The card will be active in a week. | why: „Sie wird in einer Woche aktiv sein.“
+
+=== u34 | reading | Mainhattan
+intro: Frankfurt: banks, skyscrapers and Goethe. The future with werden, and what the city will look like.
+- Frankfurt am Main hat so viele Hochhäuser, dass man es „Mainhattan“ nennt. | Frankfurt on the Main has so many skyscrapers that people call it "Mainhattan".
+- Hier sind viele Banken und die Europäische Zentralbank. | Lots of banks and the European Central Bank are here.
+- Aber Frankfurt ist auch eine alte Stadt. Goethe kam hier 1749 auf die Welt. | But Frankfurt is also an old city. Goethe was born here in 1749.
+- Sein Geburtshaus kann man heute noch besuchen. | His birthplace can still be visited today.
+- In Zukunft wird die Stadt noch höher wachsen. | In the future the city will grow even higher.
+- Und die Frankfurter werden weiter ihren Apfelwein trinken! | And the people of Frankfurt will go on drinking their apple wine!
+q: Man nennt Frankfurt „___“. | Mainhattan | Görliwood | Elbflorenz | en: People call Frankfurt "Mainhattan". | why: „dass man es Mainhattan nennt“
+q: Goethe kam ___ in Frankfurt auf die Welt. | 1749 | 1832 | 1517 | en: Goethe was born in Frankfurt in 1749. | why: „Goethe kam hier 1749 auf die Welt.“
+
+=== u35 | dialogue | Das Element aus Darmstadt
+intro: In Darmstadt, scientists discovered element 110. Tom visits a science centre with his friend Klara, a physicist.
+Klara: Das ist das Labor, in dem man Element 110 entdeckt hat. | This is the lab in which element 110 was discovered.
+Tom: Und wie heißt das Element, das man hier gefunden hat? | And what's the name of the element that was found here?
+Klara: Darmstadtium! Es ist ein Element, das nur sehr kurz lebt. | Darmstadtium! It's an element that only lives for a very short time.
+Tom: Wer sind die Leute, die hier arbeiten? | Who are the people who work here?
+Klara: Das sind Forscher, die aus der ganzen Welt kommen. | They're researchers who come from all over the world.
+Tom: Und die Maschine, die dort steht? | And the machine that's standing there?
+Klara: Das ist ein Teil des Beschleunigers, mit dem wir arbeiten. Er ist über hundert Meter lang. | That's part of the accelerator we work with. It's over a hundred metres long.
+Tom: Und das ist die Wissenschaftlerin, von der du mir erzählt hast? | And that's the scientist you told me about?
+Klara: Nein, das bin ich, auf einem alten Foto! | No, that's me, in an old photo!
+q: Darmstadtium ist ein Element, das nur sehr ___ lebt. | kurz | lange | gut | en: Darmstadtium is an element that only lives for a very short time. | why: „das nur sehr kurz lebt“
+q: Das sind Forscher, ___ aus der ganzen Welt kommen. | die | der | das | en: They're researchers who come from all over the world. | why: plural → relative pronoun die
+q: Der Beschleuniger, mit ___ sie arbeiten, ist über hundert Meter lang. | dem | den | der | en: The accelerator they work with is over a hundred metres long. | why: mit + dative masculine → dem
+
+=== u36 | dialogue | Das Weinfest
+intro: Würzburg is in Franconia, famous for dry white wine in round bottles. Tom's colleague Fritz invites him to a wine festival.
+Fritz: Tom, am Samstag gibt es ein Weinfest. Möchtest du mitkommen? Ich lade dich ein! | Tom, there's a wine festival on Saturday. Would you like to come? I'm inviting you!
+Tom: Sehr gern! Wer kommt noch? | I'd love to! Who else is coming?
+Fritz: Ein paar Freunde, mit denen ich jedes Jahr feiere. Sie sind sehr lustig. | A few friends I celebrate with every year. They're very funny.
+Tom: Was trinkt man hier? | What do people drink here?
+Fritz: Den Wein, den ich dir zeige: Silvaner, aus dieser runden Flasche. Er ist trocken, nicht süß. | The wine I'm showing you: Silvaner, from this round bottle. It's dry, not sweet.
+Tom: Die Flasche sieht lustig aus. Wie heißt sie? | The bottle looks funny. What's it called?
+Fritz: Das ist der Bocksbeutel, den es nur in Franken gibt. | That's the Bocksbeutel, which only exists in Franconia.
+Tom: Und gibt es auch etwas zu essen? | And is there something to eat too?
+Fritz: Natürlich! Bratwürste, die so lang sind wie dein Arm! | Of course! Bratwursts that are as long as your arm!
+q: Fritz feiert jedes Jahr mit Freunden, mit ___ er Spaß hat. | denen | die | den | en: Fritz celebrates every year with friends he has fun with. | why: mit + dative plural → denen
+q: Der Silvaner ist trocken, nicht ___. | süß | sauer | scharf | en: Silvaner is dry, not sweet. | why: „Er ist trocken, nicht süß.“
+q: Die runde Flasche heißt ___. | Bocksbeutel | Brunnen | Becher | en: The round bottle is called a Bocksbeutel. | why: „Das ist der Bocksbeutel“
+
+=== u36 | reading | Die Residenz
+intro: Relative clauses in a short guide to Würzburg's palace.
+- Die Residenz ist das Schloss, in dem die Fürstbischöfe von Würzburg wohnten. | The Residenz is the palace in which the prince-bishops of Würzburg lived.
+- Der Architekt, der das Schloss baute, hieß Balthasar Neumann. | The architect who built the palace was called Balthasar Neumann.
+- Über der großen Treppe hängt ein Bild, das größer ist als alle anderen: das größte Deckenbild der Welt. | Above the great staircase there is a painting that is bigger than all others: the largest ceiling fresco in the world.
+- Der Maler, den man dafür aus Venedig holte, hieß Tiepolo. | The painter they brought from Venice for it was called Tiepolo.
+- Das Bild zeigt die vier Erdteile, die man damals kannte. | The painting shows the four continents that were known at the time.
+- Im Krieg fiel fast die ganze Stadt, aber die Decke, auf der das Bild ist, blieb stehen. | In the war almost the whole city fell, but the ceiling with the painting on it stayed standing.
+q: Der Architekt, ___ das Schloss baute, hieß Neumann. | der | den | dem | en: The architect who built the palace was called Neumann. | why: subject → der
+q: Den Maler holte man aus ___. | Venedig | Rom | Paris | en: They brought the painter from Venice. | why: „den man dafür aus Venedig holte“
+
+=== u37 | dialogue | Ein Rauchbier, bitte
+intro: In Bamberg the beer tastes of smoke. Tom orders politely in the Konjunktiv II.
+Kellner: Guten Abend! Was darf es sein? | Good evening! What can I get you?
+Tom: Ich hätte gern ein Rauchbier, bitte. | I'd like a smoked beer, please.
+Kellner: Gern. Möchten Sie auch etwas essen? | Certainly. Would you like something to eat as well?
+Tom: Könnten Sie mir etwas empfehlen? | Could you recommend something to me?
+Kellner: Die Bratwurst würde ich nehmen. Sie passt perfekt zum Bier. | I would take the bratwurst. It goes perfectly with the beer.
+Tom: Dann nehme ich die Bratwurst. … Hm, das Bier schmeckt wirklich wie Speck! | Then I'll have the bratwurst. … Hm, the beer really does taste like bacon!
+Kellner: Wenn Sie drei Gläser trinken würden, würde es Ihnen schmecken. Das sagen wir hier immer. | If you drank three glasses, you'd like it. That's what we always say here.
+Tom: Wenn ich mehr Zeit hätte, würde ich es probieren! Aber ich muss morgen früh arbeiten. | If I had more time, I'd try it! But I have to work early tomorrow.
+Kellner: Dann kommen Sie am Samstag wieder! | Then come back on Saturday!
+q: Tom sagt höflich: „Ich ___ gern ein Rauchbier.“ | hätte | habe | hatte | en: Tom says politely: "I'd like a smoked beer." | why: ich hätte gern = I would like (polite)
+q: „___ Sie mir etwas empfehlen?“ | Könnten | Können nicht | Konnten | en: "Could you recommend something to me?" | why: könnten = could (polite)
+q: Das Bier schmeckt wie ___. | Speck | Kaffee | Wein | en: The beer tastes like bacon. | why: „das Bier schmeckt wirklich wie Speck!“
+
+=== u37 | reading | Wenn ich ein Vöglein wär'
+intro: An old German folk song with the Konjunktiv II of wishes. "Wär'" is a shortened "wäre".
+- Wenn ich ein Vöglein wär' | If I were a little bird
+- und auch zwei Flüglein hätt', | and also had two little wings,
+- flög' ich zu dir. | I would fly to you.
+- Weil's aber nicht kann sein, | But because it cannot be,
+- weil's aber nicht kann sein, | but because it cannot be,
+- bleib' ich allhier. | I stay right here.
+q: Im Lied wünscht man sich zwei ___. | Flüglein | Freunde | Hände | en: In the song the singer wishes for two little wings. | why: „und auch zwei Flüglein hätt'“
+q: „wär'“ ist kurz für „___“. | wäre | war | werde | en: "wär'" is short for "wäre". | why: Konjunktiv II of sein: ich wäre
+
+=== u38 | dialogue | Auf dem Christkindlesmarkt
+intro: December in Nuremberg. Tom and Lena walk through one of the oldest Christmas markets.
+Lena: Riechst du das? Lebkuchen! Und Glühwein! | Can you smell that? Gingerbread! And mulled wine!
+Tom: Wunderbar. Was würdest du dir zu Weihnachten wünschen? | Wonderful. What would you wish for at Christmas?
+Lena: Wenn ich ein Kind wäre, würde ich mir eine Puppe wünschen. Und du? | If I were a child, I'd wish for a doll. And you?
+Tom: Ich hätte gern eine Eisenbahn aus Holz. Die habe ich als Kind nie bekommen. | I'd like a wooden train set. I never got one as a child.
+Lena: Dann bauen wir dir eine! Du bist doch Zimmermann. | Then we'll build you one! You are a carpenter, after all.
+Tom: Gute Idee. Und was wäre dein Wunsch für das neue Jahr? | Good idea. And what would your wish be for the new year?
+Lena: Dass du nicht so weit weg wärst. | That you weren't so far away.
+Tom: Ich wäre auch gern näher bei dir. | I'd like to be closer to you too.
+q: Lena würde sich als Kind eine ___ wünschen. | Puppe | Eisenbahn | Kerze | en: As a child Lena would wish for a doll. | why: „würde ich mir eine Puppe wünschen“
+q: Tom hätte gern eine Eisenbahn aus ___. | Holz | Gold | Lebkuchen | en: Tom would like a train set made of wood. | why: „eine Eisenbahn aus Holz“
+q: Lena wünscht sich, dass Tom nicht so weit weg ___. | wäre | ist | war | en: Lena wishes Tom weren't so far away. | why: wishes → Konjunktiv II: wäre
+
+=== u38 | reading | Nürnberger Spielzeug
+intro: Nuremberg was once the toy capital of the world.
+- Schon vor fünfhundert Jahren machten Handwerker in Nürnberg Spielzeug. | Five hundred years ago craftsmen in Nuremberg were already making toys.
+- Sie bauten Puppen, Häuser und kleine Tiere aus Holz und Metall. | They built dolls, houses and little animals out of wood and metal.
+- Später kamen Eisenbahnen dazu, die man in der ganzen Welt kaufte. | Later came toy trains that were bought all over the world.
+- Jedes Jahr im Februar gibt es hier eine große Messe für Spielzeug. | Every year in February there is a big toy fair here.
+- Und im Dezember kommt das Christkind auf den Markt, mit goldenen Haaren und einer Krone. | And in December the Christ Child comes to the market, with golden hair and a crown.
+- Viele Kinder würden gern das Christkind sein! | Lots of children would like to be the Christ Child!
+q: Nürnberger Handwerker machten Spielzeug aus Holz und ___. | Metall | Glas | Papier | en: Nuremberg craftsmen made toys from wood and metal. | why: „aus Holz und Metall“
+q: Das Christkind hat goldene Haare und eine ___. | Krone | Kerze | Puppe | en: The Christ Child has golden hair and a crown. | why: „mit goldenen Haaren und einer Krone“
+
+=== u39 | reading | Der Meistertrunk
+intro: Rothenburg's famous legend of 1631. Infinitives with zu: um … zu, ohne … zu, versuchen zu.
+- Im Jahr 1631 war Krieg. General Tilly kam mit seinen Soldaten nach Rothenburg. | In 1631 there was a war. General Tilly came to Rothenburg with his soldiers.
+- Er hatte vor, die Stadt zu zerstören. | He intended to destroy the town.
+- Die Bürger versuchten, ihn mit Wein freundlich zu machen. Sie brachten einen riesigen Becher. | The citizens tried to put him in a good mood with wine. They brought a giant tankard.
+- Der Becher hatte über drei Liter Wein. | The tankard held over three litres of wine.
+- Tilly lachte: „Wenn einer von euch diesen Becher auf einmal austrinkt, lasse ich die Stadt stehen!“ | Tilly laughed: "If one of you drinks this tankard down in one go, I'll leave the town standing!"
+- Der alte Bürgermeister Nusch stand auf, um die Stadt zu retten. | The old mayor Nusch stood up to save the town.
+- Er trank den ganzen Becher, ohne aufzuhören. | He drank the whole tankard without stopping.
+- Die Stadt war gerettet. Der Bürgermeister schlief danach drei Tage lang. | The town was saved. Afterwards the mayor slept for three days.
+q: Tilly hatte vor, die Stadt zu ___. | zerstören | retten | kaufen | en: Tilly intended to destroy the town. | why: „Er hatte vor, die Stadt zu zerstören.“
+q: Nusch stand auf, um die Stadt zu ___. | retten | zerstören | verlassen | en: Nusch stood up to save the town. | why: um … zu = in order to
+q: Er trank den Becher, ohne ___. | aufzuhören | zu trinken | zu lachen | en: He drank the tankard without stopping. | why: ohne … zu; separable verbs put zu in the middle: aufzuhören
+
+=== u39 | dialogue | Hast du Lust?
+intro: In Rothenburg, Tom's colleague Florian suggests a walk on the town wall.
+Florian: Hast du Lust, auf der Stadtmauer zu laufen? | Do you feel like walking along the town wall?
+Tom: Ja, gern! Aber ich habe vergessen, Wasser mitzunehmen. | Yes, I'd like that! But I forgot to bring water.
+Florian: Kein Problem, ich habe genug. Es ist schön, die Stadt von oben zu sehen. | No problem, I've got enough. It's nice to see the town from above.
+Tom: Ist es schwer, hier Arbeit zu finden? | Is it hard to find work here?
+Florian: Nein, wir haben viele alte Häuser. Es ist wichtig, sie gut zu reparieren. | No, we have lots of old houses. It's important to repair them well.
+Tom: Ich versuche, jeden Tag etwas Neues zu lernen. | I try to learn something new every day.
+Florian: Dann hör nie auf, Fragen zu stellen! | Then never stop asking questions!
+q: Tom hat vergessen, Wasser ___. | mitzunehmen | zu mitnehmen | mitnehmen | en: Tom forgot to bring water. | why: separable verb: mit-zu-nehmen
+q: Es ist wichtig, die Häuser gut zu ___. | reparieren | bauen | kaufen | en: It's important to repair the houses well. | why: „Es ist wichtig, sie gut zu reparieren.“
+
+=== u40 | reading | Wagners Festspielhaus
+intro: Review: Richard Wagner built his own opera house in Bayreuth. Präteritum, relative clauses and Konjunktiv II together.
+- Richard Wagner war ein Komponist, der sehr lange Opern schrieb. | Richard Wagner was a composer who wrote very long operas.
+- Er wollte ein Theater, das nur für seine Musik war. | He wanted a theatre that was just for his music.
+- Ein König half ihm: Ludwig der Zweite von Bayern, der Wagners Musik liebte. | A king helped him: Ludwig II of Bavaria, who loved Wagner's music.
+- 1876 öffnete das Festspielhaus in Bayreuth zum ersten Mal. | In 1876 the festival theatre in Bayreuth opened for the first time.
+- Die Stühle sind aus Holz und sehr hart, damit der Klang besser ist. | The seats are made of wood and very hard, so that the sound is better.
+- Jeden Sommer gibt es die Festspiele. Viele Leute warten jahrelang auf eine Karte. | Every summer there's the festival. Many people wait years for a ticket.
+- Wenn Tom eine Karte hätte, würde er sofort gehen — auch auf einem harten Stuhl! | If Tom had a ticket, he would go at once — even on a hard seat!
+q: Wagner war ein Komponist, ___ sehr lange Opern schrieb. | der | den | dem | en: Wagner was a composer who wrote very long operas. | why: subject → der
+q: Die Stühle sind aus ___. | Holz | Metall | Glas | en: The seats are made of wood. | why: „Die Stühle sind aus Holz und sehr hart“
+q: Wenn Tom eine Karte ___, würde er sofort gehen. | hätte | hat | habe | en: If Tom had a ticket, he would go at once. | why: unreal condition → Konjunktiv II: hätte
+
+=== u40 | dialogue | Eine Karte für Bayreuth?
+intro: Review: Tom tries his luck at the box office.
+Tom: Guten Tag! Hätten Sie noch eine Karte für heute Abend? | Good afternoon! Would you have one more ticket for this evening?
+Frau: Für heute? Das wäre ein Wunder! Die Leute warten oft zehn Jahre. | For today? That would be a miracle! People often wait ten years.
+Tom: Zehn Jahre? So lange bin ich nicht in Deutschland. | Ten years? I won't be in Germany that long.
+Frau: Manchmal gibt jemand eine Karte zurück. Kommen Sie um sechs Uhr wieder. | Sometimes someone returns a ticket. Come back at six o'clock.
+Tom: Um sechs. Ich werde hier sein! | At six. I'll be here!
+Frau: … Sie haben Glück! Ein Herr, der krank ist, hat seine Karte zurückgegeben. | … You're in luck! A gentleman who is ill has returned his ticket.
+Tom: Wirklich? Das ist ja wie im Märchen! | Really? That's like a fairy tale!
+q: Die Leute warten oft ___ Jahre auf eine Karte. | zehn | zwei | zwanzig | en: People often wait ten years for a ticket. | why: „Die Leute warten oft zehn Jahre.“
+q: Ein Herr, der ___ ist, hat seine Karte zurückgegeben. | krank | müde | reich | en: A gentleman who is ill has returned his ticket. | why: „Ein Herr, der krank ist“

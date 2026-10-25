@@ -380,15 +380,16 @@ export const ARCHAIC = {
   gieng: ['gehen', 'ging (old spelling)'], fieng: ['fangen', 'fing (old spelling)'], hieng: ['hängen', 'hing (old spelling)'],
   sprach: null, kam: null,
   seyn: ['sein', 'sein (old spelling)'], thun: ['tun', 'tun (old spelling)'], Mägdlein: ['Mädchen', 'girl, maiden (archaic diminutive)'],
+  allhier: ['hier', 'allhier = hier (old, poetic)'],
 };
 
 // Split an unknown compound into known nouns: Haustür → Haus + Tür.
 // findNoun(lowercaseLemma) returns a noun entry or null. Linking elements (Fugen-s, -n, -es, -er, -e) are allowed.
-export function splitCompound(word, findNoun, skipWhole = false) {
+export function splitCompound(word, findNoun, skipWhole = false, findHead = findNoun) {
   const w = word.toLowerCase();
   for (let i = 3; i <= w.length - 3; i++) {
     const head = w.slice(i);
-    const headEntry = findNoun(head);
+    const headEntry = findHead(head);
     if (!headEntry || (skipWhole && i === 0)) continue;
     const left = w.slice(0, i);
     for (const link of ['', 's', 'n', 'en', 'es', 'er', 'e']) {
@@ -399,7 +400,7 @@ export function splitCompound(word, findNoun, skipWhole = false) {
         const le = leftEntry || findNoun(base, 'any');
         return {
           parts: [le.p === 'n' ? `${DEF[le.g === 'pl' ? 'pl' : le.g]?.[0] || ''} ${le.l}`.trim() : le.l, `${DEF[headEntry.g === 'pl' ? 'pl' : headEntry.g][0]} ${headEntry.l}`],
-          head: headEntry, left: le, link,
+          head: headEntry, headForm: head, left: le, link,
         };
       }
     }

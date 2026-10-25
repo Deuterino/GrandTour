@@ -55,3 +55,93 @@ demonstrieren|v|to demonstrate, to protest
 einstürzen|v|to collapse|note=Separable; with sein: Die Kirche ist eingestürzt.
 # greet
 hm|intj|hm, hmm
+# travel
+Rucksack|n.m|rucksack, backpack|note=Plural Rucksäcke.
+# clothes
+Kappe|n.f|cap|note=Rotkäppchen = Little Red Cap (Little Red Riding Hood).
+# school
+Jura|n.n|law (as a subject)|note=No article: Jura studieren = to study law.
+Forscher|n.m|researcher, scientist|note=Feminine Forscherin; die Forschung = research.
+# people
+Engländer|n.m|Englishman|note=Feminine Engländerin; the language is Englisch.
+Architekt|n.m|architect|note=Weak noun: den Architekten.
+Komponist|n.m|composer|note=Weak noun: den Komponisten.
+General|n.m|general (army)|note=Plural Generäle.
+Bischof|n.m|bishop|note=der Fürstbischof = prince-bishop.
+# nature
+Eiche|n.f|oak
+fällen|v|to fell, to cut down (a tree)
+Erdteil|n.m|continent|note=Also der Kontinent.
+# city
+Kapelle|n.f|chapel; band (music)
+Kloster|n.n|monastery, convent|note=Plural Klöster.
+Dom|n.m|cathedral|note=der Kölner Dom; also das Münster.
+Hochhaus|n.n|high-rise, skyscraper|note=Plural Hochhäuser.
+Residenz|n.f|residence (of a ruler)|note=die Würzburger Residenz.
+# soc
+Christentum|n.n|Christianity
+Christkind|n.n|the Christ Child (who brings presents in the south)|note=In the north: der Weihnachtsmann.
+# desc
+aktiv|a|active
+zentral|a|central|note=die Zentralbank = central bank.
+europäisch|a|European|note=die Europäische Union.
+jahrelang|adv|for years
+# tech
+Beschleuniger|n.m|(particle) accelerator
+# food
+Glühwein|n.m|mulled wine
+Liter|n.m|litre|note=Both der and das Liter are used.
+austrinken|v|to drink up, to finish (a drink)|note=Separable: Er trinkt aus.
+Bocksbeutel|n.m|Franconian round-bellied wine bottle
+# free
+Oper|n.f|opera; opera house|note=Plural Opern.
+Festspiel|n.n|festival performance|note=die Festspiele = the festival; das Festspielhaus = festival theatre.
+# act
+krönen|v|to crown|note=Er wurde zum Kaiser gekrönt.
+regieren|v|to rule, to govern
+brauen|v|to brew|note=Das Bier wird nach alter Tradition gebraut.
+lagern|v|to store
+dazugeben|v|to add (in cooking)|note=Separable: Man gibt den Hopfen dazu.
+zusammensetzen|v|to put together, to assemble|note=Separable: Wir setzen die Teile zusammen.
+schleifen|v|to sand, to grind, to sharpen|note=Irregular: schliff, geschliffen.
+anmalen|v|to paint (an object)|note=Separable: Ich male den Tisch an.
+dunkeln|v|to grow dark (literary)|reg=lit;note=Es dunkelt = it is getting dark.
+funkeln|v|to sparkle, to twinkle
+# home
+Eimer|n.m|bucket
+# free
+Umzug|n.m|parade, procession; move (house)|note=der Karnevalsumzug; der Umzug in eine neue Wohnung.
+Kostüm|n.n|costume
+Sinfonie|n.f|symphony|note=Beethovens Neunte Sinfonie.
+Literatur|n.f|literature
+Design|n.n|design
+# food
+Süßigkeit|n.f|sweet, candy|note=Usually plural: Süßigkeiten.
+Malz|n.n|malt
+Hopfen|n.m|hops
+Bierdeckel|n.m|beer mat, coaster
+# work
+Zeche|n.f|coal mine, pit; (old) bill in a pub|note=die Zeche Zollverein in Essen.
+Kran|n.m|crane (machine)|note=Plural Kräne.
+Mörtel|n.m|mortar
+Winzer|n.m|winegrower, winemaker|note=Feminine Winzerin.
+Weinlese|n.f|grape harvest
+Historiker|n.m|historian|note=Feminine Historikerin.
+# people
+Römer|n.m|Roman|note=die Römer = the Romans; das Römertor = Roman gate.
+Chinese|n.m|Chinese man|note=Weak noun: die Chinesen = the Chinese.
+Gesandte|n.m|envoy, ambassador|note=Declines like an adjective: ein Gesandter, die Gesandten.
+# school
+Uni|n.f|uni, university (coll.)|reg=coll
+# nature
+Gipfel|n.m|summit, peak
+Sonnenschein|n.m|sunshine
+# desc
+steil|a|steep
+nördlich|a|northern; north of|note=nördlich der Alpen = north of the Alps.
+anstrengend|a|exhausting, strenuous
+# time
+jahrhundertelang|adv|for centuries
+stundenlang|adv|for hours
+# greet
+wow|intj|wow

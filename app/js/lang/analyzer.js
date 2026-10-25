@@ -162,6 +162,17 @@ export function lookupWord(word, L) {
     const e = L.lemma(lemma, 'v') || L.lemma(lemma);
     if (e) cands = [{ entry: e, tags: [], score: 0, notes: [note] }];
   }
+  // Gutenberg-Bibel, Rhein-Main: a hyphenated compound is read through its last part
+  if (!cands.length && /[^-]-[^-]/.test(word)) {
+    const parts = word.split('-');
+    cands = lookupWord(parts[parts.length - 1], L).map((x) => ({ ...x, notes: [...x.notes, `Hyphenated compound: ${parts.join(' + ')}.`] }));
+  }
+  // wär', hätt', bleib': poetic and spoken elision of the final -e
+  if (!cands.length && L.lang === 'de' && /['’]$/.test(word)) {
+    const base = word.slice(0, -1) + 'e';
+    cands = group(L, L.lookupForm(base));
+    cands.forEach((x) => x.notes.push(`Shortened form of “${base}” (songs, poems, speech).`));
+  }
   // geht's, gibt's, hab's: colloquial verb + es
   if (!cands.length && L.lang === 'de' && /['’]s$/.test(word)) {
     const base = word.slice(0, -2);
@@ -174,12 +185,21 @@ export function lookupWord(word, L) {
   if (guess && !cands.length && L.lang === 'it') cands = adverbReadings(word, L);
   if (guess && !cands.length && L.lang === 'it') cands = alteratoReadings(word, L);
   if (guess && !cands.length && L.lang === 'de') cands = diminutiveReadings(word, L);
+  if (guess && !cands.length && L.lang === 'de' && /^[a-zäöü]/.test(word)) cands = prefixVerbReadings(word, L);
   if (!cands.length && L.lang === 'de' && /^[A-ZÄÖÜ]/.test(word) && word.length > 6) {
+    const cap = (w) => w[0].toUpperCase() + w.slice(1);
+    // the head may be inflected: Eisenbahnen → Eisen + Bahnen (plural of die Bahn)
+    const findHead = (w) => (L.byLemma.get(w) || []).find((x) => x.p === 'n') ||
+      L.get(L.lookupForm(cap(w)).find((h) => L.get(h.id)?.p === 'n')?.id);
     const comp = DE.splitCompound(word, (w, any) => {
       const list = L.byLemma.get(w) || [];
       return any ? list[0] : list.find((x) => x.p === 'n');
-    });
-    if (comp) cands = [{ entry: comp.head, tags: ['N:compound'], score: 0, notes: [`Compound: ${comp.parts.join(' + ')} → ${DE.DEF[comp.head.g === 'pl' ? 'pl' : comp.head.g][0]} ${word}`], compound: comp }];
+    }, false, findHead);
+    if (comp) {
+      const tags = L.lookupForm(cap(comp.headForm)).filter((h) => h.id === comp.head.id).map((h) => h.tag);
+      const lemma = comp.headForm === comp.head.l.toLowerCase() ? word : word.slice(0, word.length - comp.headForm.length) + comp.head.l.toLowerCase();
+      cands = [{ entry: comp.head, tags: tags.length ? tags : ['N:compound'], score: 0, notes: [`Compound: ${comp.parts.join(' + ')} → ${DE.DEF[comp.head.g === 'pl' ? 'pl' : comp.head.g][0]} ${lemma}`], compound: comp }];
+    }
   }
   if (!cands.length) {
     const num = L.engine.parseNumber(word);
@@ -187,6 +207,20 @@ export function lookupWord(word, L) {
   }
   for (const c of cands) c.score = c.score || 0;
   return cands;
+}
+
+// einschlägt, aufgebaut: an unknown separable verb = prefix + a known verb
+function prefixVerbReadings(word, L) {
+  for (const p of DE.SEP_PREFIXES) {
+    if (!word.startsWith(p) || word.length - p.length < 3) continue;
+    const rest = word.slice(p.length);
+    const hits = L.lookupForm(rest).filter((h) => L.get(h.id)?.p === 'v');
+    if (!hits.length) continue;
+    const c = group(L, hits);
+    c.forEach((x) => x.notes.push(`${word} = ${p} + ${rest}: a form of the separable verb ${p}${x.entry.l.replace(/^sich /, '')}.`));
+    return c;
+  }
+  return [];
 }
 
 // Büchlein, Kätzchen: a synthetic neuter entry pointing back to the base noun
