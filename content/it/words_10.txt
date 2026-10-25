@@ -372,3 +372,29 @@ rupestre|a|rock, cave (adj.)|note=le chiese rupestri = rock-cut churches.
 tarantato|a|(believed) bitten by the taranta|note=le tarantate: women who danced to be cured.
 imparziale|a|impartial
 visigoto|a|Visigothic; (n.) Visigoth|note=Plural visigoti.
+# act
+ruggire|v|to roar|note=-isc- verb: il leone ruggisce.
+sfogare|v|to vent, to let off|note=sfogarsi = to let off steam.
+# people
+orafo|n.m|goldsmith
+pescivendolo|n.m|fishmonger
+# food
+agrume|n.m|citrus fruit|note=Usually plural: gli agrumi.
+canna|n.f|cane, reed|note=la canna da zucchero = sugar cane; la canna da pesca = fishing rod.
+milza|n.f|spleen|note=pani ca meusa (Sicilian) = bread with spleen, Palermo street food.
+ragù|n.m|ragù, meat sauce|note=Invariable.
+# arts
+chiostro|n.m|cloister
+arco|n.m|arch; bow|note=Plural archi.
+telamone|n.m|telamon (statue used as a column)
+Pantocratore|n.m|Pantocrator (Christ, ruler of all)
+# school
+volume|n.m|volume
+congiuntivo|n.m|subjunctive (mood)
+# desc
+lavico|a|lava (adj.), volcanic|note=la pietra lavica = lava stone. Plural lavici.
+barocco|a|baroque|note=una chiesa barocca, le chiese barocche.
+normanno|a|Norman; (n.) Norman|note=i Normanni ruled Sicily from 1072.
+bolognese|a|from Bologna; (n.) person from Bologna|note=la (salsa) bolognese = ragù alla bolognese.
+# greet
+eureka|intj|eureka! (I've found it!)

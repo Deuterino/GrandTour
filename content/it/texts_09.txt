@@ -1,0 +1,164 @@
+# Italian unit stories, units 81–90 (Sicilia e Sardegna: Il viaggio finisce).
+
+=== u81 | dialogue | Il leone di Messina
+intro: Tom has crossed the strait to Sicily. Messina's cathedral has one of the largest astronomical clocks in the world. The future.
+Tom: Che cosa succederà a mezzogiorno? | What will happen at noon?
+Signora: Il leone d'oro alzerà la testa e ruggirà tre volte. Poi canterà il gallo. | The golden lion will raise its head and roar three times. Then the rooster will crow.
+Tom: E dopo? | And after that?
+Signora: Si muoveranno le statue, e suonerà l'«Ave Maria». Durerà circa dodici minuti. | The statues will move, and the "Ave Maria" will play. It will last about twelve minutes.
+Tom: Quanta gente ci sarà? | How many people will there be?
+Signora: Saranno almeno duecento persone, come ogni giorno. Arrivi presto, se vuole vedere bene. | There'll be at least two hundred people, like every day. Come early if you want to see well.
+Tom: Arriverò alle undici e mezza. Porterò il quaderno e disegnerò il leone. | I'll arrive at half past eleven. I'll bring my notebook and draw the lion.
+q: A mezzogiorno il leone ___ tre volte. | ruggirà | ruggiva | ruggisce ieri | en: At noon the lion will roar three times. | why: future: ruggirà
+q: Lo spettacolo ___ circa dodici minuti. | durerà | durava | è durato domani | en: The show will last about twelve minutes. | why: future: durerà
+q: «Saranno almeno duecento persone» significa: probabilmente ci sono ___ persone. | duecento | dodici | due | en: "There'll be at least two hundred people" — probably two hundred people. | why: future of probability: saranno
+
+=== u81 | reading | La Sicilia di Goethe
+intro: In 1787 Goethe wrote: "Italy without Sicily leaves no image in the soul: here is the key to everything." Tom reads it on the ferry.
+- Goethe arrivò in Sicilia nell'aprile del 1787, con il pittore Christoph Kniep. | Goethe arrived in Sicily in April 1787, with the painter Christoph Kniep.
+- Visitò Palermo, Agrigento, Catania, Taormina e Messina. | He visited Palermo, Agrigento, Catania, Taormina and Messina.
+- Scrisse: «L'Italia senza la Sicilia non lascia nessuna immagine nell'anima: qui è la chiave di tutto.» | He wrote: "Italy without Sicily leaves no image in the soul: here is the key to everything."
+- Tom, come Kniep, disegnerà tutto quello che vedrà. | Tom, like Kniep, will draw everything he sees.
+- Forse un giorno qualcuno leggerà il suo diario, come oggi noi leggiamo quello di Goethe. | Perhaps one day someone will read his diary, as today we read Goethe's.
+q: Goethe arrivò in Sicilia nel ___. | 1787 | 1786 | 1878 | en: Goethe arrived in Sicily in 1787. | why: «nell'aprile del 1787»
+q: Per Goethe, la Sicilia è la ___ di tutto. | chiave | porta | fine | en: For Goethe, Sicily is the key to everything. | why: «qui è la chiave di tutto»
+
+=== u82 | dialogue | Al teatro greco di Taormina
+intro: In Taormina's Greek theatre, the stage looks out over the sea to the smoking cone of Etna. The conditional.
+Tom: Se potessi, resterei qui tutta la vita. | If I could, I'd stay here my whole life.
+Giulia: Anch'io. Ti piacerebbe vedere uno spettacolo qui, d'estate? | Me too. Would you like to see a show here, in summer?
+Tom: Moltissimo. Sarebbe incredibile sentire la musica con l'Etna dietro. | Very much. It would be incredible to hear music with Etna behind it.
+Giulia: Goethe disse che era la più grande opera d'arte e di natura che avesse mai visto. | Goethe said it was the greatest work of art and nature he had ever seen.
+Tom: Avrebbe ragione anche oggi. Potresti farmi una foto? | He'd still be right today. Could you take a photo of me?
+Giulia: Certo. Ma non dovresti salire su quella colonna! | Of course. But you shouldn't climb onto that column!
+Tom: Scusa. Il pittore che è in me diventa un bambino. | Sorry. The painter in me turns into a child.
+q: Se potesse, Tom ___ qui tutta la vita. | resterebbe | resta | restasse | en: If he could, Tom would stay here all his life. | why: main clause → condizionale: resterebbe
+q: «___ farmi una foto?» | Potresti | Puoi stato | Potessi | en: "Could you take a photo of me?" | why: polite request → condizionale: potresti
+q: Tom non ___ salire sulla colonna. | dovrebbe | deve stato | dovesse | en: Tom shouldn't climb onto the column. | why: advice → condizionale: dovrebbe
+
+=== u83 | dialogue | Ai piedi dell'Etna
+intro: Catania has been rebuilt many times after eruptions and earthquakes. At the fish market, a fishmonger talks about living with Etna. The congiuntivo.
+Pescivendolo: Guardi questo pesce spada! Freschissimo. Non credo che ne trovi uno più bello in tutta la Sicilia. | Look at this swordfish! Very fresh. I don't think you'll find a finer one in all of Sicily.
+Tom: È bellissimo. Ma non ha paura che l'Etna si svegli? | It's very beautiful. But aren't you afraid that Etna will wake up?
+Pescivendolo: Ah, «a muntagna»? È normale che fumi. Bisogna che lei sfoghi un po', ogni tanto. | Ah, "the mountain"? It's normal for it to smoke. It needs to let off steam a bit, now and then.
+Giulia: Nel 1669 la lava arrivò fino al mare, qui vicino. | In 1669 the lava reached the sea, near here.
+Pescivendolo: Sì, e la città fu ricostruita con la pietra nera della lava. Anche il nostro elefante in piazza è di pietra lavica. | Yes, and the city was rebuilt with the black stone of the lava. Even our elephant in the square is made of lava stone.
+Tom: Spero che la montagna resti tranquilla mentre siamo qui. | I hope the mountain stays calm while we're here.
+Pescivendolo: Speriamo! Ma se vuole un ricordo, si porti a casa un po' di cenere. | Let's hope so! But if you want a souvenir, take home a bit of ash.
+q: Il pescivendolo non crede che Tom ___ un pesce più bello. | trovi | trova | troverà | en: The fishmonger doesn't think Tom will find a finer fish. | why: non credo che → congiuntivo: trovi
+q: È normale che l'Etna ___. | fumi | fuma | fumare | en: It's normal for Etna to smoke. | why: è normale che → congiuntivo: fumi
+q: L'elefante in piazza è di pietra ___. | lavica | bianca | rossa | en: The elephant in the square is made of lava stone. | why: «è di pietra lavica»
+
+=== u84 | reading | Eureka!
+intro: Archimedes lived in Syracuse in the third century BC. Stories about him in the passato remoto.
+- Il re Gerone diede a un orafo dell'oro per fare una corona. | King Hiero gave a goldsmith some gold to make a crown.
+- Quando la corona fu pronta, il re pensò che l'orafo avesse rubato un po' d'oro. | When the crown was ready, the king thought the goldsmith had stolen some of the gold.
+- Chiese ad Archimede di scoprirlo, senza rompere la corona. | He asked Archimedes to find out, without breaking the crown.
+- Un giorno, entrando nella vasca da bagno, Archimede vide che l'acqua saliva. | One day, getting into the bathtub, Archimedes saw the water rise.
+- Capì subito come misurare il volume della corona. Uscì per strada nudo, gridando: «Eureka!» — «Ho trovato!» | He understood at once how to measure the crown's volume. He ran out into the street naked, shouting: "Eureka!" — "I have found it!"
+- Quando i Romani conquistarono Siracusa, nel 212 avanti Cristo, un soldato lo trovò mentre disegnava cerchi nella sabbia. | When the Romans conquered Syracuse, in 212 BC, a soldier found him while he was drawing circles in the sand.
+- Archimede gli disse: «Non disturbare i miei cerchi!» Il soldato lo uccise. | Archimedes said to him: "Don't disturb my circles!" The soldier killed him.
+q: Il re pensò che l'orafo ___ rubato un po' d'oro. | avesse | aveva | abbia | en: The king thought the goldsmith had stolen some gold. | why: past main verb + earlier action → congiuntivo trapassato: avesse rubato
+q: Archimede uscì per strada gridando: «___!» | Eureka | Evviva | Aiuto | en: Archimedes ran into the street shouting: "Eureka!" | why: Eureka = Ho trovato (I have found it)
+q: Il soldato trovò Archimede mentre ___ cerchi nella sabbia. | disegnava | disegnò | disegna | en: The soldier found Archimedes while he was drawing circles in the sand. | why: action in progress → imperfetto
+
+=== u85 | reading | La città che rinacque due volte
+intro: In 1693 a terrible earthquake destroyed south-eastern Sicily. Ragusa was rebuilt in two parts. The trapassato prossimo.
+- L'11 gennaio 1693 la terra tremò in tutta la Sicilia orientale. | On 11 January 1693 the earth shook all over eastern Sicily.
+- Quando arrivarono i primi soccorsi, quasi tutte le case erano già crollate. | When the first help arrived, almost all the houses had already collapsed.
+- Molte famiglie nobili avevano perso tutto, ma non avevano perso il loro orgoglio. | Many noble families had lost everything, but they had not lost their pride.
+- Alcuni ricostruirono la città sulla collina, dove era sempre stata: Ragusa Ibla. | Some rebuilt the town on the hill, where it had always been: Ragusa Ibla.
+- Altri, che avevano deciso di cambiare, la ricostruirono più in alto: Ragusa Superiore. | Others, who had decided to change, rebuilt it higher up: Ragusa Superiore.
+- Per secoli furono due città diverse. Oggi le loro chiese barocche sono patrimonio dell'UNESCO. | For centuries they were two different towns. Today their Baroque churches are a UNESCO World Heritage site.
+q: Quando arrivarono i soccorsi, le case ___ già crollate. | erano | avevano | sono | en: When help arrived, the houses had already collapsed. | why: crollare → essere: erano crollate (trapassato)
+q: Le famiglie nobili ___ perso tutto. | avevano | erano | hanno | en: The noble families had lost everything. | why: perdere → avere: avevano perso
+q: La città vecchia sulla collina si chiama Ragusa ___. | Ibla | Superiore | Nuova | en: The old town on the hill is called Ragusa Ibla. | why: «sulla collina … Ragusa Ibla»
+
+=== u86 | dialogue | La Valle dei Templi
+intro: In Agrigento, the Greek temples stand on a ridge above the sea. A guide explains. The passive and si.
+Guida: Questo è il Tempio della Concordia. Fu costruito intorno al 440 avanti Cristo. | This is the Temple of Concord. It was built around 440 BC.
+Tom: Com'è possibile che sia così intero? | How is it possible that it's so complete?
+Guida: Nel sesto secolo fu trasformato in una chiesa. Per questo non fu distrutto. | In the sixth century it was turned into a church. That's why it wasn't destroyed.
+Giulia: E quelle statue enormi, a terra? | And those enormous statues on the ground?
+Guida: Sono i telamoni del Tempio di Zeus. Ogni statua era alta quasi otto metri e reggeva il tetto. | They're the telamons of the Temple of Zeus. Each statue was almost eight metres tall and held up the roof.
+Tom: Si possono toccare? | Can they be touched?
+Guida: No, non si toccano. Ma si possono disegnare! | No, they mustn't be touched. But they can be drawn!
+Tom: Era proprio quello che volevo sentire. | That's exactly what I wanted to hear.
+q: Il Tempio della Concordia ___ costruito intorno al 440 a.C. | fu | ebbe | andò | en: The Temple of Concord was built around 440 BC. | why: passive (passato remoto): fu costruito
+q: Il tempio non fu distrutto perché fu trasformato in una ___. | chiesa | casa | fortezza | en: The temple wasn't destroyed because it was turned into a church. | why: «fu trasformato in una chiesa»
+q: Le statue non ___ toccano. | si | ci | ne | en: The statues mustn't be touched. | why: si passivante: non si toccano
+
+=== u87 | dialogue | Al mercato di Ballarò
+intro: Palermo's markets echo its Arab, Norman and Spanish past. A street-food seller shouts orders at Tom. The imperative.
+Venditore: Vieni, vieni! Assaggia questa arancina, è appena fritta! | Come here, come here! Taste this arancina, it's just been fried!
+Tom: Che cosa c'è dentro? | What's inside?
+Venditore: Riso, ragù e piselli. Mordila piano, che è calda! | Rice, meat sauce and peas. Bite it gently, it's hot!
+Tom: Buonissima! E quello cos'è? | Delicious! And what's that?
+Venditore: Pane con la milza: è il piatto più antico di Palermo. Provalo, non avere paura! | Bread with spleen: it's the oldest dish in Palermo. Try it, don't be afraid!
+Giulia: Tom, non mangiare tutto! Lascia un po' di posto per il cannolo. | Tom, don't eat everything! Leave a bit of room for the cannolo.
+Venditore: Signorina, ha ragione. Andate da mio cugino, alla fine del mercato: fa i cannoli più buoni del mondo! | Miss, you're right. Go to my cousin's, at the end of the market: he makes the best cannoli in the world!
+q: «___ questa arancina!» (assaggiare, tu) | Assaggia | Assaggi | Assaggiare | en: "Taste this arancina!" | why: tu imperative of -are verbs: -a
+q: «Non ___ paura!» (avere, tu) | avere | hai | abbi | en: "Don't be afraid!" | why: negative tu imperative = non + infinitive
+q: Nell'arancina ci sono riso, ragù e ___. | piselli | fagioli | patate | en: In the arancina there are rice, meat sauce and peas. | why: «Riso, ragù e piselli.»
+
+=== u87 | reading | Tre popoli in una città
+intro: Palermo's history in a few lines — and its words.
+- Gli Arabi governarono Palermo per più di due secoli, dal 831. | The Arabs ruled Palermo for more than two centuries, from 831.
+- Portarono gli agrumi, la canna da zucchero, e parole come «arancia» e «zucchero». | They brought citrus fruit, sugar cane, and words like "arancia" (orange) and "zucchero" (sugar).
+- Dopo arrivarono i Normanni, che costruirono chiese con cupole rosse in stile arabo. | Then came the Normans, who built churches with red domes in Arab style.
+- Poi vennero gli Spagnoli, che lasciarono palazzi barocchi e nomi di strade. | Then came the Spanish, who left Baroque palaces and street names.
+- Per questo a Palermo si mangia, si parla e si costruisce in un modo unico al mondo. | That's why in Palermo people eat, speak and build in a way unique in the world.
+q: Gli Arabi portarono gli agrumi e la canna da ___. | zucchero | pesca | riso | en: The Arabs brought citrus fruit and sugar cane. | why: «la canna da zucchero»
+q: I Normanni costruirono chiese con cupole ___. | rosse | d'oro | bianche | en: The Normans built churches with red domes. | why: «chiese con cupole rosse»
+
+=== u88 | reading | L'oro di Monreale
+intro: Above Palermo, Monreale Cathedral glows with 6,400 square metres of mosaics. Relative pronouns.
+- La cattedrale di Monreale fu costruita dal re normanno Guglielmo II, che voleva una chiesa più bella di quella di Palermo. | Monreale Cathedral was built by the Norman king William II, who wanted a church more beautiful than Palermo's.
+- I mosaici, che coprono le pareti e gli archi, sono fatti con milioni di pezzetti di vetro e d'oro. | The mosaics, which cover the walls and arches, are made of millions of little pieces of glass and gold.
+- Al centro c'è il grande Cristo Pantocratore, le cui braccia sembrano abbracciare tutta la chiesa. | In the centre is the great Christ Pantocrator, whose arms seem to embrace the whole church.
+- Le storie che raccontano vanno dalla creazione del mondo alla vita di Gesù. | The stories they tell go from the creation of the world to the life of Jesus.
+- Accanto alla chiesa c'è un chiostro in cui si contano duecentoventotto colonne, tutte diverse. | Next to the church there is a cloister in which you can count two hundred and twenty-eight columns, all different.
+- Giulia, che ha restaurato tanti mosaici, rimane in silenzio per dieci minuti. | Giulia, who has restored so many mosaics, stays silent for ten minutes.
+q: Il re ___ costruì la cattedrale si chiamava Guglielmo II. | che | cui | il cui | en: The king who built the cathedral was called William II. | why: subject → che
+q: Il Cristo, le ___ braccia sembrano abbracciare la chiesa, è al centro. | cui | che | quali | en: The Christ, whose arms seem to embrace the church, is in the centre. | why: whose → le cui (agrees with braccia)
+q: Nel chiostro ci sono duecentoventotto ___. | colonne | statue | finestre | en: In the cloister there are 228 columns. | why: «duecentoventotto colonne»
+
+=== u89 | dialogue | I fenicotteri di Cagliari
+intro: In Sardinia, pink flamingos live in the lagoons right next to Cagliari. Tom and Giulia watch them at sunset and talk about the future. If-clauses.
+Giulia: Guarda quanti fenicotteri! Se avessimo una barca, potremmo avvicinarci. | Look how many flamingos! If we had a boat, we could get closer.
+Tom: Meglio di no. Se ci avvicinassimo, volerebbero via. | Better not. If we got closer, they'd fly away.
+Giulia: Hai ragione. … Tom, il tuo viaggio finisce tra pochi giorni. Che cosa farai? | You're right. … Tom, your journey ends in a few days. What will you do?
+Tom: Se tornassi a Londra, dipingerei i miei ricordi dell'Italia. | If I went back to London, I'd paint my memories of Italy.
+Giulia: E se restassi? | And if you stayed?
+Tom: Se restassi … dovrei trovare un lavoro. Ma conosco una restauratrice che ha sempre bisogno di aiuto. | If I stayed … I'd have to find a job. But I know a restorer who always needs help.
+Giulia: Se me l'avessi chiesto prima, ti avrei già detto di sì! | If you'd asked me earlier, I'd already have said yes!
+q: Se avessero una barca, ___ avvicinarsi. | potrebbero | possono | potessero | en: If they had a boat, they could get closer. | why: main clause → condizionale
+q: Se si avvicinassero, i fenicotteri ___ via. | volerebbero | volano | volassero | en: If they got closer, the flamingos would fly away. | why: unreal condition: se + congiuntivo imperfetto, condizionale
+q: Se Tom l'avesse chiesto prima, Giulia ___ già detto di sì. | avrebbe | avesse | ha | en: If Tom had asked earlier, Giulia would already have said yes. | why: impossible past → condizionale passato
+
+=== u90 | dialogue | Ad Alghero, alla fine del viaggio
+intro: Alghero, on Sardinia's west coast, where people still speak a form of Catalan. The last evening of the Grand Tour.
+Tom: Allora, è finito. Da Bolzano ad Alghero. | So, it's over. From Bolzano to Alghero.
+Giulia: Ti ricordi il primo giorno, al museo di Ötzi? Mi hai detto: «Non sono italiano, sono inglese.» | Do you remember the first day, at the Ötzi museum? You told me: "I'm not Italian, I'm English."
+Tom: E adesso? Che cosa sono? | And now? What am I?
+Giulia: Adesso sei un inglese che parla italiano, che mangia come un bolognese e che disegna come un fiorentino. | Now you're an Englishman who speaks Italian, eats like a Bolognese and draws like a Florentine.
+Tom: Ho riempito dodici quaderni. Ma nessun disegno è bello come questo tramonto. | I've filled twelve notebooks. But no drawing is as beautiful as this sunset.
+Giulia: Allora non disegnarlo. Guardalo con me. | Then don't draw it. Look at it with me.
+Tom: Giulia, se mi dai lavoro a Bologna, resto in Italia. | Giulia, if you give me work in Bologna, I'll stay in Italy.
+Giulia: Il lavoro c'è. E c'è anche una persona che ti aspetta. | There's work. And there's also someone waiting for you.
+Tom: Allora non è la fine del viaggio. È l'inizio. | Then it isn't the end of the journey. It's the beginning.
+q: Il viaggio di Tom è andato da Bolzano ad ___. | Alghero | Agrigento | Aosta | en: Tom's journey went from Bolzano to Alghero. | why: «Da Bolzano ad Alghero.»
+q: Tom ha riempito dodici ___. | quaderni | valigie | bottiglie | en: Tom has filled twelve notebooks. | why: «Ho riempito dodici quaderni.»
+q: «Allora non è la fine del viaggio. È l'___.» | inizio | ultimo | ritorno | en: "Then it isn't the end of the journey. It's the beginning." | why: l'inizio = the beginning
+
+=== u90 | reading | Il diario di Tom
+intro: The last page of Tom's diary. Every tense of the journey on one page.
+- Un anno fa sono partito da Londra con uno zaino, un quaderno e tre parole d'italiano. | A year ago I left London with a rucksack, a notebook and three words of Italian.
+- Quando sono arrivato a Bolzano, non capivo quasi niente. | When I arrived in Bolzano, I understood almost nothing.
+- Ho imparato le parole al mercato, i verbi nei treni e il congiuntivo dal medico di Salerno. | I learned words at the market, verbs on trains and the subjunctive from the doctor in Salerno.
+- Goethe scrisse che in Italia era rinato. Io credo che sia successo anche a me. | Goethe wrote that in Italy he had been reborn. I believe it has happened to me too.
+- Se non fossi partito, non avrei mai conosciuto Giulia. | If I hadn't set off, I would never have met Giulia.
+- Domani partirò per Bologna. Il mio Grand Tour è finito; la mia vita italiana comincia. | Tomorrow I'll leave for Bologna. My Grand Tour is over; my Italian life begins.
+q: Quando Tom è arrivato a Bolzano, non ___ quasi niente. | capiva | ha capito | capisce | en: When Tom arrived in Bolzano, he understood almost nothing. | why: state in the past → imperfetto
+q: Tom crede che sia ___ anche a lui. | successo | successa | succedere | en: Tom believes it has happened to him too. | why: credo che + past → congiuntivo passato: sia successo
+q: Domani Tom ___ per Bologna. | partirà | partiva | partisse | en: Tomorrow Tom will leave for Bologna. | why: future: partirà

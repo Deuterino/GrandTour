@@ -329,3 +329,16 @@ Conversano|city|Conversano (Apulia): its counts built Alberobello
 Salento|region|the Salento, the heel of Italy
 Busento|place|the Busento river, Cosenza
 Riace|city|Riace (Calabria): i Bronzi di Riace
+Archimede|name|Archimedes (c. 287–212 BC), Syracuse
+Kniep|name|Christoph Heinrich Kniep (1755–1825), painter who travelled with Goethe in Sicily
+Christoph|name|Christoph
+Ibla|place|Ragusa Ibla, the old town of Ragusa
+Concordia|place|(il Tempio della) Concordia, Agrigento
+Guglielmo|name|Guglielmo (William): Guglielmo II, Norman king of Sicily (1153–1189)
+Ave|name|Ave (Maria): Hail (Mary)
+muntagna|name|'a muntagna: Sicilian for "the mountain", i.e. Etna
+Gerone|name|Hiero II (c. 308–215 BC), king of Syracuse
+Zeus|name|Zeus
+Gesù|name|Jesus
+Ballarò|place|Ballarò, Palermo's oldest street market
+C|name|C. in a.C. / d.C. = avanti / dopo Cristo (BC / AD)
