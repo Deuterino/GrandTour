@@ -29,7 +29,9 @@ def it_plain_word(w):
         last = _FINAL.get(last, last)
         # Wiktionary also marks stress on monosyllables (và, fù, dài); standard spelling writes an
         # accent there only for a fixed set that distinguishes homographs or ends in a diphthong.
-        if len(re.findall(r"[aeiou]+", (body + _ACCENTED.get(last, last)).lower())) <= 1 \
+        # (an i between vowels is a glide, so sdraiò = sdra-iò has two syllables and keeps its accent)
+        plain = re.sub(r"(?<=[aeiou])i(?=[aeiou])", "j", (body + _ACCENTED.get(last, last)).lower())
+        if len(re.findall(r"[aeiou]+", plain)) <= 1 \
                 and (body + last).lower() not in MONO_ACCENTED:
             last = _ACCENTED.get(last, last)
     return body + last
