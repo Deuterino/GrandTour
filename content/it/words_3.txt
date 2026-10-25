@@ -1,0 +1,330 @@
+# Italian core vocabulary, part 3
+
+# city
+città|n.f|city, town|note=Invariable: la città, le città.
+paese|n.m|country; village, small town|note=Il mio paese = my country / my village.
+villaggio|n.m|village
+centro|n.m|center, downtown|note=in centro = downtown.
+strada|n.f|road, street; way|note=per strada = on the street / on the way.
+via|n.f|street; way|note=Abito in via Garibaldi.
+piazza|n.f|square (town square)
+ponte|n.m|bridge
+angolo|n.m|corner; angle
+quartiere|n.m|neighborhood, district
+palazzo|n.m|building, apartment block; palace
+edificio|n.m|building
+torre|n.f|tower
+chiesa|n.f|church
+castello|n.m|castle
+museo|n.m|museum
+teatro|n.m|theater
+cinema|n.m|cinema, movie theater|note=Masculine and invariable (short for cinematografo).
+negozio|n.m|shop, store
+mercato|n.m|market
+supermercato|n.m|supermarket
+bar|n.m|café, bar (for coffee too)|note=Invariable. Italians drink their espresso at the bar.
+albergo|n.m|hotel|note=Plural alberghi.
+hotel|n.m|hotel|note=Invariable: l'hotel.
+banca|n.f|bank (money)|note=Plural banche. A bench is una panchina.
+ufficio|n.m|office
+posta|n.f|post office; mail|note=ufficio postale = post office.
+scuola|n.f|school
+università|n.f|university
+biblioteca|n.f|library|note=False friend: a bookshop is una libreria.
+libreria|n.f|bookshop; bookcase
+farmacia|n.f|pharmacy
+stazione|n.f|station
+aeroporto|n.m|airport
+porto|n.m|port, harbor
+parco|n.m|park|note=Plural parchi.
+zoo|n.m|zoo
+cimitero|n.m|cemetery
+prigione|n.f|prison
+fabbrica|n.f|factory
+luogo|n.m|place|note=Plural luoghi. aver luogo = to take place.
+posto|n.m|place, spot, seat; job|note=Questo posto è libero? = Is this seat free?
+zona|n.f|area, zone
+regione|n.f|region
+nazione|n.f|nation
+stato|n.m|state; condition|note=gli Stati Uniti = the United States.
+mondo|n.m|world|note=tutto il mondo = the whole world; everyone.
+terra|n.f|earth, ground, land, soil|note=per terra = on the ground.
+confine|n.m|border, boundary
+semaforo|n.m|traffic light
+traffico|n.m|traffic
+folla|n.f|crowd
+
+# travel
+viaggio|n.m|journey, trip, travel|note=Buon viaggio!
+viaggiare|v|to travel
+partire|v|to leave, to depart|note=Passato with essere: sono partito.
+partenza|n.f|departure
+arrivare|v|to arrive|note=Passato with essere: sono arrivato.
+arrivo|n.m|arrival
+tornare|v|to return, to come back|note=Passato with essere: sono tornato.
+ritorno|n.m|return|note=andata e ritorno = round trip.
+treno|n.m|train|note=in treno = by train.
+autobus|n.m|bus|note=Invariable. Also il bus.
+macchina|n.f|car; machine|note=in macchina = by car.
+auto|n.f|car|note=Feminine and invariable (short for automobile).
+automobile|n.f|automobile, car
+moto|n.f|motorbike|note=Feminine and invariable (short for motocicletta).
+bicicletta|n.f|bicycle|note=Colloquially la bici.
+aereo|n.m|airplane|note=in aereo = by plane.
+nave|n.f|ship
+barca|n.f|boat
+taxi|n.m|taxi
+metropolitana|n.f|subway, underground|note=Colloquially la metro.
+biglietto|n.m|ticket; note; banknote
+passaporto|n.m|passport
+bagaglio|n.m|luggage, baggage|note=Often plural: i bagagli.
+mappa|n.f|map
+turista|n.mf|tourist|note=il turista, la turista; plural i turisti, le turiste.
+guida|n.f|guide; guidebook; driving|note=la guida (even for a male guide).
+guidare|v|to drive; to guide
+pilota|n.mf|pilot; driver
+autista|n.mf|driver (chauffeur)
+volo|n.m|flight
+volare|v|to fly
+fermata|n.f|stop (bus, tram)
+uscita|n.f|exit, way out
+entrata|n.f|entrance
+ingresso|n.m|entrance; admission
+benzina|n.f|petrol, gasoline
+destra|n.f|right (side)|note=a destra = on the right.
+sinistra|n.f|left (side)|note=a sinistra = on the left.
+dritto|adv|straight (ahead)|note=Sempre dritto! = Straight ahead!
+nord|n.m|north
+sud|n.m|south
+est|n.m|east
+ovest|n.m|west
+direzione|n.f|direction
+distanza|n.f|distance
+chilometro|n.m|kilometer
+metro|n.m|meter; (la metro) subway
+vacanza|n.f|holiday, vacation
+estero|n.m|abroad, foreign countries|note=all'estero = abroad.
+
+# nature
+natura|n.f|nature
+cielo|n.m|sky; heaven
+sole|n.m|sun
+luna|n.f|moon
+stella|n.f|star
+mare|n.m|sea|note=al mare = at/to the seaside.
+oceano|n.m|ocean
+spiaggia|n.f|beach|note=Plural spiagge.
+fiume|n.m|river
+lago|n.m|lake|note=Plural laghi.
+montagna|n.f|mountain; the mountains|note=in montagna = in the mountains.
+monte|n.m|mount, mountain
+collina|n.f|hill
+valle|n.f|valley
+isola|n.f|island
+bosco|n.m|wood, woods|note=Plural boschi.
+foresta|n.f|forest
+campagna|n.f|countryside; campaign|note=in campagna = in the country.
+campo|n.m|field; camp; court|note=Plural campi.
+albero|n.m|tree
+fiore|n.m|flower|note=Masculine despite -e: il fiore.
+foglia|n.f|leaf
+erba|n.f|grass; herb
+pianta|n.f|plant; map (of a city); sole (of foot)
+pietra|n.f|stone
+sasso|n.m|stone, pebble
+sabbia|n.f|sand
+aria|n.f|air; look, appearance|note=all'aria aperta = in the open air.
+acqua|n.f|water
+ghiaccio|n.m|ice
+neve|n.f|snow
+pioggia|n.f|rain
+piovere|v|to rain|note=Piove = It's raining. Passato: è piovuto / ha piovuto.
+nevicare|v|to snow
+vento|n.m|wind
+nuvola|n.f|cloud
+tempesta|n.f|storm
+temporale|n.m|thunderstorm
+caldo|a|hot, warm; (n.m) heat|note=Fa caldo = It's hot (weather). Ho caldo = I'm hot.
+freddo|a|cold; (n.m) cold|note=Fa freddo = It's cold. Ho freddo = I'm cold.
+temperatura|n.f|temperature
+animale|n.m|animal
+cane|n.m|dog
+gatto|n.m|cat
+cavallo|n.m|horse
+mucca|n.f|cow|note=Plural mucche.
+maiale|n.m|pig; pork
+pecora|n.f|sheep
+capra|n.f|goat
+asino|n.m|donkey; dunce|note=In Pinocchio, lazy boys turn into donkeys.
+topo|n.m|mouse, rat
+uccello|n.m|bird
+gallina|n.f|hen
+gallo|n.m|rooster
+pesce|n.m|fish
+lupo|n.m|wolf|note=In bocca al lupo! = Good luck!
+orso|n.m|bear
+volpe|n.f|fox
+leone|n.m|lion
+serpente|n.m|snake
+insetto|n.m|insect
+mosca|n.f|fly (insect)|note=Plural mosche.
+ape|n.f|bee
+farfalla|n.f|butterfly
+coniglio|n.m|rabbit
+grillo|n.m|cricket|note=Il Grillo Parlante = the Talking Cricket (Pinocchio).
+balena|n.f|whale
+cucciolo|n.m|puppy, cub
+coda|n.f|tail; queue|note=fare la coda = to queue.
+ala|n.f|wing|pl=ali
+nido|n.m|nest
+seme|n.m|seed
+legno|n.m|wood (material)|note=di legno = wooden (Pinocchio is un burattino di legno).
+oro|n.m|gold|note=d'oro = golden.
+argento|n.m|silver
+ferro|n.m|iron
+fuoco|n.m|fire
+
+# clothes
+vestito|n.m|dress; suit; clothes|note=i vestiti = clothes.
+vestire|v|to dress|note=vestirsi = to get dressed.
+abito|n.m|suit; dress (formal)
+camicia|n.f|shirt|note=Plural camicie.
+maglietta|n.f|T-shirt
+maglia|n.f|sweater, jersey
+giacca|n.f|jacket|note=Plural giacche.
+cappotto|n.m|coat
+pantaloni|n.mpl|trousers, pants|note=Usually plural: i pantaloni.
+gonna|n.f|skirt
+scarpa|n.f|shoe
+stivale|n.m|boot|note=Italy is called lo Stivale (the Boot).
+calzino|n.m|sock
+cappello|n.m|hat
+cravatta|n.f|tie
+cintura|n.f|belt; seat belt
+tasca|n.f|pocket|note=Plural tasche.
+occhiali|n.mpl|glasses, spectacles|note=occhiali da sole = sunglasses.
+anello|n.m|ring
+collana|n.f|necklace
+portafoglio|n.m|wallet
+ombrello|n.m|umbrella
+indossare|v|to wear, to put on
+mettersi|v|to put on (clothes); to start to|note=Mi metto la giacca. Si è messo a piangere = He started to cry.
+togliersi|v|to take off (clothes)
+moda|n.f|fashion|note=di moda = fashionable.
+nudo|a|naked, bare
+
+# work
+lavoro|n.m|work; job|note=Che lavoro fai? = What do you do (for a living)?
+lavorare|v|to work
+mestiere|n.m|trade, craft, job
+professione|n.f|profession
+impiegato|n.m|clerk, office worker, employee|f=impiegata
+operaio|n.m|worker (factory)|f=operaia
+padrone|n.m|owner, master, boss|f=padrona
+direttore|n.m|director, manager|f=direttrice
+cliente|n.mf|customer, client
+avvocato|n.m|lawyer
+ingegnere|n.m|engineer
+professore|n.m|teacher, professor|f=professoressa
+maestro|n.m|(primary) teacher; master|f=maestra
+insegnante|n.mf|teacher
+studente|n.m|student|f=studentessa;note=lo studente (s + consonant → lo).
+cuoco|n.m|cook, chef|f=cuoca
+contadino|n.m|farmer, peasant|f=contadina
+falegname|n.m|carpenter|note=Geppetto and Mastro Ciliegia are falegnami in Pinocchio.
+artista|n.mf|artist
+attore|n.m|actor|f=attrice
+scrittore|n.m|writer|f=scrittrice
+giornalista|n.mf|journalist
+poliziotto|n.m|police officer|f=poliziotta
+polizia|n.f|police
+soldato|n.m|soldier
+re|n.m|king|note=Invariable: il re, i re.
+regina|n.f|queen
+principe|n.m|prince
+principessa|n.f|princess
+ufficio|n.m|office
+azienda|n.f|company, firm, business
+ditta|n.f|firm, company
+società|n.f|society; company|note=Invariable.
+affare|n.m|deal, business, affair|note=gli affari = business. Non sono affari tuoi = It's none of your business.
+progetto|n.m|project, plan
+riunione|n.f|meeting
+colloquio|n.m|interview (job); talk
+stipendio|n.m|salary, wages
+carriera|n.f|career
+compito|n.m|task; homework (i compiti)
+dovere|n.m|duty
+esperienza|n.f|experience
+pensione|n.f|pension, retirement; guesthouse|note=andare in pensione = to retire.
+capo|n.m|boss, head
+
+# school
+studiare|v|to study
+imparare|v|to learn|note=imparare a + infinitive: imparare a nuotare.
+insegnare|v|to teach|note=insegnare a qualcuno a fare qualcosa.
+classe|n.f|class, classroom
+lezione|n.f|lesson, class
+corso|n.m|course; main street|note=un corso d'italiano.
+esame|n.m|exam
+domanda|n.f|question; application|note=fare una domanda = to ask a question.
+risposta|n.f|answer, reply
+esempio|n.m|example|note=per esempio = for example.
+errore|n.m|mistake, error
+sbaglio|n.m|mistake|note=per sbaglio = by mistake.
+libro|n.m|book
+quaderno|n.m|exercise book, notebook
+pagina|n.f|page
+parola|n.f|word|note=Parola mia! = My word!
+frase|n.f|sentence; phrase
+lettera|n.f|letter
+storia|n.f|history; story
+favola|n.f|fable, fairy tale
+fiaba|n.f|fairy tale
+racconto|n.m|short story, tale
+lingua|n.f|language; tongue
+italiano|n.m|Italian (language); (adj.) Italian|note=Nationality adjectives are lowercase: un ragazzo italiano.
+inglese|n.m|English (language); (adj.) English
+tedesco|n.m|German (language); (adj.) German|note=Plural tedeschi.
+francese|n.m|French (language); (adj.) French
+spagnolo|n.m|Spanish (language); (adj.) Spanish
+americano|a|American
+straniero|a|foreign
+significato|n.m|meaning
+voto|n.m|grade, mark; vote
+scienza|n.f|science
+matematica|n.f|mathematics
+arte|n.f|art
+musica|n.f|music
+studio|n.m|study; studio; office (professional)
+conoscenza|n.f|knowledge; acquaintance
+
+# money
+soldi|n.mpl|money|note=Colloquial, always plural: Non ho soldi.
+denaro|n.m|money (formal)
+euro|n.m|euro|note=Invariable: un euro, dieci euro.
+prezzo|n.m|price
+costare|v|to cost|note=Quanto costa? Passato with essere: è costato.
+pagare|v|to pay|note=pagare il conto.
+comprare|v|to buy
+vendere|v|to sell
+spendere|v|to spend (money)|note=Passato: ho speso.
+spesa|n.f|shopping (groceries); expense|note=fare la spesa = to do the grocery shopping.
+risparmiare|v|to save (money, time)
+costoso|a|expensive
+caro|a|dear; expensive|note=Caro Marco (letter opening); Che caro! = How expensive!
+economico|a|cheap, economical; economic
+gratis|adv|free (of charge)
+sconto|n.m|discount
+saldi|n.mpl|sales
+ricevuta|n.f|receipt
+scontrino|n.m|receipt (shop till)
+moneta|n.f|coin; currency
+banconota|n.f|banknote
+carta di credito|n.f|credit card
+cassa|n.f|till, checkout; box, crate
+ricco|a|rich|note=Plural ricchi.
+povero|a|poor|note=Before the noun = unfortunate: povero ragazzo! After = without money: un ragazzo povero.
+debito|n.m|debt
+prestito|n.m|loan|note=prendere in prestito = to borrow.
+guadagnare|v|to earn; to gain

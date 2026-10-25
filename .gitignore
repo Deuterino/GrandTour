@@ -1,0 +1,4 @@
+# downloaded dumps and intermediate data (rebuild with tools/)
+build/
+__pycache__/
+.DS_Store

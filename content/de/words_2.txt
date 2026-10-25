@@ -1,0 +1,315 @@
+# German core vocabulary, part 2
+
+# people
+Mensch|n.m|human being, person; (pl.) people|note=Weak noun: den/dem/des Menschen. Mensch! = Man! / Wow!
+Leute|n.pl|people|note=Plural only: Die Leute sagen...
+Person|n.f|person
+Mann|n.m|man; husband|note=mein Mann = my husband. Plural Männer.
+Frau|n.f|woman; wife; Mrs., Ms.|note=Frau Müller; meine Frau = my wife.
+Herr|n.m|gentleman; Mr.; lord|note=Weak noun: den/dem Herrn, plural Herren. Herr Müller.
+Dame|n.f|lady|note=meine Damen und Herren = ladies and gentlemen.
+Junge|n.m|boy|note=Weak noun: den/dem/des Jungen.
+Mädchen|n.n|girl|note=Neuter because of -chen, although it means a girl.
+Kind|n.n|child|note=Plural Kinder.
+Baby|n.n|baby
+Jugendliche|n.m|young person, teenager|note=Adjectival noun: ein Jugendlicher, die Jugendlichen.
+Erwachsene|n.m|adult|note=Adjectival noun: ein Erwachsener, die Erwachsenen.
+Freund|n.m|friend; boyfriend|note=mein Freund can mean 'my boyfriend'; ein Freund von mir = a friend of mine.
+Freundin|n.f|friend (female); girlfriend
+Kollege|n.m|colleague|note=Weak noun: den Kollegen. Female: die Kollegin.
+Nachbar|n.m|neighbor|note=Mixed: des Nachbarn, die Nachbarn. Female: die Nachbarin.
+Gast|n.m|guest|note=Plural Gäste.
+Fremde|n.m|stranger, foreigner|note=Adjectival noun: ein Fremder.
+Feind|n.m|enemy
+Typ|n.m|guy, bloke (coll); type|note=Weak in the sense 'guy': den Typen.
+Kerl|n.m|guy, fellow (coll)|reg=coll
+Leben|n.n|life|note=Das ist das Leben!
+Name|n.m|name|note=Mixed: des Namens, den/dem Namen. Wie ist Ihr Name?
+Vorname|n.m|first name
+Nachname|n.m|surname, last name
+Alter|n.n|age; old age|note=im Alter von 20 Jahren.
+Paar|n.n|couple, pair
+
+# fam
+Familie|n.f|family
+Vater|n.m|father|note=Plural Väter.
+Mutter|n.f|mother|pl=Mütter;note=Plural Mütter (Muttern = screw nuts).
+Eltern|n.pl|parents|note=Plural only.
+Papa|n.m|dad
+Mama|n.f|mom, mum
+Sohn|n.m|son|note=Plural Söhne.
+Tochter|n.f|daughter|note=Plural Töchter.
+Bruder|n.m|brother|note=Plural Brüder.
+Schwester|n.f|sister; nurse
+Geschwister|n.pl|siblings, brothers and sisters
+Großvater|n.m|grandfather|note=Coll: Opa.
+Großmutter|n.f|grandmother|note=Coll: Oma.
+Großeltern|n.pl|grandparents
+Opa|n.m|grandpa
+Oma|n.f|grandma
+Enkel|n.m|grandson; grandchild|note=die Enkelin = granddaughter.
+Onkel|n.m|uncle
+Tante|n.f|aunt
+Cousin|n.m|cousin (male)|note=die Cousine (female).
+Neffe|n.m|nephew|note=Weak noun.
+Nichte|n.f|niece
+Ehemann|n.m|husband
+Ehefrau|n.f|wife
+Ehe|n.f|marriage
+Hochzeit|n.f|wedding|note=False friend: not 'high time'.
+Braut|n.f|bride
+Liebe|n.f|love
+Kuss|n.m|kiss|note=Plural Küsse. Küsschen = little kiss.
+Verwandte|n.m|relative|note=Adjectival noun: ein Verwandter, die Verwandten.
+Schwiegermutter|n.f|mother-in-law
+Schwiegervater|n.m|father-in-law
+Stiefmutter|n.f|stepmother|note=The wicked stepmother of the Grimm tales.
+Stiefvater|n.m|stepfather
+Witwe|n.f|widow
+Waise|n.f|orphan|note=Feminine for both sexes: die Waise.
+Zwilling|n.m|twin
+
+# body
+Körper|n.m|body
+Kopf|n.m|head|note=Plural Köpfe. Kopfschmerzen = headache.
+Gesicht|n.n|face
+Auge|n.n|eye|note=Plural Augen. unter vier Augen = in private.
+Ohr|n.n|ear|note=Plural Ohren.
+Nase|n.f|nose
+Mund|n.m|mouth|note=Plural Münder.
+Zahn|n.m|tooth|note=Plural Zähne. Zahnarzt = dentist.
+Lippe|n.f|lip
+Zunge|n.f|tongue
+Haar|n.n|hair|note=Often plural: die Haare.
+Hals|n.m|neck; throat|note=Halsschmerzen = sore throat.
+Schulter|n.f|shoulder
+Arm|n.m|arm
+Hand|n.f|hand|note=Plural Hände.
+Finger|n.m|finger
+Bein|n.n|leg
+Knie|n.n|knee|note=Plural Knie.
+Fuß|n.m|foot|note=Plural Füße. zu Fuß = on foot.
+Rücken|n.m|back
+Brust|n.f|chest; breast
+Bauch|n.m|belly, stomach
+Magen|n.m|stomach
+Herz|n.n|heart|note=Irregular: des Herzens, dem Herzen.
+Blut|n.n|blood
+Haut|n.f|skin
+Knochen|n.m|bone
+Gehirn|n.n|brain|note=Also Hirn.
+Stimme|n.f|voice; vote
+Gesundheit|n.f|health
+Krankheit|n.f|illness, disease
+Schmerz|n.m|pain|note=Usually plural: Schmerzen. Kopfschmerzen, Bauchschmerzen.
+Fieber|n.n|fever
+Erkältung|n.f|cold (illness)
+Grippe|n.f|flu
+Arzt|n.m|doctor|note=Plural Ärzte; female Ärztin. zum Arzt gehen.
+Ärztin|n.f|doctor (female)
+Zahnarzt|n.m|dentist
+Krankenhaus|n.n|hospital
+Krankenschwester|n.f|nurse (female)
+Apotheke|n.f|pharmacy
+Medikament|n.n|medicine, medication
+Tablette|n.f|tablet, pill
+Wunde|n.f|wound
+krank|a|ill, sick|note=Comparative kränker.
+gesund|a|healthy|note=Comparative gesünder.
+müde|a|tired
+verletzt|a|injured, hurt
+schwanger|a|pregnant
+tot|a|dead
+lebendig|a|alive, lively
+sterben|v|to die|note=Strong: stirbt – starb – ist gestorben.
+Tod|n.m|death
+leben|v|to live, to be alive
+geboren|a|born|note=Ich bin 1990 geboren. Wo bist du geboren?
+Geburt|n.f|birth
+Schlaf|n.m|sleep
+Hunger|n.m|hunger|note=Ich habe Hunger = I'm hungry.
+Durst|n.m|thirst|note=Ich habe Durst = I'm thirsty.
+Träne|n.f|tear (crying)
+Lächeln|n.n|smile
+
+# food
+Essen|n.n|food; meal|note=Das Essen ist fertig! = Dinner's ready!
+essen|v|to eat|note=Strong: isst – aß – hat gegessen.
+trinken|v|to drink|note=trinkt – trank – hat getrunken.
+kochen|v|to cook; to boil
+Frühstück|n.n|breakfast|note=frühstücken = to have breakfast.
+frühstücken|v|to have breakfast
+Mittagessen|n.n|lunch
+Abendessen|n.n|dinner, supper|note=Also Abendbrot (bread-based evening meal).
+Mahlzeit|n.f|meal
+Brot|n.n|bread|note=Germany has hundreds of kinds. Brötchen = bread roll.
+Brötchen|n.n|bread roll|note=Semmel in Bavaria/Austria.
+Butter|n.f|butter
+Käse|n.m|cheese
+Wurst|n.f|sausage; cold cuts|note=Das ist mir Wurst = I don't care (coll).
+Fleisch|n.n|meat
+Fisch|n.m|fish
+Huhn|n.n|chicken, hen|note=Plural Hühner. Hähnchen = (roast) chicken.
+Hähnchen|n.n|chicken (to eat)
+Ei|n.n|egg|note=Plural Eier.
+Schinken|n.m|ham
+Speck|n.m|bacon
+Reis|n.m|rice
+Nudel|n.f|noodle; (pl.) pasta
+Kartoffel|n.f|potato|note=Plural Kartoffeln.
+Gemüse|n.n|vegetables|note=Singular collective: das Gemüse.
+Obst|n.n|fruit|note=Singular collective: das Obst.
+Frucht|n.f|fruit (single); result
+Apfel|n.m|apple|note=Plural Äpfel.
+Birne|n.f|pear; light bulb
+Banane|n.f|banana
+Orange|n.f|orange
+Zitrone|n.f|lemon
+Erdbeere|n.f|strawberry
+Kirsche|n.f|cherry
+Traube|n.f|grape
+Tomate|n.f|tomato
+Gurke|n.f|cucumber; pickle
+Karotte|n.f|carrot|note=Also Möhre.
+Zwiebel|n.f|onion
+Knoblauch|n.m|garlic
+Salat|n.m|salad; lettuce
+Suppe|n.f|soup
+Soße|n.f|sauce, gravy|note=Also Sauce.
+Salz|n.n|salt
+Pfeffer|n.m|pepper
+Zucker|n.m|sugar
+Honig|n.m|honey
+Öl|n.n|oil
+Essig|n.m|vinegar
+Mehl|n.n|flour
+Kuchen|n.m|cake
+Torte|n.f|gateau, layer cake
+Keks|n.m|biscuit, cookie
+Schokolade|n.f|chocolate
+Eis|n.n|ice; ice cream
+Bonbon|n.m|sweet, candy|note=Also das Bonbon.
+Nachtisch|n.m|dessert
+Wasser|n.n|water|note=Mineralwasser, Leitungswasser (tap water).
+Milch|n.f|milk
+Kaffee|n.m|coffee|note=Kaffee und Kuchen = afternoon coffee and cake.
+Tee|n.m|tea
+Saft|n.m|juice|note=Apfelsaft, Orangensaft.
+Bier|n.n|beer
+Wein|n.m|wine|note=Rotwein, Weißwein.
+Getränk|n.n|drink, beverage
+Glas|n.n|glass|note=Plural Gläser.
+Tasse|n.f|cup
+Teller|n.m|plate
+Gabel|n.f|fork
+Messer|n.n|knife
+Löffel|n.m|spoon
+Flasche|n.f|bottle
+Dose|n.f|can, tin; box
+Topf|n.m|pot, saucepan
+Pfanne|n.f|pan, frying pan
+Gericht|n.n|dish (food); court (law)|note=Two meanings: ein leckeres Gericht / vor Gericht.
+Speisekarte|n.f|menu
+Rechnung|n.f|bill, check; invoice; calculation|note=Die Rechnung, bitte!
+Trinkgeld|n.n|tip (gratuity)
+Restaurant|n.n|restaurant
+Kneipe|n.f|pub, bar
+Kellner|n.m|waiter|note=Female Kellnerin.
+Geschmack|n.m|taste, flavor
+schmecken|v|to taste|note=Schmeckt's? = Does it taste good? Das schmeckt mir (+Dat).
+lecker|a|tasty, delicious
+süß|a|sweet; cute
+sauer|a|sour; annoyed (coll)|note=Er ist sauer = He's annoyed.
+salzig|a|salty
+scharf|a|spicy, hot; sharp
+bitter|a|bitter
+frisch|a|fresh
+satt|a|full (after eating)|note=Ich bin satt = I'm full. etwas satt haben = to be fed up with.
+hungrig|a|hungry
+durstig|a|thirsty
+roh|a|raw
+gekocht|a|cooked, boiled
+
+# home
+Haus|n.n|house|note=nach Hause = (going) home; zu Hause = at home.
+Wohnung|n.f|apartment, flat
+Zimmer|n.n|room
+Raum|n.m|room; space
+Küche|n.f|kitchen; cuisine
+Bad|n.n|bath; bathroom|note=Plural Bäder. Also Badezimmer.
+Badezimmer|n.n|bathroom
+Schlafzimmer|n.n|bedroom
+Wohnzimmer|n.n|living room
+Toilette|n.f|toilet|note=Also das WC, das Klo (coll).
+Flur|n.m|hallway, corridor
+Treppe|n.f|stairs, staircase
+Stock|n.m|floor, storey; stick|note=im ersten Stock = on the second floor (US) / first floor (UK).
+Keller|n.m|cellar, basement
+Dach|n.n|roof|note=Plural Dächer.
+Wand|n.f|wall (inside)|note=Plural Wände.
+Mauer|n.f|wall (outside, stone)|note=die Berliner Mauer.
+Boden|n.m|floor; ground; attic|note=Plural Böden.
+Decke|n.f|ceiling; blanket
+Tür|n.f|door
+Fenster|n.n|window
+Garten|n.m|garden|note=Plural Gärten.
+Balkon|n.m|balcony
+Schlüssel|n.m|key
+Möbel|n.pl|furniture|note=Usually plural: die Möbel; ein Möbelstück.
+Tisch|n.m|table
+Stuhl|n.m|chair|note=Plural Stühle.
+Sessel|n.m|armchair
+Sofa|n.n|sofa
+Bett|n.n|bed|note=ins Bett gehen = to go to bed.
+Schrank|n.m|cupboard, wardrobe|note=Plural Schränke. Kühlschrank = fridge.
+Kühlschrank|n.m|refrigerator
+Regal|n.n|shelf, shelves
+Spiegel|n.m|mirror
+Lampe|n.f|lamp
+Licht|n.n|light|note=das Licht an-/ausmachen.
+Teppich|n.m|carpet, rug
+Kissen|n.n|pillow, cushion
+Vorhang|n.m|curtain
+Bild|n.n|picture, image
+Uhr|n.f|clock
+Herd|n.m|stove, cooker
+Ofen|n.m|oven; stove|note=Plural Öfen.
+Feuer|n.n|fire
+Heizung|n.f|heating; radiator
+Dusche|n.f|shower
+Badewanne|n.f|bathtub
+Waschbecken|n.n|sink, washbasin
+Handtuch|n.n|towel
+Seife|n.f|soap
+Ding|n.n|thing
+Sache|n.f|thing, matter, affair|note=Meine Sachen = my things.
+Zeug|n.n|stuff (coll)|reg=coll
+Gegenstand|n.m|object, item
+Kiste|n.f|box, crate
+Karton|n.m|cardboard box
+Tasche|n.f|bag; pocket
+Koffer|n.m|suitcase
+Papier|n.n|paper
+Karte|n.f|card; map; ticket; menu
+Stift|n.m|pen, pencil
+Kugelschreiber|n.m|ballpoint pen|note=Coll: Kuli.
+Bleistift|n.m|pencil
+Brief|n.m|letter
+Umschlag|n.m|envelope
+Telefon|n.n|telephone
+Handy|n.n|mobile phone, cell phone|note=A German pseudo-anglicism.
+Fernseher|n.m|television set
+Fernsehen|n.n|television (medium)
+Computer|n.m|computer
+Radio|n.n|radio
+Müll|n.m|garbage, rubbish|note=Müll trennen = to separate rubbish (recycling).
+wohnen|v|to live, to reside|note=Ich wohne in Berlin.
+Miete|n.f|rent
+mieten|v|to rent
+Adresse|n.f|address
+putzen|v|to clean|note=Zähne putzen = to brush one's teeth.
+sauber|a|clean
+schmutzig|a|dirty
+waschen|v|to wash|note=wäscht – wusch – hat gewaschen. sich waschen.
+aufräumen|v|to tidy up
+gemütlich|a|cozy, comfortable, relaxed|note=A key German concept: Gemütlichkeit.

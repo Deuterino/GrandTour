@@ -1,0 +1,348 @@
+# German core vocabulary, part 4 — verbs
+
+# act
+sein|v|to be|note=Irregular: bin, bist, ist, sind, seid, sind – war – ist gewesen. Auxiliary for verbs of motion and change: Ich bin gegangen.
+haben|v|to have|note=habe, hast, hat, haben, habt, haben – hatte – hat gehabt. Auxiliary for most verbs: Ich habe gegessen.
+werden|v|to become; (auxiliary) will; to be (passive)|note=wirst, wird – wurde – ist geworden. Future: Ich werde kommen. Passive: Das Haus wird gebaut.
+können|v|can, to be able to|note=Modal: kann, kannst, kann – konnte – hat gekonnt. Ich kann schwimmen.
+müssen|v|must, to have to|note=Modal: muss, musst, muss – musste. nicht müssen = not have to (≠ must not!).
+wollen|v|to want (to)|note=Modal: will, willst, will – wollte. Ich will nach Hause.
+sollen|v|should, to be supposed to|note=Modal: soll – sollte. Was soll ich machen?
+dürfen|v|may, to be allowed to|note=Modal: darf, darfst, darf – durfte. Hier darf man nicht rauchen = You must not smoke here.
+mögen|v|to like|note=mag, magst, mag – mochte – hat gemocht. Ich möchte = I would like (polite).
+möchten|v|would like (to)|note=Konjunktiv of mögen used as its own verb: Ich möchte einen Kaffee.
+machen|v|to make; to do|note=Was machst du? Das macht nichts = It doesn't matter.
+tun|v|to do|note=tue, tust, tut – tat – hat getan. Es tut mir leid = I'm sorry. Es tut weh = It hurts.
+geben|v|to give|note=gibt – gab – hat gegeben. es gibt + Akk = there is/are: Es gibt keinen Kaffee.
+nehmen|v|to take|note=nimmt – nahm – hat genommen. Ich nehme die Suppe (ordering).
+bringen|v|to bring; to take|note=Mixed: brachte – hat gebracht.
+holen|v|to fetch, to get
+legen|v|to lay, to put (lying flat)|note=Weak, transitive: Ich lege das Buch auf den Tisch (Akk). Compare liegen.
+stellen|v|to put, to place (upright)|note=Ich stelle die Flasche auf den Tisch (Akk). Compare stehen.
+setzen|v|to set, to put; to seat|note=sich setzen = to sit down. Compare sitzen.
+hängen|v|to hang|note=Transitive weak (hängte, gehängt) vs intransitive strong (hing, gehangen).
+lassen|v|to let, to leave; to have something done|note=lässt – ließ – hat gelassen. Lass das! = Stop that! Ich lasse mir die Haare schneiden.
+halten|v|to hold; to stop; to keep|note=hält – hielt – hat gehalten. halten für = to consider: Ich halte ihn für klug. Halt! = Stop!
+behalten|v|to keep, to retain|note=behält – behielt – hat behalten.
+finden|v|to find; to think (opinion)|note=fand – hat gefunden. Wie findest du das? = What do you think of it?
+suchen|v|to look for, to search|note=suchen + Akk: Ich suche meinen Schlüssel.
+brauchen|v|to need|note=Ich brauche Hilfe. nicht brauchen zu = not have to.
+benutzen|v|to use|note=Also benützen (southern).
+verwenden|v|to use, to employ
+versuchen|v|to try, to attempt|note=versuchen, etwas zu tun.
+helfen|v|to help|gov=+Dat;note=hilft – half – hat geholfen. Takes dative: Ich helfe dir.
+ändern|v|to change (something)|note=sich ändern = to change (oneself).
+wechseln|v|to change, to exchange (money, clothes, topic)
+beginnen|v|to begin|note=begann – hat begonnen.
+anfangen|v|to begin, to start|note=Separable: fängt an – fing an – hat angefangen.
+aufhören|v|to stop, to quit|gov=mit+Dat;note=Separable: Hör auf! = Stop it! Ich höre mit dem Rauchen auf.
+enden|v|to end
+beenden|v|to end, to finish (something)
+fertig|a|ready; finished, done|note=Ich bin fertig = I'm done.
+weitermachen|v|to carry on, to continue|note=Separable.
+bleiben|v|to stay, to remain|note=blieb – ist geblieben (auxiliary sein).
+warten|v|to wait|gov=auf+Akk;note=Ich warte auf den Bus.
+passieren|v|to happen|gov=+Dat;note=Was ist passiert? (aux sein). Mir ist etwas passiert.
+geschehen|v|to happen (formal)|note=geschieht – geschah – ist geschehen.
+entscheiden|v|to decide|note=entschied – hat entschieden. sich entscheiden für = to choose.
+wählen|v|to choose; to vote; to dial
+erlauben|v|to allow, to permit|gov=+Dat;note=Erlauben Sie mir...
+versprechen|v|to promise|note=verspricht – versprach – hat versprochen.
+akzeptieren|v|to accept
+annehmen|v|to accept; to assume|note=Separable: nimmt an – nahm an – hat angenommen.
+ablehnen|v|to reject, to refuse, to turn down|note=Separable.
+bekommen|v|to get, to receive|note=False friend: not 'become' (= werden)! bekam – hat bekommen.
+erhalten|v|to receive, to obtain (formal); to preserve
+kriegen|v|to get (coll)|reg=coll
+schenken|v|to give (as a present)|note=Ich schenke dir ein Buch.
+Geschenk|n.n|present, gift
+schicken|v|to send
+senden|v|to send; to broadcast
+zeigen|v|to show|note=Zeig mal! = Show me!
+vorstellen|v|to introduce; (sich vorstellen) to imagine|note=Separable: Darf ich vorstellen? Ich stelle mir das vor (+Dat) = I imagine it.
+vorbereiten|v|to prepare|note=Separable: sich vorbereiten auf + Akk.
+bauen|v|to build
+schaffen|v|to manage, to accomplish; to create|note=Wir schaffen das! = We can do it! (strong in the sense 'create': schuf, geschaffen)
+herstellen|v|to produce, to manufacture|note=Separable.
+kaputt|a|broken|note=kaputtmachen = to break; kaputtgehen = to get broken.
+reparieren|v|to repair, to fix
+öffnen|v|to open
+schließen|v|to close, to shut; to lock|note=schloss – hat geschlossen.
+aufmachen|v|to open|note=Separable (coll): Mach die Tür auf!
+zumachen|v|to close, to shut|note=Separable (coll).
+anmachen|v|to turn on (light, device)|note=Separable. Also einschalten.
+ausmachen|v|to turn off; to agree on|note=Separable. Das macht mir nichts aus = I don't mind.
+einschalten|v|to switch on|note=Separable.
+ausschalten|v|to switch off|note=Separable.
+berühren|v|to touch
+ziehen|v|to pull; to move (house)|note=zog – hat gezogen / ist gezogen (moved).
+drücken|v|to push, to press|note=Also drücken = to squeeze, hug.
+werfen|v|to throw|note=wirft – warf – hat geworfen.
+fangen|v|to catch|note=fängt – fing – hat gefangen.
+fallen|v|to fall|note=fällt – fiel – ist gefallen. Es fällt mir schwer = I find it hard.
+schneiden|v|to cut|note=schnitt – hat geschnitten.
+füllen|v|to fill
+zählen|v|to count
+messen|v|to measure|note=misst – maß – hat gemessen.
+wiegen|v|to weigh|note=wog – hat gewogen.
+binden|v|to tie, to bind|note=band – hat gebunden.
+verstecken|v|to hide|note=sich verstecken = to hide (oneself).
+entdecken|v|to discover
+decken|v|to cover|note=den Tisch decken = to set the table.
+schützen|v|to protect
+retten|v|to save, to rescue
+stehlen|v|to steal|note=stiehlt – stahl – hat gestohlen.
+töten|v|to kill
+umbringen|v|to kill, to murder|note=Separable: bringt um – brachte um – hat umgebracht.
+kämpfen|v|to fight
+schlagen|v|to hit, to beat; to strike|note=schlägt – schlug – hat geschlagen.
+schießen|v|to shoot|note=schoss – hat geschossen.
+gewinnen|v|to win|note=gewann – hat gewonnen.
+verlieren|v|to lose|note=verlor – hat verloren.
+spielen|v|to play (games, sports, instruments, roles)
+malen|v|to paint
+zeichnen|v|to draw
+fotografieren|v|to photograph
+rauchen|v|to smoke
+brennen|v|to burn|note=Mixed: brannte – hat gebrannt.
+dauern|v|to last, to take (time)|note=Wie lange dauert das?
+reichen|v|to be enough; to hand, to pass|note=Das reicht! = That's enough!
+fehlen|v|to be missing; to be absent|gov=+Dat;note=Du fehlst mir = I miss you. Was fehlt dir? = What's wrong with you?
+gehören|v|to belong (to)|gov=+Dat;note=Das gehört mir = That's mine.
+gefallen|v|to please (= to like)|gov=+Dat;note=Das gefällt mir = I like that. gefällt – gefiel – hat gefallen.
+interessieren|v|to interest|note=sich interessieren für + Akk = to be interested in.
+bedeuten|v|to mean|note=Was bedeutet das?
+scheinen|v|to seem; to shine|note=schien – hat geschienen. Die Sonne scheint.
+aussehen|v|to look (appear)|note=Separable: sieht aus – sah aus – hat ausgesehen. Du siehst müde aus.
+wachsen|v|to grow|note=wächst – wuchs – ist gewachsen.
+existieren|v|to exist
+abhängen|v|to depend|gov=von+Dat;note=Separable: Das hängt vom Wetter ab.
+stimmen|v|to be correct; to vote; to tune|note=Das stimmt = That's right.
+klappen|v|to work out (coll)|reg=coll;note=Hat es geklappt? = Did it work out?
+funktionieren|v|to work, to function
+gelingen|v|to succeed (impersonal)|gov=+Dat;note=Es ist mir gelungen = I managed (aux sein).
+schaffen|v|to manage
+lösen|v|to solve; to loosen
+vermeiden|v|to avoid|note=vermied – hat vermieden.
+erledigen|v|to take care of, to get done
+organisieren|v|to organize
+bestellen|v|to order (food, goods); to reserve
+graben|v|to dig|note=gräbt – grub – hat gegraben.
+pflanzen|v|to plant
+sammeln|v|to collect, to gather
+aufheben|v|to pick up; to keep; to cancel|note=Separable: hob auf – hat aufgehoben.
+sich ausruhen|v|to rest|note=Separable reflexive.
+sich gewöhnen|v|to get used to|gov=an+Akk;note=Ich gewöhne mich an das Wetter.
+
+# move
+gehen|v|to go; to walk|note=ging – ist gegangen. Wie geht's? = How are you? Es geht = It's OK.
+kommen|v|to come|note=kam – ist gekommen. Woher kommst du?
+laufen|v|to run; to walk (coll); to be running (film)|note=läuft – lief – ist gelaufen.
+rennen|v|to run, to race|note=Mixed: rannte – ist gerannt.
+springen|v|to jump|note=sprang – ist gesprungen.
+steigen|v|to climb, to rise|note=stieg – ist gestiegen.
+einsteigen|v|to get in/on (vehicle)|note=Separable: Bitte einsteigen!
+aussteigen|v|to get out/off (vehicle)|note=Separable.
+umsteigen|v|to change (trains, buses)|note=Separable.
+klettern|v|to climb
+schwimmen|v|to swim|note=schwamm – ist/hat geschwommen.
+wandern|v|to hike, to wander|note=A beloved German pastime.
+spazieren gehen|phr|to go for a walk|note=Ich gehe spazieren.
+folgen|v|to follow|gov=+Dat;note=Aux sein: Folgen Sie mir!
+begleiten|v|to accompany
+besuchen|v|to visit; to attend
+erreichen|v|to reach; to catch (train)
+verlassen|v|to leave (a place, a person)|note=verlässt – verließ – hat verlassen.
+weggehen|v|to go away, to leave|note=Separable.
+zurückkommen|v|to come back, to return|note=Separable.
+zurückgehen|v|to go back
+mitkommen|v|to come along|note=Separable: Kommst du mit?
+mitnehmen|v|to take along|note=Separable: nimmt mit – nahm mit – hat mitgenommen.
+abholen|v|to pick up, to collect (someone/something)|note=Separable: Ich hole dich ab.
+umziehen|v|to move (house); (sich umziehen) to change clothes|note=Separable: Wir ziehen nach Berlin um (aux sein).
+aufstehen|v|to get up, to stand up|note=Separable: stand auf – ist aufgestanden.
+hinfallen|v|to fall down|note=Separable.
+sitzen|v|to sit, to be sitting|note=saß – hat gesessen. Where? (Dat): Ich sitze auf dem Stuhl.
+stehen|v|to stand|note=stand – hat gestanden. Wo steht das? = Where does it say that?
+liegen|v|to lie (be lying), to be located|note=lag – hat gelegen. Das Buch liegt auf dem Tisch (Dat).
+sich setzen|v|to sit down|note=Setz dich! = Sit down! (Akk: auf den Stuhl)
+sich legen|v|to lie down
+sich bewegen|v|to move
+bewegen|v|to move (something); to move emotionally
+drehen|v|to turn; to shoot (a film)|note=sich drehen = to turn around.
+fliehen|v|to flee|note=floh – ist geflohen.
+fahren|v|to drive, to go
+eilen|v|to hurry
+sich beeilen|v|to hurry|note=Beeil dich! = Hurry up!
+näherkommen|v|to come closer
+treffen|v|to meet; to hit|note=trifft – traf – hat getroffen. sich treffen = to meet (each other).
+kennenlernen|v|to get to know, to meet (for the first time)|note=Separable: Wir haben uns in Rom kennengelernt.
+reisen|v|to travel
+erscheinen|v|to appear; to be published|note=erschien – ist erschienen.
+verschwinden|v|to disappear|note=verschwand – ist verschwunden. Verschwinde! = Get lost!
+landen|v|to land
+stürzen|v|to fall, to crash; to rush
+
+# mind
+denken|v|to think|gov=an+Akk;note=Mixed: dachte – hat gedacht. Ich denke an dich = I'm thinking of you.
+glauben|v|to believe, to think|gov=+Dat (person), an+Akk;note=Ich glaube dir. Ich glaube an Gott.
+wissen|v|to know (facts)|note=weiß, weißt, weiß – wusste – hat gewusst. Ich weiß es nicht.
+kennen|v|to know (be acquainted with)|note=Mixed: kannte – hat gekannt. Ich kenne ihn.
+erkennen|v|to recognize|note=Mixed like kennen.
+verstehen|v|to understand
+meinen|v|to mean; to think, to be of the opinion|note=Was meinst du? = What do you think? / What do you mean?
+sich erinnern|v|to remember|gov=an+Akk;note=Ich erinnere mich an dich.
+vergessen|v|to forget|note=vergisst – vergaß – hat vergessen.
+sich vorstellen|v|to imagine|gov=+Dat refl;note=Stell dir vor! = Imagine!
+träumen|v|to dream|gov=von+Dat
+hoffen|v|to hope|gov=auf+Akk;note=Ich hoffe, dass... Hoffentlich!
+fürchten|v|to fear|note=sich fürchten vor + Dat.
+zweifeln|v|to doubt|gov=an+Dat
+bemerken|v|to notice; to remark
+merken|v|to notice|note=sich etwas merken = to remember (memorize): Merk dir das!
+beobachten|v|to observe, to watch
+betrachten|v|to look at, to regard
+überlegen|v|to consider, to think over|note=Inseparable: Ich überlege es mir.
+vermuten|v|to suspect, to assume
+raten|v|to guess; to advise|gov=+Dat (advise);note=rät – riet – hat geraten. Rate mal! = Guess!
+sich irren|v|to be mistaken|note=Ich habe mich geirrt.
+sehen|v|to see|note=sieht – sah – hat gesehen.
+schauen|v|to look|note=Schau mal! = Look! (common in the south)
+gucken|v|to look (coll)|reg=coll
+hören|v|to hear; to listen to
+zuhören|v|to listen|gov=+Dat;note=Separable: Hör mir zu! = Listen to me!
+fühlen|v|to feel|note=sich fühlen = to feel (well/ill): Ich fühle mich gut.
+riechen|v|to smell|note=roch – hat gerochen.
+probieren|v|to try, to taste
+sich interessieren|v|to be interested|gov=für+Akk;note=Ich interessiere mich für Musik.
+sich konzentrieren|v|to concentrate|gov=auf+Akk
+lernen|v|to learn
+sich sorgen|v|to worry|gov=um+Akk;note=Also sich Sorgen machen um.
+vertrauen|v|to trust|gov=+Dat;note=Ich vertraue dir.
+wundern|v|to surprise|note=sich wundern über + Akk = to be surprised at.
+ahnen|v|to suspect, to have an inkling|note=Ich habe keine Ahnung = I have no idea.
+
+# talk
+sprechen|v|to speak, to talk|gov=mit+Dat, über+Akk;note=spricht – sprach – hat gesprochen. Sprechen Sie Englisch?
+reden|v|to talk|gov=mit+Dat, über+Akk
+sagen|v|to say; to tell|note=Sag mal... = Tell me... Wie sagt man...?
+erzählen|v|to tell, to narrate|note=Erzähl mal! = Tell me about it!
+fragen|v|to ask|gov=nach+Dat;note=Ich frage dich. fragen nach = ask about. sich fragen = to wonder.
+antworten|v|to answer|gov=+Dat, auf+Akk;note=Ich antworte dir. Antworte auf die Frage!
+beantworten|v|to answer (something)|note=Takes Akk: eine Frage beantworten.
+erklären|v|to explain
+diskutieren|v|to discuss
+streiten|v|to argue, to quarrel|note=stritt – hat gestritten. sich streiten.
+plaudern|v|to chat
+rufen|v|to call; to shout|note=rief – hat gerufen.
+anrufen|v|to call (by phone)|note=Separable: rief an – hat angerufen. Ich rufe dich an (Akk!).
+telefonieren|v|to telephone|gov=mit+Dat
+schreien|v|to scream, to shout|note=schrie – hat geschrien.
+schreiben|v|to write|note=schrieb – hat geschrieben.
+lesen|v|to read|note=liest – las – hat gelesen.
+unterschreiben|v|to sign|note=Inseparable: unterschrieb – hat unterschrieben.
+beschreiben|v|to describe|note=beschrieb – hat beschrieben.
+wiederholen|v|to repeat
+übersetzen|v|to translate
+grüßen|v|to greet|note=Grüß dich! = Hi! Grüß Gott!
+begrüßen|v|to welcome, to greet
+sich bedanken|v|to say thank you|gov=bei+Dat, für+Akk
+danken|v|to thank|gov=+Dat;note=Ich danke dir.
+sich entschuldigen|v|to apologize|gov=bei+Dat, für+Akk;note=Ich entschuldige mich bei dir für den Fehler.
+entschuldigen|v|to excuse|note=Entschuldigen Sie! = Excuse me!
+verzeihen|v|to forgive|gov=+Dat;note=verzieh – hat verziehen.
+wünschen|v|to wish|note=Ich wünsche dir alles Gute.
+einladen|v|to invite; to treat|note=Separable: lädt ein – lud ein – hat eingeladen. Ich lade dich ein = It's on me.
+empfehlen|v|to recommend|note=empfiehlt – empfahl – hat empfohlen.
+vorschlagen|v|to suggest|note=Separable: schlägt vor – schlug vor – hat vorgeschlagen.
+raten|v|to advise
+warnen|v|to warn|gov=vor+Dat
+informieren|v|to inform
+mitteilen|v|to inform, to communicate|note=Separable.
+sich beschweren|v|to complain|gov=über+Akk
+lügen|v|to lie (tell lies)|note=log – hat gelogen.
+Lüge|n.f|lie|note=Lügen haben kurze Beine = Lies have short legs.
+behaupten|v|to claim, to assert
+zugeben|v|to admit|note=Separable: gibt zu – gab zu – hat zugegeben.
+leugnen|v|to deny
+schwören|v|to swear (an oath)|note=schwor – hat geschworen.
+beten|v|to pray
+bitten|v|to ask, to request|gov=um+Akk;note=bat – hat gebeten. Ich bitte dich um Hilfe.
+schweigen|v|to be silent|note=schwieg – hat geschwiegen.
+singen|v|to sing|note=sang – hat gesungen.
+lachen|v|to laugh|gov=über+Akk
+lächeln|v|to smile
+weinen|v|to cry, to weep
+Nachricht|n.f|message; (pl.) news|note=die Nachrichten = the news.
+Zeitung|n.f|newspaper
+Zeitschrift|n.f|magazine
+Anruf|n.m|call (phone)
+Gespräch|n.n|conversation, talk
+Rede|n.f|speech
+Stimme|n.f|voice
+Ruhe|n.f|quiet, calm, rest|note=Ruhe, bitte! Lass mich in Ruhe! = Leave me alone!
+Lärm|n.m|noise
+Geräusch|n.n|sound, noise
+Ton|n.m|tone, sound; clay
+Geheimnis|n.n|secret; mystery|note=Plural Geheimnisse.
+Wahrheit|n.f|truth
+Meinung|n.f|opinion|note=meiner Meinung nach = in my opinion.
+Rat|n.m|advice; council|note=Ratschlag = piece of advice.
+Versprechen|n.n|promise
+Vereinbarung|n.f|agreement
+
+# feel
+lieben|v|to love
+mögen|v|to like
+hassen|v|to hate
+gernhaben|v|to be fond of|note=Separable: Ich habe dich gern.
+sich freuen|v|to be glad, to be happy|gov=über+Akk (now), auf+Akk (future);note=Ich freue mich auf das Wochenende = I'm looking forward to the weekend.
+sich ärgern|v|to be annoyed|gov=über+Akk
+ärgern|v|to annoy
+sich langweilen|v|to be bored
+langweilen|v|to bore
+sich verlieben|v|to fall in love|gov=in+Akk
+heiraten|v|to marry, to get married
+sich schämen|v|to be ashamed
+sich beruhigen|v|to calm down|note=Beruhig dich! = Calm down!
+sich entspannen|v|to relax
+sich fühlen|v|to feel|note=Wie fühlst du dich?
+erschrecken|v|to frighten; to be frightened|note=Intransitive strong: erschrickt – erschrak – ist erschrocken.
+überraschen|v|to surprise|note=Inseparable.
+leiden|v|to suffer|note=litt – hat gelitten. Ich kann ihn nicht leiden = I can't stand him.
+genießen|v|to enjoy|note=genoss – hat genossen.
+verdienen|v|to deserve; to earn
+küssen|v|to kiss
+umarmen|v|to hug, to embrace|note=Inseparable.
+vermissen|v|to miss (someone)|note=Ich vermisse dich.
+sich kümmern|v|to take care of, to look after|gov=um+Akk
+Angst haben|phr|to be afraid|gov=vor+Dat;note=Ich habe Angst vor Hunden.
+leidtun|v|to be sorry|gov=+Dat;note=Es tut mir leid = I'm sorry.
+
+# daily
+aufwachen|v|to wake up|note=Separable: Ich wache um 7 Uhr auf (aux sein).
+wecken|v|to wake (someone) up
+schlafen|v|to sleep|note=schläft – schlief – hat geschlafen.
+einschlafen|v|to fall asleep|note=Separable, aux sein: Ich bin eingeschlafen.
+sich waschen|v|to wash (oneself)|note=Ich wasche mir die Hände (Dat).
+sich anziehen|v|to get dressed|note=Separable reflexive: Ich ziehe mich an.
+sich ausziehen|v|to get undressed
+sich umziehen|v|to get changed
+duschen|v|to shower|note=Also sich duschen.
+sich kämmen|v|to comb one's hair
+sich rasieren|v|to shave
+sich schminken|v|to put on make-up
+frühstücken|v|to have breakfast
+kochen|v|to cook
+spülen|v|to rinse; to wash the dishes
+abwaschen|v|to wash up (dishes)|note=Separable.
+sich beeilen|v|to hurry
+heißen|v|to be called; to mean|note=hieß – hat geheißen. Wie heißt du? Das heißt = that is (d. h.).
+sich befinden|v|to be (located)|note=Wo befindet sich der Bahnhof?
+sich vorbereiten|v|to prepare oneself|gov=auf+Akk
+fernsehen|v|to watch TV|note=Separable: sieht fern – sah fern – hat ferngesehen.
+sich treffen|v|to meet (up)|gov=mit+Dat
+sich ausruhen|v|to rest
+sich erholen|v|to recover; to relax
+sich benehmen|v|to behave|note=Benimm dich! = Behave yourself!
+sich beschäftigen|v|to occupy oneself|gov=mit+Dat

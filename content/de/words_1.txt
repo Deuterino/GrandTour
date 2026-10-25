@@ -1,0 +1,388 @@
+# Grand Tour — German core vocabulary, part 1
+# Format: lemma|pos|English|extras (key=value;... note= last)
+# pos: n.m n.f n.n n.pl v a adv pron prep conj art det num intj part phr
+# extras: pl= (choose among homographs), gov= (case government), aux=, note=
+
+# func
+der|art|the (definite article)|note=der (m), die (f), das (n), die (pl). Declines for case: der/den/dem/des; die/die/der/der; das/das/dem/des; pl. die/die/den/der.
+ein|art|a, an (indefinite article)|note=ein (m), eine (f), ein (n); no plural. Nom ein, Akk einen (m), Dat einem, Gen eines.
+kein|det|no, not a, not any|note=Negates nouns: Ich habe keine Zeit. Declines like ein, with plural keine.
+ich|pron|I|note=Akk mich, Dat mir.
+du|pron|you (informal singular)|note=Akk dich, Dat dir. For friends, family, children; Sie is formal.
+er|pron|he; it (masculine nouns)|note=Akk ihn, Dat ihm. Der Tisch → er (it)!
+sie|pron|she; it (feminine nouns); they|note=she: Akk sie, Dat ihr. they: Akk sie, Dat ihnen. Verb form tells which: sie ist / sie sind.
+es|pron|it|note=Akk es, Dat ihm. Also impersonal: Es regnet. Es gibt = there is/are.
+wir|pron|we|note=Akk/Dat uns.
+ihr|pron|you (informal plural)|note=Akk/Dat euch. Also possessive ihr = her, their.
+Sie|pron|you (formal, singular and plural)|note=Always capitalized; uses the 3rd-person plural verb: Wie heißen Sie? Dat Ihnen.
+man|pron|one, you, people (impersonal)|note=Hier spricht man Deutsch. Uses the er/sie/es verb form. Not Mann!
+sich|pron|oneself, himself, herself, itself, themselves, yourself (formal)|note=Reflexive pronoun for er/sie/es/sie/Sie: Er wäscht sich.
+mein|det|my|note=Declines like ein/kein: mein Vater, meine Mutter, mein Kind, meine Eltern; meinen Vater (Akk).
+dein|det|your (informal)
+sein|det|his; its|note=Also the verb sein (to be).
+ihr|det|her; their; (Ihr) your (formal)
+unser|det|our
+euer|det|your (plural informal)|note=euer Haus but eure Eltern (drops the e).
+dieser|det|this, this one|note=dieser (m), diese (f), dieses (n), diese (pl); declines like der: diesen Mann.
+jener|det|that, that one (formal/literary)
+derselbe|det|the same|note=derselbe Mann, dieselbe Frau, dasselbe Kind.
+welcher|det|which, which one; (relative) who, which|note=Welches Buch? = Which book?
+jeder|det|every, each; everyone|note=jeder Tag, jede Woche, jedes Jahr. Singular only.
+alle|det|all, everyone|note=alle Leute; alles = everything.
+alles|pron|everything, all|note=Alles klar! = All clear / OK!
+viel|det|much, a lot (of); (pl. viele) many|note=viel Geld, viele Leute. Comparative mehr, superlative am meisten.
+wenig|det|little, not much; (pl. wenige) few|note=Comparative weniger.
+einige|det|some, a few, several
+manche|det|some, many a|note=manche Leute = some people.
+mehrere|det|several
+beide|det|both|note=beide Kinder; die beiden = the two of them.
+andere|a|other, different|note=der andere = the other one; etwas anderes = something else.
+jemand|pron|someone, somebody; anyone
+niemand|pron|nobody, no one
+etwas|pron|something; some, a little|note=etwas Wasser = some water. Colloquially was.
+nichts|pron|nothing, not anything|note=Ich habe nichts gesehen. nichts Neues = nothing new.
+selbst|pron|-self (myself, yourself...); (adv.) even|note=Ich mache es selbst. Also selber (coll).
+einander|pron|each other, one another
+was|pron|what; something (coll)|note=Was ist das? Was machst du?
+wer|pron|who|note=Akk wen, Dat wem, Gen wessen.
+das|pron|that; this (demonstrative); which (relative)|note=Das ist gut = That is good. Relative: das Haus, das ich kaufe.
+an|prep|at, on (vertical), to (+Dat location / +Akk direction)|note=Two-way preposition: Das Bild hängt an der Wand (Dat). Ich hänge es an die Wand (Akk). am = an dem.
+auf|prep|on (top of), onto; at (+Dat / +Akk)|note=Two-way: auf dem Tisch (where? Dat), auf den Tisch (where to? Akk).
+in|prep|in, into (+Dat / +Akk)|note=Two-way: im (in dem) Park, ins (in das) Kino.
+über|prep|over, above; about; via (+Dat / +Akk)|note=ein Buch über Berlin (Akk) = a book about Berlin.
+unter|prep|under, below; among (+Dat / +Akk)
+vor|prep|in front of; before; ago (+Dat / +Akk)|note=vor zwei Jahren = two years ago (Dat).
+hinter|prep|behind (+Dat / +Akk)
+neben|prep|next to, beside (+Dat / +Akk)
+zwischen|prep|between (+Dat / +Akk)
+mit|prep|with; by (transport) (+Dat)|note=Always dative: mit dem Bus, mit meiner Mutter.
+nach|prep|after; to (cities, countries); according to (+Dat)|note=nach Berlin, nach Hause (home), nach dem Essen.
+aus|prep|out of, from (+Dat)|note=Ich komme aus Deutschland. aus dem Haus.
+bei|prep|at, near, with (someone's place) (+Dat)|note=bei mir = at my place; beim Arzt = at the doctor's.
+von|prep|from; of; by (+Dat)|note=vom = von dem. ein Freund von mir.
+zu|prep|to (people, places); at; too (adv.) (+Dat)|note=zum = zu dem, zur = zu der. zu Hause = at home. zu groß = too big.
+seit|prep|since; for (time up to now) (+Dat)|note=Ich wohne seit zwei Jahren hier = I've lived here for two years (present tense!).
+gegenüber|prep|opposite, across from (+Dat)
+außer|prep|except, apart from (+Dat)
+für|prep|for (+Akk)
+durch|prep|through; by (+Akk)
+gegen|prep|against; around (time) (+Akk)|note=gegen acht Uhr = around eight.
+ohne|prep|without (+Akk)
+um|prep|around; at (clock time) (+Akk)|note=um acht Uhr = at eight o'clock. um... zu = in order to.
+bis|prep|until, till; by; up to|note=bis morgen = until tomorrow / see you tomorrow. bis zum Bahnhof.
+entlang|prep|along (+Akk, after the noun)|note=die Straße entlang.
+wegen|prep|because of (+Gen; coll. +Dat)|note=wegen des Wetters.
+trotz|prep|despite, in spite of (+Gen)
+während|prep|during (+Gen); (conj.) while
+statt|prep|instead of (+Gen)|note=Also anstatt.
+innerhalb|prep|within, inside of (+Gen)
+außerhalb|prep|outside of (+Gen)
+und|conj|and
+oder|conj|or
+aber|conj|but; (particle) really|note=Das ist aber schön! = That's really nice!
+denn|conj|because, for; (particle in questions) then|note=Coordinating: no verb-final. Was ist denn los? = What's the matter (then)?
+sondern|conj|but (rather), but instead|note=After a negative: nicht heute, sondern morgen.
+dass|conj|that|note=Subordinating: verb goes to the end: Ich glaube, dass er kommt.
+weil|conj|because|note=Verb-final: ..., weil ich müde bin.
+wenn|conj|if; when, whenever|note=Verb-final. Wenn ich Zeit habe, komme ich.
+als|conj|when (single past event); than; as|note=Als ich klein war... größer als ich = taller than me.
+ob|conj|whether, if|note=Ich weiß nicht, ob er kommt.
+obwohl|conj|although
+damit|conj|so that; (adv.) with it
+bevor|conj|before
+nachdem|conj|after (+ past perfect)
+seitdem|conj|since (then)
+sobald|conj|as soon as
+solange|conj|as long as
+falls|conj|in case, if
+sodass|conj|so that (result)|note=Also so dass.
+je|adv|ever; each; the... (je mehr, desto besser)|note=je... desto = the more... the more.
+nicht|adv|not|note=Negates verbs/adjectives; kein negates nouns.
+nein|adv|no
+ja|adv|yes; (particle) after all, indeed|note=Das ist ja toll! = That's really great!
+doch|adv|yes (contradicting a negative); after all; do (emphasis)|note=Kommst du nicht? — Doch! = Yes I am! Komm doch mit! = Do come along!
+mal|adv|once; just (softening particle); times|note=Komm mal her! = Come here a sec! Hast du schon mal...? = Have you ever...?
+schon|adv|already; yet; (particle) surely, all right|note=Ich bin schon da. Das wird schon = It'll be fine.
+noch|adv|still; yet; another|note=noch nicht = not yet; noch einmal = once more; Noch etwas? = Anything else?
+erst|adv|only (not until), just; first|note=Er kommt erst morgen = He's not coming until tomorrow. Erst die Arbeit!
+nur|adv|only, just
+auch|adv|also, too, as well|note=ich auch = me too.
+sogar|adv|even
+eben|adv|just (now); simply, just (particle)|note=Das ist eben so = That's just how it is.
+halt|adv|just, simply (particle, southern/coll); stop!|reg=coll
+eigentlich|adv|actually, really; by the way|note=Was machst du eigentlich hier? = What are you actually doing here?
+wohl|adv|probably, presumably; well|note=Er ist wohl krank = He's probably ill.
+gar|adv|at all (gar nicht, gar nichts)|note=gar nicht = not at all.
+überhaupt|adv|at all; in general|note=überhaupt nicht = not at all.
+etwa|adv|about, approximately; by any chance
+bloß|adv|only, merely; (particle) just|note=Was ist bloß los? = What on earth is wrong?
+so|adv|so; like this, thus; such|note=so groß wie = as big as. So ist es.
+sehr|adv|very; very much
+ganz|adv|quite, fairly; completely; (adj.) whole|note=ganz gut = pretty good; ganz allein = all alone; der ganze Tag = the whole day.
+zu|adv|too (excessively); closed|note=zu viel = too much. Die Tür ist zu = The door is shut.
+immer|adv|always|note=immer noch = still; immer mehr = more and more.
+nie|adv|never|note=Also niemals.
+oft|adv|often|note=Comparative öfter.
+manchmal|adv|sometimes
+selten|adv|rarely, seldom
+wieder|adv|again; back|note=Not to confuse with wider (against).
+gern|adv|gladly, with pleasure (likes to)|note=Ich schwimme gern = I like swimming. lieber = rather, am liebsten = most of all.
+hier|adv|here
+da|adv|there; here; then|note=Ist jemand da? = Is anyone there/here? Da kommt er.
+dort|adv|there
+hin|adv|there (direction away from speaker)|note=Wo gehst du hin? Hin und zurück = there and back.
+her|adv|here (direction toward speaker); ago|note=Komm her! Das ist lange her = That was long ago.
+oben|adv|above, up, upstairs
+unten|adv|below, down, downstairs
+vorne|adv|in front, at the front
+hinten|adv|at the back, behind
+links|adv|left, on the left
+rechts|adv|right, on the right
+draußen|adv|outside
+drinnen|adv|inside
+überall|adv|everywhere
+irgendwo|adv|somewhere
+nirgends|adv|nowhere|note=Also nirgendwo.
+weg|adv|away, gone|note=Er ist weg = He's gone. (der Weg = the way)
+zurück|adv|back
+los|adv|loose; off; going on|note=Was ist los? = What's the matter? Los geht's! = Let's go!
+dabei|adv|there, with it; at the same time|note=Ich bin dabei! = I'm in!
+deshalb|adv|therefore, that's why|note=Verb comes next: Deshalb bin ich hier.
+deswegen|adv|that's why, for that reason
+also|adv|so, therefore; well|note=False friend: not 'also' (= auch).
+dann|adv|then
+danach|adv|afterwards, after that
+vorher|adv|before, beforehand
+zuerst|adv|first, at first
+endlich|adv|finally, at last
+schließlich|adv|finally, after all
+sonst|adv|otherwise, or else; usually|note=Sonst noch etwas? = Anything else?
+trotzdem|adv|nevertheless, anyway
+jedoch|adv|however
+außerdem|adv|besides, in addition
+übrigens|adv|by the way
+vielleicht|adv|maybe, perhaps; (particle) really
+wirklich|adv|really, truly; real
+natürlich|adv|of course, naturally; (adj.) natural
+sicher|adv|surely, certainly; (adj.) safe, sure
+bestimmt|adv|certainly, definitely; (adj.) certain
+genau|adv|exactly, precisely; (adj.) exact|note=Genau! = Exactly!
+fast|adv|almost, nearly
+kaum|adv|hardly, barely
+ziemlich|adv|quite, rather, fairly
+besonders|adv|especially, particularly
+leider|adv|unfortunately
+hoffentlich|adv|hopefully
+wahrscheinlich|adv|probably
+zusammen|adv|together|note=Zusammen oder getrennt? = Together or separately? (paying)
+allein|adv|alone; (conj.) only
+sofort|adv|immediately, right away
+gleich|adv|right away, in a moment; equally; (adj.) same|note=Ich komme gleich! = I'll be right there!
+bald|adv|soon|note=Bis bald! = See you soon!
+schnell|adv|quickly; (adj.) fast
+langsam|adv|slowly; (adj.) slow
+ungefähr|adv|approximately, about
+mehr|adv|more|note=nicht mehr = no longer: Ich rauche nicht mehr.
+weniger|adv|less, fewer
+genug|adv|enough
+ebenfalls|adv|likewise, also|note=Danke, ebenfalls! = Thanks, same to you!
+sowieso|adv|anyway, in any case
+irgendwie|adv|somehow
+nämlich|adv|namely; you see (giving a reason)|note=Ich kann nicht kommen, ich bin nämlich krank.
+einfach|adv|simply, just; (adj.) simple, easy
+echt|adv|really (coll); (adj.) real, genuine
+total|adv|totally (coll)
+ganz und gar|phr|completely, utterly
+
+# q
+wie|adv|how; like, as|note=Wie geht's? = How are you? so groß wie = as big as.
+wo|adv|where|note=Wo wohnst du?
+wohin|adv|where (to)|note=Wohin gehst du? Often split: Wo gehst du hin?
+woher|adv|where from|note=Woher kommst du? = Where are you from?
+wann|adv|when|note=For questions; in clauses about the past use als, for repeated events wenn.
+warum|adv|why
+weshalb|adv|why (formal)
+wieso|adv|why, how come (coll)
+wieviel|adv|how much|note=Standard spelling: wie viel; wie viele = how many.
+womit|adv|with what
+worüber|adv|about what
+wofür|adv|for what
+
+# greet
+hallo|intj|hello, hi
+guten Tag|phr|hello, good day|note=Standard greeting during the day; formal.
+guten Morgen|phr|good morning
+guten Abend|phr|good evening
+gute Nacht|phr|good night
+tschüss|intj|bye (informal)|note=Also tschüs.
+auf Wiedersehen|phr|goodbye|note=On the phone: auf Wiederhören.
+bis bald|phr|see you soon
+bis später|phr|see you later
+bis morgen|phr|see you tomorrow
+danke|intj|thanks, thank you|note=danke schön / vielen Dank = thank you very much.
+bitte|intj|please; you're welcome; pardon?; here you are|note=Bitte schön! = You're welcome / Here you go. Wie bitte? = Pardon?
+Entschuldigung|n.f|excuse me; sorry; apology
+Verzeihung|n.f|pardon, forgiveness; excuse me
+gern geschehen|phr|you're welcome (my pleasure)
+willkommen|a|welcome|note=Herzlich willkommen!
+Glückwunsch|n.m|congratulation|note=Herzlichen Glückwunsch zum Geburtstag!
+alles Gute|phr|all the best; happy birthday
+viel Spaß|phr|have fun
+viel Glück|phr|good luck
+gute Reise|phr|have a good trip
+guten Appetit|phr|enjoy your meal
+Prost|intj|cheers! (toast)|note=Also Zum Wohl! (with wine).
+Gesundheit|n.f|health; bless you! (after a sneeze)
+Grüß Gott|phr|hello (southern Germany, Austria)|reg=reg
+Servus|intj|hi; bye (Bavaria, Austria)|reg=reg
+Moin|intj|hello (northern Germany)|reg=reg
+wie geht's|phr|how are you? (informal)|note=Formal: Wie geht es Ihnen? Answer: Gut, danke! Und dir?
+na|intj|well; so (filler)|note=Na? = Hey, how's it going? Na und? = So what? Na ja = oh well.
+ach|intj|oh, ah|note=Ach so! = Oh, I see!
+oh|intj|oh
+okay|intj|OK
+klar|intj|sure, of course; (adj.) clear|note=Alles klar? = Everything OK?
+stimmt|intj|that's right, true|note=From stimmen. Stimmt so! = Keep the change.
+toll|a|great, terrific
+super|a|super, great
+prima|a|great, excellent|note=Invariable.
+schade|a|a pity, too bad|note=Wie schade! = What a pity!
+Mist|n.m|manure; rubbish; darn! (coll)|reg=coll;note=So ein Mist! = Damn it!
+Achtung|n.f|attention; watch out!|note=Achtung! = Look out! / Attention!
+Vorsicht|n.f|caution; careful!|note=Vorsicht, Stufe! = Mind the step!
+Hilfe|n.f|help|note=Hilfe! = Help!
+Mahlzeit|n.f|meal; (greeting at lunchtime)|note=Mahlzeit! is a lunchtime greeting at work.
+herzlich|a|warm, cordial, heartfelt|note=Herzliche Grüße = Kind regards.
+
+# num
+null|num|zero
+eins|num|one|note=Counting: eins; before nouns: ein/eine. Also die Eins (the number).
+zwei|num|two|note=On the phone often zwo to avoid confusion with drei.
+drei|num|three
+vier|num|four
+fünf|num|five
+sechs|num|six
+sieben|num|seven
+acht|num|eight
+neun|num|nine
+zehn|num|ten
+elf|num|eleven
+zwölf|num|twelve
+dreizehn|num|thirteen
+vierzehn|num|fourteen
+fünfzehn|num|fifteen
+sechzehn|num|sixteen|note=Drops the s: sechzehn, sechzig.
+siebzehn|num|seventeen|note=Drops -en: siebzehn, siebzig.
+achtzehn|num|eighteen
+neunzehn|num|nineteen
+zwanzig|num|twenty|note=Units before tens: einundzwanzig (one-and-twenty).
+dreißig|num|thirty|note=With ß, not -zig.
+vierzig|num|forty
+fünfzig|num|fifty
+sechzig|num|sixty
+siebzig|num|seventy
+achtzig|num|eighty
+neunzig|num|ninety
+hundert|num|hundred|note=(ein)hundert, zweihundert.
+tausend|num|thousand
+Million|n.f|million
+Milliarde|n.f|billion|note=False friend: eine Billion = a trillion.
+erste|a|first|note=der erste, am ersten Mai. Ordinals: zweite, dritte, vierte... siebte, achte; from 20: -ste (zwanzigste).
+zweite|a|second|note=der zweite.
+dritte|a|third|note=der dritte (irregular).
+letzte|a|last|note=letzte Woche = last week.
+halb|a|half|note=halb drei = half past two (half to three)! eine halbe Stunde.
+Hälfte|n.f|half|note=die Hälfte des Kuchens.
+Viertel|n.n|quarter|note=Viertel nach drei = quarter past three; Viertel vor drei = quarter to three.
+Paar|n.n|pair, couple|note=ein Paar Schuhe (a pair). ein paar (lowercase) = a few: ein paar Tage.
+Dutzend|n.n|dozen
+Nummer|n.f|number (identifying)|note=die Hausnummer, Telefonnummer.
+Zahl|n.f|number, figure
+einmal|adv|once; (mal) just|note=noch einmal = once more; auf einmal = suddenly.
+zweimal|adv|twice
+Prozent|n.n|percent
+
+# time
+Zeit|n.f|time|note=Ich habe keine Zeit. Zur Zeit = at the moment.
+Uhr|n.f|clock, watch; o'clock|note=Wie viel Uhr ist es? Es ist drei Uhr. um drei Uhr = at three.
+Stunde|n.f|hour; lesson|note=eine halbe Stunde = half an hour.
+Minute|n.f|minute
+Sekunde|n.f|second
+Moment|n.m|moment|note=Moment mal! = Just a moment!
+Augenblick|n.m|moment, instant|note=im Augenblick = at the moment.
+Tag|n.m|day|note=Guten Tag! jeden Tag = every day.
+Woche|n.f|week
+Monat|n.m|month
+Jahr|n.n|year|note=Ich bin 30 Jahre alt.
+Jahrhundert|n.n|century
+Morgen|n.m|morning|note=heute Morgen = this morning. (morgen, lowercase = tomorrow)
+Vormittag|n.m|late morning, forenoon
+Mittag|n.m|noon, midday; lunchtime|note=zu Mittag essen = to have lunch.
+Nachmittag|n.m|afternoon
+Abend|n.m|evening|note=heute Abend = tonight. am Abend.
+Nacht|n.f|night|note=in der Nacht; Gute Nacht!
+Mitternacht|n.f|midnight
+heute|adv|today
+gestern|adv|yesterday|note=vorgestern = the day before yesterday.
+morgen|adv|tomorrow|note=übermorgen = the day after tomorrow; morgen früh = tomorrow morning.
+übermorgen|adv|the day after tomorrow
+vorgestern|adv|the day before yesterday
+jetzt|adv|now
+nun|adv|now; well
+gerade|adv|just (now), right now; (adj.) straight, even|note=Ich esse gerade = I'm eating right now.
+damals|adv|back then, at that time
+früher|adv|earlier; in the past, formerly|note=Früher wohnte ich in Berlin = I used to live in Berlin.
+später|adv|later
+spät|a|late|note=Wie spät ist es? = What time is it?
+früh|a|early
+neulich|adv|recently, the other day
+lange|adv|for a long time|note=Wie lange? = How long?
+Montag|n.m|Monday|note=Days are masculine: am Montag = on Monday; montags = on Mondays.
+Dienstag|n.m|Tuesday
+Mittwoch|n.m|Wednesday
+Donnerstag|n.m|Thursday
+Freitag|n.m|Friday
+Samstag|n.m|Saturday|note=Also Sonnabend (northern).
+Sonntag|n.m|Sunday
+Wochenende|n.n|weekend|note=am Wochenende. Schönes Wochenende!
+Januar|n.m|January|note=Months are masculine: im Januar. Austria: Jänner.
+Februar|n.m|February
+März|n.m|March
+April|n.m|April
+Mai|n.m|May
+Juni|n.m|June|note=Often pronounced Juno to distinguish from Juli.
+Juli|n.m|July
+August|n.m|August
+September|n.m|September
+Oktober|n.m|October
+November|n.m|November
+Dezember|n.m|December
+Frühling|n.m|spring|note=Seasons are masculine: im Frühling.
+Sommer|n.m|summer
+Herbst|n.m|autumn, fall
+Winter|n.m|winter
+Jahreszeit|n.f|season
+Geburtstag|n.m|birthday|note=Alles Gute zum Geburtstag!
+Feiertag|n.m|public holiday
+Ferien|n.pl|holidays, vacation (school/university)|note=Plural only: die Ferien.
+Urlaub|n.m|vacation, leave (from work)|note=in Urlaub fahren = to go on holiday.
+Weihnachten|n.n|Christmas|note=Frohe Weihnachten! Usually without article.
+Ostern|n.n|Easter|note=Frohe Ostern!
+Silvester|n.n|New Year's Eve
+Termin|n.m|appointment; date, deadline|note=einen Termin beim Arzt haben.
+Datum|n.n|date (calendar)|note=Plural Daten (also = data).
+Zukunft|n.f|future
+Vergangenheit|n.f|past
+Gegenwart|n.f|present; presence
+Anfang|n.m|beginning, start|note=am Anfang = at the beginning; Anfang Mai = early May.
+Ende|n.n|end|note=am Ende = in the end; Ende Mai = end of May.
+Mal|n.n|time (occasion)|note=das erste Mal = the first time; jedes Mal = every time.
+Weile|n.f|while|note=eine Weile = a while.
+Pause|n.f|break, pause|note=Pause machen = to take a break.
+Verspätung|n.f|delay|note=Der Zug hat Verspätung.
+pünktlich|a|punctual, on time
+täglich|a|daily
+wöchentlich|a|weekly
+jährlich|a|annual, yearly
+nächste|a|next|note=nächste Woche = next week.
+vorige|a|previous, last|note=voriges Jahr = last year.

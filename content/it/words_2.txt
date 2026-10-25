@@ -1,0 +1,281 @@
+# Italian core vocabulary, part 2
+
+# people
+persona|n.f|person|note=Always feminine, even for a man: È una persona gentile. Plural le persone = people.
+gente|n.f|people|note=Singular collective noun: La gente dice... (People say...).
+uomo|n.m|man; human being|pl=uomini;note=Irregular plural: gli uomini.
+donna|n.f|woman
+ragazzo|n.m|boy, young man; boyfriend
+ragazza|n.f|girl, young woman; girlfriend
+bambino|n.m|child, little boy; baby
+bambina|n.f|little girl, child
+bimbo|n.m|small child, kid (affectionate)
+signore|n.m|gentleman; sir; Mr. (signor + name)|note=Signor Rossi (drops -e before a name). Buongiorno, signore!
+signora|n.f|lady; madam; Mrs.|note=la signora Rossi; Buongiorno, signora!
+signorina|n.f|young lady; Miss
+amico|n.m|friend (male)|note=Plural amici (-co → -ci).
+amica|n.f|friend (female)|note=Plural amiche.
+fidanzato|n.m|boyfriend; fiancé
+fidanzata|n.f|girlfriend; fiancée
+compagno|n.m|companion, mate, partner; classmate|f=compagna;note=compagno di classe = classmate.
+collega|n.mf|colleague|note=il/la collega; plural i colleghi, le colleghe.
+vicino|n.m|neighbor|f=vicina
+ospite|n.mf|guest; host
+straniero|n.m|foreigner|f=straniera
+nemico|n.m|enemy|f=nemica
+gruppo|n.m|group
+tizio|n.m|guy, bloke (colloquial)|reg=coll
+tipo|n.m|type, kind; guy (colloquial)|note=Che tipo è? = What kind of person is he?
+capo|n.m|head; boss, chief
+giovane|n.mf|young person; (adj.) young|note=i giovani = young people.
+adulto|n.m|adult
+vecchio|n.m|old man; (adj.) old|f=vecchia
+nome|n.m|name; first name; noun|note=Come ti chiami? — Il mio nome è...
+cognome|n.m|surname, last name
+età|n.f|age|note=Invariable. Che età hai? / Quanti anni hai?
+
+# fam
+famiglia|n.f|family
+padre|n.m|father
+madre|n.f|mother
+papà|n.m|dad|note=Invariable; also babbo in Tuscany.
+mamma|n.f|mom, mum|note=Mamma mia! = Good heavens!
+genitore|n.m|parent|note=i genitori = parents.
+figlio|n.m|son; child|note=Plural figli; i figli = children (sons and daughters).
+figlia|n.f|daughter
+fratello|n.m|brother|note=i fratelli = brothers, or brothers and sisters.
+sorella|n.f|sister
+marito|n.m|husband
+moglie|n.f|wife|pl=mogli;note=Irregular plural: le mogli.
+nonno|n.m|grandfather|note=i nonni = grandparents.
+nonna|n.f|grandmother
+zio|n.m|uncle|note=lo zio, gli zii.
+zia|n.f|aunt
+cugino|n.m|cousin (male)|f=cugina
+cugina|n.f|cousin (female)
+nipote|n.mf|nephew, niece; grandson, granddaughter|note=One word for both relationships: il/la nipote.
+suocero|n.m|father-in-law|f=suocera
+cognato|n.m|brother-in-law|f=cognata
+parente|n.mf|relative|note=Not 'parent' (false friend!): i parenti = relatives.
+sposo|n.m|bridegroom; husband|note=gli sposi = the newlyweds.
+sposa|n.f|bride
+matrimonio|n.m|wedding; marriage
+nozze|n.fpl|wedding (formal)|note=viaggio di nozze = honeymoon.
+amore|n.m|love; darling|note=Amore mio! = My love!
+bacio|n.m|kiss|note=Plural baci. Baci! = Love (at the end of a message).
+abbraccio|n.m|hug, embrace
+
+# body
+corpo|n.m|body
+testa|n.f|head|note=Mi fa male la testa = I have a headache.
+faccia|n.f|face|note=Plural facce.
+viso|n.m|face (more refined)
+occhio|n.m|eye|note=Plural occhi. Occhio! = Watch out!
+orecchio|n.m|ear|pl=orecchie;note=Plural usually le orecchie (also gli orecchi).
+naso|n.m|nose
+bocca|n.f|mouth|note=In bocca al lupo! = Good luck! (reply: Crepi!)
+dente|n.m|tooth
+labbro|n.m|lip|pl=labbra;note=Plural feminine: le labbra.
+lingua|n.f|tongue; language
+capello|n.m|(a single) hair (on the head)|note=Usually plural: i capelli = hair.
+collo|n.m|neck
+spalla|n.f|shoulder
+braccio|n.m|arm|pl=braccia;note=Plural feminine: le braccia.
+mano|n.f|hand|pl=mani;note=Feminine despite -o: la mano, le mani.
+dito|n.m|finger; toe|pl=dita;note=Plural feminine: le dita.
+gamba|n.f|leg|note=In gamba! = Smart, capable.
+ginocchio|n.m|knee|pl=ginocchia;note=Plural usually le ginocchia.
+piede|n.m|foot|note=a piedi = on foot.
+schiena|n.f|back
+petto|n.m|chest, breast
+pancia|n.f|belly, tummy
+stomaco|n.m|stomach
+cuore|n.m|heart
+sangue|n.m|blood
+pelle|n.f|skin; leather
+osso|n.m|bone|pl=ossa;note=Plural (of a body) le ossa.
+cervello|n.m|brain
+gola|n.f|throat|note=mal di gola = sore throat.
+voce|n.f|voice|note=ad alta voce = aloud.
+salute|n.f|health
+malattia|n.f|illness, disease
+dolore|n.m|pain, ache; grief
+male|n.m|pain; harm; evil|note=mal di testa = headache. Fare male = to hurt.
+febbre|n.f|fever
+medico|n.m|doctor, physician|note=Plural medici.
+dottore|n.m|doctor; (title for graduates)|f=dottoressa;note=Dottor Rossi.
+infermiere|n.m|nurse|f=infermiera
+ospedale|n.m|hospital
+medicina|n.f|medicine
+farmacia|n.f|pharmacy, chemist's
+pillola|n.f|pill
+ferita|n.f|wound, injury
+malato|a|ill, sick; (n.m) patient
+stanco|a|tired|note=Plural stanchi, stanche.
+sano|a|healthy
+ferito|a|injured, wounded
+incinta|a|pregnant|note=Only feminine.
+respirare|v|to breathe
+respiro|n.m|breath
+morire|v|to die|note=Irregular: muoio, muori, muore; passato: è morto.
+morte|n.f|death
+vivo|a|alive, living
+morto|a|dead; (n.m) dead person
+nascere|v|to be born|note=Sono nato/nata a Roma. Passato: è nato.
+nascita|n.f|birth
+sonno|n.m|sleep; sleepiness|note=Ho sonno = I'm sleepy.
+fame|n.f|hunger|note=Ho fame = I'm hungry (lit. I have hunger).
+sete|n.f|thirst|note=Ho sete = I'm thirsty.
+lacrima|n.f|tear (crying)
+sorriso|n.m|smile
+
+# food
+cibo|n.m|food
+mangiare|v|to eat|note=Mangiamo? = Shall we eat? (n.) il mangiare = food.
+bere|v|to drink|note=Irregular (old stem bev-): bevo, bevi, beve; passato: ho bevuto.
+cucinare|v|to cook
+cucina|n.f|kitchen; cooking, cuisine|note=la cucina italiana.
+colazione|n.f|breakfast|note=fare colazione = to have breakfast.
+pranzo|n.m|lunch|note=pranzare = to have lunch.
+cena|n.f|dinner, supper|note=cenare = to have dinner.
+pasto|n.m|meal
+pranzare|v|to have lunch
+cenare|v|to have dinner
+pane|n.m|bread
+pasta|n.f|pasta; dough; pastry
+pizza|n.f|pizza
+riso|n.m|rice; laughter|note=Two words: riso (rice), riso (laughter, plural le risa).
+carne|n.f|meat
+pesce|n.m|fish|note=Plural pesci.
+pollo|n.m|chicken
+uovo|n.m|egg|pl=uova;note=Plural feminine: le uova.
+formaggio|n.m|cheese
+burro|n.m|butter
+olio|n.m|oil|note=olio d'oliva = olive oil.
+sale|n.m|salt
+pepe|n.m|pepper (spice)
+zucchero|n.m|sugar
+miele|n.m|honey
+latte|n.m|milk|note=Not a coffee drink! Ask for a latte macchiato.
+frutta|n.f|fruit (collective)|note=La frutta (collective); un frutto = a single fruit / result.
+frutto|n.m|fruit (single); result|note=i frutti di mare = seafood.
+mela|n.f|apple
+arancia|n.f|orange (fruit)|note=Plural arance.
+banana|n.f|banana
+limone|n.m|lemon
+uva|n.f|grapes|note=Collective singular: l'uva.
+fragola|n.f|strawberry
+pomodoro|n.m|tomato
+patata|n.f|potato|note=patatine fritte = French fries.
+insalata|n.f|salad; lettuce
+verdura|n.f|vegetables (collective)
+aglio|n.m|garlic
+cipolla|n.f|onion
+fagiolo|n.m|bean
+zuppa|n.f|soup
+minestra|n.f|soup (with pasta or rice)
+panino|n.m|sandwich, bread roll
+dolce|n.m|dessert, sweet; (adj.) sweet
+torta|n.f|cake, tart, pie
+gelato|n.m|ice cream
+biscotto|n.m|biscuit, cookie
+cioccolato|n.m|chocolate
+caramella|n.f|candy, sweet
+bistecca|n.f|steak
+salsa|n.f|sauce
+acqua|n.f|water|note=acqua frizzante / naturale = sparkling / still water.
+vino|n.m|wine|note=vino rosso, vino bianco.
+birra|n.f|beer
+caffè|n.m|coffee; café|note=Invariable. Un caffè = an espresso.
+tè|n.m|tea
+succo|n.m|juice|note=succo d'arancia.
+bevanda|n.f|drink, beverage
+bicchiere|n.m|glass (for drinking)
+tazza|n.f|cup, mug
+piatto|n.m|plate, dish; course|note=primo piatto = first course (pasta), secondo = main course.
+forchetta|n.f|fork
+coltello|n.m|knife
+cucchiaio|n.m|spoon
+bottiglia|n.f|bottle
+tavola|n.f|table (for meals); board|note=A tavola! = Dinner's ready! (Come to the table!)
+menu|n.m|menu|note=Invariable.
+conto|n.m|bill, check; account|note=Il conto, per favore. Rendersi conto = to realize.
+ristorante|n.m|restaurant
+cameriere|n.m|waiter|f=cameriera
+mancia|n.f|tip (money)
+gusto|n.m|taste; flavor|note=Che gusti di gelato avete?
+sapore|n.m|flavor, taste
+assaggiare|v|to taste, to try (food)
+fresco|a|fresh; cool|note=Plural freschi, fresche.
+buono|a|good; tasty; kind|note=Before nouns: buon giorno, buono studente, buona sera, buon'amica.
+cotto|a|cooked
+crudo|a|raw|note=prosciutto crudo = cured ham.
+affamato|a|hungry, starving
+
+# home
+casa|n.f|house; home|note=a casa = at home / home: Vado a casa.
+appartamento|n.m|apartment, flat
+stanza|n.f|room
+camera|n.f|room; bedroom|note=camera da letto = bedroom.
+bagno|n.m|bathroom; bath|note=fare il bagno = to take a bath / to swim.
+salotto|n.m|living room
+sala|n.f|hall, room|note=sala da pranzo = dining room.
+porta|n.f|door; gate
+finestra|n.f|window
+muro|n.m|wall (outside); (pl. le mura = city walls)
+parete|n.f|wall (inside a room)
+pavimento|n.m|floor
+tetto|n.m|roof
+piano|n.m|floor, storey; plan; piano; (adj.) flat; (adv.) slowly|note=al primo piano = on the first floor. Piano piano = little by little.
+scala|n.f|stairs, staircase; ladder; scale|note=le scale = the stairs.
+ascensore|n.m|elevator, lift
+giardino|n.m|garden
+cortile|n.m|courtyard
+chiave|n.f|key
+letto|n.m|bed|note=andare a letto = to go to bed.
+tavolo|n.m|table
+sedia|n.f|chair
+divano|n.m|sofa, couch
+armadio|n.m|wardrobe, closet
+specchio|n.m|mirror
+lampada|n.f|lamp
+luce|n.f|light|note=accendere / spegnere la luce = turn on / off the light.
+cassetto|n.m|drawer
+scaffale|n.m|shelf, bookcase
+quadro|n.m|picture, painting
+tappeto|n.m|carpet, rug
+cuscino|n.m|pillow, cushion
+coperta|n.f|blanket
+lenzuolo|n.m|sheet (bed)|pl=lenzuola;note=Plural feminine: le lenzuola.
+doccia|n.f|shower|note=fare la doccia = to take a shower.
+asciugamano|n.m|towel
+sapone|n.m|soap
+frigorifero|n.m|refrigerator|note=Colloquially il frigo.
+forno|n.m|oven|note=al forno = baked.
+fuoco|n.m|fire|note=Plural fuochi.
+cosa|n.f|thing|note=Cosa? = What? Una cosa = a thing.
+roba|n.f|stuff, things (colloquial)|reg=coll
+oggetto|n.m|object
+scatola|n.f|box; can
+borsa|n.f|bag, handbag; stock exchange
+valigia|n.f|suitcase|note=fare la valigia = to pack.
+pacco|n.m|parcel, package
+carta|n.f|paper; card; map|note=carta di credito = credit card.
+penna|n.f|pen; feather
+matita|n.f|pencil
+foglio|n.m|sheet (of paper)
+busta|n.f|envelope; bag
+orologio|n.m|clock; watch
+telefono|n.m|telephone
+cellulare|n.m|mobile phone, cell phone
+televisione|n.f|television|note=Often la tv (la tivù).
+computer|n.m|computer|note=Invariable.
+radio|n.f|radio|note=Feminine and invariable: la radio, le radio.
+pulire|v|to clean|note=-isc- verb: pulisco, pulisci.
+pulito|a|clean
+sporco|a|dirty|note=Plural sporchi, sporche.
+lavare|v|to wash|note=lavarsi = to wash oneself.
+abitare|v|to live (reside)|note=Abito a Milano.
+vivere|v|to live|note=Passato: ho vissuto / sono vissuto.
+affitto|n.m|rent|note=in affitto = for rent.
+indirizzo|n.m|address

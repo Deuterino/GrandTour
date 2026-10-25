@@ -1,0 +1,274 @@
+# German core vocabulary, part 6 — society, leisure, tech, fairy tales
+
+# soc
+Regierung|n.f|government
+Politik|n.f|politics; policy
+Politiker|n.m|politician
+Präsident|n.m|president|note=Weak noun: den Präsidenten.
+Kanzler|n.m|chancellor|note=Bundeskanzler(in).
+Minister|n.m|minister
+Bürgermeister|n.m|mayor
+Partei|n.f|(political) party
+Wahl|n.f|election; choice
+Volk|n.n|people, nation|note=Plural Völker.
+Bürger|n.m|citizen
+Gesellschaft|n.f|society; company|note=GmbH = Gesellschaft mit beschränkter Haftung.
+Öffentlichkeit|n.f|the public
+Macht|n.f|power
+Recht|n.n|law; right
+Gericht|n.n|court (of law)
+Richter|n.m|judge
+Anwalt|n.m|lawyer
+Prozess|n.m|trial; process
+Zeuge|n.m|witness|note=Weak noun.
+Beweis|n.m|evidence, proof
+Verbrechen|n.n|crime
+Verbrecher|n.m|criminal
+Mord|n.m|murder
+Mörder|n.m|murderer
+Dieb|n.m|thief
+Diebstahl|n.m|theft
+Opfer|n.n|victim; sacrifice
+Täter|n.m|perpetrator, culprit
+Gefangene|n.m|prisoner|note=Adjectival noun.
+Strafe|n.f|punishment; fine
+Polizei|n.f|police
+Waffe|n.f|weapon
+Pistole|n.f|pistol
+Gewehr|n.n|rifle, gun
+Bombe|n.f|bomb
+Schuss|n.m|shot|note=Plural Schüsse.
+Gewalt|n.f|violence; force; power
+Drohung|n.f|threat
+Krieg|n.m|war
+Kampf|n.m|fight, battle, struggle|note=Plural Kämpfe.
+Schlacht|n.f|battle
+Armee|n.f|army
+Soldat|n.m|soldier
+Offizier|n.m|officer
+Feind|n.m|enemy
+Angriff|n.m|attack
+Sieg|n.m|victory
+Frieden|n.m|peace
+Spion|n.m|spy
+Unfall|n.m|accident|note=Plural Unfälle.
+Notfall|n.m|emergency
+Feuerwehr|n.f|fire brigade
+Krankenwagen|n.m|ambulance
+Alarm|n.m|alarm
+Gefahr|n.f|danger
+Schaden|n.m|damage, harm|note=Plural Schäden.
+Flucht|n.f|escape, flight
+Falle|n.f|trap
+Vertrag|n.m|contract, treaty|note=Plural Verträge.
+Unterschrift|n.f|signature
+Ausweis|n.m|ID card
+Dokument|n.n|document
+Formular|n.n|form (to fill in)
+Erlaubnis|n.f|permission|note=Plural Erlaubnisse.
+Befehl|n.m|order, command
+Behörde|n.f|authority, government office
+Amt|n.n|office, department; post
+Verwaltung|n.f|administration
+Organisation|n.f|organization
+Verein|n.m|club, association|note=A cornerstone of German social life.
+Mitglied|n.n|member
+Gruppe|n.f|group
+Mannschaft|n.f|team; crew
+Information|n.f|information
+Nachricht|n.f|news, message
+Sicherheit|n.f|security
+Verantwortung|n.f|responsibility
+Wirtschaft|n.f|economy; pub (Gastwirtschaft)
+Industrie|n.f|industry
+Handel|n.m|trade, commerce
+Markt|n.m|market
+Steuer|n.f|tax|note=die Steuer (tax) vs das Steuer (steering wheel).
+Ware|n.f|goods, merchandise
+Produkt|n.n|product
+Kirche|n.f|church
+Pfarrer|n.m|priest, pastor
+Gebet|n.n|prayer
+Engel|n.m|angel
+Teufel|n.m|devil|note=Zum Teufel! = Damn it!
+Heilige|n.m|saint|note=Adjectival noun.
+
+# free
+Freizeit|n.f|free time, leisure
+Hobby|n.n|hobby
+Spaß|n.m|fun
+Spiel|n.n|game; match
+Spieler|n.m|player
+Sport|n.m|sport|note=Sport machen = to do sport.
+Fußball|n.m|football, soccer
+Mannschaft|n.f|team
+Tor|n.n|goal; gate|note=das Tor (goal, gate) vs der Tor (fool, literary).
+Ball|n.m|ball|note=Plural Bälle.
+Rennen|n.n|race
+Wettbewerb|n.m|competition
+Meisterschaft|n.f|championship
+Preis|n.m|prize; price
+Trainer|n.m|coach
+Musik|n.f|music
+Lied|n.n|song|note=Plural Lieder. Volkslied = folk song.
+Sänger|n.m|singer
+Konzert|n.n|concert
+Tanz|n.m|dance|note=Plural Tänze.
+tanzen|v|to dance
+Instrument|n.n|instrument
+Klavier|n.n|piano
+Gitarre|n.f|guitar
+Geige|n.f|violin
+Film|n.m|film, movie
+Vorstellung|n.f|performance, show; idea, imagination; introduction
+Bühne|n.f|stage
+Rolle|n.f|role; roll
+Figur|n.f|figure; character
+Roman|n.m|novel
+Gedicht|n.n|poem
+Märchen|n.n|fairy tale
+Sage|n.f|legend, saga
+Fantasie|n.f|imagination, fantasy
+Bild|n.n|picture, painting
+Foto|n.n|photo
+Kamera|n.f|camera
+Ausstellung|n.f|exhibition
+Fest|n.n|festival, party, celebration
+Feier|n.f|celebration, party
+feiern|v|to celebrate; to party
+Party|n.f|party
+Einladung|n.f|invitation
+Ausflug|n.m|excursion, trip, outing
+Spaziergang|n.m|walk, stroll|note=Plural Spaziergänge.
+Wanderung|n.f|hike
+Camping|n.n|camping
+Zelt|n.n|tent
+Spielzeug|n.n|toy, toys
+Puppe|n.f|doll; puppet
+Karten|n.pl|(playing) cards
+Fernsehen|n.n|television
+Sendung|n.f|broadcast, program; shipment
+Serie|n.f|series
+Programm|n.n|program
+Kanal|n.m|channel; canal
+Zeitung|n.f|newspaper
+Artikel|n.m|article
+Werbung|n.f|advertising, commercial
+Mode|n.f|fashion
+Zigarette|n.f|cigarette
+Alkohol|n.m|alcohol
+Droge|n.f|drug
+
+# tech
+Technik|n.f|technology; technique
+Maschine|n.f|machine
+Motor|n.m|engine, motor
+Rad|n.n|wheel; bicycle|note=Plural Räder.
+Lastwagen|n.m|truck|note=Also LKW.
+Strom|n.m|electricity, current; river (large)
+elektrisch|a|electric
+Batterie|n.f|battery
+Akku|n.m|rechargeable battery|note=Der Akku ist leer = The battery is dead.
+Gas|n.n|gas
+Netz|n.n|net, network
+Internet|n.n|internet|note=im Internet.
+Webseite|n.f|website
+E-Mail|n.f|e-mail
+Bildschirm|n.m|screen
+Tastatur|n.f|keyboard
+Taste|n.f|key, button (keyboard)
+Knopf|n.m|button|note=Plural Knöpfe.
+Daten|n.pl|data
+Programm|n.n|program
+Gerät|n.n|device, appliance
+Werkzeug|n.n|tool
+Hammer|n.m|hammer
+Nagel|n.m|nail|note=Plural Nägel.
+Schraube|n.f|screw
+Draht|n.m|wire
+Seil|n.n|rope
+Kette|n.f|chain; necklace
+Rohr|n.n|pipe, tube
+Glas|n.n|glass
+Plastik|n.n|plastic
+Metall|n.n|metal
+laden|v|to load; to charge|note=lädt – lud – hat geladen.
+herunterladen|v|to download|note=Separable: lädt herunter.
+drucken|v|to print
+klicken|v|to click
+
+# story
+König|n.m|king
+Königin|n.f|queen
+Prinz|n.m|prince
+Prinzessin|n.f|princess
+Schloss|n.n|castle, palace
+Burg|n.f|castle (fortified)
+Königreich|n.n|kingdom
+Krone|n.f|crown
+Thron|n.m|throne
+Ritter|n.m|knight
+Schwert|n.n|sword
+Hexe|n.f|witch
+Zauberer|n.m|wizard, magician
+Zauber|n.m|magic, spell, charm
+zaubern|v|to do magic, to conjure
+verzaubern|v|to bewitch, to enchant
+Fee|n.f|fairy|note=Plural Feen.
+Zwerg|n.m|dwarf|note=Schneewittchen und die sieben Zwerge.
+Riese|n.m|giant|note=Weak noun: den Riesen.
+Drache|n.m|dragon|note=Weak noun. (der Drachen = kite)
+Ungeheuer|n.n|monster
+Monster|n.n|monster
+Geist|n.m|ghost, spirit
+Gespenst|n.n|ghost
+Schatz|n.m|treasure; darling|note=Plural Schätze. Mein Schatz = my darling.
+Wanderer|n.m|wanderer, hiker
+Bettler|n.m|beggar
+Müller|n.m|miller|note=Also the most common German surname.
+Mühle|n.f|mill
+Brunnen|n.m|well; fountain|note=The Frog Prince's golden ball falls into a Brunnen.
+Hütte|n.f|hut, cabin
+Häuschen|n.n|little house, cottage
+Kerze|n.f|candle
+Spindel|n.f|spindle|note=Dornröschen pricks her finger on a Spindel.
+Spinnrad|n.n|spinning wheel
+Apfelbaum|n.m|apple tree
+Rose|n.f|rose
+Dorn|n.m|thorn|note=Dornröschen = Briar Rose (Sleeping Beauty).
+Hexenhaus|n.n|witch's house (gingerbread house)
+Lebkuchen|n.m|gingerbread
+Krümel|n.m|crumb
+Kugel|n.f|ball, sphere; bullet|note=die goldene Kugel (The Frog Prince).
+Ziegenbock|n.m|billy goat
+Geißlein|n.n|little kid (young goat)|reg=lit;note=Der Wolf und die sieben jungen Geißlein.
+Rotkäppchen|n.n|Little Red Riding Hood
+Aschenputtel|n.n|Cinderella
+Schneewittchen|n.n|Snow White
+Dornröschen|n.n|Sleeping Beauty (Briar Rose)
+Hänsel und Gretel|phr|Hansel and Gretel
+Großmutter|n.f|grandmother
+Jäger|n.m|hunter
+Holzfäller|n.m|woodcutter
+Stiefmutter|n.f|stepmother
+Tochter|n.f|daughter
+Sohn|n.m|son
+Fluch|n.m|curse|note=Plural Flüche.
+Wunsch|n.m|wish
+Abenteuer|n.n|adventure
+Held|n.m|hero|note=Weak noun: den Helden.
+arm|a|poor
+reich|a|rich
+böse|a|wicked
+gütig|a|kind, benevolent
+schlau|a|clever, sly, cunning
+listig|a|cunning, crafty
+tapfer|a|brave|note=Das tapfere Schneiderlein = The Brave Little Tailor.
+fleißig|a|industrious|note=Frau Holle rewards the fleißige daughter.
+golden|a|golden
+silbern|a|silver
+eisern|a|iron
+hölzern|a|wooden
+verwunschen|a|enchanted, bewitched|reg=lit
+einst|adv|once, at one time|reg=lit;note=Fairy tales: Es war einmal... (Once upon a time there was...)
+es war einmal|phr|once upon a time there was

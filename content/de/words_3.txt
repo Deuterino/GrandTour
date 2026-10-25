@@ -1,0 +1,354 @@
+# German core vocabulary, part 3
+
+# city
+Stadt|n.f|city, town|note=Plural Städte. in der Stadt.
+Dorf|n.n|village|note=Plural Dörfer.
+Land|n.n|country; land; countryside|note=auf dem Land = in the country. Plural Länder.
+Ort|n.m|place, location; village
+Platz|n.m|square; place, seat; space|note=Ist hier noch Platz? = Is there room here?
+Straße|n.f|street, road
+Weg|n.m|way, path|note=auf dem Weg = on the way. (weg = away)
+Brücke|n.f|bridge
+Ecke|n.f|corner|note=an der Ecke / um die Ecke.
+Zentrum|n.n|center|note=Plural Zentren. Stadtzentrum.
+Mitte|n.f|middle, center|note=in der Mitte.
+Gebäude|n.n|building
+Turm|n.m|tower
+Kirche|n.f|church
+Schloss|n.n|castle, palace; lock|note=Plural Schlösser.
+Burg|n.f|castle (fortress)
+Museum|n.n|museum|note=Plural Museen.
+Theater|n.n|theater
+Kino|n.n|cinema|note=ins Kino gehen.
+Geschäft|n.n|shop, store; business
+Laden|n.m|shop, store|note=Plural Läden.
+Supermarkt|n.m|supermarket
+Markt|n.m|market
+Bäckerei|n.f|bakery
+Metzgerei|n.f|butcher's shop|note=Also Fleischerei.
+Bank|n.f|bank (money)|pl=Banken;note=Plural Banken (die Bänke = benches).
+Post|n.f|post office; mail
+Hotel|n.n|hotel
+Büro|n.n|office
+Schule|n.f|school
+Universität|n.f|university|note=Coll: die Uni.
+Bibliothek|n.f|library
+Buchhandlung|n.f|bookshop
+Bahnhof|n.m|(train) station|note=Hauptbahnhof = main station. Ich verstehe nur Bahnhof = It's all Greek to me.
+Flughafen|n.m|airport
+Hafen|n.m|harbor, port
+Haltestelle|n.f|stop (bus, tram)
+Park|n.m|park
+Friedhof|n.m|cemetery
+Gefängnis|n.n|prison|note=Plural Gefängnisse.
+Polizei|n.f|police
+Rathaus|n.n|town hall
+Fabrik|n.f|factory
+Stelle|n.f|place, spot; job, position|note=an deiner Stelle = in your place.
+Gegend|n.f|area, region
+Viertel|n.n|quarter, district
+Welt|n.f|world
+Erde|n.f|earth, ground, soil
+Staat|n.m|state|note=Plural Staaten.
+Grenze|n.f|border, limit
+Ampel|n.f|traffic light
+Verkehr|n.m|traffic
+Menge|n.f|crowd; amount, quantity|note=eine Menge = a lot.
+Deutschland|n.n|Germany|note=Without article: in Deutschland.
+Österreich|n.n|Austria
+Schweiz|n.f|Switzerland|note=With article: die Schweiz, in der Schweiz.
+Europa|n.n|Europe
+Italien|n.n|Italy
+
+# travel
+Reise|n.f|journey, trip|note=Gute Reise!
+reisen|v|to travel|note=Auxiliary sein: Ich bin nach Italien gereist.
+fahren|v|to go (by vehicle), to drive, to ride|note=Strong: fährt – fuhr – ist gefahren (hat gefahren when transitive: Ich habe das Auto gefahren).
+Fahrt|n.f|drive, ride, trip
+abfahren|v|to depart, to leave|note=Separable: Der Zug fährt um 8 Uhr ab.
+Abfahrt|n.f|departure
+ankommen|v|to arrive|note=Separable: Wann kommt der Zug an? ist angekommen. Es kommt darauf an = It depends.
+Ankunft|n.f|arrival
+Zug|n.m|train; draft; move|note=Plural Züge. mit dem Zug.
+Bahn|n.f|railway; track; tram|note=die Deutsche Bahn; S-Bahn, U-Bahn.
+U-Bahn|n.f|subway, underground
+Straßenbahn|n.f|tram, streetcar
+Bus|n.m|bus|note=Plural Busse.
+Auto|n.n|car|note=mit dem Auto fahren.
+Wagen|n.m|car; carriage, wagon
+Fahrrad|n.n|bicycle|note=Coll: das Rad.
+Flugzeug|n.n|airplane
+Schiff|n.n|ship
+Boot|n.n|boat
+Taxi|n.n|taxi
+Fahrkarte|n.f|ticket (travel)|note=Also Ticket, Fahrschein.
+Ticket|n.n|ticket
+Pass|n.m|passport; pass|note=Reisepass.
+Gepäck|n.n|luggage, baggage
+Karte|n.f|map; ticket; card
+Tourist|n.m|tourist|note=Weak noun: den Touristen.
+Fahrer|n.m|driver
+fliegen|v|to fly|note=fliegt – flog – ist geflogen.
+Flug|n.m|flight
+Ausgang|n.m|exit
+Eingang|n.m|entrance
+Benzin|n.n|petrol, gasoline
+Richtung|n.f|direction|note=in Richtung Berlin.
+Norden|n.m|north
+Süden|n.m|south
+Osten|n.m|east
+Westen|n.m|west
+Kilometer|n.m|kilometer
+Meter|n.m|meter
+Entfernung|n.f|distance
+Ausland|n.n|abroad, foreign countries|note=im Ausland = abroad.
+Urlaub|n.m|vacation
+unterwegs|adv|on the way, on the road
+geradeaus|adv|straight ahead
+
+# nature
+Natur|n.f|nature
+Himmel|n.m|sky; heaven
+Sonne|n.f|sun
+Mond|n.m|moon
+Stern|n.m|star
+Meer|n.n|sea|note=am Meer = at the seaside.
+See|n.m|lake|note=der See (lake) vs die See (sea).
+Fluss|n.m|river|note=Plural Flüsse.
+Strand|n.m|beach
+Berg|n.m|mountain|note=in die Berge fahren.
+Hügel|n.m|hill
+Tal|n.n|valley|note=Plural Täler.
+Insel|n.f|island
+Wald|n.m|forest, woods|note=Plural Wälder. A central image of German fairy tales.
+Feld|n.n|field
+Wiese|n.f|meadow
+Baum|n.m|tree|note=Plural Bäume.
+Blume|n.f|flower
+Blatt|n.n|leaf; sheet (of paper)|note=Plural Blätter.
+Gras|n.n|grass
+Pflanze|n.f|plant
+Stein|n.m|stone, rock
+Sand|n.m|sand
+Luft|n.f|air
+Wasser|n.n|water
+Eis|n.n|ice
+Schnee|n.m|snow
+Regen|n.m|rain
+regnen|v|to rain|note=Es regnet.
+schneien|v|to snow|note=Es schneit.
+Wind|n.m|wind
+Wolke|n.f|cloud
+Sturm|n.m|storm|note=Plural Stürme.
+Gewitter|n.n|thunderstorm
+Wetter|n.n|weather|note=Wie ist das Wetter?
+warm|a|warm|note=Comparative wärmer. Mir ist warm = I'm warm.
+heiß|a|hot
+kalt|a|cold|note=Comparative kälter. Mir ist kalt = I'm cold.
+kühl|a|cool
+Temperatur|n.f|temperature
+Grad|n.m|degree|note=20 Grad.
+Tier|n.n|animal
+Hund|n.m|dog
+Katze|n.f|cat
+Pferd|n.n|horse
+Kuh|n.f|cow|note=Plural Kühe.
+Schwein|n.n|pig|note=Schwein haben = to be lucky (coll).
+Schaf|n.n|sheep
+Ziege|n.f|goat
+Esel|n.m|donkey
+Maus|n.f|mouse|note=Plural Mäuse.
+Vogel|n.m|bird|note=Plural Vögel.
+Huhn|n.n|hen, chicken
+Hahn|n.m|rooster; tap
+Ente|n.f|duck
+Gans|n.f|goose|note=Plural Gänse.
+Fisch|n.m|fish
+Wolf|n.m|wolf|note=Plural Wölfe.
+Bär|n.m|bear|note=Weak noun: den Bären.
+Fuchs|n.m|fox|note=Plural Füchse.
+Löwe|n.m|lion|note=Weak noun.
+Schlange|n.f|snake; queue
+Frosch|n.m|frog|note=Der Froschkönig = The Frog Prince.
+Insekt|n.n|insect
+Biene|n.f|bee
+Fliege|n.f|fly; bow tie
+Schmetterling|n.m|butterfly
+Hase|n.m|hare; rabbit (coll)|note=Weak noun.
+Kaninchen|n.n|rabbit
+Igel|n.m|hedgehog|note=Der Hase und der Igel (Grimm).
+Ziege|n.f|goat
+Wurm|n.m|worm|note=Plural Würmer.
+Spinne|n.f|spider
+Flügel|n.m|wing; grand piano
+Nest|n.n|nest
+Feder|n.f|feather; spring
+Schwanz|n.m|tail
+Holz|n.n|wood (material)|note=aus Holz = wooden.
+Gold|n.n|gold
+Silber|n.n|silver
+Eisen|n.n|iron
+Feuer|n.n|fire
+
+# clothes
+Kleidung|n.f|clothing, clothes
+Kleid|n.n|dress; (pl.) clothes|note=Plural Kleider.
+anziehen|v|to put on (clothes); to dress; to attract|note=Separable: Ich ziehe die Jacke an. sich anziehen = to get dressed.
+ausziehen|v|to take off; to move out|note=Separable. sich ausziehen = to undress.
+tragen|v|to wear; to carry|note=trägt – trug – hat getragen.
+Hemd|n.n|shirt|note=Plural Hemden.
+Bluse|n.f|blouse
+Hose|n.f|trousers, pants|note=Singular in German: eine Hose.
+Rock|n.m|skirt|note=Plural Röcke.
+Jacke|n.f|jacket
+Mantel|n.m|coat|note=Plural Mäntel.
+Pullover|n.m|sweater, jumper
+T-Shirt|n.n|T-shirt
+Schuh|n.m|shoe
+Stiefel|n.m|boot
+Socke|n.f|sock
+Hut|n.m|hat|note=Plural Hüte.
+Mütze|n.f|cap, woolly hat
+Schal|n.m|scarf
+Handschuh|n.m|glove
+Gürtel|n.m|belt
+Krawatte|n.f|tie
+Brille|n.f|glasses, spectacles|note=Singular: eine Brille.
+Ring|n.m|ring
+Uhr|n.f|watch
+Tasche|n.f|bag; pocket
+Regenschirm|n.m|umbrella
+Mode|n.f|fashion
+Größe|n.f|size; height
+nackt|a|naked
+
+# work
+Arbeit|n.f|work; job|note=zur Arbeit gehen.
+arbeiten|v|to work|note=du arbeitest, er arbeitet (e inserted).
+Beruf|n.m|profession, job|note=Was sind Sie von Beruf? = What do you do?
+Job|n.m|job
+Stelle|n.f|position, job
+Firma|n.f|company, firm|note=Plural Firmen.
+Unternehmen|n.n|company, enterprise
+Chef|n.m|boss|note=Female Chefin.
+Mitarbeiter|n.m|employee, coworker
+Angestellte|n.m|employee (salaried)|note=Adjectival noun: ein Angestellter.
+Arbeiter|n.m|worker
+Kunde|n.m|customer|note=Weak noun: den Kunden. Female Kundin.
+Lehrer|n.m|teacher|note=Female Lehrerin.
+Lehrerin|n.f|teacher (female)
+Professor|n.m|professor
+Student|n.m|student (university)|note=Weak noun: den Studenten. Female Studentin.
+Schüler|n.m|pupil, schoolboy|note=Female Schülerin.
+Polizist|n.m|police officer|note=Weak noun: den Polizisten.
+Anwalt|n.m|lawyer|note=Plural Anwälte.
+Richter|n.m|judge
+Ingenieur|n.m|engineer
+Bauer|n.m|farmer, peasant|note=Mixed: den Bauern. Also Landwirt.
+Bäcker|n.m|baker
+Koch|n.m|cook, chef|note=Plural Köche. (kochen = to cook)
+Verkäufer|n.m|salesperson, shop assistant
+Künstler|n.m|artist
+Schauspieler|n.m|actor
+Schriftsteller|n.m|writer
+Journalist|n.m|journalist|note=Weak noun.
+Soldat|n.m|soldier|note=Weak noun: den Soldaten.
+König|n.m|king
+Königin|n.f|queen
+Prinz|n.m|prince|note=Weak noun.
+Prinzessin|n.f|princess
+Handwerker|n.m|craftsman, tradesman
+Meister|n.m|master (craftsman); champion|note=A Meister trained Lehrlinge (apprentices) and Gesellen (journeymen).
+Lehrling|n.m|apprentice
+Geselle|n.m|journeyman; fellow|note=Weak noun. Journeymen traveled for years on their Wanderjahre.
+Sitzung|n.f|meeting, session
+Besprechung|n.f|meeting, discussion
+Projekt|n.n|project
+Aufgabe|n.f|task, assignment; exercise
+Gehalt|n.n|salary|note=das Gehalt (salary), der Gehalt (content).
+Lohn|n.m|wage, pay; reward
+Erfahrung|n.f|experience
+Rente|n.f|pension|note=in Rente gehen = to retire.
+arbeitslos|a|unemployed
+Büro|n.n|office
+Termin|n.m|appointment
+Pflicht|n.f|duty, obligation
+
+# school
+lernen|v|to learn; to study (for a test)
+studieren|v|to study (at university); to major in|note=Ich studiere Physik. Participle: studiert (no ge-).
+lehren|v|to teach|note=More common: unterrichten, beibringen.
+unterrichten|v|to teach
+Unterricht|n.m|lessons, instruction, class
+Klasse|n.f|class; grade (school year)|note=Klasse! = Great!
+Kurs|n.m|course
+Prüfung|n.f|exam, test|note=eine Prüfung bestehen = to pass an exam.
+Test|n.m|test
+Frage|n.f|question|note=eine Frage stellen = to ask a question.
+Antwort|n.f|answer
+Beispiel|n.n|example|note=zum Beispiel (z. B.) = for example.
+Fehler|n.m|mistake, error; fault
+Übung|n.f|exercise; practice|note=Übung macht den Meister = Practice makes perfect.
+Buch|n.n|book|note=Plural Bücher.
+Heft|n.n|exercise book, notebook
+Seite|n.f|page; side
+Wort|n.n|word|note=Plural Wörter (single words) or Worte (words spoken: seine Worte).
+Satz|n.m|sentence; set; leap|note=Plural Sätze.
+Buchstabe|n.m|letter (of the alphabet)|note=Mixed: des Buchstabens.
+Geschichte|n.f|story; history
+Märchen|n.n|fairy tale|note=Es war einmal... = Once upon a time...
+Sprache|n.f|language|note=Fremdsprache = foreign language.
+Deutsch|n.n|German (language)|note=Ich lerne Deutsch. auf Deutsch = in German.
+Englisch|n.n|English (language)
+Italienisch|n.n|Italian (language)
+deutsch|a|German|note=Lowercase as adjective: das deutsche Essen.
+Bedeutung|n.f|meaning; significance
+Wissenschaft|n.f|science
+Mathematik|n.f|mathematics|note=Coll: Mathe.
+Kunst|n.f|art|note=Plural Künste.
+Musik|n.f|music
+Wissen|n.n|knowledge
+Note|n.f|grade, mark; (musical) note
+Tafel|n.f|blackboard; bar (of chocolate)
+Hausaufgabe|n.f|homework|note=Usually plural: Hausaufgaben.
+Grammatik|n.f|grammar
+Wörterbuch|n.n|dictionary
+Aussprache|n.f|pronunciation
+Ausdruck|n.m|expression; printout
+übersetzen|v|to translate|note=Inseparable here: ich übersetze, übersetzt.
+Übersetzung|n.f|translation
+erklären|v|to explain; to declare
+verstehen|v|to understand|note=versteht – verstand – hat verstanden.
+wiederholen|v|to repeat; to revise|note=Inseparable: ich wiederhole, wiederholt.
+
+# money
+Geld|n.n|money
+Euro|n.m|euro|note=zehn Euro (no plural ending with numbers).
+Cent|n.m|cent
+Preis|n.m|price; prize
+kosten|v|to cost|note=Was kostet das? = How much is it?
+bezahlen|v|to pay (for)|note=Ich bezahle die Rechnung.
+zahlen|v|to pay|note=Zahlen, bitte! = The bill, please!
+kaufen|v|to buy
+verkaufen|v|to sell
+einkaufen|v|to shop, to go shopping|note=Separable: Ich kaufe heute ein.
+ausgeben|v|to spend (money)|note=Separable: gibt aus – gab aus – hat ausgegeben.
+sparen|v|to save (money)
+teuer|a|expensive|note=Declined: ein teures Auto (drops e).
+billig|a|cheap
+günstig|a|inexpensive, good value; favorable
+kostenlos|a|free (of charge)|note=Also gratis, umsonst.
+umsonst|adv|free of charge; in vain
+Angebot|n.n|offer; special offer
+Rabatt|n.m|discount
+Quittung|n.f|receipt
+Kasse|n.f|checkout, till; cash box
+Münze|n.f|coin
+Schein|n.m|banknote; certificate; appearance
+Kreditkarte|n.f|credit card
+Konto|n.n|account (bank)|note=Plural Konten.
+Schulden|n.pl|debts
+reich|a|rich
+arm|a|poor|note=Comparative ärmer.
+verdienen|v|to earn; to deserve
+Kosten|n.pl|costs, expenses

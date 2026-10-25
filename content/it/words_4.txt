@@ -1,0 +1,314 @@
+# Italian core vocabulary, part 4 — verbs
+
+# act
+essere|v|to be|note=Irregular: sono, sei, è, siamo, siete, sono. Also the auxiliary for verbs of motion/change and all reflexives: sono andato, mi sono alzato.
+avere|v|to have|note=Irregular: ho, hai, ha, abbiamo, avete, hanno (h is silent). Auxiliary for most verbs: ho mangiato. Ho fame / sete / freddo / ragione / paura.
+fare|v|to do; to make|note=Irregular: faccio, fai, fa, facciamo, fate, fanno; fatto. Fa caldo; fare colazione; fare una domanda; fare la doccia.
+dare|v|to give|note=Irregular: do, dai, dà, diamo, date, danno; dato. Dare fastidio = to bother.
+stare|v|to stay; to be (feeling, location); to be about to|note=Irregular: sto, stai, sta, stiamo, state, stanno. Come stai? Sto mangiando = I'm eating (stare + gerund). Stare per = to be about to.
+potere|v|can, to be able to; may|note=Irregular: posso, puoi, può, possiamo, potete, possono. Modal + infinitive: Posso entrare?
+volere|v|to want|note=Irregular: voglio, vuoi, vuole, vogliamo, volete, vogliono. Vorrei = I would like. Ci vuole = it takes (time).
+dovere|v|must, to have to; to owe|note=Irregular: devo, devi, deve, dobbiamo, dovete, devono. Devo andare = I have to go.
+sapere|v|to know (facts); to know how to|note=Irregular: so, sai, sa, sappiamo, sapete, sanno. So nuotare = I can swim. Lo so = I know.
+prendere|v|to take; to get, to catch; to have (food/drink)|note=Passato: ho preso. Prendo un caffè. Prendere il treno.
+mettere|v|to put, to place|note=Passato: ho messo. Mettersi = to put on (clothes).
+lasciare|v|to leave (behind); to let|note=Lasciami in pace! = Leave me alone! Lasciare stare = to let it be.
+portare|v|to bring, to carry; to take; to wear
+tenere|v|to hold, to keep|note=Irregular: tengo, tieni, tiene, teniamo, tenete, tengono. Tenere a = to care about.
+trovare|v|to find|note=Come ti trovi a Roma? = How do you like it in Rome?
+cercare|v|to look for; to try (cercare di + inf.)|note=Cerco le chiavi. Cerco di capire = I'm trying to understand. (Not 'look for for'.)
+usare|v|to use
+servire|v|to serve; to be useful, to be needed|note=Mi serve una penna = I need a pen (lit. a pen is useful to me). A cosa serve? = What's it for?
+provare|v|to try; to try on; to feel|note=provare a + infinitive = to try to.
+aiutare|v|to help|note=aiutare qualcuno a fare qualcosa.
+cambiare|v|to change; to exchange|note=Auxiliary avere (transitive) or essere (it changed): Il tempo è cambiato.
+finire|v|to finish, to end|note=-isc- verb: finisco, finisci, finisce, finiamo, finite, finiscono.
+cominciare|v|to begin, to start|note=cominciare a + infinitive.
+iniziare|v|to begin, to start
+continuare|v|to continue, to go on|note=continuare a + infinitive.
+smettere|v|to stop, to quit (doing)|note=smettere di + infinitive: Ho smesso di fumare. Passato: ho smesso.
+fermare|v|to stop (something/someone)|note=fermarsi = to stop (oneself).
+aspettare|v|to wait (for)|note=No preposition: Aspetto l'autobus = I'm waiting for the bus.
+succedere|v|to happen|note=Cos'è successo? = What happened? Passato with essere: è successo.
+accadere|v|to happen (formal)
+capitare|v|to happen (by chance); to turn up
+passare|v|to pass, to go by; to spend (time); to stop by|note=Passo da te = I'll stop by your place. Ho passato una bella giornata.
+decidere|v|to decide|note=decidere di + inf. Passato: ho deciso.
+scegliere|v|to choose|note=Irregular: scelgo, scegli, sceglie; scelto.
+preferire|v|to prefer|note=-isc- verb: preferisco.
+riuscire|v|to manage, to succeed, to be able|note=Like uscire: riesco, riesci, riesce. riuscire a + inf. Non ci riesco = I can't manage it.
+permettere|v|to allow, to permit|note=Permesso? = May I come in? / Excuse me (passing). Passato: ho permesso.
+promettere|v|to promise|note=promettere di + inf.
+accettare|v|to accept
+rifiutare|v|to refuse, to turn down
+ottenere|v|to obtain, to get
+ricevere|v|to receive
+offrire|v|to offer; to treat (pay for)|note=Offro io! = It's on me! Passato: ho offerto.
+regalare|v|to give (as a present)
+regalo|n.m|present, gift
+mandare|v|to send
+spedire|v|to send, to ship, to mail|note=-isc- verb.
+mostrare|v|to show
+presentare|v|to introduce; to present|note=Ti presento Marco = This is Marco (Let me introduce...).
+preparare|v|to prepare|note=prepararsi = to get ready.
+costruire|v|to build|note=-isc- verb: costruisco.
+creare|v|to create
+produrre|v|to produce|note=Irregular (old stem produc-): produco; prodotto.
+rompere|v|to break|note=Passato: ho rotto. Rompere le scatole = to be a pain (coll).
+riparare|v|to repair, to fix; to shelter
+aggiustare|v|to fix, to mend
+aprire|v|to open|note=Passato: ho aperto.
+chiudere|v|to close, to shut|note=Passato: ho chiuso.
+accendere|v|to turn on; to light|note=Passato: ho acceso.
+spegnere|v|to turn off; to put out|note=Irregular: spengo, spegni; spento.
+toccare|v|to touch; to be someone's turn|note=Tocca a te = It's your turn.
+tirare|v|to pull; to throw|note=Tira vento = It's windy.
+spingere|v|to push|note=Passato: ho spinto.
+gettare|v|to throw
+buttare|v|to throw (away)|note=buttare via = to throw away.
+lanciare|v|to throw, to launch
+afferrare|v|to grab, to seize; to grasp
+togliere|v|to remove, to take off/away|note=Irregular: tolgo, togli, toglie; tolto.
+aggiungere|v|to add|note=Passato: ho aggiunto.
+riempire|v|to fill
+contare|v|to count; to matter; to count on (contare su)
+misurare|v|to measure
+pesare|v|to weigh
+tagliare|v|to cut
+legare|v|to tie, to bind
+nascondere|v|to hide|note=Passato: ho nascosto. nascondersi = to hide (oneself).
+scoprire|v|to discover, to find out; to uncover|note=Passato: ho scoperto.
+coprire|v|to cover|note=Passato: ho coperto.
+proteggere|v|to protect|note=Passato: ho protetto.
+difendere|v|to defend|note=Passato: ho difeso.
+salvare|v|to save, to rescue
+rubare|v|to steal
+uccidere|v|to kill|note=Passato: ho ucciso.
+ammazzare|v|to kill (colloquial)
+combattere|v|to fight
+colpire|v|to hit, to strike|note=-isc- verb.
+battere|v|to beat, to hit
+sparare|v|to shoot
+vincere|v|to win|note=Passato: ho vinto.
+perdere|v|to lose; to miss (a train)|note=Passato: ho perso. Lascia perdere = Forget it.
+giocare|v|to play (games, sports)|note=giocare a calcio. For instruments use suonare.
+suonare|v|to play (an instrument); to ring|note=suonare il pianoforte; Suona il telefono.
+dipingere|v|to paint|note=Passato: ho dipinto.
+disegnare|v|to draw; to design
+fotografare|v|to photograph
+fumare|v|to smoke
+bruciare|v|to burn
+durare|v|to last|note=Passato with essere: è durato.
+bastare|v|to be enough|note=Basta! = Enough! Mi basta = It's enough for me. Passato with essere.
+mancare|v|to miss; to be missing, to lack|note=Mi manchi = I miss you (lit. you are missing to me). Manca il sale.
+importare|v|to matter; to import|note=Non importa = It doesn't matter. Non me ne importa = I don't care.
+interessare|v|to interest|note=Mi interessa la storia = I'm interested in history.
+sembrare|v|to seem, to look like|note=Mi sembra giusto = It seems right to me. Sembra stanco.
+parere|v|to seem|note=Irregular: pare; parso. Mi pare di sì = I think so.
+diventare|v|to become|note=Passato with essere: è diventato.
+crescere|v|to grow (up)|note=Passato: sono cresciuto (intransitive).
+esistere|v|to exist|note=Passato: è esistito.
+dipendere|v|to depend|note=Dipende! = It depends! dipendere da.
+appartenere|v|to belong|note=Like tenere: appartengo.
+valere|v|to be worth|note=Irregular: valgo, vale; valso. Non ne vale la pena = It's not worth it.
+significare|v|to mean|note=Cosa significa? = What does it mean? Also: Cosa vuol dire?
+bisognare|v|to be necessary|note=Only impersonal: Bisogna partire = We have to leave.
+occorrere|v|to be needed|note=Mi occorre aiuto = I need help.
+ordinare|v|to order; to tidy up
+organizzare|v|to organize
+risolvere|v|to solve|note=Passato: ho risolto.
+evitare|v|to avoid
+sistemare|v|to arrange, to sort out, to fix
+raccogliere|v|to pick (up), to gather, to collect|note=Like cogliere: raccolgo; raccolto.
+scavare|v|to dig
+piantare|v|to plant; to dump (a partner, coll)
+lavare|v|to wash
+cucire|v|to sew
+riposare|v|to rest|note=riposarsi = to rest (oneself).
+abituarsi|v|to get used to|note=abituarsi a qualcosa.
+
+# move
+andare|v|to go|note=Irregular: vado, vai, va, andiamo, andate, vanno; future andrò. Passato with essere: sono andato. Come va? = How's it going? Andiamo! = Let's go!
+venire|v|to come|note=Irregular: vengo, vieni, viene, veniamo, venite, vengono; venuto; future verrò. Passato with essere.
+uscire|v|to go out, to exit, to leave|note=Irregular: esco, esci, esce, usciamo, uscite, escono. Passato with essere.
+entrare|v|to enter, to go in|note=Passato with essere: sono entrato. entrare in casa.
+salire|v|to go up, to climb; to get on (bus)|note=Irregular: salgo, sali, sale; passato with essere (intrans.).
+scendere|v|to go down, to get off|note=Passato: sono sceso.
+correre|v|to run|note=Passato: ho corso (activity) / sono corso (to a place).
+camminare|v|to walk
+passeggiare|v|to stroll, to go for a walk
+saltare|v|to jump; to skip
+cadere|v|to fall|note=Passato with essere: sono caduto. Future: cadrò.
+alzare|v|to raise, to lift|note=alzarsi = to get up.
+girare|v|to turn; to go around; to film|note=Gira a destra = Turn right.
+voltare|v|to turn|note=voltarsi = to turn around.
+seguire|v|to follow; to attend (a course)
+muovere|v|to move|note=Passato: ho mosso. muoversi = to move; Muoviti! = Hurry up!
+spostare|v|to move, to shift (something)
+avvicinarsi|v|to come closer, to approach|note=avvicinarsi a.
+allontanarsi|v|to move away, to go away
+raggiungere|v|to reach; to join|note=Passato: ho raggiunto. Ti raggiungo = I'll join you.
+attraversare|v|to cross
+nuotare|v|to swim
+volare|v|to fly
+fuggire|v|to flee, to run away
+scappare|v|to escape, to run away; to have to dash|note=Scappo! = I've got to run!
+seguire|v|to follow
+accompagnare|v|to accompany, to go with
+visitare|v|to visit (a place); to examine (a patient)|note=To visit a person: andare a trovare qualcuno.
+trasferirsi|v|to move (house, city)|note=-isc- verb.
+andarsene|v|to go away, to leave|note=Me ne vado = I'm leaving. Vattene! = Go away!
+fermarsi|v|to stop, to halt|note=Fermati! = Stop!
+sedersi|v|to sit down|note=Irregular: mi siedo, ti siedi, si siede. Siediti! = Sit down!
+alzarsi|v|to get up, to stand up|note=Mi alzo alle sette.
+sdraiarsi|v|to lie down
+inginocchiarsi|v|to kneel
+
+# mind
+pensare|v|to think|note=pensare a = to think about; pensare di + inf. = to plan to. Penso di sì = I think so.
+credere|v|to believe; to think|note=credere a (a person/story), credere in (God). Credo di sì.
+capire|v|to understand|note=-isc- verb: capisco, capisci, capisce, capiamo, capite, capiscono. Ho capito = I see / Got it.
+conoscere|v|to know (people, places); to meet (for the first time)|note=Conosco Roma. Piacere di conoscerti! Passato: ho conosciuto (= met).
+riconoscere|v|to recognize; to admit
+ricordare|v|to remember; to remind|note=ricordarsi di = to remember (to).
+dimenticare|v|to forget|note=dimenticarsi di.
+immaginare|v|to imagine|note=Immagino di sì = I suppose so.
+sognare|v|to dream|note=sognare di.
+sperare|v|to hope|note=sperare di + inf.; Spero di sì = I hope so.
+temere|v|to fear, to be afraid
+dubitare|v|to doubt
+notare|v|to notice
+osservare|v|to observe, to watch
+considerare|v|to consider
+giudicare|v|to judge
+supporre|v|to suppose|note=Like porre: suppongo; supposto.
+indovinare|v|to guess
+sbagliare|v|to make a mistake, to be wrong|note=sbagliarsi = to be mistaken. Ho sbagliato strada = I took the wrong road.
+vedere|v|to see|note=Passato: ho visto (or veduto). Future: vedrò. Ci vediamo! = See you!
+guardare|v|to look at, to watch|note=Guarda! = Look! guardare la TV.
+sentire|v|to hear; to feel; to smell|note=sentirsi = to feel (well/ill): Mi sento bene.
+ascoltare|v|to listen (to)|note=No preposition: Ascolto la musica.
+toccare|v|to touch
+odorare|v|to smell
+annusare|v|to sniff
+accorgersi|v|to notice, to realize|note=accorgersi di. Passato: mi sono accorto.
+rendersi conto|phr|to realize|note=Mi rendo conto che... = I realize that...
+interessarsi|v|to be interested (in)|note=interessarsi di/a.
+preoccuparsi|v|to worry|note=Non ti preoccupare! / Non preoccuparti! = Don't worry!
+fidarsi|v|to trust|note=fidarsi di qualcuno: Mi fido di te.
+meravigliarsi|v|to be amazed, to wonder
+
+# talk
+parlare|v|to speak, to talk|note=parlare con / di. Parli inglese?
+dire|v|to say; to tell|note=Irregular (old stem dic-): dico, dici, dice, diciamo, dite, dicono; detto. Dimmi = tell me. Voler dire = to mean.
+chiedere|v|to ask (for)|note=chiedere qualcosa a qualcuno; chiedere di + inf. Passato: ho chiesto.
+domandare|v|to ask
+rispondere|v|to answer, to reply|note=rispondere a. Passato: ho risposto.
+raccontare|v|to tell, to recount (a story)
+spiegare|v|to explain
+discutere|v|to discuss; to argue|note=Passato: ho discusso.
+litigare|v|to quarrel, to argue
+chiacchierare|v|to chat
+gridare|v|to shout
+urlare|v|to scream, to yell
+chiamare|v|to call; to phone|note=chiamarsi = to be called: Mi chiamo Anna.
+telefonare|v|to telephone|note=telefonare a qualcuno.
+scrivere|v|to write|note=Passato: ho scritto.
+leggere|v|to read|note=Passato: ho letto.
+firmare|v|to sign
+descrivere|v|to describe
+ripetere|v|to repeat|note=Può ripetere, per favore?
+tradurre|v|to translate|note=Like produrre: traduco; tradotto.
+salutare|v|to greet, to say hello/goodbye to|note=Salutami tua madre = Say hi to your mother for me.
+ringraziare|v|to thank|note=ringraziare qualcuno di/per qualcosa.
+scusarsi|v|to apologize
+perdonare|v|to forgive
+augurare|v|to wish (someone something)|note=Ti auguro buona fortuna.
+invitare|v|to invite
+avvisare|v|to warn; to let know
+avvertire|v|to warn; to notice
+informare|v|to inform
+consigliare|v|to advise, to recommend
+suggerire|v|to suggest|note=-isc- verb.
+lamentarsi|v|to complain
+mentire|v|to lie (tell lies)
+bugia|n.f|lie|note=dire una bugia; Pinocchio's nose grows with each bugia.
+negare|v|to deny
+ammettere|v|to admit|note=Passato: ho ammesso.
+giurare|v|to swear (an oath)
+pregare|v|to pray; to beg|note=Ti prego! = Please! I beg you!
+tacere|v|to be silent|note=Irregular: taccio, taci, tace; taciuto. Taci! = Be quiet!
+cantare|v|to sing
+ridere|v|to laugh|note=Passato: ho riso.
+sorridere|v|to smile
+piangere|v|to cry, to weep|note=Passato: ho pianto.
+messaggio|n.m|message
+notizia|n.f|news (item)|note=le notizie = the news.
+giornale|n.m|newspaper
+rivista|n.f|magazine
+lettera|n.f|letter
+telefonata|n.f|phone call
+chiamata|n.f|call
+conversazione|n.f|conversation
+discorso|n.m|speech; talk
+voce|n.f|voice; rumor
+silenzio|n.m|silence
+rumore|n.m|noise
+suono|n.m|sound
+grido|n.m|shout, cry|pl=grida
+segreto|n.m|secret; (adj.) secret
+verità|n.f|truth|note=Invariable. Dire la verità.
+opinione|n.f|opinion
+consiglio|n.m|advice; council|note=un consiglio = a piece of advice.
+promessa|n.f|promise
+accordo|n.m|agreement|note=d'accordo = agreed.
+
+# feel
+amare|v|to love|note=Ti amo = I love you (romantic). For friends/family: Ti voglio bene.
+voler bene|phr|to love, to be fond of (family, friends)|note=Ti voglio bene = I love you (affection).
+odiare|v|to hate
+adorare|v|to adore, to love
+piacere|v|to please, to like (literally 'be pleasing to')|note=Mi piace la pizza = I like pizza. Mi piacciono i gatti. Passato with essere: mi è piaciuto. Irregular: piaccio, piaci, piace, piacciamo, piacete, piacciono.
+dispiacere|v|to be sorry; to mind|note=Mi dispiace = I'm sorry. Ti dispiace se...? = Do you mind if...?
+desiderare|v|to wish, to desire, to want|note=Desidera? = Can I help you? (in shops)
+divertirsi|v|to have fun, to enjoy oneself|note=Divertiti! = Have fun!
+annoiarsi|v|to get bored
+arrabbiarsi|v|to get angry
+innamorarsi|v|to fall in love|note=innamorarsi di qualcuno.
+sposarsi|v|to get married|note=sposarsi con qualcuno / sposare qualcuno.
+vergognarsi|v|to be ashamed, to be embarrassed
+calmarsi|v|to calm down|note=Calmati! = Calm down!
+rilassarsi|v|to relax
+sentirsi|v|to feel|note=Come ti senti? = How do you feel?
+spaventare|v|to frighten, to scare|note=spaventarsi = to get scared.
+sorprendere|v|to surprise|note=Passato: ho sorpreso.
+soffrire|v|to suffer|note=Passato: ho sofferto.
+godere|v|to enjoy|note=godersi qualcosa = to enjoy something.
+meritare|v|to deserve
+baciare|v|to kiss
+abbracciare|v|to hug, to embrace
+
+# daily
+svegliarsi|v|to wake up|note=Mi sveglio alle sette.
+svegliare|v|to wake (someone) up
+dormire|v|to sleep|note=Dormi bene? Buonanotte, dormi bene!
+addormentarsi|v|to fall asleep
+lavarsi|v|to wash (oneself)|note=Mi lavo le mani = I wash my hands.
+vestirsi|v|to get dressed
+pettinarsi|v|to comb one's hair
+truccarsi|v|to put on make-up
+farsi la doccia|phr|to take a shower
+sbrigarsi|v|to hurry up|note=Sbrigati! = Hurry up!
+chiamarsi|v|to be called, to be named|note=Come ti chiami? — Mi chiamo Luca.
+trovarsi|v|to find oneself; to be located; to get on|note=Dove si trova la stazione? = Where is the station?
+ricordarsi|v|to remember|note=Ti ricordi di me? = Do you remember me?
+dimenticarsi|v|to forget|note=Mi sono dimenticato le chiavi.
+prepararsi|v|to get ready
+riposarsi|v|to rest
+farcela|phr|to manage, to make it|note=Ce la faccio! = I can do it! Non ce la faccio più = I can't take it anymore.
+stancarsi|v|to get tired
+comportarsi|v|to behave|note=Comportati bene! = Behave yourself!
+occuparsi|v|to take care of, to deal with|note=occuparsi di qualcosa.
+lavorare|v|to work
+guidare|v|to drive
+cucinare|v|to cook

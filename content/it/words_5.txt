@@ -1,0 +1,470 @@
+# Italian core vocabulary, part 5 — adjectives, abstract nouns
+
+# desc
+grande|a|big, large; great; grown-up|note=Before a noun may shorten: un gran signore. Comparative maggiore / più grande.
+piccolo|a|small, little; young|note=Comparative minore / più piccolo.
+alto|a|tall, high; loud|note=ad alta voce = aloud.
+basso|a|short, low; quiet
+lungo|a|long|note=Plural lunghi, lunghe.
+corto|a|short (length)
+largo|a|wide, broad|note=Plural larghi. False friend: 'large' = grande.
+stretto|a|narrow, tight; close (friend)
+grosso|a|big, thick, bulky
+grasso|a|fat; greasy
+magro|a|thin, slim; lean
+pesante|a|heavy; boring (coll)
+leggero|a|light (weight); slight
+nuovo|a|new
+vecchio|a|old
+giovane|a|young
+antico|a|ancient, antique|note=Plural antichi.
+moderno|a|modern
+bello|a|beautiful, handsome, nice, lovely|note=Before nouns like quello: bel ragazzo, bello zaino, bell'uomo, bella donna, bei ragazzi, begli occhi, belle case. Che bello! = How nice!
+brutto|a|ugly; bad, nasty|note=brutto tempo = bad weather.
+buono|a|good; kind; tasty|note=Comparative migliore, superlative ottimo.
+cattivo|a|bad; naughty; evil|note=Comparative peggiore, superlative pessimo.
+migliore|a|better; best (il migliore)|note=il mio migliore amico = my best friend.
+peggiore|a|worse; worst
+ottimo|a|excellent, very good
+pessimo|a|terrible, very bad
+bravo|a|good (at something), clever, skilled|note=Bravo! = Well done! È brava in matematica.
+facile|a|easy
+difficile|a|difficult, hard
+semplice|a|simple
+complicato|a|complicated
+possibile|a|possible
+impossibile|a|impossible
+importante|a|important
+necessario|a|necessary
+utile|a|useful
+inutile|a|useless, pointless
+vero|a|true, real
+falso|a|false, fake
+giusto|a|right, correct; fair, just|note=Giusto! = Right!
+sbagliato|a|wrong, mistaken
+esatto|a|exact, correct
+preciso|a|precise, exact
+chiaro|a|clear; light (color)|note=Chiaro? = Is that clear?
+scuro|a|dark
+buio|a|dark; (n.m) darkness|note=al buio = in the dark.
+pieno|a|full|note=pieno di = full of.
+vuoto|a|empty
+aperto|a|open|note=all'aperto = outdoors.
+chiuso|a|closed
+libero|a|free; vacant
+occupato|a|busy; occupied, taken
+pronto|a|ready|note=Pronto? = Hello? (phone)
+sicuro|a|sure, certain; safe|note=Sei sicuro? = Are you sure?
+certo|a|certain, sure
+pericoloso|a|dangerous
+forte|a|strong; loud; great (coll)|note=Che forte! = How cool!
+debole|a|weak
+veloce|a|fast, quick
+lento|a|slow
+rapido|a|fast, rapid
+caldo|a|hot, warm
+freddo|a|cold
+fresco|a|fresh; cool
+bagnato|a|wet
+asciutto|a|dry
+secco|a|dry; dried|note=Plural secchi.
+dolce|a|sweet; gentle; soft
+amaro|a|bitter
+morbido|a|soft
+duro|a|hard; tough
+liscio|a|smooth; straight (hair)
+rotondo|a|round
+quadrato|a|square
+dritto|a|straight; upright
+profondo|a|deep
+alto|a|high
+vicino|a|near, close
+lontano|a|far, distant
+primo|a|first
+ultimo|a|last
+unico|a|only, unique|note=figlio unico = only child.
+solo|a|alone; only, single
+stesso|a|same
+diverso|a|different; (pl.) several|note=diversi giorni = several days.
+uguale|a|equal, same
+simile|a|similar
+strano|a|strange, odd, weird
+normale|a|normal
+speciale|a|special
+particolare|a|particular; peculiar
+famoso|a|famous
+pubblico|a|public|note=Plural pubblici.
+privato|a|private
+personale|a|personal
+generale|a|general|note=in generale = in general.
+principale|a|main, principal
+intero|a|whole, entire
+completo|a|complete; full (no vacancies)
+perfetto|a|perfect
+pulito|a|clean
+sporco|a|dirty
+ricco|a|rich
+povero|a|poor
+caro|a|dear; expensive
+costoso|a|expensive
+economico|a|cheap; economic
+gratuito|a|free (of charge)
+rosso|a|red
+blu|a|blue (dark)|note=Invariable: occhi blu.
+azzurro|a|blue (light, sky); (gli Azzurri = Italy's national team)
+verde|a|green|note=essere al verde = to be broke.
+giallo|a|yellow|note=un giallo = a detective story.
+bianco|a|white|note=Plural bianchi.
+nero|a|black
+grigio|a|gray|note=Plural grigi, grigie.
+marrone|a|brown|note=Invariable for many speakers.
+rosa|a|pink|note=Invariable. (n.f) la rosa = rose.
+viola|a|purple, violet|note=Invariable.
+arancione|a|orange (color)
+colore|n.m|color|note=Di che colore è? = What color is it?
+biondo|a|blond, fair
+bruno|a|dark-haired; brown
+calvo|a|bald
+carino|a|cute, pretty, nice
+elegante|a|elegant
+comodo|a|comfortable; convenient
+tranquillo|a|calm, quiet, peaceful|note=Tranquillo! = Relax! Don't worry!
+silenzioso|a|silent, quiet
+rumoroso|a|noisy
+familiare|a|familiar
+naturale|a|natural
+reale|a|real; royal
+vivo|a|alive, living; lively, bright
+morto|a|dead
+nato|a|born
+pazzo|a|crazy, mad
+matto|a|mad, crazy|note=Roba da matti! = That's crazy!
+stupido|a|stupid
+sciocco|a|silly, foolish
+intelligente|a|intelligent, clever
+furbo|a|cunning, sly, smart
+saggio|a|wise
+gentile|a|kind, nice, polite|note=Gentile signora (letter opening).
+simpatico|a|nice, likeable, pleasant|note=Plural simpatici. Opposite antipatico.
+antipatico|a|unpleasant, unlikeable
+onesto|a|honest
+sincero|a|sincere
+generoso|a|generous
+coraggioso|a|brave, courageous
+timido|a|shy
+pigro|a|lazy
+curioso|a|curious; strange
+paziente|a|patient
+serio|a|serious|note=Sul serio? = Seriously?
+allegro|a|cheerful, merry
+felice|a|happy
+contento|a|glad, pleased, content
+triste|a|sad
+arrabbiato|a|angry
+nervoso|a|nervous; irritable
+preoccupato|a|worried
+spaventato|a|frightened
+sorpreso|a|surprised
+stanco|a|tired
+annoiato|a|bored
+noioso|a|boring
+divertente|a|funny, amusing, fun
+interessante|a|interesting
+bellissimo|a|very beautiful, gorgeous
+meraviglioso|a|wonderful
+fantastico|a|fantastic
+splendido|a|splendid
+incredibile|a|incredible, unbelievable
+terribile|a|terrible
+orribile|a|horrible
+grave|a|serious, grave (situation, illness)
+ricco|a|rich
+fortunato|a|lucky, fortunate
+sfortunato|a|unlucky
+innamorato|a|in love|note=innamorato di = in love with.
+sposato|a|married
+geloso|a|jealous
+orgoglioso|a|proud
+deluso|a|disappointed
+calmo|a|calm
+attento|a|careful, attentive|note=Attento! = Careful!
+sveglio|a|awake; smart
+addormentato|a|asleep
+ubriaco|a|drunk|note=Plural ubriachi.
+pronto|a|ready
+capace|a|able, capable
+abile|a|skilful
+proprio|a|own; typical|note=con i propri occhi = with one's own eyes.
+tipico|a|typical
+vario|a|various, varied
+numeroso|a|numerous, large (family)
+raro|a|rare
+comune|a|common; shared|note=il comune = town hall / municipality.
+popolare|a|popular; of the people
+nazionale|a|national
+internazionale|a|international
+italiano|a|Italian
+tedesco|a|German
+inglese|a|English
+europeo|a|European
+cristiano|a|Christian
+umano|a|human
+divino|a|divine
+magico|a|magic, magical|note=Plural magici.
+misterioso|a|mysterious
+segreto|a|secret
+santo|a|holy, saint|note=San Pietro, Santo Stefano, Sant'Anna, Santa Maria.
+benedetto|a|blessed
+maledetto|a|cursed, damned
+legale|a|legal
+illegale|a|illegal
+politico|a|political
+sociale|a|social
+militare|a|military
+civile|a|civil; civilized
+medico|a|medical
+fisico|a|physical
+mentale|a|mental
+sessuale|a|sexual
+economico|a|economic
+scientifico|a|scientific
+recente|a|recent
+attuale|a|current, present-day|note=False friend: 'actual' = vero, reale.
+futuro|a|future
+passato|a|past
+presente|a|present
+prossimo|a|next
+precedente|a|previous
+successivo|a|following, next
+seguente|a|following
+finale|a|final
+totale|a|total
+doppio|a|double
+singolo|a|single
+semplice|a|simple
+enorme|a|huge, enormous
+minimo|a|minimum, smallest
+massimo|a|maximum, greatest
+minore|a|smaller; younger; minor
+maggiore|a|bigger; older; major|note=mio fratello maggiore = my older brother.
+superiore|a|upper; superior
+inferiore|a|lower; inferior
+interno|a|internal, inner
+esterno|a|external, outer
+centrale|a|central
+destro|a|right (side)
+sinistro|a|left (side); sinister
+nudo|a|naked
+cieco|a|blind|note=Plural ciechi.
+sordo|a|deaf
+muto|a|mute, silent
+zitto|a|silent, quiet|note=Stai zitto! / Zitto! = Shut up! / Be quiet!
+contrario|a|opposite, contrary|note=al contrario = on the contrary.
+opposto|a|opposite
+pari|a|equal; even (number)|note=Invariable.
+disponibile|a|available
+pratico|a|practical, handy|note=Plural pratici.
+utile|a|useful
+efficace|a|effective
+sufficiente|a|sufficient, enough
+eccellente|a|excellent
+straordinario|a|extraordinary
+fiero|a|proud
+crudele|a|cruel
+violento|a|violent
+innocente|a|innocent
+colpevole|a|guilty
+responsabile|a|responsible
+pulito|a|clean
+
+# abs
+cosa|n.f|thing
+fatto|n.m|fact; event|note=di fatto = in fact.
+idea|n.f|idea|note=Non ne ho idea = I have no idea.
+problema|n.m|problem|note=Masculine despite -a: il problema, i problemi. Nessun problema!
+questione|n.f|question, issue, matter
+motivo|n.m|reason, motive
+ragione|n.f|reason; right|note=avere ragione = to be right; avere torto = to be wrong.
+torto|n.m|wrong|note=avere torto = to be wrong.
+causa|n.f|cause; lawsuit|note=a causa di = because of.
+effetto|n.m|effect
+risultato|n.m|result
+scopo|n.m|purpose, aim
+fine|n.m|aim, purpose|note=il fine (aim) vs la fine (end).
+modo|n.m|way, manner; mood (grammar)|note=in questo modo = in this way; ad ogni modo = anyway.
+maniera|n.f|way, manner
+mezzo|n.m|means; middle|note=i mezzi pubblici = public transport.
+senso|n.m|sense; meaning; direction|note=Non ha senso = It makes no sense. senso unico = one way.
+parte|n.f|part; side; role|note=da parte di = from, on behalf of; da qualche parte = somewhere.
+pezzo|n.m|piece
+punto|n.m|point; dot; stitch|note=a che punto siamo? = where are we at? in punto = sharp (time).
+caso|n.m|case; chance|note=per caso = by chance; in ogni caso = in any case.
+occasione|n.f|opportunity, chance; occasion; bargain
+possibilità|n.f|possibility, chance
+fortuna|n.f|luck; fortune|note=Buona fortuna! = Good luck! per fortuna = luckily.
+destino|n.m|fate, destiny
+vita|n.f|life; waist|note=Così è la vita.
+mondo|n.m|world
+natura|n.f|nature
+spirito|n.m|spirit; wit
+anima|n.f|soul
+mente|n.f|mind|note=Feminine. a mente = by heart.
+memoria|n.f|memory|note=a memoria = by heart.
+ricordo|n.m|memory, recollection; souvenir
+pensiero|n.m|thought
+sogno|n.m|dream
+desiderio|n.m|wish, desire
+speranza|n.f|hope
+paura|n.f|fear|note=avere paura di = to be afraid of.
+coraggio|n.m|courage|note=Coraggio! = Come on! Cheer up!
+forza|n.f|strength, force|note=Forza! = Come on! (encouragement). per forza = necessarily.
+potere|n.m|power
+energia|n.f|energy
+calma|n.f|calm|note=Calma! = Take it easy!
+pace|n.f|peace|note=Lasciami in pace! = Leave me alone!
+guerra|n.f|war
+libertà|n.f|freedom, liberty
+gioia|n.f|joy
+felicità|n.f|happiness
+tristezza|n.f|sadness
+dolore|n.m|pain; sorrow
+rabbia|n.f|anger, rage
+vergogna|n.f|shame, embarrassment|note=Che vergogna! = How embarrassing! / Shame on you!
+sorpresa|n.f|surprise
+pietà|n.f|pity, mercy
+pena|n.f|pity; pain; penalty|note=Mi fa pena = I feel sorry for him. (non) vale la pena = it's (not) worth it.
+fiducia|n.f|trust, confidence
+rispetto|n.m|respect|note=rispetto a = compared to.
+onore|n.m|honor
+sentimento|n.m|feeling
+emozione|n.f|emotion
+sensazione|n.f|feeling, sensation
+gusto|n.m|taste
+bisogno|n.m|need|note=avere bisogno di = to need: Ho bisogno di te.
+voglia|n.f|wish, desire, urge|note=Ho voglia di un gelato = I feel like an ice cream.
+interesse|n.m|interest
+attenzione|n.f|attention
+cura|n.f|care; cure, treatment|note=prendersi cura di = to take care of.
+aiuto|n.m|help
+favore|n.m|favor|note=per favore = please; fammi un favore = do me a favor.
+grazia|n.f|grace; pardon|note=grazie (thanks) is the plural.
+gentilezza|n.f|kindness
+bellezza|n.f|beauty|note=Che bellezza! = How wonderful!
+verità|n.f|truth
+realtà|n.f|reality|note=in realtà = actually, in fact.
+errore|n.m|mistake
+colpa|n.f|fault, blame, guilt|note=È colpa mia = It's my fault.
+peccato|n.m|sin; pity|note=Che peccato! = What a pity!
+diritto|n.m|right; law|note=avere il diritto di = to have the right to.
+dovere|n.m|duty
+regola|n.f|rule|note=in regola = in order.
+legge|n.f|law
+ordine|n.m|order|note=in ordine = tidy.
+sistema|n.m|system|note=Masculine: il sistema.
+metodo|n.m|method
+piano|n.m|plan; floor
+programma|n.m|program, plan, schedule|note=Masculine: il programma. Che programmi hai? = What are your plans?
+progetto|n.m|project
+scelta|n.f|choice
+decisione|n.f|decision|note=prendere una decisione = to make a decision.
+soluzione|n.f|solution
+risposta|n.f|answer
+domanda|n.f|question
+dubbio|n.m|doubt|note=senza dubbio = without doubt.
+prova|n.f|proof; test; rehearsal; attempt
+tentativo|n.m|attempt
+successo|n.m|success; hit|note=False friend? No: avere successo = to be successful. Cos'è successo? (verb) = What happened?
+fallimento|n.m|failure; bankruptcy
+vittoria|n.f|victory
+sconfitta|n.f|defeat
+gioco|n.m|game; play|note=Plural giochi.
+scherzo|n.m|joke, prank|note=Stai scherzando? = Are you kidding?
+scherzare|v|to joke|note=Scherzi? = Are you kidding?
+storia|n.f|story; history; affair
+situazione|n.f|situation
+condizione|n.f|condition
+stato|n.m|state, condition
+posizione|n.f|position
+livello|n.m|level
+qualità|n.f|quality
+quantità|n.f|quantity
+valore|n.m|value, worth; courage
+peso|n.m|weight
+misura|n.f|measure; size
+forma|n.f|shape, form|note=in forma = fit, in shape.
+lato|n.m|side|note=d'altro lato = on the other hand.
+spazio|n.m|space
+luce|n.f|light
+ombra|n.f|shadow, shade|note=all'ombra = in the shade.
+colore|n.m|color
+odore|n.m|smell
+segno|n.m|sign, mark
+simbolo|n.m|symbol
+nome|n.m|name
+numero|n.m|number
+differenza|n.f|difference
+cambiamento|n.m|change
+inizio|n.m|beginning
+fine|n.f|end|note=alla fine = in the end.
+morale|n.f|moral (of a story); morale|note=La morale della favola = the moral of the story.
+esempio|n.m|example
+abitudine|n.f|habit|note=Feminine: l'abitudine.
+carattere|n.m|character, temperament
+personalità|n.f|personality
+comportamento|n.m|behavior
+educazione|n.f|upbringing, manners; education|note=False friend: buona educazione = good manners.
+cultura|n.f|culture
+tradizione|n.f|tradition
+religione|n.f|religion
+fede|n.f|faith; wedding ring
+Dio|n.m|God; god|pl=dei;note=Irregular plural: gli dei (the gods). Dio mio! = My God!
+cielo|n.m|heaven; sky|note=Santo cielo! = Good heavens!
+inferno|n.m|hell
+paradiso|n.m|paradise, heaven
+miracolo|n.m|miracle
+mistero|n.m|mystery
+avventura|n.f|adventure
+pericolo|n.m|danger|note=in pericolo = in danger.
+rischio|n.m|risk
+sicurezza|n.f|safety, security
+problema|n.m|problem
+crisi|n.f|crisis|note=Invariable: la crisi, le crisi.
+difficoltà|n.f|difficulty
+fatica|n.f|effort, toil, fatigue|note=a fatica = with difficulty.
+sforzo|n.m|effort
+lavoro|n.m|work
+riposo|n.m|rest
+silenzio|n.m|silence
+pausa|n.f|break, pause
+viaggio|n.m|journey
+passo|n.m|step, pace; pass|note=passo dopo passo = step by step.
+strada|n.f|way, road
+via|n.f|way
+direzione|n.f|direction
+distanza|n.f|distance
+fondo|n.m|bottom; end; fund|note=in fondo = at the bottom / after all; fino in fondo = to the end.
+cima|n.f|top, summit|note=in cima = at the top.
+centro|n.m|center
+mezzo|n.m|middle
+bordo|n.m|edge; board|note=a bordo = on board.
+superficie|n.f|surface
+interno|n.m|inside, interior
+esterno|n.m|outside, exterior
+altezza|n.f|height
+lunghezza|n.f|length
+velocità|n.f|speed
+tipo|n.m|type, kind
+genere|n.m|kind, sort; gender; genre|note=in genere = generally.
+specie|n.f|species; kind|note=Invariable: la specie, le specie. una specie di = a sort of.
+sorta|n.f|sort, kind
+categoria|n.f|category
+elemento|n.m|element
+materia|n.f|matter; subject (school)
+argomento|n.m|topic, subject; argument
+tema|n.m|theme, topic; essay|note=Masculine: il tema.
+concetto|n.m|concept
+principio|n.m|principle; beginning|note=all'inizio / al principio = at the beginning.
+teoria|n.f|theory
+pratica|n.f|practice|note=in pratica = in practice, basically.
+arte|n.f|art
+scienza|n.f|science

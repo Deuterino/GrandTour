@@ -1,0 +1,377 @@
+# Grand Tour — Italian core vocabulary, part 1
+# Format: lemma|pos|English (senses ; synonyms ,)|extras (key=value;... note= last)
+# pos: n.m n.f n.mf n.mpl n.fpl v a adv pron prep conj art det num intj phr
+# theme codes follow "# " headers
+
+# func
+il|art|the (masculine)|note=Forms: il (il libro), lo (lo zio, lo studente), l' (l'amico); plural i, gli (gli amici, gli zii).
+la|art|the (feminine)|note=Forms: la (la casa), l' (l'amica); plural le (le case).
+un|art|a, an|note=Forms: un (un libro, un amico), uno (uno zio, uno studente), una (una casa), un' (un'amica). No apostrophe before masculine words.
+io|pron|I|note=Usually dropped: the verb ending already shows the person (Sono italiano).
+tu|pron|you (informal singular)|note=Use with friends, family, children. Formal: Lei.
+lui|pron|he; him (stressed)
+lei|pron|she; her (stressed); (Lei) you (formal)|note=Capital Lei is the polite 'you', used with the 3rd-person verb: Come sta Lei?
+noi|pron|we; us (stressed)
+voi|pron|you (plural)
+loro|pron|they; them; their, theirs|note=As a possessive it never changes: il loro amico, la loro casa, i loro figli.
+mi|pron|me, to me; myself
+ti|pron|you, to you (informal); yourself
+si|pron|himself, herself, itself, themselves; oneself; one, people (impersonal)|note=Impersonal si: Qui si parla italiano (Italian is spoken here).
+ci|pron|us, to us; ourselves; (adverb) there, here, about it|note=C'è / ci sono = there is / there are. Ci vado = I'm going there.
+vi|pron|you, to you (plural); yourselves
+lo|pron|him; it (masculine)|note=Lo vedo = I see him/it. Before a vowel: l'ho visto.
+li|pron|them (masculine)
+gli|pron|to him; (colloquial) to them|note=Also the plural article gli (gli amici).
+le|pron|to her; to you (formal, Le); them (feminine)
+ne|pron|of it, of them, some, any; from there|note=Quanti anni hai? — Ne ho venti. Ne voglio un po'.
+me|pron|me (stressed, after prepositions)|note=Per me, con me. Also before lo/la/ne: me lo dai?
+te|pron|you (stressed, informal)|note=Per te, con te.
+sé|pron|oneself, himself, herself, themselves (stressed)|note=Pensa solo a sé.
+mio|det|my, mine|note=il mio libro, la mia casa, i miei amici, le mie amiche. No article with singular family: mia madre.
+tuo|det|your, yours (informal)|note=il tuo, la tua, i tuoi, le tue.
+suo|det|his, her, its; your (formal, Suo)|note=il suo, la sua, i suoi, le sue. Agrees with the thing owned, not the owner: la sua macchina = his/her car.
+nostro|det|our, ours
+vostro|det|your, yours (plural)
+questo|det|this, this one|note=questo, questa, questi, queste. Shortened: quest'anno.
+quello|det|that, that one|note=Forms like the article: quel libro, quello zio, quell'amico, quella casa, quei libri, quegli amici, quelle case.
+stesso|det|same; -self (io stesso = myself)
+codesto|det|that (near you) (Tuscan, literary)|reg=lit;note=Common in Pinocchio and older Tuscan texts.
+che|pron|that, which, who; what; than|note=Relative: il libro che leggo. Question: Che fai? Comparison: più alto che largo.
+chi|pron|who, whom; whoever|note=Chi è? = Who is it?
+cui|pron|which, whom (after prepositions)|note=la ragazza con cui parlo; il motivo per cui...; il cui = whose.
+quale|pron|which, which one|note=Qual è...? (no apostrophe). Plural quali.
+cosa|pron|what|note=Cosa fai? = What are you doing? Also che cosa, che.
+qualcuno|pron|someone, somebody; anyone
+qualcosa|pron|something; anything|note=qualcosa da mangiare = something to eat.
+nessuno|pron|nobody, no one; no, not any|note=Needs non before the verb: Non c'è nessuno.
+niente|pron|nothing, not anything|note=Non ho fatto niente. Niente di speciale.
+nulla|pron|nothing (slightly formal)
+tutto|det|all, whole, every; everything|note=tutto il giorno = all day; tutti = everybody.
+ogni|det|each, every|note=Invariable, always singular: ogni giorno.
+ognuno|pron|everyone, each one
+ciascuno|pron|each, each one
+alcuno|det|some, a few (plural); no, not any (negative)|note=alcuni amici = some friends; senza alcun dubbio = without any doubt.
+qualche|det|some, a few|note=Always followed by a singular noun: qualche giorno = a few days.
+qualsiasi|det|any, whatever|note=Invariable: qualsiasi cosa.
+qualunque|det|any, whichever
+chiunque|pron|anyone, whoever
+altro|det|other, another; else|note=un altro caffè; qualcos'altro = something else; l'altro ieri = the day before yesterday.
+certo|det|certain, some; (adj.) sure, certain|note=certe persone = certain people; Certo! = Of course!
+tale|det|such, such a
+tanto|det|so much, so many; so|note=Tanti auguri! = Best wishes! Ogni tanto = now and then.
+molto|det|a lot of, much, many; (adv.) very, a lot|note=molti amici (adjective agrees); molto bello (adverb, invariable).
+poco|det|little, few; (adv.) not much, not very|note=un po' (di) = a little (truncated from un poco).
+troppo|det|too much, too many; (adv.) too
+parecchio|det|quite a lot of, quite a few
+di|prep|of; from; about; than|note=Combines with articles: del, dello, dell', della, dei, degli, delle. Sono di Roma = I'm from Rome.
+a|prep|to; at; in (cities)|note=al, allo, all', alla, ai, agli, alle. Vado a Roma, a casa, a scuola. Before vowels sometimes ad.
+da|prep|from; by; at/to someone's place; since|note=dal, dallo, dall', dalla, dai, dagli, dalle. Vado dal medico. Abito qui da due anni (for two years).
+in|prep|in; into; to (countries, regions); by (transport)|note=nel, nello, nell', nella, nei, negli, nelle. In Italia, in treno, in centro.
+con|prep|with
+su|prep|on, onto; about; (adv.) up|note=sul, sullo, sull', sulla, sui, sugli, sulle. Un libro su Roma.
+per|prep|for; through; in order to; by|note=per + infinitive = (in order) to: Studio per imparare.
+tra|prep|between; among; in (time from now)|note=tra due giorni = in two days. Same as fra.
+fra|prep|between; among; in (time from now)
+senza|prep|without|note=senza di me; senza + infinitive: senza dire niente.
+sotto|prep|under, below, beneath
+sopra|prep|on, above, over; upstairs
+dentro|adv|inside, in, within
+fuori|adv|outside, out|note=fuori di casa; Fuori! = Get out!
+dietro|prep|behind
+davanti|adv|in front, ahead|note=davanti a = in front of.
+vicino|adv|near, nearby, close; (adj.) near; (n.) neighbor|note=vicino a casa.
+lontano|adv|far, far away; (adj.) distant|note=lontano da qui.
+accanto|adv|next to, beside|note=accanto a me.
+contro|prep|against
+verso|prep|towards; around (time)|note=verso le otto = around eight.
+dopo|prep|after; (adv.) afterwards, later|note=dopo cena; A dopo! = See you later!
+prima|adv|before, earlier, first|note=prima di partire = before leaving; prima o poi = sooner or later.
+durante|prep|during
+oltre|prep|beyond, over, more than
+tranne|prep|except
+secondo|prep|according to; (adj.) second|note=secondo me = in my opinion.
+presso|prep|at, care of, near (formal)|reg=form
+lungo|prep|along; (adj.) long
+attraverso|prep|through, across
+intorno|adv|around|note=intorno a = around.
+insieme|adv|together|note=insieme a / con = together with.
+invece|adv|instead; on the other hand|note=invece di = instead of.
+fino|prep|until, till; as far as|note=fino a domani; fino a qui.
+entro|prep|within, by (a time)|note=entro venerdì = by Friday.
+circa|adv|about, approximately
+e|conj|and|note=Before a vowel often ed: ed io.
+o|conj|or|note=o... o = either... or.
+oppure|conj|or, or else
+ma|conj|but
+però|conj|but, however; though
+perché|conj|because; why; so that (+ subjunctive)|note=Perché? = Why? Perché sì = Just because.
+se|conj|if; whether
+quando|conj|when
+mentre|conj|while; whereas
+come|conj|how; like, as|note=Come stai? = How are you? Come te = like you.
+dove|adv|where|note=Dov'è? = Where is it?
+anche|adv|also, too; even|note=anche se = even if, although.
+neanche|adv|not even; neither, not... either|note=Neanche io = Me neither.
+nemmeno|adv|not even; neither
+neppure|adv|not even; neither
+né|conj|neither, nor|note=né... né = neither... nor: Non bevo né vino né birra.
+quindi|conj|so, therefore
+dunque|conj|so, therefore, well then
+allora|adv|then, so, well; at that time
+poi|adv|then, afterwards, later
+cioè|adv|that is, I mean, i.e.
+infatti|adv|in fact, indeed
+comunque|adv|anyway, however; in any case
+anzi|conj|on the contrary; or rather
+sia|conj|both... and (sia... sia / sia... che)|note=Also subjunctive of essere: che sia.
+siccome|conj|since, as (cause, at sentence start)
+poiché|conj|since, because (formal)
+finché|conj|until; as long as|note=finché non arriva = until he arrives.
+benché|conj|although (+ subjunctive)
+sebbene|conj|although (+ subjunctive)
+affinché|conj|so that (+ subjunctive)
+purché|conj|provided that (+ subjunctive)
+eppure|conj|and yet, still
+tuttavia|conj|however, nevertheless
+altrimenti|adv|otherwise, or else
+non|adv|not|note=Always before the verb: Non parlo tedesco. Double negatives are normal: Non vedo niente.
+sì|adv|yes
+no|adv|no; not|note=Credo di no = I don't think so.
+più|adv|more; most; plus; (non... più) no longer|note=Non fumo più = I don't smoke anymore. il più bello = the most beautiful.
+meno|adv|less; least; minus|note=Sono le otto meno un quarto = It's a quarter to eight.
+così|adv|so; like this, like that, thus|note=così così = so-so.
+bene|adv|well; fine, good|note=Sto bene = I'm well. Va bene = OK.
+male|adv|badly; (n.) evil, harm, pain|note=Mi fa male la testa = My head hurts.
+meglio|adv|better|note=Comparative of bene: Sto meglio. Better than: meglio di.
+peggio|adv|worse
+già|adv|already; yes, right
+ancora|adv|still; again; yet; more|note=Non ancora = not yet. Ancora un po' = a bit more.
+sempre|adv|always; still
+mai|adv|never; ever|note=Non... mai = never: Non bevo mai caffè. Hai mai visto Roma? = Have you ever...
+spesso|adv|often
+qui|adv|here
+qua|adv|here (over here)
+lì|adv|there
+là|adv|there (over there)
+su|adv|up; upstairs; come on!|note=Su, andiamo! = Come on, let's go!
+giù|adv|down; downstairs
+via|adv|away, off; (n.f) street, way|note=Vai via! = Go away! via Roma = Rome Street.
+ecco|adv|here is, here are; there it is|note=Eccolo! = Here he/it is! Ecco perché = That's why.
+proprio|adv|really, just, exactly; (adj.) own|note=proprio adesso = right now; la propria casa = one's own house.
+solo|adv|only, just; (adj.) alone|note=Sono solo = I'm alone; solo tu = only you.
+soltanto|adv|only, just
+pure|adv|also, too; by all means|note=Entra pure! = Do come in!
+quasi|adv|almost, nearly
+forse|adv|maybe, perhaps
+magari|adv|maybe; if only!; I wish!|note=Magari! = I wish! / If only!
+davvero|adv|really, truly|note=Davvero? = Really?
+veramente|adv|really, truly; actually
+almeno|adv|at least
+piuttosto|adv|rather; quite|note=piuttosto che = rather than.
+abbastanza|adv|enough; quite, fairly|note=abbastanza bene = quite well.
+appena|adv|just; barely; as soon as|note=Sono appena arrivato = I've just arrived. (Non) appena arrivo = as soon as I arrive.
+mica|adv|(not) at all, by any chance (colloquial)|reg=coll;note=Non è mica facile = It's not at all easy.
+affatto|adv|at all (with negation); completely|note=Non è affatto vero = It's not true at all.
+apposta|adv|on purpose, deliberately
+avanti|adv|forward, ahead; come in!|note=Avanti! = Come in! / Go ahead!
+indietro|adv|back, backwards, behind
+dappertutto|adv|everywhere
+ovunque|adv|everywhere; wherever
+altrove|adv|elsewhere
+
+# q
+come|adv|how|note=Come ti chiami? = What's your name? (lit. how do you call yourself?)
+quanto|adv|how much; how many (quanti)|note=Quanto costa? = How much does it cost? Quanti anni hai? = How old are you?
+perché|adv|why
+quando|adv|when
+dove|adv|where
+chi|pron|who
+
+# greet
+ciao|intj|hi; bye|note=Informal, for both hello and goodbye.
+salve|intj|hello (neutral, polite)
+buongiorno|intj|good morning; good day; hello|note=Used until early afternoon.
+buonasera|intj|good evening|note=Used from mid-afternoon as a greeting.
+buonanotte|intj|good night|note=Only when going to bed or leaving late at night.
+arrivederci|intj|goodbye|note=Formal: ArrivederLa.
+grazie|intj|thank you, thanks|note=Grazie mille = thanks a lot. Answer: Prego.
+prego|intj|you're welcome; please, go ahead; pardon?|note=Also: Prego, si accomodi = Please, have a seat.
+scusa|intj|sorry; excuse me (informal)|note=Formal: Scusi. Noun: la scusa = excuse, apology.
+scusi|intj|excuse me, sorry (formal)
+per favore|phr|please|note=Also per piacere, per cortesia.
+piacere|intj|nice to meet you; (n.m) pleasure|note=Piacere! = Pleased to meet you. Per piacere = please.
+benvenuto|intj|welcome|note=Agrees: benvenuta, benvenuti, benvenute.
+auguri|intj|best wishes!; happy birthday!|note=Tanti auguri! Buon compleanno!
+complimenti|intj|congratulations!; well done!
+congratulazioni|intj|congratulations
+peccato|intj|what a pity!, too bad!; (n.m) sin|note=Che peccato! = What a shame!
+dai|intj|come on!|note=From dare: Dai, andiamo!
+beh|intj|well...
+boh|intj|dunno; who knows? (shrug)|reg=coll
+mah|intj|well...; who knows (doubt)
+ehi|intj|hey!
+oddio|intj|oh my God!
+accidenti|intj|darn!; wow!
+basta|intj|enough!, stop!|note=From bastare. Basta così = That's enough.
+aiuto|intj|help!; (n.m) help
+attenzione|intj|watch out!, careful!; (n.f) attention
+pronto|intj|hello? (on the phone); (adj.) ready
+addio|intj|farewell, goodbye forever
+evviva|intj|hooray!, long live...!
+figurati|intj|don't mention it!; not at all!; you bet!|note=Formal: Si figuri.
+va bene|phr|OK, all right, fine
+d'accordo|phr|agreed, OK|note=Sono d'accordo = I agree.
+certo|intj|of course, certainly
+esatto|intj|exactly; (adj.) exact, correct
+buon appetito|phr|enjoy your meal
+salute|intj|bless you! (after a sneeze); cheers!; (n.f) health
+cin cin|phr|cheers! (toast)
+come stai|phr|how are you? (informal)|note=Formal: Come sta? Answer: Bene, grazie, e tu?
+a presto|phr|see you soon
+a domani|phr|see you tomorrow
+buona giornata|phr|have a nice day
+buon viaggio|phr|have a good trip
+okay|intj|OK|reg=coll
+
+# num
+zero|num|zero
+uno|num|one|note=As an article: un, uno, una.
+due|num|two
+tre|num|three|note=Compounds take an accent: ventitré, trentatré.
+quattro|num|four
+cinque|num|five
+sei|num|six|note=Same spelling as sei = you are.
+sette|num|seven
+otto|num|eight
+nove|num|nine
+dieci|num|ten
+undici|num|eleven
+dodici|num|twelve
+tredici|num|thirteen
+quattordici|num|fourteen
+quindici|num|fifteen
+sedici|num|sixteen
+diciassette|num|seventeen
+diciotto|num|eighteen
+diciannove|num|nineteen
+venti|num|twenty|note=ventuno, ventidue, ventotto (drops the vowel before uno and otto).
+trenta|num|thirty
+quaranta|num|forty
+cinquanta|num|fifty
+sessanta|num|sixty
+settanta|num|seventy
+ottanta|num|eighty
+novanta|num|ninety
+cento|num|hundred|note=duecento, trecento... Invariable.
+mille|num|thousand|note=Plural -mila: duemila, tremila.
+milione|n.m|million|note=un milione di persone (takes di).
+miliardo|n.m|billion
+primo|a|first
+secondo|a|second; (n.m) second (time)
+terzo|a|third
+quarto|a|fourth; (n.m) quarter|note=un quarto d'ora = a quarter of an hour.
+quinto|a|fifth
+sesto|a|sixth
+settimo|a|seventh
+ottavo|a|eighth
+nono|a|ninth
+decimo|a|tenth
+ultimo|a|last; latest
+mezzo|a|half; (n.m) middle; means|note=mezz'ora = half an hour; le tre e mezza = half past three; in mezzo a = in the middle of.
+metà|n.f|half|note=la metà della torta.
+doppio|a|double
+paio|n.m|pair, couple|pl=paia;note=Plural is feminine: un paio di scarpe, due paia.
+dozzina|n.f|dozen
+centinaio|n.m|about a hundred|pl=centinaia;note=Plural feminine: centinaia di persone.
+migliaio|n.m|about a thousand|pl=migliaia;note=Plural feminine: migliaia di persone.
+numero|n.m|number; size (shoes)
+coppia|n.f|couple, pair
+
+# time
+tempo|n.m|time; weather; tense|note=Che tempo fa? = What's the weather like? Non ho tempo.
+ora|n.f|hour; time (of day); (adv.) now|note=Che ora è? / Che ore sono? = What time is it? Sono le tre.
+minuto|n.m|minute
+secondo|n.m|second
+momento|n.m|moment|note=Un momento! = Just a moment!
+attimo|n.m|moment, instant|note=Un attimo! = Just a sec!
+giorno|n.m|day|note=Buongiorno; ogni giorno; il giorno dopo.
+giornata|n.f|day (its duration, how it went)|note=Buona giornata! = Have a nice day. Che giornata!
+settimana|n.f|week
+mese|n.m|month
+anno|n.m|year|note=Ho trent'anni = I'm thirty (lit. I have thirty years).
+secolo|n.m|century
+mattina|n.f|morning|note=di mattina = in the morning; stamattina = this morning.
+mattino|n.m|morning (literary)
+pomeriggio|n.m|afternoon
+sera|n.f|evening|note=stasera = this evening; di sera = in the evening.
+serata|n.f|evening (event, how it went)
+notte|n.f|night|note=stanotte = tonight / last night.
+mezzogiorno|n.m|noon, midday; the South of Italy (il Mezzogiorno)
+mezzanotte|n.f|midnight
+oggi|adv|today
+ieri|adv|yesterday|note=l'altro ieri = the day before yesterday.
+domani|adv|tomorrow|note=dopodomani = the day after tomorrow.
+dopodomani|adv|the day after tomorrow
+stasera|adv|this evening, tonight
+stanotte|adv|tonight; last night
+stamattina|adv|this morning
+adesso|adv|now
+ora|adv|now
+subito|adv|immediately, right away
+presto|adv|early; soon; quickly|note=A presto! = See you soon!
+tardi|adv|late|note=È tardi = It's late. Più tardi = later.
+intanto|adv|meanwhile; in the meantime
+ormai|adv|by now, by then; at this point
+finalmente|adv|finally, at last
+infine|adv|finally, lastly
+lunedì|n.m|Monday|note=Days are masculine (except domenica) and lowercase. Il lunedì = on Mondays.
+martedì|n.m|Tuesday
+mercoledì|n.m|Wednesday
+giovedì|n.m|Thursday
+venerdì|n.m|Friday
+sabato|n.m|Saturday
+domenica|n.f|Sunday
+gennaio|n.m|January|note=Months are lowercase: a gennaio, in gennaio.
+febbraio|n.m|February
+marzo|n.m|March
+aprile|n.m|April
+maggio|n.m|May
+giugno|n.m|June
+luglio|n.m|July
+agosto|n.m|August|note=Ferragosto = Aug 15 holiday.
+settembre|n.m|September
+ottobre|n.m|October
+novembre|n.m|November
+dicembre|n.m|December
+primavera|n.f|spring
+estate|n.f|summer|note=Feminine despite -e: l'estate.
+autunno|n.m|autumn, fall
+inverno|n.m|winter
+stagione|n.f|season
+fine settimana|n.m|weekend|note=Also il weekend.
+compleanno|n.m|birthday|note=Buon compleanno!
+festa|n.f|party; holiday, feast
+Natale|n.m|Christmas|note=Buon Natale!
+Pasqua|n.f|Easter
+vacanza|n.f|holiday, vacation|note=Usually plural: andare in vacanza / le vacanze.
+ferie|n.fpl|(paid) holidays, time off
+orario|n.m|timetable, schedule; hours
+ritardo|n.m|delay|note=in ritardo = late.
+anticipo|n.m|advance|note=in anticipo = early.
+futuro|n.m|future; (adj.) future
+passato|n.m|past; (adj.) past, last
+presente|n.m|present; (adj.) present
+data|n.f|date
+epoca|n.f|era, age, period
+periodo|n.m|period, time
+inizio|n.m|beginning, start|note=all'inizio = at first.
+fine|n.f|end|note=la fine = the end (il fine = the aim).
+volta|n.f|time (occasion), turn|note=una volta = once; due volte = twice; C'era una volta = Once upon a time.
+spesso|adv|often
+ogni tanto|phr|now and then, every so often
+di solito|phr|usually
+a volte|phr|sometimes
+recente|a|recent
+scorso|a|last, past (week, year)|note=la settimana scorsa = last week.
+prossimo|a|next; (n.m) fellow man|note=la settimana prossima = next week.
+solito|a|usual|note=come al solito = as usual; di solito = usually.

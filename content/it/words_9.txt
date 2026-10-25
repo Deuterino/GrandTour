@@ -1,0 +1,198 @@
+# Italian core vocabulary, part 9 — everyday essentials (food, home, road, beach, sport, play)
+
+# food
+zucchina|n.f|courgette, zucchini|note=Plural zucchine (also zucchino m).
+melanzana|n.f|aubergine, eggplant
+peperone|n.m|bell pepper|note=peperoncino = chili pepper.
+spinaci|n.mpl|spinach
+lattuga|n.f|lettuce
+piselli|n.mpl|peas
+lenticchie|n.fpl|lentils|note=Eaten on New Year's Eve for good luck.
+ceci|n.mpl|chickpeas
+tonno|n.m|tuna
+salmone|n.m|salmon
+gamberi|n.mpl|prawns, shrimp|note=Singular il gambero.
+cozze|n.fpl|mussels
+vongole|n.fpl|clams|note=spaghetti alle vongole.
+sugo|n.m|(pasta) sauce|note=Plural sughi.
+brodo|n.m|broth, stock
+arrosto|n.m|roast; (adj.) roast(ed)
+frittata|n.f|omelette
+tacchino|n.m|turkey
+vitello|n.m|calf; veal
+manzo|n.m|beef
+patatine|n.fpl|crisps, chips; French fries (patatine fritte)
+merenda|n.f|afternoon snack
+spuntino|n.m|snack
+aperitivo|n.m|aperitif, pre-dinner drink
+spremuta|n.f|freshly squeezed juice|note=spremuta d'arancia.
+cannuccia|n.f|drinking straw
+cono|n.m|cone (ice cream)
+coppetta|n.f|cup (of ice cream)
+cornetto|n.m|croissant (Italian)|note=In Rome: cornetto; in Milan: brioche.
+tramezzino|n.m|(triangular) sandwich
+focaccia|n.f|focaccia (flat bread)
+risotto|n.m|risotto
+polenta|n.f|polenta
+gnocchi|n.mpl|gnocchi (potato dumplings)|note=lo gnocco, gli gnocchi (gn → lo/gli).
+mozzarella|n.f|mozzarella
+parmigiano|n.m|Parmesan cheese
+basilico|n.m|basil
+prezzemolo|n.m|parsley|note=essere come il prezzemolo = to turn up everywhere.
+rosmarino|n.m|rosemary
+peperoncino|n.m|chili pepper
+cannella|n.f|cinnamon
+lievito|n.m|yeast; baking powder
+marmellata|n.f|jam; marmalade
+yogurt|n.m|yogurt|note=lo yogurt (y → lo).
+cereali|n.mpl|cereal(s)
+dolci|n.mpl|sweets, desserts
+vegetariano|a|vegetarian
+integrale|a|wholemeal, whole-grain
+fritto|a|fried
+alla griglia|phr|grilled
+
+# home
+lavatrice|n.f|washing machine
+lavastoviglie|n.f|dishwasher|note=Invariable.
+aspirapolvere|n.m|vacuum cleaner|note=Invariable.
+scopa|n.f|broom
+forbici|n.fpl|scissors
+ago|n.m|needle|note=Plural aghi.
+colla|n.f|glue
+pila|n.f|battery; pile
+torcia|n.f|torch, flashlight
+accendino|n.m|lighter
+cerotto|n.m|plaster, Band-Aid
+termometro|n.m|thermometer
+sciroppo|n.m|syrup (cough syrup)
+soggiorno|n.m|living room; stay|note=un soggiorno a Roma = a stay in Rome.
+camino|n.m|fireplace; chimney
+stufa|n.f|stove, heater
+ventilatore|n.m|fan
+persiana|n.f|shutter
+campanello|n.m|doorbell; small bell
+citofono|n.m|intercom, entry phone
+cassetta della posta|n.f|mailbox, letterbox
+buca delle lettere|n.f|letterbox, post box
+chiave inglese|n.f|wrench, spanner
+martello|n.m|hammer
+chiodo|n.m|nail (metal)
+scatola|n.f|box
+
+# travel
+autostrada|n.f|motorway, highway|note=a pagamento = with tolls.
+benzinaio|n.m|petrol station; petrol station attendant
+multa|n.f|fine (penalty)|note=prendere una multa.
+patente|n.f|driving licence
+targa|n.f|number plate, license plate
+casco|n.m|helmet
+rotonda|n.f|roundabout
+galleria|n.f|tunnel; gallery; arcade
+curva|n.f|bend, curve
+incidente|n.m|accident
+noleggio|n.m|rental, hire
+binario|n.m|platform; track (railway)|note=Il treno parte dal binario 3.
+coincidenza|n.f|connection (train); coincidence
+andata e ritorno|phr|round trip, return (ticket)
+ombrellone|n.m|beach umbrella
+sdraio|n.f|deckchair|note=Invariable.
+crema solare|n.f|sunscreen
+scoglio|n.m|rock (in the sea)
+conchiglia|n.f|shell
+cartolina|n.f|postcard
+francobollo|n.m|stamp
+raccomandata|n.f|registered letter
+souvenir|n.m|souvenir|note=Invariable.
+dogana|n.f|customs
+frontiera|n.f|border, frontier
+
+# people
+ragazzino|n.m|young boy, kid|f=ragazzina
+ragazzina|n.f|young girl, kid
+babysitter|n.f|babysitter
+preside|n.mf|headteacher, principal
+allenatore|n.m|coach, trainer|f=allenatrice
+arbitro|n.m|referee
+tifoso|n.m|fan, supporter|f=tifosa
+suocera|n.f|mother-in-law
+genero|n.m|son-in-law
+nuora|n.f|daughter-in-law
+
+# school
+cartella|n.f|schoolbag; folder
+temperino|n.m|pencil sharpener; penknife
+calcolatrice|n.f|calculator
+
+# free
+pallavolo|n.f|volleyball
+pallacanestro|n.f|basketball|note=Also il basket.
+tennis|n.m|tennis
+ciclismo|n.m|cycling
+sci|n.m|skiing; ski|note=Invariable.
+stadio|n.m|stadium
+gol|n.m|goal (scored)|note=Invariable: segnare un gol.
+campionato|n.m|championship, league
+palloncino|n.m|balloon
+aquilone|n.m|kite
+altalena|n.f|swing
+nascondino|n.m|hide-and-seek|note=giocare a nascondino.
+carte|n.fpl|cards (playing)|note=giocare a carte.
+scacchi|n.mpl|chess
+dado|n.m|dice; stock cube
+puzzle|n.m|jigsaw puzzle|note=Invariable.
+
+# story
+gnomo|n.m|gnome|note=lo gnomo (gn → lo).
+elfo|n.m|elf
+sirena|n.f|mermaid; siren
+unicorno|n.m|unicorn
+pirata|n.m|pirate|note=Masculine despite -a: il pirata, i pirati.
+lupo cattivo|n.m|big bad wolf
+Cappuccetto Rosso|phr|Little Red Riding Hood
+Cenerentola|phr|Cinderella
+Biancaneve|phr|Snow White
+cappuccio|n.m|hood
+mantello|n.m|cloak, cape
+bacchetta|n.f|wand; stick|note=bacchetta magica = magic wand.
+specchio|n.m|mirror
+zucca|n.f|pumpkin
+scarpetta|n.f|slipper, little shoe|note=la scarpetta di cristallo.
+carrozza|n.f|carriage, coach
+cocchiere|n.m|coachman
+ballo|n.m|ball (dance)
+nonnina|n.f|granny
+legnaiolo|n.m|woodcutter
+taglialegna|n.m|woodcutter|note=Invariable.
+briciola|n.f|crumb|note=Hansel and Gretel leave a trail of briciole.
+sentiero|n.m|path, trail
+casetta|n.f|little house, cottage
+fornello|n.m|stove; cooker
+fiaccola|n.f|torch (flame)
+caverna|n.f|cave, cavern
+ruscello|n.m|stream, brook
+stagno|n.m|pond; tin
+pozzo|n.m|well
+contadinello|n.m|peasant boy|reg=lit
+pescatorello|n.m|little fisherman|reg=lit
+brigante|n.m|bandit, brigand
+assassini|n.mpl|murderers (Pinocchio's cutthroats)
+Pinocchio|phr|Pinocchio (the wooden puppet)
+Geppetto|phr|Geppetto (Pinocchio's maker and father)
+Grillo Parlante|phr|the Talking Cricket
+Fata Turchina|phr|the Blue (Turquoise) Fairy
+Mangiafuoco|phr|Fire-Eater, the puppet master
+il Gatto e la Volpe|phr|the Cat and the Fox (the swindlers)
+Paese dei Balocchi|phr|Toyland (lit. Land of Toys)
+balocco|n.m|toy (Tuscan, literary)|reg=lit
+ciuchino|n.m|little donkey
+pescecane|n.m|shark (literary); the giant Dogfish in Pinocchio|pl=pescecani
+marionetta|n.f|marionette, puppet
+sbadato|a|careless, absent-minded
+birichino|a|mischievous; (n.m) rascal
+svogliato|a|lazy, unwilling
+ubbidire|v|to obey|note=-isc- verb: ubbidisco. Also obbedire.
+disubbidire|v|to disobey|note=-isc- verb.
+mentire|v|to lie
+allungarsi|v|to grow longer|note=Pinocchio's nose si allunga when he lies.
+pentito|a|sorry, repentant

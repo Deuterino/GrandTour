@@ -1,0 +1,556 @@
+# Italian core vocabulary, part 7 — nouns and adjectives from frequency check; society, leisure, tech, stories
+
+# soc
+governo|n.m|government
+politica|n.f|politics; policy
+presidente|n.mf|president
+ministro|n.m|minister
+sindaco|n.m|mayor
+governatore|n.m|governor
+partito|n.m|(political) party
+elezione|n.f|election
+voto|n.m|vote; grade
+popolo|n.m|people (a nation)
+cittadino|n.m|citizen|f=cittadina
+società|n.f|society; company
+comunità|n.f|community
+pubblico|n.m|public; audience
+potere|n.m|power
+potenza|n.f|power, might; (world) power
+diritto|n.m|right; law
+giustizia|n.f|justice
+legge|n.f|law
+tribunale|n.m|court (of law)
+corte|n.f|court; courtyard
+giudice|n.mf|judge
+avvocato|n.m|lawyer
+processo|n.m|trial; process
+accusa|n.f|accusation, charge; prosecution
+testimone|n.mf|witness
+prova|n.f|proof, evidence; test
+crimine|n.m|crime
+delitto|n.m|crime, murder
+reato|n.m|offense, crime
+omicidio|n.m|murder, homicide
+furto|n.m|theft
+rapina|n.f|robbery
+ladro|n.m|thief|f=ladra
+assassino|n.m|murderer, killer
+vittima|n.f|victim|note=Always feminine, even for men.
+criminale|n.mf|criminal
+prigioniero|n.m|prisoner
+prigione|n.f|prison
+galera|n.f|jail (colloquial)
+arresto|n.m|arrest
+agente|n.mf|agent; police officer
+polizia|n.f|police
+poliziotto|n.m|policeman
+detective|n.mf|detective
+indagine|n.f|investigation
+sospetto|n.m|suspicion; suspect; (adj.) suspicious
+indizio|n.m|clue
+impronta|n.f|footprint; fingerprint
+traccia|n.f|trace, track; trail
+arma|n.f|weapon|pl=armi;note=Plural: le armi.
+pistola|n.f|pistol, gun
+fucile|n.m|rifle
+bomba|n.f|bomb
+colpo|n.m|blow, hit; shot|note=colpo di fulmine = love at first sight.
+violenza|n.f|violence
+minaccia|n.f|threat
+pericolo|n.m|danger
+vendetta|n.f|revenge
+guerra|n.f|war
+battaglia|n.f|battle
+esercito|n.m|army
+soldato|n.m|soldier
+capitano|n.m|captain
+comandante|n.m|commander
+nemico|n.m|enemy
+attacco|n.m|attack
+difesa|n.f|defense
+vittoria|n.f|victory
+pace|n.f|peace
+spia|n.f|spy|note=Feminine even for men.
+banda|n.f|gang; band
+emergenza|n.f|emergency
+incidente|n.m|accident
+incendio|n.m|fire (blaze)
+esplosione|n.f|explosion
+ambulanza|n.f|ambulance
+allarme|n.m|alarm
+soccorso|n.m|help, rescue|note=pronto soccorso = emergency room / first aid.
+disastro|n.m|disaster
+danno|n.m|damage, harm
+fuga|n.f|escape, flight
+trappola|n.f|trap
+segreto|n.m|secret
+documento|n.m|document; ID
+firma|n.f|signature
+contratto|n.m|contract
+patto|n.m|pact, deal
+accordo|n.m|agreement
+proposta|n.f|proposal, offer
+offerta|n.f|offer
+richiesta|n.f|request
+permesso|n.m|permission; permit; leave|note=Permesso? = May I come in? / Excuse me.
+ordine|n.m|order
+comando|n.m|command
+dipartimento|n.m|department
+ufficio|n.m|office
+agenzia|n.f|agency
+organizzazione|n.f|organization
+associazione|n.f|association
+membro|n.m|member
+gruppo|n.m|group
+squadra|n.f|team; squad
+capo|n.m|boss
+sistema|n.m|system
+servizio|n.m|service
+informazione|n.f|information|note=Countable: un'informazione, delle informazioni.
+notizia|n.f|news
+sicurezza|n.f|security, safety
+protezione|n.f|protection
+responsabilità|n.f|responsibility
+dovere|n.m|duty
+diritto|n.m|right
+denaro|n.m|money
+economia|n.f|economy; economics
+industria|n.f|industry
+mercato|n.m|market
+prezzo|n.m|price
+tassa|n.f|tax
+banca|n.f|bank
+contanti|n.mpl|cash|note=pagare in contanti.
+assicurazione|n.f|insurance
+vendita|n.f|sale
+merce|n.f|goods, merchandise
+prodotto|n.m|product
+produzione|n.f|production
+religione|n.f|religion
+chiesa|n.f|church
+prete|n.m|priest
+messa|n.f|mass (church)
+preghiera|n.f|prayer
+angelo|n.m|angel
+diavolo|n.m|devil|note=Che diavolo...? = What the devil...?
+santo|n.m|saint
+tempio|n.m|temple|pl=templi
+
+# free
+tempo libero|n.m|free time, leisure
+divertimento|n.m|fun, amusement|note=Buon divertimento! = Have fun!
+gioco|n.m|game
+giocatore|n.m|player|f=giocatrice
+sport|n.m|sport|note=Invariable: lo sport, gli sport.
+calcio|n.m|football (soccer); kick; calcium
+partita|n.f|match, game|note=una partita di calcio.
+squadra|n.f|team
+gara|n.f|race, competition
+corsa|n.f|race; run|note=di corsa = in a rush.
+palla|n.f|ball
+pallone|n.m|ball (football)
+palestra|n.f|gym
+campione|n.m|champion; sample
+premio|n.m|prize, award
+nuoto|n.m|swimming
+musica|n.f|music
+canzone|n.f|song
+canto|n.m|singing, song
+cantante|n.mf|singer
+concerto|n.m|concert
+ballo|n.m|dance; ball (dance event)
+danza|n.f|dance (art)
+chitarra|n.f|guitar
+pianoforte|n.m|piano
+strumento|n.m|instrument, tool
+disco|n.m|record, disc
+film|n.m|film, movie|note=Invariable: il film, i film.
+spettacolo|n.m|show, performance
+teatro|n.m|theater
+scena|n.f|scene; stage
+attore|n.m|actor
+personaggio|n.m|character (in a story); celebrity
+storia|n.f|story
+romanzo|n.m|novel
+poesia|n.f|poetry; poem
+leggenda|n.f|legend
+fantasia|n.f|imagination, fantasy
+arte|n.f|art
+artista|n.mf|artist
+quadro|n.m|painting
+disegno|n.m|drawing; design
+fotografia|n.f|photograph; photography
+foto|n.f|photo|note=Feminine and invariable: la foto, le foto.
+immagine|n.f|image, picture
+mostra|n.f|exhibition
+museo|n.m|museum
+festa|n.f|party
+invito|n.m|invitation
+appuntamento|n.m|appointment; date|note=Ho un appuntamento = I have a date/appointment.
+regalo|n.m|gift
+sorpresa|n.f|surprise
+passeggiata|n.f|walk, stroll|note=fare una passeggiata.
+gita|n.f|trip, outing, excursion
+viaggio|n.m|trip
+vacanza|n.f|vacation
+spiaggia|n.f|beach
+campeggio|n.m|camping; campsite
+tenda|n.f|tent; curtain
+bambola|n.f|doll
+giocattolo|n.m|toy
+fumetto|n.m|comic strip, comic book
+televisione|n.f|television
+programma|n.m|program
+serie|n.f|series|note=Invariable: la serie, le serie.
+episodio|n.m|episode
+video|n.m|video|note=Invariable.
+canale|n.m|channel; canal
+radio|n.f|radio
+stampa|n.f|press; printing
+articolo|n.m|article
+rivista|n.f|magazine
+pubblicità|n.f|advertising; commercial
+moda|n.f|fashion
+stile|n.m|style
+costume|n.m|costume; custom; swimsuit (costume da bagno)
+profumo|n.m|perfume; scent
+sigaretta|n.f|cigarette
+fumo|n.m|smoke; smoking
+droga|n.f|drug(s)
+alcol|n.m|alcohol
+
+# tech
+tecnologia|n.f|technology
+macchina|n.f|machine; car
+motore|n.m|engine, motor
+ruota|n.f|wheel
+camion|n.m|truck, lorry|note=Invariable.
+elettricità|n.f|electricity
+elettrico|a|electric
+batteria|n.f|battery; drums
+gas|n.m|gas|note=Invariable.
+energia|n.f|energy
+rete|n.f|net; network; goal (football)
+internet|n.m|internet|note=Often without article: su internet.
+sito|n.m|website; site
+email|n.f|e-mail|note=Also la mail.
+messaggio|n.m|message|note=mandare un messaggio.
+schermo|n.m|screen
+tastiera|n.f|keyboard
+chiavetta|n.f|USB stick; small key
+codice|n.m|code
+dato|n.m|piece of data|note=i dati = data.
+programma|n.m|program, software
+robot|n.m|robot
+vetro|n.m|glass (material)
+plastica|n.f|plastic
+metallo|n.m|metal
+filo|n.m|thread; wire|note=Plural fili (also le fila in idioms).
+corda|n.f|rope; string
+catena|n.f|chain
+tubo|n.m|pipe, tube
+strumento|n.m|tool
+attrezzo|n.m|tool, implement
+
+# story
+burattino|n.m|puppet, marionette|note=Pinocchio is un burattino di legno.
+fata|n.f|fairy|note=la Fata Turchina = the Blue Fairy (Pinocchio).
+strega|n.f|witch|note=Plural streghe.
+mago|n.m|wizard, magician|note=Plural maghi.
+magia|n.f|magic
+incantesimo|n.m|spell, enchantment
+orco|n.m|ogre|note=Plural orchi.
+gigante|n.m|giant; (adj.) giant
+nano|n.m|dwarf
+drago|n.m|dragon|note=Plural draghi.
+mostro|n.m|monster
+fantasma|n.m|ghost|note=Masculine: il fantasma.
+spirito|n.m|spirit, ghost
+cavaliere|n.m|knight; rider
+spada|n.f|sword
+scudo|n.m|shield
+corona|n.f|crown
+trono|n.m|throne
+regno|n.m|kingdom, realm
+reame|n.m|realm (literary)|reg=lit
+palazzo|n.m|palace
+torre|n.f|tower
+pozzo|n.m|well (water)
+mulino|n.m|mill
+capanna|n.f|hut, cabin
+bottega|n.f|workshop; small shop|note=Plural botteghe. Geppetto's workshop is la bottega.
+fanciullo|n.m|child, boy (literary)|f=fanciulla;reg=lit
+monello|n.m|rascal, naughty child
+eroe|n.m|hero|f=eroina
+avventura|n.f|adventure
+tesoro|n.m|treasure; darling|note=Tesoro mio! = My darling!
+moneta|n.f|coin|note=Pinocchio buries his monete d'oro in the Field of Miracles.
+miracolo|n.m|miracle
+viaggiatore|n.m|traveler|f=viaggiatrice
+pellegrino|n.m|pilgrim
+mendicante|n.mf|beggar
+povertà|n.f|poverty
+fame|n.f|hunger
+naso|n.m|nose
+bugiardo|n.m|liar; (adj.) lying|f=bugiarda
+furbo|a|cunning, sly
+ingenuo|a|naive
+obbediente|a|obedient|note=Also ubbidiente.
+disobbediente|a|disobedient
+cattivo|a|naughty, bad
+buono|a|good, well-behaved
+saggio|a|wise
+sciocco|a|silly, foolish
+
+# abs
+rapporto|n.m|relationship; report; ratio
+relazione|n.f|relationship; report
+amicizia|n.f|friendship
+contatto|n.m|contact
+incontro|n.m|meeting, encounter
+visita|n.f|visit; (medical) examination
+occhiata|n.f|glance, look|note=dare un'occhiata = to take a look.
+sguardo|n.m|look, gaze, glance
+saluto|n.m|greeting|note=Cari saluti = Best regards.
+battuta|n.f|joke, line (in a script); beat
+risata|n.f|laugh, laughter
+urlo|n.m|scream, yell
+pianto|n.m|crying, weeping
+grido|n.m|shout
+base|n.f|base, basis|note=in base a = based on.
+linea|n.f|line|note=in linea = online / on the line.
+fila|n.f|line, row, queue|note=in fila = in line.
+serie|n.f|series
+turno|n.m|turn; shift|note=È il tuo turno = It's your turn.
+cambio|n.m|change, exchange; gear
+movimento|n.m|movement
+azione|n.f|action; share (stock)
+mossa|n.f|move
+passaggio|n.m|passage; lift, ride|note=Mi dai un passaggio? = Can you give me a ride?
+salto|n.m|jump
+caduta|n.f|fall
+corsa|n.f|run, race
+evento|n.m|event
+fenomeno|n.m|phenomenon
+fase|n.f|phase, stage
+processo|n.m|process; trial
+procedura|n.f|procedure
+metodo|n.m|method
+modello|n.m|model; pattern
+versione|n.f|version
+copia|n.f|copy
+titolo|n.m|title; headline; qualification
+termine|n.m|term; end, deadline
+limite|n.m|limit
+area|n.f|area
+regione|n.f|region
+territorio|n.m|territory
+ambiente|n.m|environment; atmosphere
+atmosfera|n.f|atmosphere
+clima|n.m|climate|note=Masculine: il clima.
+universo|n.m|universe
+pianeta|n.m|planet|note=Masculine: il pianeta.
+stella|n.f|star
+raggio|n.m|ray; radius|note=raggio di sole = sunbeam.
+onda|n.f|wave
+fiamma|n.f|flame
+fumo|n.m|smoke
+polvere|n.f|dust; powder
+buco|n.m|hole|note=Plural buchi.
+punta|n.f|tip, point|note=in punta di piedi = on tiptoe.
+fianco|n.m|side, hip|note=al fianco di = beside.
+mucchio|n.m|heap, pile|note=un mucchio di = a lot of.
+sacco|n.m|sack, bag|note=un sacco di = a lot of: un sacco di gente.
+massa|n.f|mass|note=di massa = mass (adj.).
+peso|n.m|weight
+chilo|n.m|kilo|note=un chilo di mele.
+grammo|n.m|gram
+litro|n.m|liter
+metà|n.f|half
+resto|n.m|rest, remainder; change (money)|note=del resto = after all; Tenga il resto = Keep the change.
+mancanza|n.f|lack, absence
+presenza|n.f|presence
+assenza|n.f|absence
+importanza|n.f|importance
+attività|n.f|activity
+impegno|n.m|commitment; effort
+intenzione|n.f|intention|note=avere intenzione di = to intend to.
+proposito|n.m|purpose; intention|note=a proposito = by the way; di proposito = on purpose.
+vantaggio|n.m|advantage
+svantaggio|n.m|disadvantage
+conseguenza|n.f|consequence
+reazione|n.f|reaction
+impressione|n.f|impression|note=Ho l'impressione che... = I have the feeling that...
+opportunità|n.f|opportunity
+circostanza|n.f|circumstance
+condizione|n.f|condition
+coincidenza|n.f|coincidence
+vicenda|n.f|event, affair|note=a vicenda = each other, in turn.
+faccenda|n.f|matter, affair; chore|note=le faccende di casa = housework.
+guaio|n.m|trouble, mess|note=essere nei guai = to be in trouble.
+casino|n.m|mess, chaos; racket (coll)|reg=coll;note=Che casino! = What a mess! (Not a casino = casinò.)
+sciocchezza|n.f|nonsense; trifle
+follia|n.f|madness, folly
+disperazione|n.f|despair
+passione|n.f|passion
+umore|n.m|mood|note=di buon umore = in a good mood.
+fastidio|n.m|annoyance, bother|note=dare fastidio a = to bother.
+imbarazzo|n.m|embarrassment
+preoccupazione|n.f|worry
+coscienza|n.f|conscience; consciousness
+istinto|n.m|instinct
+giudizio|n.m|judgment; sense|note=mettere giudizio = to become sensible.
+istruzione|n.f|education; instruction
+spiegazione|n.f|explanation
+comunicazione|n.f|communication
+conferenza|n.f|conference; lecture
+intervista|n.f|interview
+discussione|n.f|discussion, argument
+lite|n.f|quarrel, fight
+lotta|n.f|struggle, fight
+sfida|n.f|challenge
+scommessa|n.f|bet
+scambio|n.m|exchange
+incubo|n.m|nightmare
+sonno|n.m|sleep
+risveglio|n.m|awakening
+alba|n.f|dawn
+tramonto|n.m|sunset
+istante|n.m|instant, moment
+generazione|n.f|generation
+cerimonia|n.f|ceremony
+nascita|n.f|birth
+morte|n.f|death
+funerale|n.m|funeral
+divorzio|n.m|divorce
+ringraziamento|n.m|thanks|note=Giorno del Ringraziamento = Thanksgiving.
+complimento|n.m|compliment|note=Complimenti! = Well done!
+critica|n.f|criticism; critique
+dono|n.m|gift (talent; formal present)
+genio|n.m|genius
+talento|n.m|talent
+meraviglia|n.f|wonder, marvel|note=a meraviglia = wonderfully.
+fama|n.f|fame; reputation
+gloria|n.f|glory
+onore|n.m|honor
+nobiltà|n.f|nobility
+cortesia|n.f|courtesy, kindness|note=per cortesia = please.
+pazienza|n.f|patience|note=Pazienza! = Oh well! Never mind!
+calma|n.f|calm
+dolcezza|n.f|sweetness, gentleness
+
+# home
+corridoio|n.m|corridor, hallway
+cancello|n.m|gate
+scrivania|n.f|desk
+spazzatura|n.f|garbage, rubbish
+sveglia|n.f|alarm clock|note=Sveglia! = Wake up!
+nastro|n.m|ribbon; tape
+gomma|n.f|rubber; eraser; tire; chewing gum
+vaso|n.m|vase; pot
+gabbia|n.f|cage
+cesto|n.m|basket
+secchio|n.m|bucket
+candela|n.f|candle
+fiammifero|n.m|match (for fire)
+tovaglia|n.f|tablecloth
+pentola|n.f|pot, pan
+padella|n.f|frying pan
+lana|n.f|wool
+seta|n.f|silk
+cotone|n.m|cotton
+barba|n.f|beard|note=Che barba! = How boring!
+baffi|n.mpl|mustache
+fattoria|n.f|farm
+parcheggio|n.m|parking lot; parking
+magazzino|n.m|warehouse, storeroom
+laboratorio|n.m|laboratory; workshop
+
+# desc
+probabile|a|probable, likely
+puro|a|pure
+grandioso|a|grand, magnificent, great
+ovvio|a|obvious
+magnifico|a|magnificent
+impegnato|a|busy; committed
+preferito|a|favorite
+confuso|a|confused
+stupendo|a|wonderful, stunning
+ridicolo|a|ridiculous
+delizioso|a|delicious; delightful
+locale|a|local; (n.m) place, premises, club
+positivo|a|positive
+negativo|a|negative
+assurdo|a|absurd
+imbarazzante|a|embarrassing
+adorabile|a|adorable
+pazzesco|a|crazy, incredible (coll)|reg=coll
+adatto|a|suitable, appropriate
+corretto|a|correct; proper
+armato|a|armed
+improvviso|a|sudden
+disperato|a|desperate
+sconosciuto|a|unknown; (n.m) stranger
+potente|a|powerful
+spaventoso|a|frightening, terrifying
+piacevole|a|pleasant
+nobile|a|noble
+tenero|a|tender, soft
+esperto|a|expert, experienced; (n.m) expert
+urgente|a|urgent
+diretto|a|direct; bound for|note=il treno diretto a Roma.
+delicato|a|delicate
+prezioso|a|precious, valuable
+geniale|a|brilliant, ingenious
+continuo|a|continuous, constant
+lieto|a|glad, happy|note=Lieto di conoscerla = Pleased to meet you (formal).
+criminale|a|criminal
+affascinante|a|fascinating; charming
+eccezionale|a|exceptional
+tremendo|a|tremendous; terrible
+violento|a|violent
+furioso|a|furious
+selvaggio|a|wild, savage|note=Plural selvaggi.
+gigantesco|a|gigantic
+minuscolo|a|tiny
+immenso|a|immense
+infinito|a|infinite, endless
+eterno|a|eternal
+assoluto|a|absolute
+evidente|a|evident, obvious
+chiaro|a|clear
+scemo|a|stupid, silly (coll)|reg=coll
+idiota|a|idiotic; (n.mf) idiot
+bugiardo|a|lying
+crudele|a|cruel
+feroce|a|ferocious, fierce
+solare|a|sunny (person, weather); solar
+umido|a|damp, humid
+sereno|a|clear (sky); calm, serene
+nuvoloso|a|cloudy
+piovoso|a|rainy
+ventoso|a|windy
+affollato|a|crowded
+deserto|a|deserted; (n.m) desert
+lontano|a|far
+vicino|a|near
+interno|a|inner
+urbano|a|urban
+rurale|a|rural
+storico|a|historical, historic
+classico|a|classic, classical
+artistico|a|artistic
+musicale|a|musical
+tecnico|a|technical; (n.m) technician
+professionale|a|professional
+ufficiale|a|official; (n.m) officer
+mondiale|a|world, worldwide
+straniero|a|foreign
+estero|a|foreign
+nazionale|a|national
+familiare|a|family; familiar
+elementare|a|elementary|note=la scuola elementare = primary school.
+superiore|a|upper, higher|note=la scuola superiore = high school.
+universitario|a|university
+gratis|a|free (of charge)|note=Invariable.

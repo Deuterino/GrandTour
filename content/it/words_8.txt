@@ -1,0 +1,572 @@
+# Italian core vocabulary, part 8 — remaining frequency gaps and everyday essentials
+
+# abs
+ciò|pron|this, that, it (it all)|note=ciò che = what (that which): Fai ciò che vuoi.
+traduzione|n.f|translation
+vista|n.f|sight, eyesight; view|note=a prima vista = at first sight; punto di vista = point of view.
+controllo|n.m|check, control, inspection
+odio|n.m|hatred, hate
+fretta|n.f|hurry, haste|note=Ho fretta = I'm in a hurry.
+riguardo|n.m|regard, respect; care|note=riguardo a = regarding.
+ricerca|n.f|research; search
+entrambi|pron|both|note=entrambi i ragazzi, entrambe le ragazze.
+lista|n.f|list
+compagnia|n.f|company (companionship; firm)|note=fare compagnia a qualcuno = to keep someone company.
+missione|n.f|mission
+operazione|n.f|operation
+pressione|n.f|pressure
+segnale|n.m|signal; sign
+opera|n.f|work (of art); opera|note=opera d'arte = work of art.
+razza|n.f|breed, race; kind
+perdita|n.f|loss; leak|note=perdita di tempo = waste of time.
+accesso|n.m|access
+socio|n.m|partner, associate; member|f=socia
+taglio|n.m|cut; haircut
+attesa|n.f|wait, waiting|note=sala d'attesa = waiting room.
+fonte|n.f|source; spring, fountain
+creatura|n.f|creature
+ruolo|n.m|role
+proprietario|n.m|owner|f=proprietaria
+proprietà|n.f|property; ownership
+perdono|n.m|forgiveness, pardon
+trucco|n.m|trick; make-up
+dichiarazione|n.f|statement, declaration|note=dichiarazione d'amore.
+terapia|n.f|therapy
+intervento|n.m|intervention; operation (surgery); speech
+uso|n.m|use|note=fuori uso = out of order.
+nota|n.f|note
+analisi|n.f|analysis; (medical) test|note=Invariable: le analisi del sangue.
+maschera|n.f|mask
+legame|n.m|bond, tie, link
+struttura|n.f|structure
+cerchio|n.m|circle
+figura|n.f|figure; picture|note=fare una bella / brutta figura = to make a good / bad impression.
+profilo|n.m|profile
+supporto|n.m|support
+diario|n.m|diary
+pista|n.f|track, trail; runway; slope|note=Pista! = Make way!
+confronto|n.m|comparison; confrontation|note=in confronto a = compared with.
+unità|n.f|unit; unity
+rifugio|n.m|shelter, refuge
+sezione|n.f|section
+punizione|n.f|punishment
+gioiello|n.m|jewel; (pl.) jewelry
+influenza|n.f|influence; flu
+progresso|n.m|progress
+veleno|n.m|poison
+blocco|n.m|block; blockade; notepad
+atto|n.m|act, deed
+cartello|n.m|sign, notice; cartel
+carro|n.m|cart, wagon
+chiacchiera|n.f|chat; gossip|note=fare due chiacchiere = to have a chat.
+offesa|n.f|offense, insult
+marcia|n.f|march; gear (car)
+resistenza|n.f|resistance; endurance
+tragedia|n.f|tragedy
+collegamento|n.m|connection, link
+funzione|n.f|function
+allenamento|n.m|training, practice
+percorso|n.m|route, path, course
+tono|n.m|tone
+veicolo|n.m|vehicle
+macchia|n.f|stain, spot; scrubland
+annuncio|n.m|announcement; advertisement
+cammino|n.m|way, path, walk|note=in cammino = on the way.
+candidato|n.m|candidate|f=candidata
+disturbo|n.m|disturbance; ailment|note=Scusi il disturbo = Sorry to bother you.
+mira|n.f|aim
+opzione|n.f|option
+impresa|n.f|enterprise, undertaking; company; feat
+espressione|n.f|expression
+strategia|n.f|strategy
+tecnica|n.f|technique
+scoperta|n.f|discovery
+esistenza|n.f|existence
+capitolo|n.m|chapter
+croce|n.f|cross
+gesto|n.m|gesture
+rovina|n.f|ruin|note=andare in rovina = to fall into ruin. le rovine = ruins.
+trattamento|n.m|treatment
+orgoglio|n.m|pride
+volontà|n.f|will, willpower|note=buona volontà = goodwill.
+fiato|n.m|breath|note=senza fiato = breathless.
+pulizia|n.f|cleaning; cleanliness|note=fare le pulizie = to do the cleaning.
+esercizio|n.m|exercise
+sacrificio|n.m|sacrifice
+autorità|n.f|authority
+infanzia|n.f|childhood
+rifiuto|n.m|refusal; (pl.) rubbish, waste
+condanna|n.f|sentence, conviction; condemnation
+ipotesi|n.f|hypothesis|note=Invariable.
+dettaglio|n.m|detail
+calore|n.m|heat, warmth
+caos|n.m|chaos|note=Invariable.
+disagio|n.m|discomfort, unease|note=sentirsi a disagio = to feel uncomfortable.
+volto|n.m|face (literary)
+pagamento|n.m|payment
+pacchetto|n.m|packet, package
+atteggiamento|n.m|attitude
+trasporto|n.m|transport
+bandiera|n.f|flag
+appunto|n.m|note (written); (adv.) exactly, precisely|note=prendere appunti = to take notes. Appunto! = Exactly!
+spinta|n.f|push
+identità|n.f|identity|note=carta d'identità = ID card.
+aumento|n.m|increase, rise; raise
+raccolta|n.f|collection; harvest
+linguaggio|n.m|language (way of speaking)
+sostegno|n.m|support
+origine|n.f|origin
+capacità|n.f|ability, capacity
+ricompensa|n.f|reward
+collezione|n.f|collection
+ricetta|n.f|recipe; prescription
+tensione|n.f|tension; voltage
+confusione|n.f|confusion
+autore|n.m|author|f=autrice
+cicatrice|n.f|scar
+ritmo|n.m|rhythm
+riga|n.f|line (of text); row; ruler|note=Plural righe.
+esame|n.m|exam
+comportamento|n.m|behavior
+guadagno|n.m|earnings, profit
+licenza|n.f|license
+conquista|n.f|conquest
+abilità|n.f|skill, ability
+vocazione|n.f|vocation
+
+# soc
+cadavere|n.m|corpse
+ostaggio|n.m|hostage
+traditore|n.m|traitor|f=traditrice
+truppa|n.f|troop
+impero|n.m|empire
+regista|n.mf|director (film)
+scienziato|n.m|scientist|f=scienziata
+segretario|n.m|secretary|f=segretaria
+assistente|n.mf|assistant
+gentiluomo|n.m|gentleman|pl=gentiluomini
+pastore|n.m|shepherd; pastor
+maschio|n.m|male; boy; (adj.) male
+femmina|n.f|female; girl; (adj.) female
+anziano|a|elderly; (n.m) elderly person
+indagare|v|to investigate
+denuncia|n.f|report (to police), complaint
+dichiarare|v|to declare, to state
+concedere|v|to grant, to allow|note=Passato: ho concesso.
+verificare|v|to check, to verify
+
+# body
+fronte|n.f|forehead; (il fronte) front (war)|note=di fronte a = opposite, in front of.
+guancia|n.f|cheek|note=Plural guance.
+mento|n.m|chin
+unghia|n.f|nail (finger/toe)|note=Plural unghie.
+polso|n.m|wrist; pulse
+gomito|n.m|elbow
+caviglia|n.f|ankle
+fegato|n.m|liver; guts (courage)
+polmone|n.m|lung
+muscolo|n.m|muscle
+sintomo|n.m|symptom
+tosse|n.f|cough
+raffreddore|n.m|cold (illness)|note=Ho il raffreddore = I have a cold.
+mal di testa|n.m|headache
+dentista|n.mf|dentist
+chirurgo|n.m|surgeon|note=Plural chirurghi.
+paziente|n.mf|patient
+cura|n.f|cure; care
+tossire|v|to cough|note=-isc- verb.
+starnutire|v|to sneeze|note=-isc- verb.
+sudare|v|to sweat
+sbadigliare|v|to yawn
+russare|v|to snore
+battito|n.m|beat (heart)
+infarto|n.m|heart attack
+
+# food
+carota|n.f|carrot
+pera|n.f|pear
+pesca|n.f|peach; fishing|note=Two meanings: la pesca (peach), la pesca (fishing).
+ciliegia|n.f|cherry|note=Plural ciliegie.
+melone|n.m|melon
+anguria|n.f|watermelon
+prosciutto|n.m|ham|note=prosciutto crudo / cotto.
+salame|n.m|salami
+aceto|n.m|vinegar
+farina|n.f|flour
+spaghetti|n.mpl|spaghetti
+antipasto|n.m|starter, appetizer
+contorno|n.m|side dish; outline
+cucchiaino|n.m|teaspoon
+tovagliolo|n.m|napkin
+vassoio|n.m|tray
+crema|n.f|cream; custard
+panna|n.f|cream (dairy)|note=panna montata = whipped cream.
+noce|n.f|walnut; nut
+mandorla|n.f|almond
+oliva|n.f|olive
+funghi|n.mpl|mushrooms|note=Singular il fungo.
+pasticceria|n.f|pastry shop; pastries
+panetteria|n.f|bakery
+macelleria|n.f|butcher's shop
+gelateria|n.f|ice-cream shop
+fornaio|n.m|baker
+friggere|v|to fry|note=Passato: ho fritto.
+bollire|v|to boil
+mescolare|v|to mix, to stir
+versare|v|to pour
+masticare|v|to chew
+inghiottire|v|to swallow|note=-isc- verb.
+apparecchiare|v|to set the table
+sbucciare|v|to peel
+
+# home
+balcone|n.m|balcony
+terrazza|n.f|terrace
+cantina|n.f|cellar; wine cellar
+soffitta|n.f|attic
+rubinetto|n.m|tap, faucet
+lavandino|n.m|sink, washbasin
+vasca|n.f|tub, bathtub; tank
+garage|n.m|garage|note=Invariable.
+stirare|v|to iron
+asciugare|v|to dry
+scaldare|v|to warm, to heat
+riscaldamento|n.m|heating
+trasloco|n.m|move (house)
+traslocare|v|to move house
+affittare|v|to rent (out)
+prenotare|v|to book, to reserve
+prenotazione|n.f|reservation, booking
+noleggiare|v|to rent, to hire (car, bike)
+parcheggiare|v|to park
+sporcare|v|to dirty, to soil
+
+# clothes
+sciarpa|n.f|scarf
+guanto|n.m|glove
+zaino|n.m|backpack
+pigiama|n.m|pajamas|note=Masculine: il pigiama.
+mutande|n.fpl|underpants
+calze|n.fpl|stockings, tights; socks
+taglia|n.f|size (clothes)
+tessuto|n.m|fabric, cloth
+bottone|n.m|button
+tasca|n.f|pocket
+
+# city
+marciapiede|n.m|sidewalk, pavement
+incrocio|n.m|crossroads, intersection
+edicola|n.f|newsstand
+municipio|n.m|town hall
+comune|n.m|municipality, town council
+pompiere|n.m|firefighter|note=i vigili del fuoco = the fire brigade.
+vigile|n.m|traffic policeman, municipal police
+vicolo|n.m|alley
+cancello|n.m|gate
+fontana|n.f|fountain
+statua|n.f|statue
+monumento|n.m|monument
+rovine|n.fpl|ruins
+dintorni|n.mpl|surroundings, outskirts
+
+# nature
+nebbia|n.f|fog
+fulmine|n.m|lightning
+tuono|n.m|thunder
+arcobaleno|n.m|rainbow
+grandine|n.f|hail
+terremoto|n.m|earthquake
+vulcano|n.m|volcano
+roccia|n.f|rock
+grotta|n.f|cave, grotto
+onda|n.f|wave
+riva|n.f|bank, shore|note=in riva al mare = at the seaside.
+costa|n.f|coast; rib
+orizzonte|n.m|horizon
+paesaggio|n.m|landscape
+prato|n.m|meadow, lawn
+ramo|n.m|branch
+radice|n.f|root
+tronco|n.m|trunk; log
+rosa|n.f|rose
+anatra|n.f|duck
+oca|n.f|goose|note=Plural oche.
+tartaruga|n.f|turtle, tortoise
+rana|n.f|frog
+elefante|n.m|elephant
+scimmia|n.f|monkey
+tigre|n.f|tiger
+aquila|n.f|eagle
+colomba|n.f|dove
+piccione|n.m|pigeon
+corvo|n.m|crow, raven
+civetta|n.f|owl (little owl); flirt
+gufo|n.m|owl
+formica|n.f|ant
+ragno|n.m|spider
+zanzara|n.f|mosquito
+lumaca|n.f|snail
+delfino|n.m|dolphin
+squalo|n.m|shark
+polpo|n.m|octopus
+granchio|n.m|crab
+verme|n.m|worm
+pulcino|n.m|chick
+agnello|n.m|lamb
+bue|n.m|ox|pl=buoi;note=Irregular plural: i buoi.
+toro|n.m|bull
+mulo|n.m|mule
+zampa|n.f|paw, leg (animal)
+becco|n.m|beak
+piuma|n.f|feather
+pelo|n.m|fur, hair (body)
+corno|n.m|horn|pl=corna;note=Plural le corna (animal horns).
+branco|n.m|herd, pack, flock
+abbaiare|v|to bark
+miagolare|v|to meow
+cantare|v|to sing
+
+# people
+matrigna|n.f|stepmother|note=A fixture of fairy tales (Cenerentola, Biancaneve).
+patrigno|n.m|stepfather
+orfano|n.m|orphan|f=orfana
+gemello|n.m|twin|f=gemella
+fidanzamento|n.m|engagement
+vedova|n.f|widow|note=vedovo = widower.
+infanzia|n.f|childhood
+gioventù|n.f|youth
+vecchiaia|n.f|old age
+commesso|n.m|shop assistant|f=commessa
+parrucchiere|n.m|hairdresser|f=parrucchiera
+barbiere|n.m|barber
+idraulico|n.m|plumber
+elettricista|n.mf|electrician
+meccanico|n.m|mechanic
+muratore|n.m|bricklayer, builder
+pittore|n.m|painter|f=pittrice
+musicista|n.mf|musician
+farmacista|n.mf|pharmacist
+macellaio|n.m|butcher
+pescatore|n.m|fisherman
+marinaio|n.m|sailor
+cacciatore|n.m|hunter
+padrona|n.f|mistress, owner, landlady
+servo|n.m|servant|f=serva
+conte|n.m|count (nobleman)|f=contessa
+duca|n.m|duke|note=Plural duchi; f duchessa.
+signorino|n.m|young gentleman, master
+
+# school
+grammatica|n.f|grammar
+vocabolario|n.m|vocabulary; dictionary
+dizionario|n.m|dictionary
+verbo|n.m|verb
+aggettivo|n.m|adjective
+avverbio|n.m|adverb
+pronome|n.m|pronoun
+preposizione|n.f|preposition
+articolo|n.m|article
+singolare|a|singular; peculiar
+plurale|a|plural|note=il plurale = the plural.
+maschile|a|masculine; male
+femminile|a|feminine; female
+pronuncia|n.f|pronunciation
+accento|n.m|accent; stress
+sillaba|n.f|syllable
+alfabeto|n.m|alphabet
+dialetto|n.m|dialect
+lavagna|n.f|blackboard
+banco|n.m|desk (school); counter; bench|note=Plural banchi.
+gesso|n.m|chalk; plaster
+astuccio|n.m|pencil case
+righello|n.m|ruler
+gomma|n.f|eraser; rubber
+pagella|n.f|report card
+compiti|n.mpl|homework|note=fare i compiti.
+interrogazione|n.f|oral test (at school)
+alunno|n.m|pupil|f=alunna
+scolaro|n.m|schoolchild|f=scolara
+asilo|n.m|kindergarten; asylum
+liceo|n.m|high school (academic)
+laurea|n.f|university degree
+aula|n.f|classroom, lecture hall
+spiegare|v|to explain
+copiare|v|to copy; to cheat
+sottolineare|v|to underline
+correggere|v|to correct|note=Passato: ho corretto.
+ripassare|v|to review, to revise
+memorizzare|v|to memorize
+pronunciare|v|to pronounce
+
+# act
+subire|v|to suffer, to undergo|note=-isc- verb.
+confermare|v|to confirm
+scaricare|v|to download; to unload
+scattare|v|to take (a photo); to go off; to spring|note=scattare una foto.
+collaborare|v|to collaborate
+operare|v|to operate
+attivare|v|to activate
+analizzare|v|to analyze
+limitare|v|to limit
+caricare|v|to load; to charge; to upload
+compiere|v|to carry out; to turn (age)|note=compiere gli anni = to have a birthday. Passato: ho compiuto.
+separare|v|to separate
+agitare|v|to shake, to wave|note=agitarsi = to get worked up.
+atterrare|v|to land
+procurare|v|to get, to procure; to cause
+annunciare|v|to announce
+punire|v|to punish|note=-isc- verb.
+confrontare|v|to compare
+rimediare|v|to fix, to remedy, to make up for
+ospitare|v|to host, to put up
+trasmettere|v|to broadcast; to transmit|note=Passato: ho trasmesso.
+affermare|v|to state, to affirm
+sfruttare|v|to exploit, to make the most of
+circondare|v|to surround
+eseguire|v|to carry out, to execute
+appendere|v|to hang (up)|note=Passato: ho appeso.
+violare|v|to violate
+spaccare|v|to split, to smash
+fondare|v|to found
+dedicare|v|to dedicate|note=dedicarsi a = to devote oneself to.
+utilizzare|v|to use, to utilize
+basare|v|to base
+pentirsi|v|to repent, to regret|note=pentirsi di qualcosa.
+interpretare|v|to interpret; to play (a role)
+raccomandare|v|to recommend
+interrogare|v|to question, to interrogate; to test (orally)
+conservare|v|to keep, to preserve
+conquistare|v|to conquer; to win over
+godersi|v|to enjoy|note=Goditi la vacanza! = Enjoy your vacation!
+rimandare|v|to postpone; to send back
+allenare|v|to train, to coach|note=allenarsi = to train, to work out.
+levare|v|to remove, to lift|note=levarsi = to take off; to rise.
+inserire|v|to insert|note=-isc- verb.
+approfittare|v|to take advantage|note=approfittare di.
+detestare|v|to detest, to hate
+danneggiare|v|to damage
+stendere|v|to spread; to hang out (laundry)|note=Passato: ho steso.
+nascondersi|v|to hide (oneself)
+spostarsi|v|to move, to shift (oneself)
+applaudire|v|to applaud
+fischiare|v|to whistle
+avvolgere|v|to wrap|note=Passato: ho avvolto.
+affogare|v|to drown
+annegare|v|to drown
+rotolare|v|to roll
+strisciare|v|to crawl, to creep
+arrampicarsi|v|to climb
+inciampare|v|to trip, to stumble
+scivolare|v|to slip, to slide
+galleggiare|v|to float
+affondare|v|to sink
+scoppiare|v|to burst, to explode; to break out|note=scoppiare a ridere = to burst out laughing.
+sorvolare|v|to fly over; to skip over
+gonfiarsi|v|to swell
+allungare|v|to lengthen; to stretch out
+accorciare|v|to shorten
+riscaldare|v|to heat up, to warm up
+raffreddare|v|to cool
+asciugarsi|v|to dry oneself
+spogliarsi|v|to undress
+travestirsi|v|to disguise oneself
+fidanzarsi|v|to get engaged
+divorziare|v|to divorce
+
+# desc
+breve|a|short, brief|note=in breve = in short.
+oscuro|a|dark, obscure
+romantico|a|romantic
+ragionevole|a|reasonable
+notevole|a|remarkable, considerable
+folle|a|mad, insane
+invisibile|a|invisible
+valido|a|valid
+patetico|a|pathetic
+attraente|a|attractive
+inquietante|a|disturbing, unsettling
+cinese|a|Chinese
+russo|a|Russian
+spagnolo|a|Spanish
+francese|a|French
+svizzero|a|Swiss
+austriaco|a|Austrian
+greco|a|Greek
+giapponese|a|Japanese
+africano|a|African
+orientale|a|eastern, oriental
+occidentale|a|western
+settentrionale|a|northern
+meridionale|a|southern
+maleducato|a|rude, ill-mannered
+educato|a|polite, well-mannered
+puntuale|a|punctual
+disordinato|a|messy, untidy
+ordinato|a|tidy, neat
+goloso|a|greedy (for food), sweet-toothed
+viziato|a|spoiled
+testardo|a|stubborn
+vivace|a|lively
+capriccioso|a|naughty, capricious
+avaro|a|stingy, mean
+superbo|a|proud, haughty
+umile|a|humble
+modesto|a|modest
+famoso|a|famous
+celebre|a|famous, celebrated
+squisito|a|exquisite, delicious
+gustoso|a|tasty
+salato|a|salty; expensive (coll)
+piccante|a|spicy, hot
+insipido|a|bland, tasteless
+maturo|a|ripe; mature
+acerbo|a|unripe
+marcio|a|rotten
+storto|a|crooked, bent
+rotto|a|broken
+guasto|a|broken (down), out of order
+nuovissimo|a|brand new
+usato|a|used, second-hand
+leggibile|a|readable
+comprensibile|a|understandable
+incomprensibile|a|incomprehensible
+gradevole|a|pleasant
+spiacevole|a|unpleasant
+faticoso|a|tiring, exhausting
+rilassante|a|relaxing
+emozionante|a|exciting, thrilling
+noto|a|well-known
+
+# time
+epoca|n.f|era
+infanzia|n.f|childhood
+mattinata|n.f|morning (duration)
+nottata|n.f|night (duration)
+annata|n.f|year (vintage, season)
+decennio|n.m|decade
+millennio|n.m|millennium
+calendario|n.m|calendar
+scadenza|n.f|deadline; expiry
+puntuale|a|on time, punctual
+quotidiano|a|daily; (n.m) daily newspaper
+settimanale|a|weekly
+mensile|a|monthly
+annuale|a|annual, yearly
+frequente|a|frequent
+raramente|adv|rarely
+regolarmente|adv|regularly
+ogni giorno|phr|every day
+tutti i giorni|phr|every day
+una volta|phr|once; once upon a time|note=C'era una volta... = Once upon a time there was...
+dopotutto|adv|after all
+addirittura|adv|even; actually, really
+onestamente|adv|honestly
+estremamente|adv|extremely
+totalmente|adv|totally
+incredibilmente|adv|incredibly
+letteralmente|adv|literally
+sfortunatamente|adv|unfortunately
+fortunatamente|adv|fortunately
+tecnicamente|adv|technically
+realmente|adv|really, actually
+diversamente|adv|differently; otherwise

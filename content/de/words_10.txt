@@ -1,0 +1,289 @@
+# German core vocabulary, part 10 — second frequency pass
+
+# abs
+Pizza|n.f|pizza
+Bart|n.m|beard
+Stil|n.m|style
+Störung|n.f|disturbance; fault, malfunction
+Cousine|n.f|cousin (female)|note=Also Kusine.
+Schnitt|n.m|cut; average (im Schnitt)
+Anklage|n.f|charge, indictment
+Tunnel|n.m|tunnel
+Rakete|n.f|rocket
+Identität|n.f|identity
+Applaus|n.m|applause
+Profi|n.m|pro, professional
+Sicht|n.f|view, sight; visibility|note=aus meiner Sicht = from my point of view.
+Staub|n.m|dust
+Fahrzeug|n.n|vehicle
+Abmachung|n.f|agreement, deal
+Esslöffel|n.m|tablespoon
+Teelöffel|n.m|teaspoon
+Militär|n.n|military
+Vorfall|n.m|incident
+Versicherung|n.f|insurance
+Widerstand|n.m|resistance
+Anzeige|n.f|advertisement; report (to police)
+Gemeinde|n.f|community, municipality; parish
+Palast|n.m|palace|note=Plural Paläste.
+Rückkehr|n.f|return
+Warnung|n.f|warning
+Abschluss|n.m|conclusion; degree
+Kindheit|n.f|childhood
+Belohnung|n.f|reward
+Durcheinander|n.n|mess, confusion
+Appetit|n.m|appetite|note=Guten Appetit!
+Vergleich|n.m|comparison
+Interview|n.n|interview
+Katastrophe|n.f|catastrophe, disaster
+Lieferung|n.f|delivery
+Jugend|n.f|youth
+Paket|n.n|parcel, package
+Eile|n.f|hurry, haste|note=in Eile = in a hurry.
+Symbol|n.n|symbol
+Einstellung|n.f|attitude; setting; hiring
+Revolution|n.f|revolution
+Bibel|n.f|Bible
+Führung|n.f|leadership; guided tour; lead
+Autor|n.m|author
+Hintergrund|n.m|background
+Besucher|n.m|visitor
+Modell|n.n|model
+Phase|n.f|phase
+Hubschrauber|n.m|helicopter
+Einbruch|n.m|burglary; onset
+Glocke|n.f|bell
+Humor|n.m|humor
+Aktion|n.f|action, campaign
+Motorrad|n.n|motorcycle
+Schwäche|n.f|weakness
+Aussicht|n.f|view; prospect
+Spruch|n.m|saying
+Fortschritt|n.m|progress
+Rezept|n.n|recipe; prescription
+Ladung|n.f|load, cargo; charge
+Betrug|n.m|fraud, deception
+Lunge|n.f|lung
+Tagebuch|n.n|diary
+Stille|n.f|silence, stillness
+Herausforderung|n.f|challenge
+Bewusstsein|n.n|consciousness, awareness
+Missverständnis|n.n|misunderstanding
+Narbe|n.f|scar
+Kompliment|n.n|compliment
+Last|n.f|load, burden
+Kleinigkeit|n.f|trifle, small thing
+Vorschrift|n.f|regulation, rule
+Kehle|n.f|throat
+Version|n.f|version
+Option|n.f|option
+Papst|n.m|pope
+Asche|n.f|ash|note=Aschenputtel sits in the ashes.
+Umgebung|n.f|surroundings, area
+Therapie|n.f|therapy
+Liebhaber|n.m|lover; enthusiast
+Notiz|n.f|note
+Treue|n.f|loyalty, faithfulness
+Passagier|n.m|passenger
+Atem|n.m|breath
+Konsequenz|n.f|consequence
+Parkplatz|n.m|parking space, car park
+Leistung|n.f|performance, achievement
+Kamerad|n.m|comrade|note=Weak noun.
+Sprung|n.m|jump, leap; crack
+Faust|n.f|fist|note=Plural Fäuste.
+Ruhm|n.m|fame, glory
+Fürst|n.m|prince (ruler)|note=Weak noun.
+Kopfschmerzen|n.pl|headache
+Verhältnis|n.n|relationship; ratio; (pl.) conditions
+Kapitel|n.n|chapter
+Strecke|n.f|route, distance, stretch
+Ansicht|n.f|view, opinion|note=meiner Ansicht nach = in my view.
+Hitze|n.f|heat
+Treffer|n.m|hit
+Experte|n.m|expert|note=Weak noun.
+Ausrüstung|n.f|equipment
+Segen|n.m|blessing
+Pirat|n.m|pirate|note=Weak noun.
+Beute|n.f|loot, prey
+Dummheit|n.f|stupidity
+Kämpfer|n.m|fighter
+Irrtum|n.m|error, mistake|note=Masculine despite -tum.
+Ausnahme|n.f|exception
+Zuschauer|n.m|spectator, viewer
+Wächter|n.m|guard, watchman
+Pfeil|n.m|arrow
+Ausweg|n.m|way out
+Ausbildung|n.f|training, education (vocational)
+Zorn|n.m|anger, wrath
+Geständnis|n.n|confession
+Puls|n.m|pulse
+Rettung|n.f|rescue
+Gruß|n.m|greeting|note=Viele Grüße = Best wishes (letter). Plural Grüße.
+Forschung|n.f|research
+Gewinner|n.m|winner
+Marke|n.f|brand; stamp; token
+Erbe|n.n|inheritance; heritage|note=das Erbe (inheritance) vs der Erbe (heir).
+
+# act
+erheben|v|to raise; (sich erheben) to rise|note=erhob – hat erhoben.
+verschaffen|v|to procure, to get
+zurücklassen|v|to leave behind|note=Separable.
+kontaktieren|v|to contact
+arrangieren|v|to arrange
+gestatten|v|to permit, to allow|note=Gestatten Sie? = May I?
+erweisen|v|to prove; to render (a service)|note=sich erweisen als = to turn out to be.
+gelangen|v|to reach, to get to|note=Aux sein.
+übersehen|v|to overlook|note=Inseparable.
+knacken|v|to crack
+abschneiden|v|to cut off|note=Separable.
+einbrechen|v|to break in|note=Separable.
+hinlegen|v|to put down; (sich hinlegen) to lie down|note=Separable.
+anlegen|v|to put on; to invest; to moor|note=Separable.
+spucken|v|to spit
+servieren|v|to serve (food)
+verdanken|v|to owe (gratitude)|gov=+Dat;note=Das verdanke ich dir = I owe that to you.
+bedenken|v|to consider|note=Mixed: bedachte – hat bedacht.
+läuten|v|to ring (bells)
+ersticken|v|to suffocate, to choke
+überstehen|v|to survive, to get through|note=Inseparable.
+auflegen|v|to hang up (phone); to put on|note=Separable.
+husten|v|to cough
+ausdenken|v|to think up (sich etwas ausdenken)|note=Separable.
+befolgen|v|to follow, to obey (rules, advice)
+drängen|v|to push, to urge
+wegwerfen|v|to throw away|note=Separable.
+anzeigen|v|to report (to police); to display|note=Separable.
+beunruhigen|v|to worry, to alarm
+formen|v|to form, to shape
+übernachten|v|to stay overnight
+aufstellen|v|to set up, to put up|note=Separable.
+sich anfühlen|v|to feel (to the touch)|note=Separable: Das fühlt sich gut an.
+vorgehen|v|to proceed; to be fast (clock)|note=Separable.
+verklagen|v|to sue
+freilassen|v|to release, to set free|note=Separable.
+hinweisen|v|to point out|gov=auf+Akk;note=Separable.
+ansprechen|v|to speak to, to address|note=Separable.
+zögern|v|to hesitate
+zerbrechen|v|to break (into pieces)|note=zerbricht – zerbrach – hat/ist zerbrochen.
+einsperren|v|to lock up|note=Separable.
+verwirren|v|to confuse
+aussprechen|v|to pronounce; to express|note=Separable.
+abschalten|v|to switch off; to unwind|note=Separable.
+zurückholen|v|to get back|note=Separable.
+entgehen|v|to escape, to miss|gov=+Dat;note=Aux sein.
+deuten|v|to point; to interpret
+verschieben|v|to postpone; to move|note=verschob – hat verschoben.
+abwarten|v|to wait (and see)|note=Separable: Abwarten und Tee trinken!
+erben|v|to inherit
+fesseln|v|to tie up; to captivate
+eindringen|v|to penetrate, to intrude|note=Separable, aux sein.
+verteilen|v|to distribute
+zurückrufen|v|to call back|note=Separable.
+beherrschen|v|to master; to control
+kleben|v|to stick, to glue
+aufbrechen|v|to set off; to break open|note=Separable.
+investieren|v|to invest
+versammeln|v|to gather, to assemble
+blockieren|v|to block
+erleichtern|v|to relieve, to make easier
+flüchten|v|to flee|note=Aux sein.
+kichern|v|to giggle
+absetzen|v|to drop off; to take off; to remove|note=Separable.
+beschädigen|v|to damage
+zünden|v|to ignite
+unterzeichnen|v|to sign|note=Inseparable.
+erobern|v|to conquer
+stopfen|v|to stuff; to darn
+verweigern|v|to refuse
+ausnutzen|v|to take advantage of, to exploit|note=Separable.
+verheimlichen|v|to conceal, to keep secret
+widmen|v|to dedicate|note=sich widmen + Dat = to devote oneself to.
+anschließen|v|to connect; (sich anschließen) to join|note=Separable.
+ausbrechen|v|to break out|note=Separable, aux sein.
+sich einmischen|v|to interfere|note=Separable.
+vorwerfen|v|to accuse, to reproach|gov=+Dat person;note=Separable.
+erpressen|v|to blackmail
+eintreten|v|to enter; to join|note=Separable, aux sein.
+verschonen|v|to spare
+erziehen|v|to bring up, to raise; to educate|note=erzog – hat erzogen.
+widerstehen|v|to resist|gov=+Dat;note=Inseparable.
+entsprechen|v|to correspond to|gov=+Dat
+auftreten|v|to appear, to perform; to occur|note=Separable, aux sein.
+schleppen|v|to drag, to haul
+aufhängen|v|to hang up|note=Separable.
+
+# desc
+clever|a|clever
+dämlich|a|stupid (coll)|reg=coll
+beeindruckend|a|impressive
+dramatisch|a|dramatic
+fett|a|fat, greasy
+emotional|a|emotional
+erwachsen|a|grown-up, adult
+beliebt|a|popular
+unheimlich|a|eerie, creepy; (adv.) incredibly
+deutlich|a|clear, distinct
+locker|a|loose; relaxed, easygoing
+außergewöhnlich|a|extraordinary
+britisch|a|British
+spanisch|a|Spanish
+japanisch|a|Japanese
+technisch|a|technical
+faszinierend|a|fascinating
+befreundet|a|friends (with)|gov=mit+Dat;note=Wir sind befreundet = We're friends.
+unsichtbar|a|invisible
+streng|a|strict, severe
+real|a|real
+einzeln|a|individual, single, separate
+unwichtig|a|unimportant
+selbstverständlich|a|obvious; (adv.) of course
+gewaltig|a|enormous, mighty
+eklig|a|disgusting
+knapp|a|scarce, tight; just, barely
+passend|a|suitable, matching
+unhöflich|a|impolite, rude
+körperlich|a|physical
+nutzlos|a|useless
+charmant|a|charming
+düster|a|gloomy, dark
+verärgert|a|annoyed
+fabelhaft|a|fabulous
+elend|a|miserable, wretched
+erschöpft|a|exhausted
+eindeutig|a|clear, unambiguous
+gegenseitig|a|mutual
+angeblich|a|alleged; (adv.) supposedly
+hilfreich|a|helpful
+klassisch|a|classical, classic
+positiv|a|positive
+negativ|a|negative
+harmlos|a|harmless
+widerlich|a|disgusting, repulsive
+entschlossen|a|determined
+eigenartig|a|peculiar, strange
+verdächtig|a|suspicious
+stabil|a|stable, sturdy
+gruselig|a|creepy, spooky
+niedlich|a|cute
+heil|a|whole, intact, unhurt
+tragisch|a|tragic
+unangenehm|a|unpleasant
+schief|a|crooked, askew|note=schiefgehen = to go wrong.
+legal|a|legal
+neutral|a|neutral
+finanziell|a|financial
+fies|a|nasty, mean (coll)|reg=coll
+extra|adv|extra; on purpose|note=Invariable.
+
+# adv
+eh|adv|anyway (coll)|reg=coll
+womöglich|adv|possibly, perhaps
+daheim|adv|at home (southern)
+ungern|adv|reluctantly
+sozusagen|adv|so to speak
+durchaus|adv|absolutely, quite
+apropos|adv|by the way, speaking of
+voraus|adv|ahead|note=im Voraus = in advance.
+allzu|adv|all too
+keinerlei|det|no... whatsoever

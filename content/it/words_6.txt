@@ -1,0 +1,283 @@
+# Italian core vocabulary, part 6 — gaps from frequency check: verbs, adverbs
+
+# act
+rimanere|v|to stay, to remain; to be left|note=Irregular: rimango, rimani, rimane, rimaniamo, rimanete, rimangono; rimasto; future rimarrò. Passato with essere.
+restare|v|to stay, to remain; to be left|note=Passato with essere: sono restato. Mi restano due euro = I have two euros left.
+funzionare|v|to work, to function|note=Non funziona = It doesn't work.
+intendere|v|to mean, to intend; to understand|note=Cosa intendi? = What do you mean? Passato: ho inteso.
+controllare|v|to check; to control
+scusare|v|to excuse, to forgive|note=Mi scusi = Excuse me (formal).
+rendere|v|to give back; to make (+ adj.)|note=Passato: ho reso. rendere felice qualcuno = to make someone happy. rendersi conto = to realize.
+incontrare|v|to meet; to run into|note=incontrarsi = to meet each other.
+preoccupare|v|to worry (someone)|note=Mi preoccupa = It worries me.
+occupare|v|to occupy, to take up
+riguardare|v|to concern, to regard|note=Non ti riguarda = It's none of your business. per quanto riguarda = as regards.
+liberare|v|to free, to release
+scommettere|v|to bet|note=Ci scommetto! = I bet! Passato: ho scommesso.
+sparire|v|to disappear, to vanish|note=-isc- verb; passato with essere.
+scomparire|v|to disappear
+sposare|v|to marry
+ballare|v|to dance
+distruggere|v|to destroy|note=Passato: ho distrutto.
+puntare|v|to point, to aim; to bet
+porre|v|to put, to place, to pose|note=Irregular: pongo, poni, pone, poniamo, ponete, pongono; posto. porre una domanda.
+trattare|v|to treat; to deal with; to negotiate|note=Di che si tratta? = What is it about?
+mantenere|v|to keep, to maintain; to support|note=Like tenere. mantenere una promessa.
+riprendere|v|to take back; to resume; to film|note=Passato: ho ripreso.
+dimostrare|v|to show, to prove, to demonstrate; to look (age)|note=Dimostra vent'anni = He looks twenty.
+affrontare|v|to face, to confront, to deal with
+attaccare|v|to attack; to stick, to attach
+rischiare|v|to risk
+prestare|v|to lend|note=Mi presti la penna? = Can you lend me your pen? To borrow = prendere in prestito.
+migliorare|v|to improve, to get better
+peggiorare|v|to get worse, to worsen
+gestire|v|to manage, to run|note=-isc- verb.
+ritornare|v|to return, to come back
+impazzire|v|to go mad|note=-isc- verb; passato with essere. Mi fa impazzire = It drives me crazy.
+apprezzare|v|to appreciate
+riportare|v|to bring back, to take back; to report
+sopportare|v|to bear, to stand, to put up with|note=Non lo sopporto = I can't stand him.
+rovinare|v|to ruin, to spoil
+agire|v|to act, to take action|note=-isc- verb.
+sospettare|v|to suspect
+procedere|v|to proceed, to go on
+sopravvivere|v|to survive|note=Like vivere; passato with essere: è sopravvissuto.
+assicurare|v|to assure; to ensure; to insure|note=assicurarsi = to make sure.
+licenziare|v|to fire, to dismiss|note=licenziarsi = to quit one's job.
+resistere|v|to resist; to hold out|note=Passato: ho resistito.
+rivedere|v|to see again; to revise|note=Spero di rivederti presto.
+fingere|v|to pretend|note=Passato: ho finto. fingere di + inf.
+cacciare|v|to hunt; to chase away, to throw out
+causare|v|to cause
+riferire|v|to report, to tell|note=-isc- verb. riferirsi a = to refer to.
+curare|v|to treat, to cure; to look after
+tentare|v|to try, to attempt; to tempt
+ricominciare|v|to start again
+lottare|v|to fight, to struggle
+rispettare|v|to respect
+festeggiare|v|to celebrate
+superare|v|to overcome; to pass (exam); to overtake
+possedere|v|to own, to possess|note=Like sedere: possiedo.
+rinunciare|v|to give up, to renounce|note=rinunciare a qualcosa.
+costringere|v|to force, to compel|note=Passato: ho costretto. costringere qualcuno a fare.
+partecipare|v|to take part, to participate|note=partecipare a.
+rimettere|v|to put back|note=Passato: ho rimesso.
+pubblicare|v|to publish
+condividere|v|to share|note=Passato: ho condiviso.
+abbandonare|v|to abandon, to leave
+recuperare|v|to recover, to get back
+esplodere|v|to explode|note=Passato: è esploso.
+rappresentare|v|to represent; to perform
+picchiare|v|to beat, to hit
+assumere|v|to hire, to employ; to assume|note=Passato: ho assunto.
+minacciare|v|to threaten
+richiedere|v|to require; to request
+abbassare|v|to lower; to turn down (volume)
+catturare|v|to capture, to catch
+dirigere|v|to direct, to manage|note=Passato: ho diretto.
+sostenere|v|to support; to maintain, to claim; to take (an exam)|note=Like tenere.
+ferire|v|to wound, to hurt|note=-isc- verb.
+insistere|v|to insist|note=Passato: ho insistito.
+segnare|v|to mark; to score (a goal)
+consegnare|v|to deliver, to hand over
+trasformare|v|to transform, to change|note=trasformarsi in = to turn into.
+unire|v|to join, to unite|note=-isc- verb.
+votare|v|to vote
+aumentare|v|to increase, to raise
+diminuire|v|to decrease, to diminish|note=-isc- verb.
+rivelare|v|to reveal
+disturbare|v|to disturb, to bother|note=Scusi se la disturbo = Sorry to bother you.
+eliminare|v|to eliminate, to remove
+condurre|v|to lead, to conduct; to drive|note=Like produrre: conduco; condotto.
+indagare|v|to investigate
+registrare|v|to record; to register
+comprendere|v|to understand; to include|note=Passato: ho compreso.
+premere|v|to press, to push (a button)
+tradire|v|to betray; to cheat on|note=-isc- verb.
+sprecare|v|to waste
+ritrovare|v|to find again
+bloccare|v|to block; to stop
+cancellare|v|to delete, to cancel, to erase
+collegare|v|to connect, to link
+impedire|v|to prevent|note=-isc- verb. impedire a qualcuno di fare.
+confessare|v|to confess
+assomigliare|v|to look like, to resemble|note=assomigliare a: Assomigli a tua madre.
+somigliare|v|to resemble
+apparire|v|to appear|note=Irregular: appaio / appare; apparso; passato with essere.
+bagnare|v|to wet; to water|note=bagnarsi = to get wet.
+reagire|v|to react|note=-isc- verb.
+osare|v|to dare|note=Come osi? = How dare you?
+guarire|v|to heal, to recover|note=-isc- verb.
+trattenere|v|to hold back, to keep
+fregare|v|to rub; to cheat, to swindle (coll)|reg=coll;note=Non me ne frega niente = I couldn't care less (coll).
+dividere|v|to divide, to share|note=Passato: ho diviso.
+ragionare|v|to reason, to think
+inseguire|v|to chase, to pursue
+restituire|v|to give back, to return|note=-isc- verb.
+interrompere|v|to interrupt|note=Like rompere: interrotto.
+contenere|v|to contain|note=Like tenere.
+scambiare|v|to exchange; to mistake (scambiare per)
+esagerare|v|to exaggerate, to overdo|note=Non esagerare! = Don't overdo it!
+programmare|v|to plan, to schedule; to program
+rallentare|v|to slow down
+accusare|v|to accuse
+inviare|v|to send
+provenire|v|to come from, to originate|note=Like venire.
+recitare|v|to act, to perform; to recite
+attirare|v|to attract
+puzzare|v|to stink|note=puzzare di = to smell of.
+fissare|v|to fix; to stare at; to set (a date)
+provocare|v|to cause; to provoke
+completare|v|to complete
+badare|v|to look after, to mind|note=badare a. Bada! = Mind out!
+garantire|v|to guarantee|note=-isc- verb.
+sbattere|v|to bang, to slam; to beat (eggs)
+trascinare|v|to drag
+riflettere|v|to reflect, to think over|note=Passato: ho riflettuto (think) / riflesso (light).
+formare|v|to form, to train
+ignorare|v|to ignore; not to know
+risultare|v|to turn out, to prove to be|note=Mi risulta che... = As far as I know...
+ingannare|v|to deceive, to fool
+terminare|v|to end, to finish
+commettere|v|to commit (a crime, an error)|note=Passato: ho commesso.
+ritirare|v|to withdraw; to collect; to pick up
+combinare|v|to combine; to get up to|note=Cosa hai combinato? = What have you been up to?
+definire|v|to define|note=-isc- verb.
+assistere|v|to attend, to witness; to assist|note=assistere a uno spettacolo.
+denunciare|v|to report (to police); to denounce
+bussare|v|to knock (on a door)|note=Bussano alla porta = Someone's knocking.
+cedere|v|to give in, to yield; to give up
+inventare|v|to invent, to make up
+esaminare|v|to examine
+stringere|v|to squeeze, to tighten; to shake (hands)|note=Passato: ho stretto. stringere la mano.
+annullare|v|to cancel, to annul
+sollevare|v|to lift, to raise
+arrendersi|v|to surrender, to give up|note=Passato: si è arreso.
+comunicare|v|to communicate
+spezzare|v|to break (into pieces)
+coinvolgere|v|to involve|note=Passato: ho coinvolto.
+strappare|v|to tear, to rip
+corrispondere|v|to correspond
+fornire|v|to supply, to provide|note=-isc- verb.
+trasportare|v|to carry, to transport
+spettare|v|to be up to, to be due|note=Spetta a te decidere = It's up to you to decide.
+mordere|v|to bite|note=Passato: ho morso.
+proseguire|v|to continue, to go on
+crollare|v|to collapse
+esprimere|v|to express|note=Passato: ho espresso.
+seppellire|v|to bury|note=-isc- verb; participle sepolto.
+benedire|v|to bless|note=Like dire: benedico; benedetto.
+reggere|v|to hold, to support; to bear|note=Passato: ho retto.
+confondere|v|to confuse, to mix up|note=Passato: ho confuso. confondersi = to get mixed up.
+nuocere|v|to harm|reg=lit
+sorvegliare|v|to watch over, to guard
+abbracciarsi|v|to hug each other
+baciarsi|v|to kiss each other
+salutarsi|v|to say goodbye/hello to each other
+accomodarsi|v|to make oneself comfortable; to take a seat|note=Si accomodi! = Please have a seat / come in.
+avvenire|v|to happen, to occur|note=Like venire; passato with essere.
+concludere|v|to conclude|note=Passato: ho concluso.
+elencare|v|to list
+estrarre|v|to extract, to pull out|note=Like trarre: estraggo; estratto.
+fidare|v|to trust (fidarsi di)
+gonfiare|v|to inflate, to swell
+illuminare|v|to illuminate, to light up
+indicare|v|to point (at), to indicate, to show
+lamentare|v|to lament (lamentarsi = to complain)
+nominare|v|to name, to mention; to appoint
+nutrire|v|to feed, to nourish
+ottenere|v|to obtain
+piegare|v|to fold, to bend
+prevedere|v|to foresee, to predict; to provide for|note=Like vedere: previsto.
+proibire|v|to forbid, to prohibit|note=-isc- verb.
+realizzare|v|to make, to carry out; to achieve|note=Careful: 'realize (understand)' = rendersi conto.
+ridurre|v|to reduce|note=Like produrre: riduco; ridotto.
+riempire|v|to fill
+rischiarare|v|to light up, to brighten
+rivolgersi|v|to turn to, to address|note=rivolgersi a qualcuno.
+sbrigare|v|to deal with, to get done
+scaldare|v|to warm up, to heat
+soffiare|v|to blow
+sorgere|v|to rise (sun); to arise|note=Passato: è sorto.
+sparare|v|to shoot
+stabilire|v|to establish, to set|note=-isc- verb.
+svolgere|v|to carry out, to perform|note=svolgersi = to take place.
+tremare|v|to tremble, to shake
+unirsi|v|to join
+vestire|v|to dress
+
+# adv
+purtroppo|adv|unfortunately
+probabilmente|adv|probably
+esattamente|adv|exactly
+assolutamente|adv|absolutely
+ovviamente|adv|obviously, of course
+completamente|adv|completely
+semplicemente|adv|simply
+sicuramente|adv|surely, certainly
+certamente|adv|certainly
+soprattutto|adv|above all, especially
+specialmente|adv|especially
+insomma|adv|in short; well...; so-so|note=Insomma! = Come on! / Honestly!
+perciò|conj|so, therefore
+inoltre|adv|moreover, besides
+naturalmente|adv|naturally, of course
+immediatamente|adv|immediately
+praticamente|adv|practically, basically
+persino|adv|even
+perfino|adv|even
+laggiù|adv|down there, over there
+lassù|adv|up there
+stavolta|adv|this time
+addosso|adv|on (oneself), on top of|note=Ho addosso il cappotto. Mi è venuto addosso = He bumped into me.
+ultimamente|adv|lately, recently
+chiaramente|adv|clearly
+decisamente|adv|definitely, decidedly
+direttamente|adv|directly
+seriamente|adv|seriously
+perfettamente|adv|perfectly
+velocemente|adv|quickly, fast
+lentamente|adv|slowly
+finora|adv|so far, until now
+chissà|adv|who knows; I wonder
+personalmente|adv|personally
+sinceramente|adv|honestly, sincerely
+improvvisamente|adv|suddenly
+all'improvviso|phr|suddenly, all of a sudden
+attorno|adv|around
+a malapena|phr|barely, hardly
+nel frattempo|phr|in the meantime
+a proposito|phr|by the way
+in fretta|phr|in a hurry, quickly|note=avere fretta = to be in a hurry.
+di nuovo|phr|again
+per caso|phr|by chance; by any chance
+per fortuna|phr|luckily, fortunately
+per forza|phr|necessarily; by force; of course
+sul serio|phr|seriously, really
+a lungo|phr|for a long time
+in giro|phr|around, about|note=andare in giro = to go around; prendere in giro = to make fun of.
+facilmente|adv|easily
+normalmente|adv|normally, usually
+generalmente|adv|generally
+finalmente|adv|at last
+recentemente|adv|recently
+attentamente|adv|carefully
+gentilmente|adv|kindly
+fortunatamente|adv|fortunately
+continuamente|adv|continuously, constantly
+altrettanto|adv|likewise, equally|note=Grazie, altrettanto! = Thanks, same to you!
+nemmeno|adv|not even
+neppure|adv|not even
+tuttora|adv|still, even now
+oramai|adv|by now
+tutt'al più|phr|at most
+così via|phr|so on|note=e così via = and so on.
+tra poco|phr|soon, shortly
+fra poco|phr|in a little while
+poco fa|phr|a little while ago
+da sempre|phr|always (since forever)
+per sempre|phr|forever
+volentieri|adv|gladly, willingly|note=Volentieri! = With pleasure!
+insieme|adv|together
+bene o male|phr|more or less, somehow
+eccome|adv|and how!, you bet!

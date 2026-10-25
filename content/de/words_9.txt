@@ -1,0 +1,271 @@
+# German core vocabulary, part 9 — everyday essentials and storybook vocabulary
+
+# food
+Brezel|n.f|pretzel
+Schnitzel|n.n|schnitzel, breaded cutlet
+Bratwurst|n.f|fried sausage
+Sauerkraut|n.n|sauerkraut
+Knödel|n.m|dumpling|note=Southern Germany/Austria.
+Senf|n.m|mustard
+Joghurt|n.m|yogurt|note=Also das Joghurt.
+Quark|n.m|quark (curd cheese); nonsense (coll)
+Sahne|n.f|cream|note=Schlagsahne = whipped cream.
+Müsli|n.n|muesli
+Marmelade|n.f|jam
+Nuss|n.f|nut|note=Plural Nüsse.
+Pilz|n.m|mushroom
+Paprika|n.f|bell pepper; paprika
+Spinat|n.m|spinach
+Bohne|n.f|bean
+Erbse|n.f|pea
+Kohl|n.m|cabbage
+Kürbis|n.m|pumpkin
+Pflaume|n.f|plum
+Pfirsich|n.m|peach
+Ananas|n.f|pineapple
+Melone|n.f|melon
+Wurstbrot|n.n|sausage sandwich
+Pommes|n.pl|French fries|note=Short for Pommes frites.
+Kuchenstück|n.n|piece of cake
+Imbiss|n.m|snack; snack bar
+Lebensmittel|n.pl|groceries, food
+Getreide|n.n|grain, cereal
+Schale|n.f|bowl; peel, skin
+Becher|n.m|mug, cup; tub
+Krug|n.m|jug
+Kanne|n.f|pot (coffee/tea), jug
+Mixer|n.m|blender
+braten|v|to roast, to fry|note=brät – briet – hat gebraten.
+backen|v|to bake|note=backt/bäckt – backte – hat gebacken.
+schälen|v|to peel
+mischen|v|to mix
+probieren|v|to try, to taste
+gebraten|a|fried, roasted
+vegetarisch|a|vegetarian
+
+# home
+Waschmaschine|n.f|washing machine
+Spülmaschine|n.f|dishwasher
+Staubsauger|n.m|vacuum cleaner
+Besen|n.m|broom
+Schere|n.f|scissors|note=Singular: eine Schere.
+Nadel|n.f|needle
+Kleber|n.m|glue
+Taschenlampe|n.f|torch, flashlight
+Feuerzeug|n.n|lighter
+Streichholz|n.n|match (for fire)
+Pflaster|n.n|plaster, Band-Aid; pavement
+Thermometer|n.n|thermometer
+Klingel|n.f|doorbell
+Briefkasten|n.m|letterbox, mailbox
+Steckdose|n.f|socket, outlet
+Glühbirne|n.f|light bulb
+Wecker|n.m|alarm clock
+Kamin|n.m|fireplace
+Zaun|n.m|fence
+Garage|n.f|garage
+Gartenzwerg|n.m|garden gnome
+Werkstatt|n.f|workshop; garage (repair)
+Haushalt|n.m|household; budget
+Wäsche|n.f|laundry; underwear
+bügeln|v|to iron
+staubsaugen|v|to vacuum
+Mülleimer|n.m|rubbish bin, trash can
+
+# travel
+Autobahn|n.f|motorway, highway
+Tankstelle|n.f|petrol station, gas station
+tanken|v|to fill up (with fuel)
+Führerschein|n.m|driving licence
+Kennzeichen|n.n|number plate; characteristic
+Helm|n.m|helmet
+Kreuzung|n.f|crossroads, intersection
+Kreisverkehr|n.m|roundabout
+Stau|n.m|traffic jam
+Umleitung|n.f|detour, diversion
+Bahnsteig|n.m|platform
+Gleis|n.n|track, platform (number)|note=Der Zug fährt von Gleis 3.
+Anschluss|n.m|connection
+Hin- und Rückfahrt|phr|round trip
+Postkarte|n.f|postcard
+Briefmarke|n.f|stamp
+Zoll|n.m|customs; inch
+Sehenswürdigkeit|n.f|sight, attraction
+Unterkunft|n.f|accommodation
+Jugendherberge|n.f|youth hostel
+Rezeption|n.f|reception (desk)
+Aufzug|n.m|lift, elevator
+Stadtplan|n.m|city map
+Fußgänger|n.m|pedestrian
+Bürgersteig|n.m|sidewalk, pavement
+Haltestelle|n.f|stop
+
+# free
+Handball|n.m|handball
+Tennis|n.n|tennis
+Radfahren|n.n|cycling
+Skifahren|n.n|skiing
+Stadion|n.n|stadium
+Schiedsrichter|n.m|referee
+Spielplatz|n.m|playground
+Schaukel|n.f|swing
+Rutsche|n.f|slide
+Drachen|n.m|kite|note=der Drachen (kite) vs der Drache (dragon).
+Luftballon|n.m|balloon
+Verstecken|n.n|hide-and-seek|note=Verstecken spielen.
+Würfel|n.m|dice; cube
+Schach|n.n|chess
+Brettspiel|n.n|board game
+Kartenspiel|n.n|card game
+Zirkus|n.m|circus
+Zoo|n.m|zoo
+Jahrmarkt|n.m|fair, funfair
+Volksfest|n.n|folk festival|note=e.g. the Oktoberfest.
+Biergarten|n.m|beer garden
+
+# school
+Schultasche|n.f|schoolbag
+Radiergummi|n.m|eraser, rubber
+Spitzer|n.m|pencil sharpener
+Lineal|n.n|ruler
+Zeugnis|n.n|school report, certificate
+Pause|n.f|break, recess
+Schulhof|n.m|schoolyard
+Gymnasium|n.n|grammar school, academic high school|note=False friend: not a gym (Turnhalle).
+Kindergarten|n.m|kindergarten
+Abitur|n.n|school-leaving exam (A-levels)
+Semester|n.n|semester
+Vorlesung|n.f|lecture
+Verb|n.n|verb
+Substantiv|n.n|noun
+Adjektiv|n.n|adjective
+Artikel|n.m|article
+Fall|n.m|case (grammar)
+Plural|n.m|plural
+Singular|n.m|singular
+Endung|n.f|ending
+Silbe|n.f|syllable
+Akzent|n.m|accent
+Dialekt|n.m|dialect
+buchstabieren|v|to spell
+abschreiben|v|to copy (out); to cheat|note=Separable.
+korrigieren|v|to correct
+auswendig|adv|by heart|note=auswendig lernen = to learn by heart.
+
+# nature
+Nebel|n.m|fog, mist
+Blitz|n.m|lightning
+Donner|n.m|thunder
+Regenbogen|n.m|rainbow
+Hagel|n.m|hail
+Erdbeben|n.n|earthquake
+Vulkan|n.m|volcano
+Felsen|n.m|rock, cliff
+Höhle|n.f|cave
+Welle|n.f|wave
+Ufer|n.n|bank, shore
+Küste|n.f|coast
+Horizont|n.m|horizon
+Landschaft|n.f|landscape
+Ast|n.m|branch
+Zweig|n.m|twig, branch
+Wurzel|n.f|root
+Stamm|n.m|trunk; tribe
+Rabe|n.m|raven|note=Weak noun. Die sieben Raben (Grimm).
+Taube|n.f|pigeon, dove
+Eule|n.f|owl
+Kröte|n.f|toad
+Schildkröte|n.f|tortoise, turtle
+Ameise|n.f|ant
+Mücke|n.f|mosquito, midge
+Schnecke|n.f|snail
+Delfin|n.m|dolphin
+Hai|n.m|shark
+Elefant|n.m|elephant|note=Weak noun.
+Tiger|n.m|tiger
+Affe|n.m|monkey
+Lamm|n.n|lamb|note=Plural Lämmer.
+Kalb|n.n|calf|note=Plural Kälber.
+Stier|n.m|bull
+Ochse|n.m|ox|note=Weak noun.
+Küken|n.n|chick
+Pfote|n.f|paw
+Schnabel|n.m|beak
+Fell|n.n|fur, coat
+Horn|n.n|horn|note=Plural Hörner.
+Herde|n.f|herd, flock
+bellen|v|to bark
+miauen|v|to meow
+Stroh|n.n|straw|note=Rumpelstilzchen spins Stroh into gold.
+
+# people
+Schwiegersohn|n.m|son-in-law
+Schwiegertochter|n.f|daughter-in-law
+Verkäuferin|n.f|saleswoman, shop assistant
+Friseur|n.m|hairdresser|note=Also Frisör; female Friseurin.
+Klempner|n.m|plumber
+Elektriker|n.m|electrician
+Mechaniker|n.m|mechanic
+Maurer|n.m|bricklayer
+Maler|n.m|painter
+Musiker|n.m|musician
+Apotheker|n.m|pharmacist
+Metzger|n.m|butcher|note=Also Fleischer.
+Fischer|n.m|fisherman
+Seemann|n.m|sailor|note=Plural Seeleute.
+Schneider|n.m|tailor|note=Das tapfere Schneiderlein = The Brave Little Tailor.
+Schmied|n.m|blacksmith
+Hirte|n.m|shepherd|note=Weak noun.
+Magd|n.f|maid (farm, literary)|note=Plural Mägde.
+Knecht|n.m|farmhand, servant (literary)
+Bauernhof|n.m|farm
+
+# story
+Rumpelstilzchen|n.n|Rumpelstiltskin
+Rapunzel|n.f|Rapunzel
+Frau Holle|phr|Mother Holle (Grimm's tale)
+Bremer Stadtmusikanten|phr|the Town Musicians of Bremen
+Froschkönig|n.m|the Frog Prince
+Zopf|n.m|braid, plait|note=Rapunzel, lass dein Haar herunter!
+Kerker|n.m|dungeon
+Turm|n.m|tower
+Stiefel|n.m|boot|note=Der gestiefelte Kater = Puss in Boots.
+Kater|n.m|tomcat; hangover (coll)
+Kessel|n.m|kettle, cauldron
+Ofen|n.m|oven|note=Gretel pushes the witch into the Ofen.
+Brotkrume|n.f|breadcrumb
+Fußspur|n.f|footprint
+Zauberstab|n.m|magic wand
+Spiegel|n.m|mirror|note=Spieglein, Spieglein an der Wand...
+Apfel|n.m|apple
+Kutsche|n.f|carriage, coach
+Kutscher|n.m|coachman
+Pantoffel|n.m|slipper
+Ball|n.m|ball (dance); ball (toy)
+Zauberspruch|n.m|spell, magic words
+Hochzeit|n.f|wedding|note=Many tales end: ...und wenn sie nicht gestorben sind, dann leben sie noch heute.
+Waldhütte|n.f|forest hut
+Wanderschaft|n.f|travels, journeying|reg=lit
+Glücksfee|n.f|good fairy
+Schatzkiste|n.f|treasure chest
+Bösewicht|n.m|villain
+Gauner|n.m|crook, rogue
+Räuber|n.m|robber|note=Die Räuber appear in many Grimm tales.
+Dieb|n.m|thief
+Edelstein|n.m|gem, precious stone
+Perle|n.f|pearl
+Taler|n.m|thaler (old coin)|note=Die Sterntaler: the stars fall as silver Taler.
+Groschen|n.m|old coin (penny)|note=Der Groschen ist gefallen = The penny dropped.
+Gold|n.n|gold
+stark|a|strong
+lieblich|a|lovely, sweet (literary)|reg=lit
+prächtig|a|splendid, magnificent
+fromm|a|pious, devout|reg=lit
+verzweifelt|a|desperate
+hungern|v|to starve, to go hungry
+betteln|v|to beg
+spinnen|v|to spin
+verfluchen|v|to curse
+erlösen|v|to release, to redeem, to free (from a spell)
+verwünschen|v|to curse, to bewitch|reg=lit
+heiraten|v|to marry

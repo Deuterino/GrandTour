@@ -1,0 +1,309 @@
+# German core vocabulary, part 7 — more verbs (many separable/inseparable), adverbs
+
+# act
+abgeben|v|to hand in, to give up|note=Separable.
+abschließen|v|to lock; to complete|note=Separable: schloss ab – hat abgeschlossen.
+achten|v|to pay attention; to respect|gov=auf+Akk
+anbieten|v|to offer|note=Separable: bot an – hat angeboten.
+ändern|v|to change
+anfassen|v|to touch|note=Separable: Nicht anfassen! = Don't touch!
+angreifen|v|to attack|note=Separable: griff an – hat angegriffen.
+ankündigen|v|to announce|note=Separable.
+anmelden|v|to register, to sign up|note=Separable. sich anmelden.
+ansehen|v|to look at; to watch|note=Separable: sieht an – sah an – hat angesehen. sich etwas ansehen.
+aufbauen|v|to build up, to set up|note=Separable.
+aufgeben|v|to give up; to post (a letter)|note=Separable: gibt auf – gab auf – hat aufgegeben.
+aufpassen|v|to watch out, to pay attention; to look after|gov=auf+Akk;note=Separable: Pass auf! = Watch out!
+ausfüllen|v|to fill in (a form)|note=Separable.
+ausgehen|v|to go out|note=Separable: ging aus – ist ausgegangen.
+auskommen|v|to get by; to get along|gov=mit+Dat;note=Separable.
+ausprobieren|v|to try out|note=Separable.
+aussuchen|v|to pick out, to choose|note=Separable.
+beachten|v|to observe, to heed
+bedienen|v|to serve; to operate|note=sich bedienen = to help oneself.
+befreien|v|to free, to liberate
+behandeln|v|to treat
+beibringen|v|to teach|gov=+Dat person;note=Separable: Er bringt mir Deutsch bei.
+beißen|v|to bite|note=biss – hat gebissen.
+bekämpfen|v|to fight (against), to combat
+beleidigen|v|to insult
+benehmen|v|to behave (sich benehmen)
+beraten|v|to advise
+bereiten|v|to prepare; to cause (Freude bereiten)
+beruhigen|v|to calm (someone)
+beschließen|v|to decide, to resolve
+beschützen|v|to protect
+besitzen|v|to own, to possess|note=besaß – hat besessen.
+bestehen|v|to exist; to pass (exam); to consist (of)|gov=aus+Dat;note=bestand – hat bestanden. Die Prüfung bestehen. bestehen aus = consist of.
+bestimmen|v|to determine, to decide
+beten|v|to pray
+betreten|v|to enter, to step onto|note=betritt – betrat – hat betreten. Betreten verboten!
+beweisen|v|to prove|note=bewies – hat bewiesen.
+bewerben|v|to apply (sich bewerben)|gov=um+Akk;note=bewirbt – bewarb – hat beworben.
+bezahlen|v|to pay
+biegen|v|to bend; to turn|note=bog – hat/ist gebogen. links abbiegen = turn left.
+bieten|v|to offer|note=bot – hat geboten.
+blicken|v|to look, to glance
+bluten|v|to bleed
+brechen|v|to break|note=bricht – brach – hat/ist gebrochen.
+darstellen|v|to represent, to portray|note=Separable.
+dienen|v|to serve|gov=+Dat
+drohen|v|to threaten|gov=+Dat
+durchführen|v|to carry out|note=Separable.
+eignen|v|to be suitable (sich eignen)|gov=für+Akk
+einfallen|v|to occur (to someone)|gov=+Dat;note=Separable: Mir fällt nichts ein = I can't think of anything.
+einführen|v|to introduce; to import|note=Separable.
+eingehen|v|to go in; to agree to|note=Separable.
+einrichten|v|to furnish, to set up|note=Separable.
+einsetzen|v|to insert; to use; to appoint|note=Separable.
+einziehen|v|to move in|note=Separable: zog ein – ist eingezogen.
+empfangen|v|to receive|note=empfängt – empfing – hat empfangen.
+entfernen|v|to remove
+enthalten|v|to contain|note=enthält – enthielt – hat enthalten.
+entkommen|v|to escape|note=ist entkommen.
+entlassen|v|to dismiss, to fire; to release
+entstehen|v|to arise, to come into being|note=entstand – ist entstanden.
+entwickeln|v|to develop
+erfahren|v|to find out, to learn; to experience|note=erfährt – erfuhr – hat erfahren.
+erfinden|v|to invent|note=erfand – hat erfunden.
+erfüllen|v|to fulfill
+ergeben|v|to result in; (sich ergeben) to surrender
+erhöhen|v|to raise, to increase
+erleben|v|to experience
+ermorden|v|to murder
+ernähren|v|to feed, to nourish
+erscheinen|v|to appear
+ersetzen|v|to replace
+erwarten|v|to expect; to wait for|note=Ich kann es kaum erwarten = I can hardly wait.
+erwähnen|v|to mention
+fassen|v|to grasp, to seize; to hold|note=Ich kann es nicht fassen = I can't believe it.
+festhalten|v|to hold on (to)|note=Separable: hält fest – hielt fest – hat festgehalten.
+feststellen|v|to establish, to find out; to note|note=Separable.
+fliegen|v|to fly
+fließen|v|to flow|note=floss – ist geflossen.
+fordern|v|to demand
+fortsetzen|v|to continue|note=Separable.
+frieren|v|to freeze; to be cold|note=fror – hat gefroren. Ich friere = I'm freezing.
+führen|v|to lead; to guide; to run (a business)
+füttern|v|to feed (an animal)
+gebrauchen|v|to use
+gehorchen|v|to obey|gov=+Dat
+genügen|v|to suffice, to be enough
+gestehen|v|to confess|note=gestand – hat gestanden.
+gießen|v|to pour; to water (plants)|note=goss – hat gegossen. Es gießt = It's pouring.
+handeln|v|to act; to trade; to be about (es handelt sich um)|note=Worum handelt es sich? = What is it about?
+hassen|v|to hate
+heben|v|to lift, to raise|note=hob – hat gehoben.
+heilen|v|to heal, to cure
+heizen|v|to heat
+herausfinden|v|to find out|note=Separable: fand heraus – hat herausgefunden.
+herkommen|v|to come here|note=Separable: Komm her!
+hinsetzen|v|to sit down (sich hinsetzen)|note=Separable.
+hinzufügen|v|to add|note=Separable.
+jagen|v|to hunt; to chase
+kehren|v|to sweep; to turn
+klingeln|v|to ring (a bell)|note=Es klingelt = Someone's at the door.
+klingen|v|to sound|note=klang – hat geklungen. Das klingt gut!
+klopfen|v|to knock; to beat|note=Es klopft = Someone's knocking.
+kosten|v|to cost; to taste
+kriechen|v|to crawl, to creep|note=kroch – ist gekrochen.
+kühlen|v|to cool
+leeren|v|to empty
+leihen|v|to lend; to borrow (sich leihen)|note=lieh – hat geliehen.
+leisten|v|to achieve; (sich leisten) to afford|note=Das kann ich mir nicht leisten = I can't afford that.
+leiten|v|to lead, to manage
+lenken|v|to steer
+loslassen|v|to let go|note=Separable: Lass mich los!
+melden|v|to report (sich melden = to get in touch)|note=Melde dich! = Get in touch!
+nachdenken|v|to think about, to reflect|gov=über+Akk;note=Separable: dachte nach – hat nachgedacht.
+nutzen|v|to use, to make use of|note=Also nützen = to be of use.
+packen|v|to pack; to grab
+pflegen|v|to care for, to look after; to cultivate
+pfeifen|v|to whistle|note=pfiff – hat gepfiffen.
+planen|v|to plan
+prüfen|v|to check, to examine, to test
+quälen|v|to torment
+rechnen|v|to calculate; to count on (mit)|gov=mit+Dat
+regeln|v|to regulate, to settle
+reißen|v|to tear, to rip|note=riss – hat gerissen.
+reiten|v|to ride (a horse)|note=ritt – ist/hat geritten.
+rollen|v|to roll
+rühren|v|to stir; to touch emotionally|note=sich rühren = to move: Rühr dich nicht!
+schälen|v|to peel
+schauen|v|to look
+schieben|v|to push|note=schob – hat geschoben.
+schimpfen|v|to scold, to grumble
+schlagen|v|to hit
+schleichen|v|to sneak, to creep|note=schlich – ist geschlichen.
+schmeißen|v|to chuck, to throw (coll)|reg=coll
+schmelzen|v|to melt|note=schmilzt – schmolz – ist geschmolzen.
+schreiben|v|to write
+schütteln|v|to shake|note=den Kopf schütteln.
+schwitzen|v|to sweat
+segeln|v|to sail
+senken|v|to lower
+sichern|v|to secure; to save (a file)
+sinken|v|to sink|note=sank – ist gesunken.
+sorgen|v|to care for, to provide|gov=für+Akk
+speichern|v|to save, to store
+sperren|v|to block, to lock
+spüren|v|to feel, to sense
+stattfinden|v|to take place|note=Separable: fand statt – hat stattgefunden.
+stecken|v|to put, to stick; to be (stuck)|note=Wo steckt er? = Where is he hiding?
+stehen bleiben|phr|to stop, to stand still
+steigen|v|to climb
+stören|v|to disturb, to bother|note=Störe ich? = Am I disturbing you?
+stoßen|v|to push, to bump|note=stößt – stieß – hat gestoßen.
+streichen|v|to paint; to spread; to cancel|note=strich – hat gestrichen.
+studieren|v|to study
+tauschen|v|to swap, to exchange
+teilen|v|to share; to divide
+teilnehmen|v|to take part|gov=an+Dat;note=Separable: nimmt teil – nahm teil – hat teilgenommen.
+transportieren|v|to transport
+treiben|v|to drive; to do (sport)|note=trieb – hat getrieben. Sport treiben.
+trennen|v|to separate|note=sich trennen = to split up.
+trocknen|v|to dry
+üben|v|to practice
+überprüfen|v|to check, to verify
+überzeugen|v|to convince
+umdrehen|v|to turn around (sich umdrehen)|note=Separable.
+unterbrechen|v|to interrupt|note=Inseparable: unterbricht – unterbrach – hat unterbrochen.
+unterhalten|v|to entertain; (sich unterhalten) to chat|gov=mit+Dat, über+Akk
+unterscheiden|v|to distinguish|note=unterschied – hat unterschieden.
+unterstützen|v|to support
+untersuchen|v|to examine, to investigate
+verabreden|v|to arrange; (sich verabreden) to make a date|gov=mit+Dat
+verändern|v|to change, to alter
+verbessern|v|to improve; to correct
+verbieten|v|to forbid, to prohibit|note=verbot – hat verboten. Rauchen verboten!
+verbinden|v|to connect; to bandage|note=verband – hat verbunden.
+verbringen|v|to spend (time)|note=verbrachte – hat verbracht.
+vergleichen|v|to compare|note=verglich – hat verglichen.
+verhaften|v|to arrest
+verhindern|v|to prevent
+verkaufen|v|to sell
+verlangen|v|to demand, to require
+verletzen|v|to injure, to hurt
+verlieren|v|to lose
+vermieten|v|to rent out, to let
+verpassen|v|to miss (a train, a chance)
+verraten|v|to betray; to give away (a secret)|note=verrät – verriet – hat verraten.
+verschwinden|v|to disappear
+versorgen|v|to supply; to take care of
+verstecken|v|to hide
+vertreten|v|to represent; to stand in for
+verursachen|v|to cause
+verwandeln|v|to transform, to turn into|gov=in+Akk;note=Die Hexe verwandelte ihn in einen Frosch.
+verwechseln|v|to mix up, to confuse
+verzichten|v|to do without, to renounce|gov=auf+Akk
+vorkommen|v|to occur; to seem|gov=+Dat;note=Separable: Das kommt mir komisch vor = That seems strange to me.
+vorlesen|v|to read aloud|note=Separable: liest vor – las vor – hat vorgelesen.
+wagen|v|to dare
+wählen|v|to choose
+wehren|v|to defend oneself (sich wehren)
+weisen|v|to show, to point|note=wies – hat gewiesen.
+wenden|v|to turn (sich wenden an = to turn to)
+werfen|v|to throw
+wischen|v|to wipe
+wohnen|v|to live
+zerstören|v|to destroy
+ziehen|v|to pull
+zittern|v|to tremble, to shiver
+zwingen|v|to force|note=zwang – hat gezwungen.
+zubereiten|v|to prepare (food)|note=Separable.
+zulassen|v|to allow, to permit|note=Separable.
+zunehmen|v|to increase; to gain weight|note=Separable.
+abnehmen|v|to take off; to decrease; to lose weight; to answer (the phone)|note=Separable: nimmt ab – nahm ab – hat abgenommen.
+zurückgeben|v|to give back|note=Separable.
+zusammenarbeiten|v|to cooperate|note=Separable.
+zustimmen|v|to agree|gov=+Dat;note=Separable: Ich stimme dir zu.
+
+# adv
+allerdings|adv|however; certainly, indeed
+anscheinend|adv|apparently
+ausgerechnet|adv|of all things/people/places
+bisher|adv|so far, until now
+dadurch|adv|thereby, as a result
+dafür|adv|for it; instead; in return
+dagegen|adv|against it; on the other hand|note=Hast du was dagegen? = Do you mind?
+daher|adv|therefore, hence; from there
+damit|adv|with it; so that (conj.)
+dann und wann|phr|now and then
+darauf|adv|on it; afterwards|note=Es kommt darauf an = It depends.
+darüber|adv|about it; over it
+davon|adv|of it, from it
+dazu|adv|to it; in addition
+demnächst|adv|soon, shortly
+derzeit|adv|currently
+drüben|adv|over there
+ebenso|adv|just as, equally
+ehrlich gesagt|phr|to be honest
+eher|adv|rather; earlier, sooner
+eigens|adv|specially
+einmal|adv|once; one day
+endgültig|adv|finally, definitively
+erstmal|adv|first of all (coll)|reg=coll
+erstens|adv|firstly
+zweitens|adv|secondly
+ewig|adv|forever, eternally
+gegebenenfalls|adv|if necessary
+glücklicherweise|adv|fortunately
+heutzutage|adv|nowadays
+höchstens|adv|at most
+inzwischen|adv|meanwhile, by now
+irgendwann|adv|sometime, at some point
+jedenfalls|adv|in any case, anyway
+jemals|adv|ever
+keineswegs|adv|by no means
+längst|adv|long ago; for a long time
+meistens|adv|mostly, usually
+mindestens|adv|at least
+mittlerweile|adv|meanwhile, in the meantime
+morgens|adv|in the morning(s)
+abends|adv|in the evening(s)
+nachts|adv|at night
+nachher|adv|afterwards, later
+nebenbei|adv|by the way; on the side
+normalerweise|adv|normally, usually
+offenbar|adv|evidently, apparently
+offensichtlich|adv|obviously
+plötzlich|adv|suddenly
+rechtzeitig|adv|in time, on time
+schon wieder|phr|yet again
+sehr gern|phr|with pleasure, gladly
+sicherlich|adv|certainly, surely
+so gut wie|phr|as good as, practically
+sofort|adv|immediately
+stets|adv|always (formal)
+tatsächlich|adv|actually, really, in fact
+teilweise|adv|partly
+übermorgen|adv|the day after tomorrow
+unbedingt|adv|absolutely, by all means|note=Das musst du unbedingt sehen!
+ursprünglich|adv|originally
+vielmehr|adv|rather, on the contrary
+völlig|adv|completely, totally
+vor allem|phr|above all, especially
+vorbei|adv|over, past, finished|note=Es ist vorbei = It's over.
+wenigstens|adv|at least
+wieso|adv|why, how come
+wirklich|adv|really
+zufällig|adv|by chance
+zuletzt|adv|last, finally
+zumindest|adv|at least
+zunächst|adv|first, at first
+ziemlich|adv|quite
+zurzeit|adv|at the moment
+außen|adv|outside
+innen|adv|inside
+oben|adv|above
+herein|adv|in (here)|note=Herein! = Come in!
+heraus|adv|out (here)
+hinaus|adv|out (there)
+hinein|adv|in (there)
+hinauf|adv|up (there)
+hinunter|adv|down (there)
+herum|adv|around|note=um... herum = around.
+entlang|adv|along
+nebenan|adv|next door
+irgendwas|pron|something, anything (coll)|reg=coll
+irgendwer|pron|someone, anyone (coll)|reg=coll

@@ -1,0 +1,529 @@
+# German core vocabulary, part 8 — frequency gaps
+
+# abs
+Dank|n.m|thanks, gratitude|note=Vielen Dank! Gott sei Dank! = Thank God!
+Rest|n.m|rest, remainder
+Schluss|n.m|end, conclusion|note=Schluss machen = to break up / call it a day. zum Schluss = finally.
+Beziehung|n.f|relationship; connection
+Nähe|n.f|nearness, proximity|note=in der Nähe = nearby.
+Schlag|n.m|blow, hit, punch; stroke
+Bescheid|n.m|information, notice|note=Bescheid sagen = to let know; Bescheid wissen = to know (about it).
+Lauf|n.m|run, course|note=im Laufe der Zeit = in the course of time.
+Besuch|n.m|visit; visitors|note=zu Besuch = visiting.
+Zuhause|n.n|home
+Kontrolle|n.f|control, check
+Sucht|n.f|addiction
+Liste|n.f|list
+Kontakt|n.m|contact
+Wette|n.f|bet|note=Wetten, dass...? = I bet that...
+Blick|n.m|look, glance; view
+Bericht|n.m|report
+Spur|n.f|trace, track; lane
+Dienst|n.m|service; duty
+Position|n.f|position
+Druck|n.m|pressure; print
+Unsinn|n.m|nonsense
+Loch|n.n|hole|note=Plural Löcher.
+Neuigkeit|n.f|news (item)
+Furcht|n.f|fear (literary)
+Sitz|n.m|seat
+Gang|n.m|corridor; gear; course (meal); walk|note=im Gange = under way.
+Auftrag|n.m|assignment, order, commission
+Akte|n.f|file, record
+Bewegung|n.f|movement, motion; exercise
+Streit|n.m|quarrel, argument
+Zeitpunkt|n.m|point in time, moment
+Haufen|n.m|heap, pile; lot
+Scherz|n.m|joke
+Szene|n.f|scene
+Video|n.n|video
+Einheit|n.f|unit; unity
+Gewissen|n.n|conscience
+Labor|n.n|laboratory
+Schrei|n.m|scream, cry
+Runde|n.f|round; lap
+Umstand|n.m|circumstance|note=unter Umständen = possibly. Machen Sie keine Umstände! = Don't go to any trouble!
+Einsatz|n.m|use, deployment; effort; stake
+Absicht|n.f|intention|note=mit Absicht = on purpose.
+Anzug|n.m|suit
+Erklärung|n.f|explanation; declaration
+Schutz|n.m|protection
+Direktor|n.m|director, principal
+Fähigkeit|n.f|ability, skill
+Wesen|n.n|being, creature; nature
+Reihe|n.f|row, line; series|note=Ich bin an der Reihe = It's my turn.
+Trick|n.m|trick
+Griff|n.m|grip, handle
+Wache|n.f|guard, watch
+Versteck|n.n|hiding place
+Zelle|n.f|cell
+Rache|n.f|revenge
+Signal|n.n|signal
+Detail|n.n|detail
+Untersuchung|n.f|investigation; examination
+Grab|n.n|grave|note=Plural Gräber.
+Gewinn|n.m|profit; prize, winnings
+Aussage|n.f|statement
+Vorschlag|n.m|suggestion, proposal
+Schild|n.n|sign; (der Schild) shield
+Botschaft|n.f|message; embassy
+Ratte|n.f|rat
+Schande|n.f|shame, disgrace
+Blödsinn|n.m|nonsense, rubbish
+Hof|n.m|yard, courtyard; farm; court|note=Plural Höfe. Bauernhof = farm.
+Gabe|n.f|gift, talent
+Truppe|n.f|troop, unit
+Talent|n.n|talent
+Dreck|n.m|dirt, filth
+Heim|n.n|home
+Kauf|n.m|purchase
+Sünde|n.f|sin
+Panik|n.f|panic
+Magie|n.f|magic
+Gegenteil|n.n|opposite|note=im Gegenteil = on the contrary.
+Angelegenheit|n.f|matter, affair
+Affe|n.m|monkey, ape|note=Weak noun.
+Verlust|n.m|loss
+Zugang|n.m|access
+Lügner|n.m|liar
+Presse|n.f|press
+Gerücht|n.n|rumor
+Freundschaft|n.f|friendship
+Unterstützung|n.f|support
+Besitz|n.m|possession, property
+Gebiet|n.n|area, region; field
+Verräter|n.m|traitor
+Station|n.f|station; ward
+Beerdigung|n.f|funeral
+Vergnügen|n.n|pleasure|note=Viel Vergnügen! = Have fun!
+Albtraum|n.m|nightmare
+Hinweis|n.m|hint, clue; note
+Geduld|n.f|patience
+Gerechtigkeit|n.f|justice
+Eindruck|n.m|impression
+Medizin|n.f|medicine
+Chaos|n.n|chaos
+Klang|n.m|sound
+Leitung|n.f|line (phone); pipe; management
+Anweisung|n.f|instruction
+Feigling|n.m|coward
+Explosion|n.f|explosion
+Anführer|n.m|leader
+Kaiser|n.m|emperor
+Bedingung|n.f|condition
+Uniform|n.f|uniform
+Vorteil|n.m|advantage
+Nachteil|n.m|disadvantage
+Maske|n.f|mask
+Abteilung|n.f|department
+Krebs|n.m|cancer; crab
+Quelle|n.f|source; spring
+Verkauf|n.m|sale
+Krieger|n.m|warrior
+Publikum|n.n|audience
+Unterhaltung|n.f|conversation; entertainment
+Beginn|n.m|beginning
+Gnade|n.f|mercy, grace
+Rauch|n.m|smoke
+Aufnahme|n.f|recording; photograph; admission
+Bereich|n.m|area, field, range
+Stoff|n.m|fabric, material; substance
+Ereignis|n.n|event
+Sklave|n.m|slave|note=Weak noun.
+Anteil|n.m|share, part
+Graf|n.m|count (nobleman)|note=Weak noun: den Grafen.
+Menschheit|n.f|mankind, humanity
+Urteil|n.n|judgment, verdict
+Dunkelheit|n.f|darkness
+Stärke|n.f|strength
+Klinik|n.f|clinic
+Experiment|n.n|experiment
+Linie|n.f|line
+Empfang|n.m|reception
+Leiter|n.f|ladder|note=die Leiter (ladder) vs der Leiter (leader).
+Kreis|n.m|circle; district
+Kopie|n.f|copy
+Verrat|n.m|betrayal
+Ewigkeit|n.f|eternity|note=seit einer Ewigkeit = for ages.
+Wille|n.m|will|note=Mixed: des Willens.
+Führer|n.m|leader, guide; driver
+Quatsch|n.m|nonsense (coll)|reg=coll
+Scheidung|n.f|divorce
+Probe|n.f|test, sample; rehearsal|note=auf Probe = on trial.
+Reaktion|n.f|reaction
+Tipp|n.m|tip, hint
+Heimat|n.f|home, homeland
+Wahnsinn|n.m|madness, insanity|note=Wahnsinn! = Amazing! / Crazy!
+Behandlung|n.f|treatment
+Besitzer|n.m|owner
+Auftritt|n.m|appearance, performance
+Stress|n.m|stress
+Realität|n.f|reality
+Einfluss|n.m|influence
+Verdacht|n.m|suspicion
+Verletzung|n.f|injury
+Gegner|n.m|opponent
+Generation|n.f|generation
+Kreuz|n.n|cross
+Franzose|n.m|Frenchman|note=Weak noun. Französin = Frenchwoman.
+Verabredung|n.f|date, appointment
+Wissenschaftler|n.m|scientist
+Schreibtisch|n.m|desk
+Jagd|n.f|hunt, hunting
+Text|n.m|text
+Sarg|n.m|coffin
+Diener|n.m|servant
+Bedrohung|n.f|threat
+Training|n.n|training
+Dummkopf|n.m|fool, idiot
+Verteidigung|n.f|defense
+Basis|n.f|basis, base
+Motiv|n.n|motive; motif
+Wüste|n.f|desert
+Nation|n.f|nation
+Leidenschaft|n.f|passion
+Verhandlung|n.f|negotiation; hearing
+Titel|n.m|title
+Legende|n.f|legend
+Überfall|n.m|raid, assault, robbery
+Material|n.n|material
+Unglück|n.n|misfortune; accident
+Käfig|n.m|cage
+Schluck|n.m|sip, gulp
+Stahl|n.m|steel
+Studio|n.n|studio
+
+# act
+nennen|v|to name, to call|note=Mixed: nannte – hat genannt.
+passen|v|to fit; to suit|gov=+Dat;note=Das passt mir gut = That suits me.
+schätzen|v|to estimate; to value, to appreciate
+erwischen|v|to catch (coll)
+aufhalten|v|to stop, to hold up; (sich aufhalten) to stay|note=Separable.
+schnappen|v|to snatch, to grab
+treten|v|to step; to kick|note=tritt – trat – ist/hat getreten.
+wirken|v|to have an effect; to seem|note=Er wirkt müde = He seems tired.
+atmen|v|to breathe
+überleben|v|to survive|note=Inseparable.
+ruhen|v|to rest
+mitbringen|v|to bring along|note=Separable: brachte mit – hat mitgebracht.
+nicken|v|to nod
+ehren|v|to honor
+hinterlassen|v|to leave behind|note=Inseparable: hinterlässt – hinterließ – hat hinterlassen.
+nerven|v|to get on someone's nerves (coll)|reg=coll
+filmen|v|to film
+auftauchen|v|to appear, to turn up|note=Separable, aux sein.
+trauen|v|to trust|gov=+Dat;note=sich trauen = to dare.
+abhauen|v|to clear off, to run away (coll)|reg=coll;note=Separable, aux sein. Hau ab! = Get lost!
+kapieren|v|to get it, to understand (coll)|reg=coll
+schmerzen|v|to hurt, to ache
+verbrennen|v|to burn|note=Mixed: verbrannte – hat/ist verbrannt.
+wachen|v|to keep watch, to be awake
+richten|v|to direct, to aim; to judge|note=sich richten nach = to go by.
+hingehen|v|to go there|note=Separable.
+verfolgen|v|to pursue, to follow; to persecute
+stoppen|v|to stop
+rauskommen|v|to come out (coll)|note=Separable.
+bestätigen|v|to confirm
+greifen|v|to grab, to reach for|note=griff – hat gegriffen.
+wehtun|v|to hurt|gov=+Dat;note=Separable: Das tut mir weh = That hurts me.
+besprechen|v|to discuss
+zurückkehren|v|to return|note=Separable, aux sein.
+opfern|v|to sacrifice
+starten|v|to start; to take off
+berichten|v|to report
+aufnehmen|v|to take in; to record; to admit|note=Separable.
+ruinieren|v|to ruin
+klauen|v|to nick, to pinch (steal, coll)|reg=coll
+antun|v|to do (something to someone)|note=Separable: Was hat er dir angetan?
+überlassen|v|to leave (to someone)|note=Inseparable: Das überlasse ich dir.
+seufzen|v|to sigh
+angehen|v|to concern; to tackle|note=Separable: Das geht dich nichts an = That's none of your business.
+riskieren|v|to risk
+vernichten|v|to destroy, to annihilate
+vergeben|v|to forgive; to award|note=vergibt – vergab – hat vergeben.
+betrügen|v|to cheat, to deceive|note=betrog – hat betrogen.
+platzen|v|to burst|note=Aux sein.
+fressen|v|to eat (of animals)|note=frisst – fraß – hat gefressen. People essen, animals fressen.
+ertragen|v|to bear, to endure|note=erträgt – ertrug – hat ertragen.
+reagieren|v|to react
+begegnen|v|to meet (by chance)|gov=+Dat;note=Aux sein: Ich bin ihm begegnet.
+umgehen|v|to deal with (mit), to handle|gov=mit+Dat;note=Separable: Er kann gut mit Kindern umgehen.
+gründen|v|to found, to establish
+stammen|v|to come from, to originate|gov=aus+Dat
+spinnen|v|to spin; to be crazy (coll)|note=spann – hat gesponnen. Du spinnst! = You're nuts!
+verteidigen|v|to defend
+begehen|v|to commit (a crime); to celebrate|note=beging – hat begangen.
+tauchen|v|to dive
+kontrollieren|v|to check, to control
+bilden|v|to form; to educate
+loswerden|v|to get rid of|note=Separable: wurde los – ist losgeworden.
+liefern|v|to deliver, to supply
+verurteilen|v|to sentence; to condemn
+durchmachen|v|to go through (hardship)|note=Separable.
+bewahren|v|to keep, to preserve
+wetten|v|to bet
+testen|v|to test
+zielen|v|to aim
+übergeben|v|to hand over|note=Inseparable. sich übergeben = to vomit.
+zusehen|v|to watch|note=Separable: sieht zu – sah zu – hat zugesehen.
+durchsuchen|v|to search (thoroughly)|note=Inseparable.
+bestrafen|v|to punish
+beeindrucken|v|to impress
+begreifen|v|to understand, to grasp|note=begriff – hat begriffen.
+sich nähern|v|to approach|gov=+Dat
+begraben|v|to bury|note=begräbt – begrub – hat begraben.
+entführen|v|to kidnap
+ignorieren|v|to ignore
+verdächtigen|v|to suspect
+trainieren|v|to train
+heulen|v|to howl; to cry (coll)
+bereuen|v|to regret
+anlügen|v|to lie to|note=Separable: log an – hat angelogen.
+sich amüsieren|v|to have fun, to enjoy oneself
+aussagen|v|to testify, to state|note=Separable.
+versagen|v|to fail
+anschauen|v|to look at|note=Separable. sich etwas anschauen.
+stinken|v|to stink|note=stank – hat gestunken.
+empfinden|v|to feel (sensation, emotion)|note=empfand – hat empfunden.
+täuschen|v|to deceive|note=sich täuschen = to be mistaken.
+räumen|v|to clear, to vacate
+gelten|v|to be valid; to be considered|note=gilt – galt – hat gegolten.
+respektieren|v|to respect
+benötigen|v|to need, to require
+gratulieren|v|to congratulate|gov=+Dat;note=Ich gratuliere dir zum Geburtstag!
+auffallen|v|to be noticeable, to strike|gov=+Dat;note=Separable: Mir ist aufgefallen, dass...
+garantieren|v|to guarantee
+durchfallen|v|to fail (an exam)|note=Separable, aux sein.
+vorhaben|v|to plan, to intend|note=Separable: Was hast du heute vor?
+präsentieren|v|to present
+erschaffen|v|to create|note=erschuf – hat erschaffen.
+buchen|v|to book
+flüstern|v|to whisper
+geraten|v|to get into (trouble etc.)|note=gerät – geriet – ist geraten. in Schwierigkeiten geraten.
+wegnehmen|v|to take away|note=Separable.
+verschwenden|v|to waste
+anhören|v|to listen to|note=Separable. Das hört sich gut an = That sounds good.
+explodieren|v|to explode|note=Aux sein.
+vorbeikommen|v|to come by, to drop in|note=Separable, aux sein.
+aktivieren|v|to activate
+verbergen|v|to hide, to conceal|note=verbirgt – verbarg – hat verborgen.
+mitmachen|v|to join in, to take part|note=Separable.
+nähen|v|to sew
+sich verabschieden|v|to say goodbye|gov=von+Dat
+zurückbringen|v|to bring back|note=Separable.
+eröffnen|v|to open (officially)
+aufwachsen|v|to grow up|note=Separable, aux sein: Ich bin in Berlin aufgewachsen.
+weitergehen|v|to go on, to continue|note=Separable, aux sein.
+überwachen|v|to monitor, to watch over
+ausdrücken|v|to express; to squeeze out|note=Separable.
+herrschen|v|to rule; to prevail
+stechen|v|to sting, to stab, to prick|note=sticht – stach – hat gestochen.
+nachsehen|v|to check, to look up|note=Separable.
+sich rächen|v|to take revenge|gov=an+Dat
+wiederkommen|v|to come back|note=Separable, aux sein.
+parken|v|to park
+abhalten|v|to hold (a meeting); to keep from|note=Separable.
+belügen|v|to lie to|note=belog – hat belogen.
+überfallen|v|to attack, to raid, to rob|note=Inseparable.
+besiegen|v|to defeat
+anstellen|v|to hire; to switch on; to get up to|note=Separable: Was hast du angestellt? = What have you been up to?
+festnehmen|v|to arrest|note=Separable.
+enttäuschen|v|to disappoint
+brüllen|v|to roar, to yell
+löschen|v|to extinguish; to delete
+einstellen|v|to hire; to adjust; to stop|note=Separable.
+befragen|v|to question
+weglaufen|v|to run away|note=Separable, aux sein.
+ablenken|v|to distract|note=Separable.
+auslösen|v|to trigger|note=Separable.
+baden|v|to bathe, to have a bath; to swim
+bewachen|v|to guard
+flehen|v|to plead, to beg
+bedauern|v|to regret
+sich verlaufen|v|to get lost (on foot)|note=Inseparable: Ich habe mich verlaufen = I got lost.
+anklagen|v|to accuse, to charge|note=Separable.
+ertrinken|v|to drown|note=ertrank – ist ertrunken.
+übertreiben|v|to exaggerate|note=Inseparable: übertrieb – hat übertrieben.
+sich weigern|v|to refuse
+ergreifen|v|to seize, to grab|note=ergriff – hat ergriffen.
+bezweifeln|v|to doubt
+befürchten|v|to fear
+sich aufregen|v|to get worked up|gov=über+Akk;note=Separable. Reg dich nicht auf! = Don't get upset!
+starren|v|to stare
+sich lohnen|v|to be worthwhile|note=Das lohnt sich = It's worth it.
+vergehen|v|to pass (time)|note=verging – ist vergangen.
+losgehen|v|to set off; to start|note=Separable, aux sein. Es geht los! = Here we go!
+einnehmen|v|to take (medicine); to occupy|note=Separable.
+operieren|v|to operate
+schlucken|v|to swallow
+überreden|v|to persuade|note=Inseparable.
+segnen|v|to bless
+locken|v|to lure, to entice
+sprengen|v|to blow up; to water (lawn)
+bewundern|v|to admire
+ersparen|v|to spare
+sich verloben|v|to get engaged
+ausschließen|v|to exclude, to rule out|note=Separable.
+
+# desc
+einzig|a|only, sole, single|note=der einzige = the only one.
+wunderschön|a|beautiful, gorgeous
+ständig|a|constant, permanent; (adv.) constantly
+großartig|a|great, splendid
+unglaublich|a|unbelievable, incredible
+absolut|a|absolute; (adv.) absolutely
+lächerlich|a|ridiculous
+gewiss|a|certain
+wundervoll|a|wonderful
+dringend|a|urgent
+einverstanden|a|agreed|note=Einverstanden! = Agreed! Ich bin einverstanden = I agree.
+fair|a|fair
+komplett|a|complete
+übel|a|bad, nasty|note=Mir ist übel = I feel sick. Nimm es mir nicht übel = Don't take it badly.
+schick|a|chic, smart
+dankbar|a|grateful
+offiziell|a|official
+vertraut|a|familiar|gov=mit+Dat
+erfolgreich|a|successful
+romantisch|a|romantic
+aufregend|a|exciting
+aufgeregt|a|excited, nervous
+bewusst|a|conscious, aware
+vernünftig|a|sensible, reasonable
+dreckig|a|dirty
+gering|a|small, low, slight
+üblich|a|usual, customary
+angenehm|a|pleasant|note=Sehr angenehm! = Pleased to meet you (formal).
+ernsthaft|a|serious
+französisch|a|French
+italienisch|a|Italian
+englisch|a|English
+amerikanisch|a|American
+eng|a|narrow, tight; close
+medizinisch|a|medical
+definitiv|a|definite; (adv.) definitely
+albern|a|silly
+anständig|a|decent
+wertvoll|a|valuable
+wahnsinnig|a|insane; (adv.) incredibly (coll)
+reizend|a|charming, lovely
+erstaunlich|a|astonishing, amazing
+doppelt|a|double
+tödlich|a|deadly, fatal
+speziell|a|special, specific
+männlich|a|male, masculine
+weiblich|a|female, feminine
+ungewöhnlich|a|unusual
+sanft|a|gentle, soft
+hervorragend|a|excellent
+treu|a|loyal, faithful
+genial|a|brilliant, ingenious
+eilig|a|hurried, urgent|note=Ich habe es eilig = I'm in a hurry.
+korrekt|a|correct
+begeistert|a|enthusiastic|gov=von+Dat
+freiwillig|a|voluntary
+heftig|a|violent, fierce, heavy
+vollkommen|a|perfect, complete; (adv.) completely
+ordentlich|a|tidy, orderly; proper
+bewaffnet|a|armed
+attraktiv|a|attractive
+friedlich|a|peaceful
+gnädig|a|merciful, gracious|note=gnädige Frau = madam (old-fashioned).
+unbekannt|a|unknown
+sinnlos|a|pointless
+brutal|a|brutal
+königlich|a|royal
+köstlich|a|delicious
+gesamt|a|whole, entire, total
+übrig|a|left over, remaining
+besorgt|a|worried
+beschäftigt|a|busy
+heutig|a|today's, present-day
+gewohnt|a|used to, accustomed|note=Ich bin es gewohnt = I'm used to it.
+vergangen|a|past, last|note=vergangene Woche = last week.
+dauernd|a|constant; (adv.) all the time
+russisch|a|Russian
+chinesisch|a|Chinese
+dumm|a|stupid
+
+# adv
+daran|adv|on it, about it|note=Denk daran! = Remember it! (denken an)
+darum|adv|that's why; about it|note=Darum geht es = That's what it's about.
+raus|adv|out (coll, = heraus/hinaus)|note=Raus! = Out!
+runter|adv|down (coll)
+rein|adv|in (coll); (adj.) pure, clean
+rüber|adv|over, across (coll)
+rauf|adv|up (coll)
+dran|adv|on it; one's turn (coll)|note=Du bist dran = It's your turn.
+drin|adv|inside, in it (coll)
+weiter|adv|further, on|note=Und weiter? = And then? immer weiter = on and on.
+niemals|adv|never
+hierher|adv|here (to this place)|note=Komm hierher!
+bereits|adv|already
+bisschen|adv|a bit, a little|note=ein bisschen = a little.
+zwar|adv|indeed, admittedly|note=zwar... aber = it's true that... but; und zwar = namely.
+genauso|adv|just as, exactly the same
+nochmal|adv|again, once more (coll)
+wozu|adv|what for, why
+dahin|adv|there, to that place
+darin|adv|in it, therein
+diesmal|adv|this time
+worauf|adv|on what; what for
+zuvor|adv|before, previously
+wovon|adv|of what, about what
+daraus|adv|from it, out of it
+davor|adv|in front of it; before that
+mitten|adv|in the middle|note=mitten in der Nacht = in the middle of the night.
+worum|adv|what about|note=Worum geht es? = What is it about?
+vorhin|adv|a moment ago, earlier
+fort|adv|away, gone
+dorthin|adv|there (to that place)
+vorwärts|adv|forwards
+rückwärts|adv|backwards
+abgesehen|adv|apart (from)|note=abgesehen von = apart from.
+vorn|adv|at the front|note=Also vorne.
+woran|adv|on what, about what|note=Woran denkst du? = What are you thinking about?
+woanders|adv|somewhere else
+vermutlich|adv|presumably
+nirgendwo|adv|nowhere
+dennoch|adv|nevertheless
+beinahe|adv|almost, nearly
+weiterhin|adv|still; in future
+heim|adv|home|note=heimgehen = to go home.
+immerhin|adv|after all, at least
+miteinander|adv|with each other
+möglicherweise|adv|possibly
+jederzeit|adv|at any time
+öfter|adv|more often; quite often
+hinterher|adv|afterwards; behind
+dahinter|adv|behind it
+bestens|adv|very well, excellently
+meinetwegen|adv|for all I care; as far as I'm concerned; for my sake
+daneben|adv|next to it; besides; off target
+stattdessen|adv|instead
+äußerst|adv|extremely
+auseinander|adv|apart
+darunter|adv|underneath; among them
+hiermit|adv|herewith, with this
+neuerdings|adv|recently, lately
+
+# func
+weder|conj|neither|note=weder... noch = neither... nor.
+entweder|conj|either|note=entweder... oder = either... or.
+soweit|conj|as far as
+desto|conj|the (more)|note=je mehr, desto besser = the more, the better.
+welche|pron|some, any (coll); which|note=Hast du Geld? — Ja, ich habe welches.
+denen|pron|to whom, to which (dative plural relative)|note=die Leute, denen ich helfe.
+deren|pron|whose, of which (feminine/plural)|note=die Frau, deren Mann...
+dessen|pron|whose, of which (masculine/neuter)|note=der Mann, dessen Auto...
+derjenige|pron|the one (who)|note=derjenige, der... = the one who...
+irgendein|det|some, any|note=irgendein Buch = some book (or other).
+irgendwelche|det|some, any (plural)
+irgendjemand|pron|someone, anyone
+irgendetwas|pron|something, anything
+sowas|pron|something like that (coll)|reg=coll;note=So was! = Well I never!
+selber|pron|-self (coll, = selbst)
+manch|det|many a, some
+vieles|pron|much, many things
+einiges|pron|quite a lot, some things
+solch|det|such|note=solche Leute = such people.

@@ -1,0 +1,389 @@
+# German core vocabulary, part 5 — adjectives, abstract nouns
+
+# desc
+groß|a|big, large; tall; great|note=größer – am größten.
+klein|a|small, little; short
+hoch|a|high, tall|note=Drops c when declined: ein hoher Berg. höher – am höchsten.
+niedrig|a|low
+tief|a|deep
+lang|a|long|note=länger – am längsten.
+kurz|a|short|note=kürzer – am kürzesten.
+breit|a|wide, broad
+schmal|a|narrow, slim
+dick|a|thick; fat
+dünn|a|thin
+schwer|a|heavy; difficult|note=Das ist schwer = That's hard.
+leicht|a|light; easy
+neu|a|new
+alt|a|old|note=älter – am ältesten. Wie alt bist du?
+jung|a|young|note=jünger – am jüngsten.
+modern|a|modern
+schön|a|beautiful, nice, lovely|note=Schönen Tag noch! = Have a nice day!
+hässlich|a|ugly
+hübsch|a|pretty
+gut|a|good; well|note=besser – am besten. Gut!
+schlecht|a|bad; badly; ill|note=Mir ist schlecht = I feel sick.
+böse|a|evil, wicked; angry, cross|note=Bist du mir böse? = Are you angry with me?
+richtig|a|right, correct; real|note=Richtig! = Correct!
+falsch|a|wrong, false
+wahr|a|true|note=nicht wahr? = isn't it? Das ist wahr.
+einfach|a|simple, easy; single (ticket)
+schwierig|a|difficult
+kompliziert|a|complicated
+möglich|a|possible|note=so schnell wie möglich = as quickly as possible.
+unmöglich|a|impossible
+wichtig|a|important
+nötig|a|necessary
+notwendig|a|necessary
+nützlich|a|useful
+egal|a|all the same; doesn't matter|note=Das ist mir egal = I don't care.
+klar|a|clear
+sicher|a|safe; sure, certain
+gefährlich|a|dangerous
+stark|a|strong|note=stärker. Also 'great' (coll): Das ist stark!
+schwach|a|weak|note=schwächer.
+schnell|a|fast, quick
+langsam|a|slow
+laut|a|loud, noisy; according to (prep.)
+leise|a|quiet, soft
+ruhig|a|quiet, calm, peaceful
+still|a|still, quiet
+voll|a|full|note=voller = full of.
+leer|a|empty
+offen|a|open; frank
+geschlossen|a|closed
+frei|a|free; vacant|note=Ist hier frei? = Is this seat free?
+besetzt|a|occupied, taken; busy (phone)
+fertig|a|finished, ready
+bereit|a|ready, prepared
+nah|a|near, close|note=näher – am nächsten. Also nahe.
+fern|a|far, distant
+weit|a|far; wide|note=Wie weit ist es?
+nass|a|wet
+trocken|a|dry
+weich|a|soft
+hart|a|hard|note=härter.
+glatt|a|smooth; slippery
+rund|a|round
+gerade|a|straight; even (number)
+tief|a|deep
+hell|a|bright, light
+dunkel|a|dark|note=Declined: ein dunkles Zimmer (drops e).
+sauber|a|clean
+schmutzig|a|dirty
+arm|a|poor
+reich|a|rich
+teuer|a|expensive
+billig|a|cheap
+ganz|a|whole, entire, complete
+halb|a|half
+gleich|a|same, equal
+ähnlich|a|similar|gov=+Dat;note=Er ist seinem Vater ähnlich.
+verschieden|a|different, various
+anders|adv|different(ly)|note=Das ist anders = That's different.
+fremd|a|strange, foreign, unfamiliar|note=Ich bin hier fremd = I'm not from here.
+seltsam|a|strange, odd
+komisch|a|funny, strange|note=Das ist komisch = That's weird.
+merkwürdig|a|strange, peculiar
+normal|a|normal
+besondere|a|special, particular|note=etwas Besonderes = something special.
+bekannt|a|well-known, famous; familiar
+berühmt|a|famous
+öffentlich|a|public
+privat|a|private
+persönlich|a|personal; in person
+allgemein|a|general|note=im Allgemeinen = in general.
+ganz|a|whole
+perfekt|a|perfect
+fein|a|fine, delicate
+rot|a|red|note=röter or roter.
+blau|a|blue; drunk (coll)
+grün|a|green
+gelb|a|yellow
+weiß|a|white
+schwarz|a|black|note=schwärzer.
+grau|a|gray
+braun|a|brown
+rosa|a|pink|note=Invariable.
+lila|a|purple|note=Invariable.
+orange|a|orange (color)
+bunt|a|colorful, multicolored
+Farbe|n.f|color; paint
+blond|a|blond
+nett|a|nice, kind
+freundlich|a|friendly, kind
+unfreundlich|a|unfriendly
+höflich|a|polite
+lieb|a|dear, kind, sweet|note=Liebe Anna (letter). Sei lieb! = Be good!
+sympathisch|a|likeable, pleasant|note=False friend: not 'sympathetic' (= mitfühlend).
+klug|a|clever, smart, wise|note=klüger.
+intelligent|a|intelligent
+dumm|a|stupid, dumb|note=dümmer.
+blöd|a|stupid, silly (coll)
+verrückt|a|crazy, mad
+ehrlich|a|honest|note=Ehrlich? = Really?
+fleißig|a|hard-working, diligent
+faul|a|lazy; rotten
+mutig|a|brave
+feige|a|cowardly
+geduldig|a|patient
+neugierig|a|curious, nosy
+ernst|a|serious
+lustig|a|funny, merry
+witzig|a|funny, witty
+fröhlich|a|cheerful, merry|note=Fröhliche Weihnachten!
+glücklich|a|happy; lucky
+froh|a|glad, happy
+zufrieden|a|satisfied, content|gov=mit+Dat
+traurig|a|sad
+wütend|a|furious, angry
+nervös|a|nervous
+ängstlich|a|anxious, fearful
+überrascht|a|surprised
+müde|a|tired
+langweilig|a|boring
+interessant|a|interesting
+spannend|a|exciting, thrilling
+wunderbar|a|wonderful
+herrlich|a|marvelous, glorious
+toll|a|great
+schrecklich|a|terrible, awful
+furchtbar|a|terrible, dreadful
+schlimm|a|bad, serious|note=Nicht so schlimm = Not so bad / No problem.
+ruhig|a|calm
+verliebt|a|in love|gov=in+Akk
+verheiratet|a|married
+ledig|a|single, unmarried
+allein|a|alone
+einsam|a|lonely
+stolz|a|proud|gov=auf+Akk
+eifersüchtig|a|jealous
+enttäuscht|a|disappointed
+vorsichtig|a|careful|note=Sei vorsichtig!
+wach|a|awake
+betrunken|a|drunk
+fähig|a|capable, able
+eigen|a|own|note=mein eigenes Zimmer = my own room.
+typisch|a|typical
+selten|a|rare
+häufig|a|frequent, common
+national|a|national
+international|a|international
+politisch|a|political
+sozial|a|social
+menschlich|a|human, humane
+göttlich|a|divine
+heilig|a|holy, sacred
+magisch|a|magic, magical
+geheim|a|secret
+gesetzlich|a|legal
+illegal|a|illegal
+schuldig|a|guilty; owing|note=Ich bin dir 10 Euro schuldig.
+unschuldig|a|innocent
+verantwortlich|a|responsible|gov=für+Akk
+aktuell|a|current, up to date|note=False friend: not 'actual' (= tatsächlich).
+modern|a|modern
+letzte|a|last
+nächste|a|next; nearest
+früher|a|former
+zukünftig|a|future
+gegenwärtig|a|present, current
+sofortig|a|immediate
+plötzlich|a|sudden; (adv.) suddenly
+riesig|a|huge, enormous
+winzig|a|tiny
+ungeheuer|a|enormous; monstrous
+genau|a|exact, precise
+direkt|a|direct
+gemeinsam|a|common, shared; (adv.) together
+blind|a|blind
+taub|a|deaf
+stumm|a|mute, silent
+nackt|a|naked
+umgekehrt|a|reverse, opposite; (adv.) the other way round
+gegenteilig|a|opposite
+gerecht|a|fair, just
+ungerecht|a|unfair
+praktisch|a|practical
+nützlich|a|useful
+ausgezeichnet|a|excellent
+fantastisch|a|fantastic
+super|a|super
+grausam|a|cruel
+gewalttätig|a|violent
+mächtig|a|powerful, mighty
+schwach|a|weak
+
+# abs
+Sache|n.f|thing, matter
+Tatsache|n.f|fact|note=Tatsächlich? = Really?
+Idee|n.f|idea|note=Keine Ahnung! = No idea!
+Ahnung|n.f|idea, notion, inkling|note=Keine Ahnung = No idea.
+Problem|n.n|problem|note=Kein Problem!
+Frage|n.f|question; issue
+Grund|n.m|reason; ground; bottom|note=aus diesem Grund = for this reason; im Grunde = basically.
+Ursache|n.f|cause|note=Keine Ursache! = Don't mention it!
+Folge|n.f|consequence; episode; sequence
+Wirkung|n.f|effect
+Ergebnis|n.n|result|note=Plural Ergebnisse.
+Ziel|n.n|goal, aim; destination
+Zweck|n.m|purpose|note=Das hat keinen Zweck = It's pointless.
+Art|n.f|kind, type, sort; way, manner|note=eine Art... = a kind of...; auf diese Art = in this way.
+Weise|n.f|way, manner|note=auf diese Weise.
+Mittel|n.n|means; remedy
+Sinn|n.m|sense; meaning|note=Das macht keinen Sinn / Das hat keinen Sinn = That makes no sense.
+Teil|n.m|part, share|note=zum Teil = partly.
+Stück|n.n|piece; play (theater)|note=ein Stück Kuchen.
+Punkt|n.m|point; dot; period|note=um Punkt acht = at eight sharp.
+Fall|n.m|case; fall|note=auf jeden Fall = in any case; auf keinen Fall = no way.
+Zufall|n.m|chance, coincidence|note=Was für ein Zufall!
+Gelegenheit|n.f|opportunity, occasion
+Möglichkeit|n.f|possibility, option
+Chance|n.f|chance
+Glück|n.n|luck; happiness|note=Glück haben = to be lucky; Viel Glück!
+Pech|n.n|bad luck; pitch|note=Pech haben = to be unlucky.
+Schicksal|n.n|fate, destiny
+Leben|n.n|life
+Seele|n.f|soul
+Geist|n.m|spirit, mind; ghost|note=Plural Geister.
+Gedanke|n.m|thought|note=Mixed: des Gedankens. sich Gedanken machen = to worry.
+Gedächtnis|n.n|memory (faculty)
+Erinnerung|n.f|memory, remembrance; reminder
+Traum|n.m|dream|note=Plural Träume.
+Wunsch|n.m|wish|note=Plural Wünsche.
+Hoffnung|n.f|hope
+Angst|n.f|fear, anxiety|note=Plural Ängste. Angst haben vor + Dat.
+Mut|n.m|courage
+Kraft|n.f|strength, power, force|note=Plural Kräfte.
+Macht|n.f|power, might
+Energie|n.f|energy
+Ruhe|n.f|calm, rest
+Frieden|n.m|peace|note=Mixed: des Friedens.
+Krieg|n.m|war
+Freiheit|n.f|freedom
+Freude|n.f|joy|note=Freude haben an + Dat.
+Spaß|n.m|fun; joke|note=Viel Spaß! Das macht Spaß = That's fun.
+Trauer|n.f|grief, mourning
+Schmerz|n.m|pain
+Wut|n.f|rage, fury
+Ärger|n.m|annoyance, anger; trouble|note=Ärger bekommen = to get into trouble.
+Scham|n.f|shame
+Überraschung|n.f|surprise
+Mitleid|n.n|pity, compassion
+Vertrauen|n.n|trust
+Respekt|n.m|respect
+Ehre|n.f|honor
+Gefühl|n.n|feeling
+Stimmung|n.f|mood, atmosphere
+Laune|n.f|mood|note=gute Laune = good mood.
+Sorge|n.f|worry, care|note=Keine Sorge! = Don't worry!
+Bedürfnis|n.n|need
+Lust|n.f|desire, wish|note=Lust haben auf + Akk / zu = to feel like: Ich habe Lust auf Eis.
+Interesse|n.n|interest|gov=an+Dat / für+Akk
+Aufmerksamkeit|n.f|attention
+Hilfe|n.f|help
+Gefallen|n.m|favor|note=Kannst du mir einen Gefallen tun?
+Schönheit|n.f|beauty
+Wahrheit|n.f|truth
+Wirklichkeit|n.f|reality|note=in Wirklichkeit = in reality.
+Fehler|n.m|mistake
+Schuld|n.f|guilt, blame, fault; (pl.) debts|note=Das ist meine Schuld = It's my fault.
+Recht|n.n|right; law|note=Recht haben = to be right.
+Unrecht|n.n|wrong, injustice|note=Unrecht haben = to be wrong.
+Gesetz|n.n|law
+Regel|n.f|rule|note=in der Regel = as a rule.
+Ordnung|n.f|order, tidiness|note=In Ordnung! = OK! All right!
+System|n.n|system
+Methode|n.f|method
+Plan|n.m|plan|note=Plural Pläne.
+Programm|n.n|program
+Entscheidung|n.f|decision|note=eine Entscheidung treffen = to make a decision.
+Wahl|n.f|choice; election
+Lösung|n.f|solution
+Antwort|n.f|answer
+Zweifel|n.m|doubt|note=ohne Zweifel.
+Beweis|n.m|proof, evidence
+Versuch|n.m|attempt; experiment
+Erfolg|n.m|success|note=Viel Erfolg! = Good luck!
+Sieg|n.m|victory
+Niederlage|n.f|defeat
+Spiel|n.n|game; play; match
+Witz|n.m|joke
+Geschichte|n.f|story
+Situation|n.f|situation
+Lage|n.f|situation, position
+Zustand|n.m|condition, state|note=Plural Zustände.
+Stellung|n.f|position
+Ebene|n.f|level; plain
+Qualität|n.f|quality
+Menge|n.f|amount, quantity
+Wert|n.m|value, worth
+Gewicht|n.n|weight
+Maß|n.n|measure; (Bavarian) liter of beer (die Maß)
+Form|n.f|form, shape
+Seite|n.f|side; page|note=auf der einen Seite... auf der anderen Seite = on the one hand... on the other.
+Raum|n.m|space; room
+Licht|n.n|light
+Schatten|n.m|shadow, shade
+Farbe|n.f|color
+Geruch|n.m|smell
+Zeichen|n.n|sign, signal
+Name|n.m|name
+Unterschied|n.m|difference
+Veränderung|n.f|change
+Wechsel|n.m|change, exchange
+Anfang|n.m|beginning
+Ende|n.n|end
+Beispiel|n.n|example
+Gewohnheit|n.f|habit
+Charakter|n.m|character
+Verhalten|n.n|behavior
+Erziehung|n.f|upbringing; education
+Bildung|n.f|education (cultural)
+Kultur|n.f|culture
+Tradition|n.f|tradition
+Religion|n.f|religion
+Glaube|n.m|faith, belief|note=Mixed: des Glaubens.
+Gott|n.m|God; god|note=Plural Götter. Gott sei Dank! = Thank God!
+Himmel|n.m|heaven; sky
+Hölle|n.f|hell
+Paradies|n.n|paradise
+Wunder|n.n|miracle, wonder|note=Kein Wunder! = No wonder!
+Rätsel|n.n|riddle, puzzle; mystery
+Abenteuer|n.n|adventure
+Gefahr|n.f|danger|note=in Gefahr = in danger.
+Risiko|n.n|risk|note=Plural Risiken.
+Sicherheit|n.f|safety, security; certainty
+Schwierigkeit|n.f|difficulty
+Mühe|n.f|effort, trouble|note=sich Mühe geben = to make an effort.
+Anstrengung|n.f|effort, exertion
+Arbeit|n.f|work
+Ruhe|n.f|rest
+Pause|n.f|break
+Weg|n.m|way, path
+Schritt|n.m|step|note=Schritt für Schritt = step by step.
+Richtung|n.f|direction
+Abstand|n.m|distance, gap
+Boden|n.m|ground, floor; bottom
+Spitze|n.f|top, tip, point; lace|note=Spitze! = Great! (coll)
+Mitte|n.f|middle
+Rand|n.m|edge, margin
+Oberfläche|n.f|surface
+Höhe|n.f|height; altitude|note=Das ist die Höhe! = That's the limit!
+Länge|n.f|length
+Breite|n.f|width
+Tiefe|n.f|depth
+Geschwindigkeit|n.f|speed
+Typ|n.m|type
+Sorte|n.f|sort, kind, variety
+Gruppe|n.f|group
+Element|n.n|element
+Thema|n.n|topic, subject, theme|note=Plural Themen.
+Begriff|n.m|term, concept|note=im Begriff sein = to be about to.
+Prinzip|n.n|principle|note=im Prinzip = in principle.
+Theorie|n.f|theory
+Praxis|n.f|practice; doctor's office|note=in der Praxis = in practice.
+Kunst|n.f|art
+Wissenschaft|n.f|science
+Natur|n.f|nature
+Moral|n.f|moral (of a story); morals
