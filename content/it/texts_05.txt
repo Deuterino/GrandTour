@@ -1,0 +1,168 @@
+# Italian unit stories, units 41–50 (Il Centro: Santi e città).
+
+=== u41 | dialogue | Alla fiera dell'antiquariato
+intro: On the first weekend of every month, Arezzo's streets fill with antiques. Tom, the painter, looks for an old frame. The passive and the si construction.
+Antiquario: Buongiorno! Qui si vendono mobili, quadri e cornici di ogni epoca. | Good morning! Furniture, paintings and frames from every period are sold here.
+Tom: Questa cornice è molto bella. Di che epoca è? | This frame is very beautiful. What period is it from?
+Antiquario: È stata fatta a Firenze nel Settecento. È stata restaurata l'anno scorso. | It was made in Florence in the eighteenth century. It was restored last year.
+Tom: E questo tavolo? | And this table?
+Antiquario: Viene da una villa vicino a Siena. Il legno va pulito, ma è in ottime condizioni. | It comes from a villa near Siena. The wood needs cleaning, but it's in excellent condition.
+Tom: Si può trattare sul prezzo? | Can you bargain over the price?
+Antiquario: Qui si tratta sempre! Ma la cornice non si vende sotto i cento euro. | Here people always bargain! But the frame won't be sold for under a hundred euros.
+Tom: Va bene, la prendo. Ci metterò un ritratto di Giulia. | All right, I'll take it. I'll put a portrait of Giulia in it.
+q: Qui ___ vendono mobili e quadri. | si | ci | ne | en: Furniture and paintings are sold here. | why: si passivante: si vendono (plural)
+q: La cornice è ___ fatta a Firenze. | stata | stato | stati | en: The frame was made in Florence. | why: passive: è stata fatta (la cornice → feminine)
+q: Il legno ___ pulito. | va | viene stato | è andato | en: The wood needs cleaning. | why: andare + participle = must be …
+
+=== u41 | reading | Piero della Francesca
+intro: In the church of San Francesco in Arezzo, Piero della Francesca painted the Legend of the True Cross. Passive forms in an art guide.
+- Gli affreschi della chiesa di San Francesco furono dipinti da Piero della Francesca tra il 1452 e il 1466. | The frescoes of the church of San Francesco were painted by Piero della Francesca between 1452 and 1466.
+- Vi è raccontata la leggenda della Vera Croce. | The legend of the True Cross is told in them.
+- Piero era anche un matematico: le sue figure sono costruite con la geometria. | Piero was also a mathematician: his figures are built with geometry.
+- Per molti anni i suoi quadri furono dimenticati. | For many years his paintings were forgotten.
+- Oggi i suoi affreschi vengono visitati da migliaia di persone ogni anno. | Today his frescoes are visited by thousands of people every year.
+q: Gli affreschi furono ___ da Piero della Francesca. | dipinti | dipinte | dipinto | en: The frescoes were painted by Piero della Francesca. | why: passive: gli affreschi (m pl) → dipinti
+q: Piero era anche un ___. | matematico | medico | musicista | en: Piero was also a mathematician. | why: «Piero era anche un matematico»
+
+=== u42 | dialogue | Qualcuno a Cortona
+intro: Cortona was founded by the Etruscans. Tom arrives alone and asks a barman for help. Indefinites: qualche, qualcuno, nessuno, niente, ogni.
+Tom: Buonasera. Conosce qualcuno che affitta una camera? | Good evening. Do you know anyone who rents out a room?
+Barista: Qualche camera c'è sempre. Ma stasera c'è una festa e non c'è niente di libero. | There are always a few rooms. But tonight there's a festival and there's nothing free.
+Tom: Niente? Neanche una piccola camera? | Nothing? Not even a little room?
+Barista: Aspetti, chiedo a qualcuno. … Mia zia ha una camera. Non la usa nessuno. | Wait, I'll ask somebody. … My aunt has a room. Nobody uses it.
+Tom: Grazie mille! Posso offrirle qualcosa da bere? | Thank you so much! Can I offer you something to drink?
+Barista: Un caffè, grazie. Ogni ospite di Cortona è un amico. | A coffee, thanks. Every guest of Cortona is a friend.
+Tom: Tutti sono così gentili qui? | Is everybody so kind here?
+Barista: Quasi tutti! Alcuni no, ma non lo dica a nessuno. | Almost everybody! Some aren't, but don't tell anyone.
+q: Stasera non c'è ___ di libero. | niente | nessuno | qualche | en: Tonight there's nothing free. | why: non … niente = nothing
+q: La camera della zia non la usa ___. | nessuno | niente | qualcuno | en: Nobody uses the aunt's room. | why: non … nessuno = nobody
+q: «___ ospite di Cortona è un amico.» | Ogni | Tutti | Qualche | en: "Every guest of Cortona is a friend." | why: ogni + singular noun
+
+=== u43 | dialogue | Baci, bacini e bacioni
+intro: Perugia makes the famous Baci chocolates, each wrapped in a little love note. Word formation: -ino, -one, -etto.
+Giulia: Guarda: un Bacio! Ogni cioccolatino ha un bigliettino con una frase d'amore. | Look: a Bacio! Every chocolate has a little note with a love quote.
+Tom: Che cosa dice il tuo? | What does yours say?
+Giulia: «L'amore è un gioco che non finisce mai.» E il tuo? | "Love is a game that never ends." And yours?
+Tom: Il mio è in inglese! Allora te lo leggo dopo, in una stanzetta tranquilla. | Mine is in English! Then I'll read it to you later, in a quiet little room.
+Giulia: Ah, sì? E se ti do un bacino? | Oh, really? And if I give you a little kiss?
+Tom: Un bacino? Io preferisco un bacione! | A little kiss? I'd rather have a big kiss!
+Giulia: Che parolaccia! … No, scherzo. Bacione non è una parolaccia. | What a rude word! … No, I'm joking. Bacione isn't a rude word.
+Tom: L'italiano è facilissimo: con -ino diventa piccolo, con -one diventa grande. | Italian is very easy: with -ino it gets small, with -one it gets big.
+q: Un bigliettino è un piccolo ___. | biglietto | bigliardo | bicchiere | en: A "bigliettino" is a little note. | why: biglietto + -ino = small note
+q: Un bacione è un bacio ___. | grande | piccolo | brutto | en: A "bacione" is a big kiss. | why: -one = big
+q: Una stanzetta è una piccola ___. | stanza | stazione | stella | en: A "stanzetta" is a little room. | why: stanza + -etta = small room
+
+=== u44 | reading | Il Cantico delle creature
+intro: In 1224 St Francis of Assisi wrote one of the first poems in the Italian language. Read the old Umbrian lines, then the modern Italian. Tap the old words!
+- Laudato si', mi' Signore, cum tucte le tue creature, | Praised be you, my Lord, with all your creatures,
+- spetialmente messor lo frate Sole, | especially Sir Brother Sun,
+- lo qual è iorno, et allumini noi per lui. | who is the day, and through whom you give us light.
+- Laudato si', mi' Signore, per sora Luna e le stelle. | Praised be you, my Lord, for Sister Moon and the stars.
+- In italiano moderno: «Sii lodato, mio Signore, con tutte le tue creature, specialmente il fratello Sole.» | In modern Italian: "Be praised, my Lord, with all your creatures, especially Brother Sun."
+- Francesco chiamava fratello e sorella il sole, la luna, il vento e l'acqua. | Francis called the sun, the moon, the wind and water brother and sister.
+q: Nel Cantico, il Sole è il ___ di Francesco. | fratello | padre | nemico | en: In the Canticle, the Sun is Francis's brother. | why: «messor lo frate Sole» — frate = fratello
+q: «sora Luna» significa «___ Luna». | sorella | signora | sera | en: "sora Luna" means "sister Moon". | why: sora = sorella (old Umbrian)
+q: «cum» è la parola latina per «___». | con | come | così | en: "cum" is the Latin word for "con" (with). | why: cum = con
+
+=== u44 | dialogue | San Francesco e il lupo
+intro: In Assisi, an old friar tells Tom a famous legend from the "Fioretti di San Francesco".
+Frate: Conosce la storia del lupo di Gubbio? | Do you know the story of the wolf of Gubbio?
+Tom: No. Me la racconta? | No. Will you tell it to me?
+Frate: Un lupo feroce mangiava gli animali e faceva paura a tutti. Francesco andò nel bosco a cercarlo. | A fierce wolf was eating the animals and frightening everyone. Francis went into the woods to look for it.
+Tom: E non aveva paura? | And wasn't he afraid?
+Frate: No. Gli disse: «Vieni qui, frate lupo.» E il lupo si sdraiò ai suoi piedi, come un cane. | No. He said to it: "Come here, Brother Wolf." And the wolf lay down at his feet, like a dog.
+Tom: E poi? | And then?
+Frate: Francesco fece un patto: la gente gli dava da mangiare, e il lupo non faceva più male a nessuno. | Francis made a pact: the people would feed it, and the wolf would never harm anyone again.
+Tom: Una bella storia. È vera? | A lovely story. Is it true?
+Frate: È vera per chi ci crede! | It's true for those who believe it!
+q: Il lupo mangiava gli ___. | animali | uomini | alberi | en: The wolf was eating the animals. | why: «mangiava gli animali»
+q: Francesco chiamò il lupo «___ lupo». | frate | fratello mio | signor | en: Francis called the wolf "Brother Wolf". | why: «Vieni qui, frate lupo.»
+q: Il lupo si sdraiò ai suoi piedi, come un ___. | cane | gatto | bambino | en: The wolf lay down at his feet, like a dog. | why: «come un cane»
+
+=== u45 | dialogue | Il Festival dei Due Mondi
+intro: Every summer since 1958, Spoleto's squares fill with opera, theatre and dance. An old actress remembers. The imperfetto.
+Attrice: Quando ero giovane, venivo a Spoleto ogni estate. | When I was young, I came to Spoleto every summer.
+Tom: Che cosa faceva qui? | What did you do here?
+Attrice: Recitavo in teatro, e la sera cantavamo nelle piazze fino a tardi. | I acted in the theatre, and in the evenings we sang in the squares until late.
+Tom: Com'era la città allora? | What was the town like then?
+Attrice: Era piccola e povera, ma piena di artisti. Tutti si conoscevano. C'erano americani, russi, inglesi. | It was small and poor, but full of artists. Everybody knew each other. There were Americans, Russians, English people.
+Tom: Per questo si chiama «dei Due Mondi»? | Is that why it's called "of the Two Worlds"?
+Attrice: Esatto: il mondo europeo e quello americano. Il fondatore, Menotti, voleva farli incontrare. | Exactly: the European world and the American one. The founder, Menotti, wanted to bring them together.
+q: Da giovane, l'attrice ___ a Spoleto ogni estate. | veniva | è venuta | viene | en: When she was young, the actress came to Spoleto every summer. | why: habit in the past → imperfetto
+q: La città ___ piccola, ma piena di artisti. | era | è stata | fu | en: The town was small but full of artists. | why: description in the past → imperfetto
+q: I «Due Mondi» sono l'Europa e l'___. | America | Asia | Africa | en: The "Two Worlds" are Europe and America. | why: «il mondo europeo e quello americano»
+
+=== u46 | reading | La città sotto la città
+intro: Orvieto stands on a cliff of soft volcanic rock, full of caves. The si construction and the passive in a guidebook.
+- Orvieto è costruita su una rupe di tufo, una pietra morbida che si scava facilmente. | Orvieto is built on a cliff of tuff, a soft stone that is easy to dig.
+- Sotto la città sono state trovate più di mille grotte. | More than a thousand caves have been found under the town.
+- Nelle grotte si facevano il vino e l'olio, e si tenevano i piccioni. | In the caves wine and oil were made, and pigeons were kept.
+- Nel Cinquecento fu scavato il Pozzo di San Patrizio, profondo cinquantaquattro metri. | In the sixteenth century St Patrick's Well was dug, fifty-four metres deep.
+- Ha due scale che non si incontrano mai: una per scendere e una per salire. | It has two staircases that never meet: one for going down and one for coming up.
+- Così gli asini, carichi di acqua, non si scontravano mai. | That way the donkeys, loaded with water, never bumped into each other.
+q: Il tufo è una pietra ___. | morbida | dura | nera | en: Tuff is a soft stone. | why: «una pietra morbida che si scava facilmente»
+q: Sotto la città sono state trovate più di mille ___. | grotte | case | chiese | en: More than a thousand caves have been found under the town. | why: «più di mille grotte»
+q: Il pozzo ha due ___ che non si incontrano mai. | scale | porte | finestre | en: The well has two staircases that never meet. | why: «Ha due scale che non si incontrano mai»
+
+=== u47 | reading | La città ideale
+intro: Urbino, Raphael's birthplace, was built as a model Renaissance city. Relative pronouns.
+- Urbino è la città in cui nacque Raffaello, nel 1483. | Urbino is the city in which Raphael was born, in 1483.
+- Il duca Federico da Montefeltro, che governava la città, voleva una corte piena di artisti e di libri. | Duke Federico da Montefeltro, who ruled the city, wanted a court full of artists and books.
+- Il palazzo che fece costruire è uno dei più belli del Rinascimento. | The palace he had built is one of the most beautiful of the Renaissance.
+- Nel palazzo c'è un quadro famoso, la «Città ideale», di cui non si conosce l'autore. | In the palace there is a famous painting, the "Ideal City", whose painter is unknown.
+- Mostra una piazza perfetta, nella quale non c'è nessuna persona. | It shows a perfect square in which there is not a single person.
+- Chi visita Urbino capisce perché i pittori la amavano. | Whoever visits Urbino understands why painters loved it.
+q: Urbino è la città in ___ nacque Raffaello. | cui | che | quale | en: Urbino is the city in which Raphael was born. | why: after a preposition → cui
+q: Il duca, ___ governava la città, amava i libri. | che | cui | il cui | en: The duke, who ruled the city, loved books. | why: subject → che
+q: Nella «Città ideale» non c'è ___ persona. | nessuna | qualche | ogni | en: In the "Ideal City" there isn't a single person. | why: non … nessuna
+
+=== u48 | dialogue | Il traghetto per la Grecia
+intro: Ancona's name comes from the Greek word for "elbow", the shape of its coast. Tom considers a detour by ferry. The future.
+Tom: Domani ci sarà un traghetto per la Grecia? | Will there be a ferry to Greece tomorrow?
+Impiegato: Sì, partirà alle diciassette e arriverà a Patrasso domani sera. | Yes, it will leave at five p.m. and arrive in Patras tomorrow evening.
+Tom: Quanto costerà il biglietto? | How much will the ticket cost?
+Impiegato: Dipende. Se prenderà una cabina, spenderà di più. | It depends. If you take a cabin, you'll spend more.
+Tom: Ci penserò. Giulia mi aspetta a Roma tra due settimane. | I'll think about it. Giulia is expecting me in Rome in two weeks.
+Impiegato: Allora sarà meglio restare in Italia. La Grecia ci sarà ancora l'anno prossimo! | Then you'd better stay in Italy. Greece will still be there next year!
+Tom: Ha ragione. Andrò a Roma, e in Grecia andrò con lei, un giorno. | You're right. I'll go to Rome, and I'll go to Greece with her, some day.
+q: Il traghetto ___ alle diciassette. | partirà | parte stato | partiva | en: The ferry will leave at five p.m. | why: future: partirà
+q: Se prenderà una cabina, ___ di più. | spenderà | spende | spendeva | en: If he takes a cabin, he'll spend more. | why: se + future → future
+q: Giulia aspetta Tom a ___. | Roma | Ancona | Patrasso | en: Giulia is expecting Tom in Rome. | why: «Giulia mi aspetta a Roma»
+
+=== u49 | reading | La Santa Casa di Loreto
+intro: A medieval legend told in the passato remoto, the tense of stories.
+- Secondo la leggenda, nel 1291 gli angeli presero la casa della Madonna a Nazareth. | According to the legend, in 1291 the angels took the house of the Virgin Mary in Nazareth.
+- La portarono in volo sopra il mare, fino all'altra parte dell'Adriatico. | They carried it in flight over the sea, all the way to the other side of the Adriatic.
+- Per qualche anno la casa si fermò in diversi luoghi. | For a few years the house stopped in different places.
+- Nel 1294 arrivò finalmente su una collina vicino a Loreto, in mezzo a un bosco di allori. | In 1294 it finally arrived on a hill near Loreto, in the middle of a laurel wood.
+- Sopra la piccola casa costruirono una grande basilica. | Over the little house they built a great basilica.
+- Per questo la Madonna di Loreto è diventata la protettrice degli aviatori. | That's why Our Lady of Loreto became the patron saint of airmen.
+q: Gli angeli ___ la casa di Nazareth. | presero | prendono | prendevano | en: The angels took the house from Nazareth. | why: passato remoto of prendere: presero
+q: La casa arrivò a Loreto nel ___. | 1294 | 1291 | 1924 | en: The house arrived in Loreto in 1294. | why: «Nel 1294 arrivò finalmente»
+q: La Madonna di Loreto è la protettrice degli ___. | aviatori | marinai | studenti | en: Our Lady of Loreto is the patron saint of airmen. | why: «la protettrice degli aviatori»
+
+=== u50 | dialogue | L'Aquila rinasce
+intro: Review: L'Aquila was badly damaged by the 2009 earthquake and has been carefully rebuilt. Tom meets a builder in the centre.
+Muratore: Vede questa chiesa? Nel 2009, dopo il terremoto, era tutta crollata. | Do you see this church? In 2009, after the earthquake, it had completely collapsed.
+Tom: E adesso è di nuovo in piedi. Come avete fatto? | And now it's standing again. How did you do it?
+Muratore: Abbiamo numerato ogni pietra e l'abbiamo rimessa al suo posto. Ci sono voluti dieci anni. | We numbered every stone and put it back in its place. It took ten years.
+Tom: È lo stesso lavoro che hanno fatto a Dresda, con la Frauenkirche. | It's the same work they did in Dresden, with the Frauenkirche.
+Muratore: Sì, ne ho sentito parlare. Se non avessimo ricostruito, la città sarebbe morta. | Yes, I've heard about it. If we hadn't rebuilt, the city would have died.
+Tom: Vorrei disegnare la Fontana delle 99 Cannelle. È vero che ha novantanove bocche? | I'd like to draw the Fountain of the 99 Spouts. Is it true that it has ninety-nine mouths?
+Muratore: Sì, una per ogni castello che, secondo la leggenda, fondò la città. | Yes, one for every castle that, according to the legend, founded the city.
+q: Nel 2009 la chiesa era tutta ___. | crollata | costruita | chiusa | en: In 2009 the church had completely collapsed. | why: «era tutta crollata»
+q: Ci sono voluti ___ anni per ricostruirla. | dieci | due | cento | en: It took ten years to rebuild it. | why: «Ci sono voluti dieci anni.»
+q: La fontana ha ___ bocche. | novantanove | nove | diciannove | en: The fountain has ninety-nine mouths. | why: «ha novantanove bocche»
+
+=== u50 | reading | Una lettera da L'Aquila
+intro: Review: Tom writes to his grandmother. All the tenses of the journey so far.
+- Cara nonna, | Dear Grandma,
+- sono a L'Aquila da tre giorni. Quando sono arrivato pioveva, ma oggi c'è il sole. | I've been in L'Aquila for three days. When I arrived it was raining, but today it's sunny.
+- Ho visto una città che è quasi morta ed è rinata. Gli aquilani sono forti e gentili. | I've seen a city that almost died and was reborn. The people of L'Aquila are strong and kind.
+- Se tu fossi qui, ti piacerebbero le montagne: d'inverno sono bianche di neve. | If you were here, you'd love the mountains: in winter they're white with snow.
+- Fra due settimane sarò a Roma. Giulia mi farà vedere tutta la città. | In two weeks I'll be in Rome. Giulia will show me the whole city.
+- Ti mando un disegno della fontana. Spero che ti piaccia! | I'm sending you a drawing of the fountain. I hope you like it!
+- Un abbraccio forte, Tom | A big hug, Tom
+q: Quando Tom è arrivato, ___. | pioveva | è piovuto | piove | en: When Tom arrived, it was raining. | why: background weather → imperfetto
+q: Se la nonna fosse qui, le ___ le montagne. | piacerebbero | piacciono | piacevano | en: If Grandma were here, she'd love the mountains. | why: unreal condition → condizionale
+q: Fra due settimane Tom ___ a Roma. | sarà | è | era | en: In two weeks Tom will be in Rome. | why: future: sarà

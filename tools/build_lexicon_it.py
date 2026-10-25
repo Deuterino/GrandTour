@@ -214,6 +214,7 @@ FUNC_FORMS = {
     "ognuno": ("ognuna", "-", "-"), "ciascuno": ("ciascuna", "-", "-"),
     "esso": ("essa", "essi", "esse"), "colui": ("colei", "coloro", "coloro"), "costui": ("costei", "costoro", "costoro"),
     "glielo": ("gliela", "glieli", "gliele"),
+    "benvenuto": ("benvenuta", "benvenuti", "benvenute"),
 }
 
 
@@ -371,7 +372,7 @@ def main():
             a = build_adj(e, recs, report)
             if a:
                 item["a"] = a
-        elif e["lemma"] in FUNC_FORMS and item["p"] in ("det", "pron", "adv"):
+        elif e["lemma"] in FUNC_FORMS and item["p"] in ("det", "pron", "adv", "intj"):
             f, mp, fp = FUNC_FORMS[e["lemma"]]
             item["a"] = {"f": f, "mp": mp, "fp": fp}
         ipa, aud = best_ipa(recs), best_audio(recs)

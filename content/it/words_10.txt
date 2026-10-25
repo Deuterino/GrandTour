@@ -184,3 +184,61 @@ colorato|a|colourful, coloured
 creativo|a|creative
 # greet
 oh|intj|oh
+# food
+botte|n.f|barrel, cask|note=Plural botti. Balsamic vinegar ages in a row of ever smaller botti.
+goccia|n.f|drop|note=Plural gocce.
+# school
+tesi|n.f|thesis, dissertation|note=Invariable: la tesi, le tesi.
+# free
+compositore|n.m|composer|note=Feminine compositrice.
+organo|n.m|organ (music; body)
+organista|n.mf|organist|note=Same form for men and women: l'organista.
+protagonista|n.mf|protagonist, main character; star|note=Same form for both: il/la protagonista.
+anfiteatro|n.m|amphitheatre
+# soc
+contrada|n.f|district of Siena (and other towns); (lit.) road|note=Siena has 17 contrade, each with its own animal and colours.
+# nature
+lupa|n.f|she-wolf|note=La Lupa nursed Romulus and Remus.
+terreno|n.m|ground, land, soil
+# city
+grattacielo|n.m|skyscraper|note=gratta + cielo = scrape + sky.
+costruzione|n.f|construction, building
+# home
+panno|n.m|cloth|note=Plural panni = clothes, washing: stendere i panni.
+# act
+sciacquare|v|to rinse
+inclinare|v|to tilt, to lean|note=inclinarsi = to lean (the tower si è inclinata).
+riunire|v|to bring together|note=-isc- verb. riunirsi = to meet, to gather.
+divenire|v|to become (literary)|reg=lit;note=Conjugated like venire: divenne = diventò.
+# desc
+turchino|a|deep blue, turquoise (literary)|reg=lit;note=La Fata dai capelli turchini (Pinocchio).
+medievale|a|medieval
+# act
+lodare|v|to praise|note=Laudato si' (St Francis) = Lodato sii = Be praised.
+sdraiare|v|to lay down|note=Usually sdraiarsi = to lie down: si sdraiò. la sdraio = deckchair.
+governare|v|to govern, to rule
+scontrarsi|v|to collide, to clash
+restaurare|v|to restore (art, buildings)|note=il restauro = restoration.
+numerare|v|to number
+rinascere|v|to be reborn|note=Like nascere: rinato. il Rinascimento = the Renaissance.
+# home
+cornice|n.f|frame (of a picture)
+mobile|n.m|piece of furniture|note=Plural i mobili = furniture. Also an adjective: mobile = movable.
+cabina|n.f|cabin; booth
+# arts
+ritratto|n.m|portrait
+cantico|n.m|canticle, hymn|note=il Cantico delle creature (St Francis, 1224).
+basilica|n.f|basilica|note=Plural basiliche.
+Rinascimento|n.m|the Renaissance
+# school
+matematico|n.m|mathematician|note=Also an adjective: matematico = mathematical.
+geometria|n.f|geometry
+# people
+fondatore|n.m|founder|note=Feminine fondatrice.
+attrice|n.f|actress|note=Masculine attore.
+protettrice|n.f|(female) protector; patron saint|note=Masculine protettore.
+aviatore|n.m|aviator, airman
+aquilano|a|from L'Aquila; (n.) person from L'Aquila
+# nature
+tufo|n.m|tuff (soft volcanic stone)
+rupe|n.f|cliff, crag

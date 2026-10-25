@@ -267,3 +267,26 @@ Bonjour|name|bonjour (French): good day
 Reggiano|name|(Parmigiano) Reggiano
 Bianco|place|(Monte) Bianco: Mont Blanc
 Regno|name|il Regno d'Italia: the Kingdom of Italy (1861–1946)
+Redi|name|Francesco Redi (1626–1697), physician and poet, author of "Bacco in Toscana"
+Dotta|name|la Dotta ("the Learned"): nickname of Bologna
+Copernico|name|Nicolaus Copernicus (1473–1543), studied in Bologna
+Bohème|name|La Bohème, opera by Puccini (1896)
+Tosca|name|Tosca, opera by Puccini (1900)
+Madama|name|Madama (Butterfly): opera by Puccini (1904)
+Butterfly|name|(Madama) Butterfly
+Lorenzini|name|Carlo Lorenzini (1826–1890), who wrote as Collodi
+Venere|name|Venus: La Nascita di Venere (Botticelli)
+Uffizi|place|the Uffizi Gallery, Florence
+Maggiore|place|Piazza Maggiore, Bologna
+Piero|name|Piero (della Francesca), painter (c. 1415–1492)
+Madonna|name|the Madonna, the Virgin Mary
+Nazareth|city|Nazareth
+Gubbio|city|Gubbio (Umbria): the wolf of St Francis
+Menotti|name|Gian Carlo Menotti (1911–2007), composer, founder of the Spoleto festival
+Patrizio|name|(San) Patrizio: Saint Patrick — il Pozzo di San Patrizio, Orvieto
+Montefeltro|name|Federico da Montefeltro (1422–1482), Duke of Urbino
+Patrasso|city|Patras (Greece)
+Dresda|city|Dresden
+Frauenkirche|place|the Frauenkirche, Dresden (rebuilt 1994–2005)
+ino|name|-ino: suffix meaning small or dear (gattino, bacino)
+one|name|-one: suffix meaning big (librone, bacione)

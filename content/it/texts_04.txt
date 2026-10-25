@@ -1,0 +1,177 @@
+# Italian unit stories, units 31–40 (Emilia e Toscana: C'era una volta…).
+
+=== u31 | dialogue | Te lo presto
+intro: Tom arrives in Bologna, Giulia's city, under 40 kilometres of porticoes. It's raining, and he has no umbrella. Combined pronouns: me lo, te lo, glielo.
+Giulia: Non hai l'ombrello? Te lo presto io. | You haven't got an umbrella? I'll lend you one.
+Tom: Grazie! Me lo dai adesso? | Thanks! Will you give it to me now?
+Giulia: Eccolo. Ma a Bologna l'ombrello non serve: ci sono i portici dappertutto! | Here it is. But in Bologna you don't need an umbrella: there are porticoes everywhere!
+Tom: È vero. E quel libro? È la tua tesi? | That's true. And that book? Is it your thesis?
+Giulia: Sì, l'ho scritta qui, all'università più antica del mondo occidentale. Vuoi leggerla? Te la regalo. | Yes, I wrote it here, at the oldest university in the Western world. Do you want to read it? I'll give it to you.
+Tom: Grazie! E mio fratello mi ha chiesto una cartolina di Bologna. | Thank you! And my brother asked me for a postcard from Bologna.
+Giulia: Gliela compriamo dopo, in piazza Maggiore. | We'll buy it for him later, in Piazza Maggiore.
+Tom: Perfetto. E il mio disegno della torre? | Perfect. And my drawing of the tower?
+Giulia: Quello me lo devi regalare tu! | That one, you have to give to me!
+q: L'ombrello? Giulia ___ presta a Tom. | glielo | gli lo | lo gli | en: The umbrella? Giulia lends it to Tom. | why: gli + lo → glielo
+q: La tesi? Giulia: «Te ___ regalo.» | la | lo | le | en: The thesis? Giulia: "I'll give it to you." | why: la tesi → te la
+q: A Bologna ci sono ___ dappertutto. | portici | ponti | torri | en: In Bologna there are porticoes everywhere. | why: «ci sono i portici dappertutto!»
+
+=== u31 | reading | L'università più antica
+intro: The University of Bologna, founded in 1088, is the oldest in continuous operation in the Western world.
+- Nel 1088 alcuni studenti di legge si sono riuniti a Bologna per studiare insieme. | In 1088 some law students came together in Bologna to study together.
+- Gli studenti pagavano i professori: se un professore era noioso, gli toglievano i soldi! | The students paid the professors: if a professor was boring, they took his money away!
+- Tra gli studenti ci sono stati Dante, Petrarca e Copernico. | Among the students were Dante, Petrarch and Copernicus.
+- Bologna ha anche avuto una delle prime professoresse della storia: Laura Bassi, nel 1732. | Bologna also had one of the first women professors in history: Laura Bassi, in 1732.
+- Per questo la chiamano «la Dotta»: la città che sa. | That's why they call it "la Dotta": the learned city.
+q: L'università di Bologna è nata nel ___. | 1088 | 1222 | 1732 | en: The University of Bologna was founded in 1088. | why: «Nel 1088 …»
+q: Se un professore era noioso, gli studenti ___ toglievano i soldi. | gli | lo | le | en: If a professor was boring, the students took his money away. | why: to him → gli
+q: Bologna si chiama «la ___». | Dotta | Grassa | Rossa | en: Bologna is called "the Learned". | why: «la chiamano la Dotta»
+
+=== u32 | dialogue | Nell'acetaia
+intro: Near Modena, home of Ferrari and Pavarotti, Giulia's uncle makes traditional balsamic vinegar in the attic. Relative pronouns: che, cui.
+Zio Franco: Questo è l'aceto che faceva mio nonno. Ha più di cinquant'anni! | This is the vinegar my grandfather used to make. It's more than fifty years old!
+Tom: Cinquant'anni? E le botti in cui lo tenete sono così piccole? | Fifty years? And the barrels you keep it in are so small?
+Zio Franco: Sì, ogni anno lo passiamo in una botte più piccola, di un legno diverso. | Yes, every year we move it into a smaller barrel, of a different wood.
+Tom: Chi è la persona che ha cominciato questa tradizione? | Who's the person who started this tradition?
+Zio Franco: Nessuno lo sa. Le famiglie di Modena regalavano una botte alle figlie che si sposavano. | Nobody knows. Families in Modena gave a barrel to daughters who got married.
+Giulia: E la botte di cui ti ho parlato? Quella della nonna? | And the barrel I told you about? Grandma's?
+Zio Franco: È quella lì, nell'angolo. È la cosa più preziosa che abbiamo. | It's that one there, in the corner. It's the most precious thing we have.
+Tom: Posso assaggiarlo? | Can I taste it?
+Zio Franco: Una goccia sola, sul parmigiano. Quello che dicono i turisti è sempre lo stesso: «Mamma mia!» | Just one drop, on parmesan. What the tourists say is always the same: "Mamma mia!"
+q: Questo è l'aceto ___ faceva il nonno. | che | cui | il quale lo | en: This is the vinegar the grandfather used to make. | why: direct object → che
+q: Le botti in ___ lo tengono sono piccole. | cui | che | quale | en: The barrels they keep it in are small. | why: after a preposition → cui
+q: Le famiglie regalavano una botte alle figlie ___ si sposavano. | che | cui | chi | en: Families gave a barrel to the daughters who got married. | why: subject → che
+
+=== u33 | reading | Il ragazzo che non voleva fare l'organista
+intro: Giacomo Puccini was born in Lucca in 1858. The trapassato prossimo: what had happened before.
+- Quando Giacomo è nato, nella sua famiglia c'erano già stati quattro musicisti, uno dopo l'altro. | When Giacomo was born, there had already been four musicians in his family, one after another.
+- Il padre era morto quando Giacomo aveva solo cinque anni. | His father had died when Giacomo was only five.
+- Da ragazzo suonava l'organo nelle chiese di Lucca, come avevano fatto suo padre e suo nonno. | As a boy he played the organ in the churches of Lucca, as his father and grandfather had done.
+- Un giorno è andato a piedi fino a Pisa per vedere l'«Aida» di Verdi. | One day he walked all the way to Pisa to see Verdi's "Aida".
+- Dopo quella sera, aveva deciso: non sarebbe stato organista, ma compositore d'opera. | After that evening, he had decided: he would not be an organist, but an opera composer.
+- Più tardi ha scritto «La Bohème», «Tosca» e «Madama Butterfly». | Later he wrote "La Bohème", "Tosca" and "Madama Butterfly".
+q: Il padre di Puccini ___ morto quando Giacomo aveva cinque anni. | era | è | aveva | en: Puccini's father had died when Giacomo was five. | why: trapassato: era + participle (morire → essere)
+q: Puccini è andato a piedi fino a ___. | Pisa | Firenze | Milano | en: Puccini walked all the way to Pisa. | why: «è andato a piedi fino a Pisa»
+q: Puccini aveva deciso di diventare ___. | compositore | organista | pittore | en: Puccini had decided to become a composer. | why: «non sarebbe stato organista, ma compositore d'opera»
+
+=== u33 | dialogue | Sulle mura di Lucca
+intro: Tom and Giulia ride bicycles on top of Lucca's walls, which are wide enough to be a park.
+Tom: Non avevo mai visto mura così larghe! | I had never seen walls so wide!
+Giulia: Nessuno le aveva mai usate per la guerra. Allora, nell'Ottocento, ci hanno piantato gli alberi. | Nobody had ever used them for war. So, in the nineteenth century, they planted trees on them.
+Tom: Quando siamo arrivati, avevi già prenotato le biciclette? | When we arrived, had you already booked the bikes?
+Giulia: Sì, le avevo prenotate ieri sera. Ti piace? | Yes, I had booked them yesterday evening. Do you like it?
+Tom: Moltissimo. E dopo andiamo a vedere la piazza dell'Anfiteatro? | Very much. And afterwards shall we go and see the Piazza dell'Anfiteatro?
+Giulia: Sì! Prima era un anfiteatro romano. Le case hanno preso la sua forma rotonda. | Yes! It used to be a Roman amphitheatre. The houses took its round shape.
+q: Nessuno aveva mai usato le mura per la ___. | guerra | festa | scuola | en: Nobody had ever used the walls for war. | why: «Nessuno le aveva mai usate per la guerra.»
+q: Giulia ___ prenotato le biciclette la sera prima. | aveva | era | ha | en: Giulia had booked the bikes the evening before. | why: trapassato: aveva prenotato
+
+=== u34 | dialogue | La torre cade?
+intro: In Pisa, Tom and Giulia stand under the Leaning Tower. The congiuntivo after opinions and feelings.
+Tom: Penso che la torre stia per cadere! | I think the tower is about to fall!
+Giulia: Non credo che cada. Gli ingegneri l'hanno messa in sicurezza più di vent'anni fa. | I don't think it'll fall. Engineers made it safe more than twenty years ago.
+Tom: È strano che non sia mai caduta in ottocento anni. | It's strange that it has never fallen in eight hundred years.
+Giulia: Sembra che il terreno sia troppo morbido. Si è inclinata già durante la costruzione, nel 1178. | It seems the ground is too soft. It started leaning during construction, back in 1178.
+Tom: Voglio che tu mi faccia una foto: io che tengo su la torre! | I want you to take a photo of me: me holding up the tower!
+Giulia: Come tutti i turisti? Va bene, ma bisogna che tu metta la mano più in alto. | Like every tourist? All right, but you need to put your hand higher.
+Tom: Così? | Like this?
+Giulia: Perfetto! Sembra che tu sia un gigante. | Perfect! You look like a giant.
+q: Tom pensa che la torre ___ per cadere. | stia | sta | stare | en: Tom thinks the tower is about to fall. | why: penso che → congiuntivo: stia
+q: Giulia non crede che la torre ___. | cada | cade | cadrà | en: Giulia doesn't think the tower will fall. | why: non credo che → congiuntivo: cada
+q: La torre si è inclinata già nel ___. | 1178 | 1278 | 2001 | en: The tower started leaning back in 1178. | why: «già durante la costruzione, nel 1178»
+
+=== u35 | reading | C'era una volta un pezzo di legno
+intro: The opening of Collodi's "Le avventure di Pinocchio" (1883), in his own words, then the story in the passato remoto.
+- C'era una volta... — Un re! — diranno subito i miei piccoli lettori. | Once upon a time there was... — A king! my little readers will say at once.
+- No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno. | No, children, you're wrong. Once upon a time there was a piece of wood.
+- Un vecchio falegname, Geppetto, prese quel pezzo di legno e fece un burattino. | An old carpenter, Geppetto, took that piece of wood and made a puppet.
+- Lo chiamò Pinocchio. Appena finito, il burattino scappò di casa! | He called him Pinocchio. As soon as he was finished, the puppet ran away from home!
+- Pinocchio non voleva andare a scuola. Ogni volta che diceva una bugia, il suo naso diventava più lungo. | Pinocchio didn't want to go to school. Every time he told a lie, his nose grew longer.
+- Un Grillo Parlante gli diede buoni consigli, ma Pinocchio non lo ascoltò. | A Talking Cricket gave him good advice, but Pinocchio didn't listen to him.
+- Dopo tante avventure, la Fata dai capelli turchini lo trasformò in un bambino vero. | After many adventures, the Fairy with the turquoise hair turned him into a real boy.
+q: Geppetto era un vecchio ___. | falegname | re | pescatore | en: Geppetto was an old carpenter. | why: «Un vecchio falegname, Geppetto»
+q: Quando Pinocchio diceva una bugia, il suo ___ diventava più lungo. | naso | braccio | cappello | en: When Pinocchio told a lie, his nose grew longer. | why: «il suo naso diventava più lungo»
+q: Geppetto ___ un burattino. | fece | fa | faceva | en: Geppetto made a puppet. | why: passato remoto of fare: fece
+
+=== u35 | dialogue | Nel Parco di Pinocchio
+intro: In the village of Collodi, which gave the author his pen name, Tom and Giulia visit the Pinocchio Park.
+Tom: Perché Carlo Lorenzini scelse il nome «Collodi»? | Why did Carlo Lorenzini choose the name "Collodi"?
+Giulia: Perché sua madre nacque qui, in questo paese. Da bambino ci passò molte estati. | Because his mother was born here, in this village. As a child he spent many summers here.
+Tom: Guarda, la balena! Pinocchio ci entrò e ci trovò Geppetto. | Look, the whale! Pinocchio went into it and found Geppetto there.
+Giulia: Nel libro non è una balena, è un Pescecane! Lo hanno cambiato nei film. | In the book it isn't a whale, it's a giant Shark! They changed it in the films.
+Tom: Davvero? Allora devo leggere il libro vero. | Really? Then I must read the real book.
+Giulia: Te lo regalo! Ma attento: se dici che l'hai già letto, ti cresce il naso. | I'll give it to you! But careful: if you say you've already read it, your nose will grow.
+q: La madre di Collodi ___ in questo paese. | nacque | nasce | è nascita | en: Collodi's mother was born in this village. | why: passato remoto of nascere: nacque
+q: Nel libro, Pinocchio trova Geppetto nel ___. | Pescecane | lago | castello | en: In the book, Pinocchio finds Geppetto inside the giant Shark. | why: «Nel libro non è una balena, è un Pescecane!»
+
+=== u36 | dialogue | Agli Uffizi
+intro: Florence, cradle of the Renaissance. In the Uffizi gallery, Tom and Giulia disagree about art. Opinions with the congiuntivo.
+Giulia: Credo che la «Nascita di Venere» sia il quadro più bello del mondo. | I believe "The Birth of Venus" is the most beautiful painting in the world.
+Tom: È bellissimo, ma penso che Leonardo sia più grande di Botticelli. | It's very beautiful, but I think Leonardo is greater than Botticelli.
+Giulia: Benché Leonardo sia un genio, qui il protagonista è Botticelli! | Although Leonardo is a genius, the star here is Botticelli!
+Tom: Hai ragione. Ma bisogna che torniamo domani: non abbiamo visto niente! | You're right. But we need to come back tomorrow: we've seen nothing!
+Giulia: Va bene, purché tu non disegni ogni quadro. | All right, as long as you don't draw every painting.
+Tom: Prometto. E dopo, voglio che tu mi porti sul Ponte Vecchio. | I promise. And afterwards, I want you to take me to the Ponte Vecchio.
+Giulia: Volentieri. È l'unico ponte di Firenze che non sia stato distrutto nella guerra. | Gladly. It's the only bridge in Florence that wasn't destroyed in the war.
+q: Giulia crede che la «Nascita di Venere» ___ il quadro più bello. | sia | è | era | en: Giulia believes "The Birth of Venus" is the most beautiful painting. | why: credo che → congiuntivo: sia
+q: ___ Leonardo sia un genio, il protagonista è Botticelli. | Benché | Perché | Se | en: Although Leonardo is a genius, Botticelli is the star. | why: benché = although (+ congiuntivo)
+q: Il Ponte Vecchio non è stato distrutto nella ___. | guerra | piena | notte | en: The Ponte Vecchio was not destroyed in the war. | why: «l'unico ponte … che non sia stato distrutto nella guerra»
+
+=== u36 | reading | La lingua di Dante
+intro: Why Italians all speak (more or less) like fourteenth-century Florentines.
+- Nel Medioevo in Italia si parlavano molti dialetti diversi. | In the Middle Ages many different dialects were spoken in Italy.
+- Dante scrisse la «Divina Commedia» nel fiorentino del suo tempo, non in latino. | Dante wrote the "Divine Comedy" in the Florentine of his time, not in Latin.
+- Anche Petrarca e Boccaccio scrissero in fiorentino. Così il fiorentino divenne la lingua dei libri. | Petrarch and Boccaccio also wrote in Florentine. So Florentine became the language of books.
+- Nel 1827 Alessandro Manzoni andò a Firenze per «sciacquare i panni in Arno»: voleva scrivere in un italiano vivo. | In 1827 Alessandro Manzoni went to Florence to "rinse his clothes in the Arno": he wanted to write in a living Italian.
+- Quando l'Italia si unì nel 1861, solo pochi italiani parlavano italiano. Oggi lo parlano quasi tutti. | When Italy was unified in 1861, only a few Italians spoke Italian. Today almost everyone speaks it.
+q: Dante scrisse la «Divina Commedia» in ___. | fiorentino | latino | francese | en: Dante wrote the "Divine Comedy" in Florentine. | why: «nel fiorentino del suo tempo, non in latino»
+q: Manzoni andò a Firenze per «sciacquare i panni in ___». | Arno | mare | Tevere | en: Manzoni went to Florence to "rinse his clothes in the Arno". | why: the Arno is Florence's river
+
+=== u37 | dialogue | Da Fiesole
+intro: From the hill of Fiesole, older than Florence, Tom and Giulia look down at the city. The past subjunctive: hopes and doubts about what has happened.
+Giulia: Spero che tu abbia dormito bene. Ieri sera eri stanchissimo. | I hope you slept well. Last night you were exhausted.
+Tom: Benissimo. Ma non credo che Luca sia già arrivato. Doveva venire con noi. | Very well. But I don't think Luca has arrived yet. He was supposed to come with us.
+Giulia: Temo che abbia perso il treno, come sempre. | I'm afraid he's missed the train, as usual.
+Tom: È possibile che si sia dimenticato? | Is it possible he forgot?
+Giulia: Conoscendo mio fratello, sì! Ma guarda che vista: Firenze è tutta lì sotto. | Knowing my brother, yes! But look at that view: all of Florence is down there.
+Tom: È la città più bella che io abbia mai visto. | It's the most beautiful city I've ever seen.
+Giulia: Lo dici di ogni città! | You say that about every city!
+q: Giulia spera che Tom ___ dormito bene. | abbia | ha | sia | en: Giulia hopes Tom slept well. | why: spero che + past → congiuntivo passato: abbia dormito
+q: Tom non crede che Luca ___ già arrivato. | sia | è | abbia | en: Tom doesn't think Luca has arrived yet. | why: arrivare → essere: sia arrivato
+q: «È la città più bella che io ___ mai visto.» | abbia | ho | avessi | en: "It's the most beautiful city I've ever seen." | why: superlative + che → congiuntivo
+
+=== u38 | dialogue | Se fossi un fantino
+intro: In Siena, the Palio is run around the shell-shaped Piazza del Campo in about ninety seconds. If-clauses.
+Tom: Se fossi un fantino, correrei per la contrada della Lupa. | If I were a jockey, I'd ride for the She-Wolf district.
+Giulia: Se tu fossi un fantino, cadresti al primo giro! | If you were a jockey, you'd fall off on the first lap!
+Tom: Forse. Ma se vincessi, tutta la contrada farebbe festa per un anno. | Maybe. But if I won, the whole district would celebrate for a year.
+Giulia: È vero. Se vince la tua contrada, è il giorno più bello della vita. | That's true. If your district wins, it's the best day of your life.
+Tom: E se avessimo visto il Palio di luglio, avremmo trovato posto in piazza? | And if we had seen the July Palio, would we have found room in the square?
+Giulia: No! Se fossimo venuti a luglio, avremmo dovuto arrivare alle sei di mattina. | No! If we had come in July, we would have had to arrive at six in the morning.
+q: Se Tom ___ un fantino, correrebbe per la Lupa. | fosse | sarebbe | è | en: If Tom were a jockey, he'd ride for the She-Wolf. | why: se + congiuntivo imperfetto
+q: Se vincesse, la contrada ___ festa per un anno. | farebbe | facesse | fa | en: If he won, the district would celebrate for a year. | why: main clause → condizionale
+q: Il Palio dura circa novanta ___. | secondi | minuti | giorni | en: The Palio lasts about ninety seconds. | why: the race is about ninety seconds long
+
+=== u39 | reading | Camminando tra le torri
+intro: San Gimignano still has 14 of its 72 medieval towers. The gerund: -ando, -endo.
+- Arrivando da lontano, si vedono le torri come grattacieli medievali. | Arriving from far away, you see the towers like medieval skyscrapers.
+- Nel Medioevo le famiglie ricche costruivano torri sempre più alte, volendo mostrare il loro potere. | In the Middle Ages rich families built ever taller towers, wanting to show their power.
+- Camminando per le strade, Tom disegna ogni torre nel suo quaderno. | Walking through the streets, Tom draws every tower in his notebook.
+- «Che cosa stai facendo?», gli chiede un bambino. «Sto disegnando la torre più alta», risponde Tom. | "What are you doing?" a child asks him. "I'm drawing the tallest tower," Tom answers.
+- Mangiando un gelato in piazza, Tom e Giulia guardano il tramonto. | Eating an ice cream in the square, Tom and Giulia watch the sunset.
+- Essendo stanchi, tornano presto in albergo. | Being tired, they go back to the hotel early.
+q: Le famiglie costruivano le torri, ___ mostrare il loro potere. | volendo | voluto | volere | en: The families built the towers, wanting to show their power. | why: gerund of volere: volendo
+q: «Sto ___ la torre più alta.» | disegnando | disegnato | disegnare | en: "I'm drawing the tallest tower." | why: stare + gerundio: sto disegnando
+q: Oggi a San Gimignano ci sono ___ torri. | quattordici | settantadue | quaranta | en: Today there are fourteen towers in San Gimignano. | why: 14 of the original 72 survive
+
+=== u40 | dialogue | Nella cantina di Montepulciano
+intro: Review: in Montepulciano, a winemaker shows Tom and Giulia her cellar. In 1685 a poet called its wine "king of all wines".
+Vignaiola: Benvenuti! Questa cantina era già qui quando Francesco Redi scrisse la sua poesia, nel 1685. | Welcome! This cellar was already here when Francesco Redi wrote his poem, in 1685.
+Tom: Che cosa scrisse? | What did he write?
+Vignaiola: «Montepulciano d'ogni vino è il re!» Volete assaggiarlo? | "Montepulciano is the king of every wine!" Would you like to taste it?
+Giulia: Volentieri. Da quanto tempo lo fate? | Gladly. How long have you been making it?
+Vignaiola: Mio nonno lo faceva già negli anni Trenta. Adesso lo faccio io, con mia figlia. | My grandfather was already making it in the thirties. Now I make it, with my daughter.
+Tom: È buonissimo. Se potessi, ne comprerei dieci bottiglie! | It's excellent. If I could, I'd buy ten bottles!
+Vignaiola: E perché non può? | And why can't you?
+Tom: Perché viaggio a piedi, con lo zaino! Ne prendo una, e la beviamo stasera. | Because I'm travelling on foot, with my rucksack! I'll take one, and we'll drink it tonight.
+q: Redi scrisse la sua poesia nel ___. | 1685 | 1885 | 1930 | en: Redi wrote his poem in 1685. | why: «quando Francesco Redi scrisse la sua poesia, nel 1685»
+q: Per Redi, il Montepulciano è il ___ di ogni vino. | re | padre | fratello | en: For Redi, Montepulciano is the king of every wine. | why: «Montepulciano d'ogni vino è il re!»
+q: Tom ___ prende una bottiglia, perché viaggia a piedi. | ne | ci | la | en: Tom takes one bottle, because he's travelling on foot. | why: quantity → ne

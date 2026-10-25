@@ -370,6 +370,15 @@ export const ARCHAIC = {
   allorché: ['quando', 'allorché = quando (when) — literary'], sinché: ['finché', 'sinché = finché (until)'],
   ove: ['dove', 'ove = dove (where) — literary'], onde: ['dove', 'onde = da dove (whence), or per cui (so that) — literary'],
   niuno: ['nessuno', 'niuno = nessuno (nobody) — old'], cotesto: ['codesto', 'cotesto = codesto (that, near you) — Tuscan'],
+  // the Canticle of the Creatures (St Francis, 1224) and other early texts
+  laudato: ['lodare', 'laudato = lodato (praised) — old Umbrian, from Latin laudare'], cum: ['con', 'cum = con (with) — Latin'],
+  tucte: ['tutto', 'tucte = tutte (all) — old spelling'], tucti: ['tutto', 'tucti = tutti (all) — old spelling'],
+  spetialmente: ['specialmente', 'spetialmente = specialmente (especially) — old spelling'], messor: ['signore', 'messor = messere, signore (lord, sir) — old'],
+  sora: ['sorella', 'sora = sorella (sister) — old, as in sora Luna'], iorno: ['giorno', 'iorno = giorno (day) — old Umbrian'],
+  allumini: ['illuminare', 'allumini = illumini (you light up) — old'], et: ['e', 'et = e (and) — Latin spelling'],
+  "si'": ['essere', "si' = sii (be!) — Laudato si' = be praised"],
+  altissimu: ['alto', 'Altissimu = Altissimo (Most High: God) — old Umbrian'], bon: ['buono', 'bon = buono (good) — old'],
+  onne: ['ogni', 'onne = ogni (every) — old Umbrian'], homo: ['uomo', 'homo = uomo (man) — Latin spelling'],
 };
 
 // Shortened forms: vien → viene, far → fare, son → sono, pover' → povero, quand' → quando
