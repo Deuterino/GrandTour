@@ -290,3 +290,17 @@ Dresda|city|Dresden
 Frauenkirche|place|the Frauenkirche, Dresden (rebuilt 1994–2005)
 ino|name|-ino: suffix meaning small or dear (gattino, bacino)
 one|name|-one: suffix meaning big (librone, bacione)
+Cristo|name|Christ: avanti Cristo (a.C.) = BC, dopo Cristo (d.C.) = AD
+Trevi|place|the Trevi Fountain, Rome
+Giulio|name|Giulio (Julius): papa Giulio II (1443–1513)
+Sistina|place|(la Cappella) Sistina: the Sistine Chapel
+Clemente|name|Clemente (Clement): papa Clemente IV
+Gregorio|name|Gregorio (Gregory): papa Gregorio X
+Tito|name|Titus (39–81), emperor who opened the Colosseum
+Adamo|name|Adam: la Creazione di Adamo
+Benedetto|name|San Benedetto (St Benedict, c. 480–547)
+clave|name|clave (Latin): key — cum clave = with a key
+labora|name|labora (Latin): work — ora et labora = pray and work
+II|name|II = secondo (second): Giulio II
+IV|name|IV = quarto (fourth): Clemente IV
+X|name|X = decimo (tenth): Gregorio X

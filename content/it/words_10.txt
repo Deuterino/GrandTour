@@ -242,3 +242,45 @@ aquilano|a|from L'Aquila; (n.) person from L'Aquila
 # nature
 tufo|n.m|tuff (soft volcanic stone)
 rupe|n.f|cliff, crag
+# food
+carciofo|n.m|artichoke|note=Plural carciofi. I carciofi alla romana / alla giudia.
+porchetta|n.f|porchetta (roast stuffed pork)
+osteria|n.f|tavern, inn
+fraschetta|n.f|simple country tavern (Castelli Romani)
+grano|n.m|wheat, grain
+# soc
+cardinale|n.m|cardinal
+conclave|n.m|conclave (election of the pope)|note=From Latin cum clave = with a key.
+eleggere|v|to elect|note=Irregular like leggere: elessi, eletto.
+senatore|n.m|senator
+spettatore|n.m|spectator|note=Feminine spettatrice.
+guardia|n.f|guard|note=la Guardia Svizzera = the Swiss Guard. Feminine even for men.
+monaco|n.m|monk|note=Plural monaci.
+monastero|n.m|monastery
+abbazia|n.f|abbey
+altare|n.m|altar
+archeologo|n.m|archaeologist|note=Plural archeologi.
+scultore|n.m|sculptor|note=Feminine scultrice.
+# arts
+cupola|n.f|dome|note=la cupola di San Pietro (Michelangelo).
+impalcatura|n.f|scaffolding
+uniforme|n.f|uniform|note=Also an adjective: uniforme = uniform, even.
+telo|n.m|sheet, cloth, awning
+# nature
+foce|n.f|mouth (of a river)
+pianura|n.f|plain|note=la Pianura Padana = the Po valley.
+palude|n.f|marsh, swamp
+pompa|n.f|pump
+cera|n.f|wax
+malaria|n.f|malaria|note=From mala aria = bad air.
+# act
+inaugurare|v|to open, to inaugurate
+ammalarsi|v|to fall ill
+coltivare|v|to grow, to cultivate
+appoggiare|v|to lean, to rest (something on something)
+accogliere|v|to welcome, to receive|note=Irregular: accolgo, accogli; accolsi; accolto.
+# desc
+molle|a|soft, limp
+turco|a|Turkish; (n.) Turk|note=Plural turchi.
+universale|a|universal|note=il Giudizio Universale = the Last Judgement.
+etrusco|a|Etruscan; (n.) Etruscan|note=Plural etruschi.

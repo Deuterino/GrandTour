@@ -1,0 +1,186 @@
+# Italian unit stories, units 51–60 (Roma: Tutte le strade portano a Roma).
+
+=== u51 | reading | Il conclave più lungo
+intro: Viterbo was a city of popes. In 1268 the cardinals could not agree on a new pope for almost three years. The passato remoto.
+- Nel 1268 morì il papa Clemente IV, che viveva a Viterbo. | In 1268 Pope Clement IV, who lived in Viterbo, died.
+- I cardinali si riunirono nel palazzo dei papi per eleggere il nuovo papa. | The cardinals met in the papal palace to elect the new pope.
+- Passarono mesi, poi anni, ma non si misero mai d'accordo. | Months passed, then years, but they never agreed.
+- Alla fine i cittadini si arrabbiarono: chiusero i cardinali a chiave e diedero loro solo pane e acqua. | In the end the citizens got angry: they locked the cardinals in and gave them only bread and water.
+- Poi tolsero perfino il tetto del palazzo! | Then they even removed the palace roof!
+- Nel 1271, dopo quasi tre anni, i cardinali elessero finalmente Gregorio X. | In 1271, after almost three years, the cardinals finally elected Gregory X.
+- Da allora si dice «conclave», da «cum clave»: con la chiave. | Since then it has been called a "conclave", from "cum clave": with a key.
+q: I cittadini ___ i cardinali a chiave. | chiusero | chiudevano | chiudono | en: The citizens locked the cardinals in. | why: passato remoto of chiudere: chiusero
+q: I cittadini tolsero perfino il ___ del palazzo. | tetto | pavimento | portone | en: The citizens even removed the palace roof. | why: «tolsero perfino il tetto del palazzo»
+q: «Conclave» viene da «cum clave»: con la ___. | chiave | porta | croce | en: "Conclave" comes from "cum clave": with a key. | why: «con la chiave»
+
+=== u51 | dialogue | Alle terme di Viterbo
+intro: Viterbo also has hot springs. Tom relaxes at the baths with an old man.
+Signore: È la prima volta alle terme? | Is it your first time at the baths?
+Tom: Sì. L'acqua è caldissima! Da dove viene? | Yes. The water is very hot! Where does it come from?
+Signore: Dalla terra. Esce a sessanta gradi. Anche gli Etruschi e i Romani ci facevano il bagno. | From the earth. It comes out at sixty degrees. The Etruscans and the Romans bathed in it too.
+Tom: E fa bene? | And is it good for you?
+Signore: Mio padre veniva qui ogni settimana e visse fino a cento anni! | My father came here every week and lived to a hundred!
+Tom: Allora verrò anch'io ogni settimana. | Then I'll come every week too.
+q: L'acqua esce a ___ gradi. | sessanta | sedici | seicento | en: The water comes out at sixty degrees. | why: «Esce a sessanta gradi.»
+q: Il padre del signore ___ fino a cento anni. | visse | viveva | vive | en: The gentleman's father lived to a hundred. | why: passato remoto of vivere: visse
+
+=== u52 | dialogue | Villa d'Este
+intro: At Tivoli, the gardens of Villa d'Este have hundreds of fountains. The gerund: stare + -ando / -endo, and on its own.
+Giulia: Senti? L'acqua sta cantando! | Can you hear? The water is singing!
+Tom: È la Fontana dell'Organo. Sta suonando davvero! | It's the Organ Fountain. It really is playing!
+Giulia: Funziona con l'acqua e l'aria, senza elettricità. Fu costruita nel Cinquecento. | It works with water and air, without electricity. It was built in the sixteenth century.
+Tom: Camminando nel giardino, ho contato più di trenta fontane. | Walking through the garden, I counted more than thirty fountains.
+Giulia: Ce ne sono più di cinquanta, con centinaia di getti d'acqua! E le Cento Fontane? Le hai viste? | There are more than fifty, with hundreds of water jets! And the Hundred Fountains? Have you seen them?
+Tom: Sì, le stavo disegnando quando mi hai chiamato. | Yes, I was drawing them when you called me.
+Giulia: Disegnando tutto, non finirai mai il tuo viaggio! | Drawing everything, you'll never finish your journey!
+Tom: Forse non voglio finirlo. | Maybe I don't want to finish it.
+q: L'acqua sta ___. | cantando | cantato | cantare | en: The water is singing. | why: stare + gerundio: sta cantando
+q: ___ nel giardino, Tom ha contato trenta fontane. | Camminando | Camminato | Cammina | en: Walking in the garden, Tom counted thirty fountains. | why: gerund = while …ing
+q: Tom stava ___ le fontane quando Giulia l'ha chiamato. | disegnando | disegnato | disegnare | en: Tom was drawing the fountains when Giulia called him. | why: stavo + gerundio = I was …ing
+
+=== u53 | reading | Il Colosseo
+intro: The Colosseum (80 AD) held about 50,000 spectators. Life in ancient Rome in the imperfetto.
+- Il Colosseo fu inaugurato nell'80 dopo Cristo dall'imperatore Tito. | The Colosseum was inaugurated in 80 AD by Emperor Titus.
+- Poteva ospitare circa cinquantamila spettatori. | It could hold about fifty thousand spectators.
+- I Romani entravano gratis. Ogni persona aveva il suo posto: i senatori davanti, le donne in alto. | The Romans entered for free. Everyone had their place: the senators at the front, women at the top.
+- I gladiatori combattevano tra loro o contro animali feroci, come leoni e orsi. | The gladiators fought each other or against wild animals, such as lions and bears.
+- Sotto l'arena c'erano corridoi e gabbie, da cui uscivano all'improvviso gli animali. | Under the arena there were corridors and cages, from which the animals came out suddenly.
+- Quando faceva caldo, i marinai stendevano un enorme telo sopra il pubblico. | When it was hot, sailors stretched a huge awning over the audience.
+q: Il Colosseo poteva ospitare circa ___ spettatori. | cinquantamila | cinquemila | cinquecentomila | en: The Colosseum could hold about fifty thousand spectators. | why: «circa cinquantamila spettatori»
+q: I gladiatori ___ contro animali feroci. | combattevano | hanno combattuto ieri | combattono | en: The gladiators fought against wild animals. | why: repeated past action → imperfetto
+q: Quando faceva caldo, i marinai stendevano un ___. | telo | ombrello | tetto | en: When it was hot, sailors stretched out an awning. | why: «stendevano un enorme telo»
+
+=== u53 | dialogue | A Roma, finalmente
+intro: Tom has reached Rome, like Goethe in 1786. Giulia is waiting at the station.
+Giulia: Benvenuto a Roma! Com'era il viaggio? | Welcome to Rome! How was the journey?
+Tom: Lungo! Ma mentre il treno arrivava, vedevo la cupola di San Pietro e mi batteva il cuore. | Long! But as the train was arriving, I could see the dome of St Peter's and my heart was pounding.
+Giulia: Goethe scrisse che solo a Roma aveva capito che cosa significa essere un uomo. | Goethe wrote that only in Rome had he understood what it means to be a human being.
+Tom: Lo capisco. Da bambino guardavo le foto di Roma nei libri del nonno. | I understand that. As a child I used to look at photos of Rome in my grandfather's books.
+Giulia: E adesso ci sei! Dove vuoi andare prima? | And now you're here! Where do you want to go first?
+Tom: Al Colosseo, naturalmente. E poi alla Fontana di Trevi, per gettare una moneta. | To the Colosseum, of course. And then to the Trevi Fountain, to throw in a coin.
+Giulia: Così tornerai a Roma. È la tradizione! | That way you'll come back to Rome. It's the tradition!
+q: Mentre il treno arrivava, Tom ___ la cupola di San Pietro. | vedeva | ha visto ieri | vede | en: As the train was arriving, Tom could see the dome of St Peter's. | why: ongoing background → imperfetto
+q: Da bambino Tom ___ le foto di Roma. | guardava | guardò | guarderà | en: As a child Tom used to look at photos of Rome. | why: habit in the past → imperfetto
+q: Chi getta una moneta nella Fontana di Trevi ___ a Roma. | tornerà | partirà | resterà | en: Whoever throws a coin into the Trevi Fountain will come back to Rome. | why: «Così tornerai a Roma.»
+
+=== u54 | dialogue | Al mercato di Trastevere
+intro: Trastevere, "across the Tiber", is Rome's old working-class quarter. Giulia's friend Marta sells vegetables. Indirect pronouns.
+Marta: Ciao Giulia! Che cosa ti do oggi? | Hi Giulia! What can I give you today?
+Giulia: Ciao Marta! Mi dai un chilo di carciofi? Stasera cucino per Tom. | Hi Marta! Will you give me a kilo of artichokes? Tonight I'm cooking for Tom.
+Marta: Per l'inglese? Gli piacciono i carciofi? | For the Englishman? Does he like artichokes?
+Tom: Non li ho mai mangiati, ma Giulia mi ha detto che sono buonissimi. | I've never eaten them, but Giulia told me they're delicious.
+Marta: Alla romana, con la menta e l'aglio. Ti do anche le zucchine, te le regalo. | Roman style, with mint and garlic. I'll give you courgettes too, free.
+Giulia: Grazie! Le dico sempre che è la migliore del mercato. | Thank you! I always tell her she's the best at the market.
+Marta: Sì, sì, mi dici sempre così, e poi compri dagli altri! | Yes, yes, you always tell me that, and then you buy from the others!
+q: «___ dai un chilo di carciofi?» | Mi | Ti | Le | en: "Will you give me a kilo of artichokes?" | why: to me → mi
+q: All'inglese ___ piacciono i carciofi? | gli | le | lo | en: Does the Englishman like artichokes? | why: to him → gli
+q: I carciofi alla romana si fanno con la menta e l'___. | aglio | olio | acqua | en: Roman-style artichokes are made with mint and garlic. | why: «con la menta e l'aglio»
+
+=== u54 | gouin | Cucino i carciofi alla romana
+intro: A Gouin series in Giulia's kitchen. Put the steps back in order.
+- Lavo i carciofi. | I wash the artichokes.
+- Tolgo le foglie dure. | I remove the hard leaves.
+- Taglio la punta. | I cut off the tip.
+- Metto dentro aglio, menta e sale. | I put garlic, mint and salt inside.
+- Metto i carciofi nella pentola con l'olio e un po' d'acqua. | I put the artichokes in the pan with oil and a little water.
+- Li cuocio per mezz'ora. | I cook them for half an hour.
+- Li servo caldi con il pane. | I serve them hot with bread.
+
+=== u55 | dialogue | Le guardie svizzere
+intro: The Vatican is the smallest country in the world. Since 1506 the Swiss Guard has protected the Pope. The imperfect subjunctive.
+Tom: Pensavo che le guardie fossero italiane. | I thought the guards were Italian.
+Giulia: No, sono svizzere da più di cinquecento anni. Il papa Giulio II voleva che lo proteggessero i soldati più coraggiosi d'Europa. | No, they've been Swiss for more than five hundred years. Pope Julius II wanted the bravest soldiers in Europe to protect him.
+Tom: E la loro uniforme? Sembra che l'abbia disegnata un artista del Rinascimento! | And their uniform? It looks as if a Renaissance artist designed it!
+Giulia: Molti credono che sia di Michelangelo, ma non è vero. È del Novecento! | Many people think it's by Michelangelo, but it isn't true. It's from the twentieth century!
+Tom: Vorrei che mi facessi vedere la Cappella Sistina. | I'd like you to show me the Sistine Chapel.
+Giulia: Volentieri. Ma bisognerebbe che tu stessi zitto: lì non si può parlare. | Gladly. But you'd need to keep quiet: you can't talk in there.
+Tom: Per Michelangelo, starei zitto un anno intero. | For Michelangelo, I'd keep quiet for a whole year.
+q: Tom pensava che le guardie ___ italiane. | fossero | sono | siano | en: Tom thought the guards were Italian. | why: past main verb → congiuntivo imperfetto: fossero
+q: Il papa voleva che lo ___ i soldati più coraggiosi. | proteggessero | proteggono | proteggano | en: The Pope wanted the bravest soldiers to protect him. | why: voleva che → congiuntivo imperfetto
+q: Tom vorrebbe che Giulia gli ___ vedere la Cappella Sistina. | facesse | fa | faccia | en: Tom would like Giulia to show him the Sistine Chapel. | why: vorrei che → congiuntivo imperfetto
+
+=== u55 | reading | La Cappella Sistina
+intro: Michelangelo painted the ceiling of the Sistine Chapel between 1508 and 1512.
+- Michelangelo non voleva dipingere la volta: si considerava uno scultore, non un pittore. | Michelangelo didn't want to paint the vault: he considered himself a sculptor, not a painter.
+- Ma il papa Giulio II insistette, e lui cominciò nel 1508. | But Pope Julius II insisted, and he began in 1508.
+- Per quattro anni lavorò in piedi su un'impalcatura, con la testa all'indietro. | For four years he worked standing on scaffolding, with his head tilted back.
+- Dipinse più di trecento figure, tra cui la famosa «Creazione di Adamo». | He painted more than three hundred figures, including the famous "Creation of Adam".
+- Più tardi dipinse anche il «Giudizio Universale» sulla parete dietro l'altare. | Later he also painted the "Last Judgement" on the wall behind the altar.
+- Ancora oggi i cardinali eleggono il papa sotto i suoi affreschi. | Still today the cardinals elect the pope beneath his frescoes.
+q: Michelangelo si considerava uno ___. | scultore | pittore | architetto | en: Michelangelo considered himself a sculptor. | why: «si considerava uno scultore, non un pittore»
+q: Per la volta lavorò ___ anni. | quattro | quaranta | quattordici | en: He worked on the vault for four years. | why: «Per quattro anni lavorò»
+
+=== u56 | dialogue | Una gita ai Castelli Romani
+intro: Romans escape to the hills south of the city for porchetta and white wine. The conditional for wishes and advice.
+Giulia: Domenica ti piacerebbe fare una gita a Frascati? | On Sunday would you like to go on a trip to Frascati?
+Tom: Volentieri! Che cosa faremmo lì? | Gladly! What would we do there?
+Giulia: Mangeremmo la porchetta in una fraschetta e berremmo il vino bianco dei Castelli. | We'd eat porchetta in a fraschetta and drink the white wine of the Castelli.
+Tom: Che cos'è una fraschetta? | What's a fraschetta?
+Giulia: Un'osteria semplice, con tavoli di legno. Una volta si appendeva un ramo verde fuori dalla porta per dire che c'era vino nuovo. | A simple tavern, with wooden tables. Once they hung a green branch outside the door to say there was new wine.
+Tom: Dovrei portare qualcosa? | Should I bring something?
+Giulia: Potresti portare il tuo quaderno. Da lassù vedresti tutta Roma! | You could bring your notebook. From up there you'd see the whole of Rome!
+q: A Frascati ___ la porchetta. | mangeremmo | mangiamo ieri | mangiavamo | en: In Frascati we'd eat porchetta. | why: conditional: mangeremmo
+q: Una fraschetta è un'osteria ___. | semplice | elegante | moderna | en: A fraschetta is a simple tavern. | why: «Un'osteria semplice, con tavoli di legno.»
+q: «___ portare qualcosa?» (dovere, io) | Dovrei | Dovrebbe | Devo stato | en: "Should I bring something?" | why: advice / politeness → condizionale: dovrei
+
+=== u57 | reading | Ostia Antica
+intro: Ostia was Rome's port. When the visitors arrived, the city had already been abandoned for centuries. The trapassato prossimo.
+- Ostia era stata fondata alla foce del Tevere, dove il fiume arriva al mare. | Ostia had been founded at the mouth of the Tiber, where the river reaches the sea.
+- Nel porto arrivavano navi da tutto il mondo romano, che avevano portato grano, olio e vino. | Ships arrived at the port from the whole Roman world, which had brought grain, oil and wine.
+- Ma col tempo il mare si era allontanato, e la città era diventata inutile. | But over time the sea had moved away, and the city had become useless.
+- Quando gli archeologi arrivarono, la sabbia aveva già coperto quasi tutto. | When the archaeologists arrived, the sand had already covered almost everything.
+- Sotto la sabbia trovarono case, negozi, teatri e perfino un bagno pubblico con venti posti, uno accanto all'altro! | Under the sand they found houses, shops, theatres and even a public toilet with twenty seats, side by side!
+q: Ostia ___ stata fondata alla foce del Tevere. | era | è | aveva | en: Ostia had been founded at the mouth of the Tiber. | why: trapassato (passive): era stata fondata
+q: Quando arrivarono gli archeologi, la sabbia ___ coperto quasi tutto. | aveva | era | ha | en: When the archaeologists arrived, the sand had covered almost everything. | why: trapassato: aveva coperto
+q: Il bagno pubblico aveva ___ posti. | venti | due | cento | en: The public toilet had twenty seats. | why: «un bagno pubblico con venti posti»
+
+=== u58 | reading | Dalla palude ai campi
+intro: South of Rome, the Pontine Marshes were drained in the 1930s and the city of Latina was founded on the new land. The passive and si.
+- Per secoli, la pianura a sud di Roma era una grande palude. | For centuries the plain south of Rome was a great marsh.
+- Ci si ammalava facilmente di malaria, e quasi nessuno ci abitava. | People easily fell ill with malaria there, and almost nobody lived there.
+- Negli anni Trenta l'acqua fu portata via con canali e pompe. | In the 1930s the water was taken away with canals and pumps.
+- Furono costruite nuove città, come Latina, e la terra fu data a famiglie di contadini. | New towns were built, such as Latina, and the land was given to farming families.
+- Molti di loro venivano dal Veneto e dal Friuli: ancora oggi in alcuni paesi si parla veneto! | Many of them came from the Veneto and Friuli: still today in some villages Venetian dialect is spoken!
+- Oggi qui si coltivano frutta e verdura per tutta l'Italia. | Today fruit and vegetables are grown here for the whole of Italy.
+q: La pianura a sud di Roma era una grande ___. | palude | foresta | città | en: The plain south of Rome was a great marsh. | why: «era una grande palude»
+q: Negli anni Trenta l'acqua fu portata via con canali e ___. | pompe | navi | secchi | en: In the 1930s the water was taken away with canals and pumps. | why: «con canali e pompe»
+q: In alcuni paesi ___ parla ancora veneto. | si | ci | ne | en: In some villages people still speak Venetian dialect. | why: impersonal si: si parla
+
+=== u59 | dialogue | La Montagna Spaccata
+intro: At Gaeta, a mountain is split by a deep crack. Legend says it opened at the death of Christ. If-clauses.
+Tom: Se non l'avessi vista, non ci avrei creduto. La montagna è proprio spaccata in due! | If I hadn't seen it, I wouldn't have believed it. The mountain really is split in two!
+Giulia: Se metti la mano nella roccia, trovi l'impronta della «mano del turco». | If you put your hand in the rock, you find the print of the "Turk's hand".
+Tom: Che cosa racconta la leggenda? | What does the legend say?
+Giulia: Un marinaio turco non credeva che la roccia si fosse aperta da sola. Appoggiò la mano, e la pietra diventò molle come la cera. | A Turkish sailor didn't believe the rock had opened by itself. He laid his hand on it, and the stone became soft as wax.
+Tom: Se fossi stato lui, mi sarei spaventato a morte. | If I had been him, I'd have been scared to death.
+Giulia: Se vuoi, scendiamo fino al mare. Ci sono trecento scalini. | If you like, we can go down to the sea. There are three hundred steps.
+Tom: Se ci sono trecento scalini per scendere, ce ne saranno trecento per salire! | If there are three hundred steps to go down, there'll be three hundred to come up!
+q: Se Tom non l'avesse vista, non ci ___ creduto. | avrebbe | avesse | ha | en: If Tom hadn't seen it, he wouldn't have believed it. | why: impossible past: condizionale passato: avrebbe creduto
+q: Se metti la mano nella roccia, ___ l'impronta. | trovi | troveresti | trovassi | en: If you put your hand in the rock, you find the print. | why: real condition: se + presente, presente
+q: La pietra diventò molle come la ___. | cera | carta | lana | en: The stone became soft as wax. | why: «molle come la cera»
+
+=== u60 | reading | Montecassino
+intro: St Benedict founded the abbey of Montecassino in 529. It was destroyed in 1944 and rebuilt. The passato remoto.
+- San Benedetto arrivò su questa montagna nel 529 e ci fondò un monastero. | St Benedict came to this mountain in 529 and founded a monastery there.
+- Scrisse una regola per i monaci: «Ora et labora», prega e lavora. | He wrote a rule for the monks: "Ora et labora", pray and work.
+- Per secoli i monaci copiarono a mano libri antichi e li salvarono per noi. | For centuries the monks copied ancient books by hand and saved them for us.
+- Nel febbraio del 1944, durante la guerra, l'abbazia fu distrutta dalle bombe. | In February 1944, during the war, the abbey was destroyed by bombs.
+- Dopo la guerra fu ricostruita «dov'era e com'era»: dove era e come era. | After the war it was rebuilt "where it was and as it was".
+- Oggi, accanto all'abbazia, ci sono cimiteri di soldati di molti paesi. È un luogo di pace. | Today, next to the abbey, there are cemeteries for soldiers from many countries. It is a place of peace.
+q: San Benedetto ___ il monastero nel 529. | fondò | fondava | fonda | en: St Benedict founded the monastery in 529. | why: passato remoto: fondò
+q: I monaci ___ a mano libri antichi. | copiarono | copiano | copieranno | en: The monks copied ancient books by hand. | why: passato remoto: copiarono
+q: L'abbazia fu ricostruita «dov'era e ___». | com'era | quando era | perché era | en: The abbey was rebuilt "where it was and as it was". | why: «dov'era e com'era»
+
+=== u60 | dialogue | Ora et labora
+intro: In the abbey, a monk talks with Tom. Tom remembers that in Germany, too, monks repaired libraries… and that Benedict's rule spread across Europe.
+Monaco: Da dove viene? | Where do you come from?
+Tom: Dall'Inghilterra. Ma quest'anno ho viaggiato da Bolzano fino a qui, quasi sempre a piedi. | From England. But this year I've travelled from Bolzano to here, almost always on foot.
+Monaco: Un pellegrino! Che cosa ha imparato? | A pilgrim! What have you learned?
+Tom: Che ogni città ha una storia, e che le persone sono più gentili di quanto pensassi. | That every town has a story, and that people are kinder than I thought.
+Monaco: San Benedetto diceva che l'ospite va accolto come Cristo. | St Benedict said that a guest must be welcomed like Christ.
+Tom: Allora sono stato Cristo molte volte quest'anno! | Then I've been Christ many times this year!
+Monaco: Ah, ah! E dove andrà adesso? | Ha ha! And where will you go now?
+Tom: A Napoli, e poi in Sicilia, come Goethe. Lì finirà il mio viaggio. | To Naples, and then to Sicily, like Goethe. That's where my journey will end.
+q: Tom ha viaggiato quasi sempre a ___. | piedi | cavallo | treno | en: Tom has travelled almost always on foot. | why: «quasi sempre a piedi»
+q: Le persone sono più gentili di quanto Tom ___. | pensasse | pensa | penserà | en: People are kinder than Tom thought. | why: comparison clause: di quanto + congiuntivo
+q: Dopo Napoli, Tom andrà in ___. | Sicilia | Grecia | Inghilterra | en: After Naples, Tom will go to Sicily. | why: «A Napoli, e poi in Sicilia»
