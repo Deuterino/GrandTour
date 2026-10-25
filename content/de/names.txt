@@ -283,3 +283,26 @@ Aachener|name|from Aachen (invariable)
 van|name|van ("of", in Flemish and Dutch names: Ludwig van Beethoven)
 Osnabrück|city|Osnabrück
 Christus|name|Christ: vor Christus = BC, nach Christus = AD
+Bächle|place|the little streams in Freiburg's streets (Alemannic diminutive of Bach)
+Benz|name|Carl (Karl) Benz (1844–1929), car pioneer; Bertha Benz (1849–1944)
+Bertha|name|Bertha
+Pforzheim|city|Pforzheim
+Porsche|name|Porsche (car maker, Stuttgart)
+Mercedes|name|Mercedes(-Benz), car maker, Stuttgart
+Hölderlin|name|Friedrich Hölderlin (1770–1843), poet
+Freiburger|name|someone from Freiburg; from Freiburg (invariable)
+Twain|name|Mark Twain (1835–1910), American writer
+Mark|name|Mark
+Friedrichsbad|place|the Friedrichsbad baths, Baden-Baden
+Imperia|name|the Imperia statue in Konstanz harbour
+Ulmer|name|from Ulm (invariable): das Ulmer Münster
+Albrecht|name|Albrecht
+Albert|name|Albert
+Berblinger|name|Albrecht Berblinger, "the Tailor of Ulm" (1770–1829)
+Jakob|name|Jakob (James)
+Fugger|name|Jakob Fugger (1459–1525), merchant and banker of Augsburg
+Fuggerei|place|the Fuggerei, Augsburg's social housing (1516)
+Häusle|name|Swabian for Häuschen (little house): Häusle baue
+Ernst|name|Ernst (Ernest); as an adjective: ernst = serious
+Zimmer|name|Zimmer (surname): Ernst Zimmer, Hölderlin's carpenter host
+Bübchen|name|little boy (old diminutive of Bube)

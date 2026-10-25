@@ -1,0 +1,229 @@
+# German unit stories, units 51–60 (Der Südwesten: Dichter und Denker).
+
+=== u51 | dialogue | Im Studentenkarzer
+intro: Heidelberg has Germany's oldest university. Tom visits the old student prison with Paul, Lena's friend, who studies here.
+Paul: Hier haben früher Studenten gesessen, die zu laut gewesen waren. | Students used to sit in here when they had been too noisy.
+Tom: Im Gefängnis? Was haben sie denn gemacht? | In prison? What had they done?
+Paul: Sie haben nachts gesungen, zu viel getrunken oder mit der Polizei gestritten. | They had sung at night, drunk too much or argued with the police.
+Tom: Und wie lange mussten sie hier bleiben? | And how long did they have to stay here?
+Paul: Ein paar Tage, manchmal vier Wochen. Aber am Tag durften sie in die Vorlesung gehen! | A few days, sometimes four weeks. But during the day they were allowed to go to lectures!
+Tom: Und wer hat die Bilder an die Wände gemalt? | And who painted the pictures on the walls?
+Paul: Die Studenten selbst. Sie haben ihre Namen und Bilder hinterlassen. Viele waren sogar stolz darauf, hier gewesen zu sein. | The students themselves. They left their names and pictures. Many were even proud of having been here.
+Tom: Und du? Bist du auch schon einmal laut gewesen? | And you? Have you ever been noisy?
+Paul: Nur in der Prüfungszeit, wenn ich vor Angst singe! | Only at exam time, when I sing out of fear!
+q: Die Studenten durften am Tag in die ___ gehen. | Vorlesung | Kneipe | Kirche | en: During the day the students were allowed to go to lectures. | why: „am Tag durften sie in die Vorlesung gehen!“
+q: Die Bilder an den Wänden haben die ___ gemalt. | Studenten | Professoren | Polizisten | en: The students painted the pictures on the walls. | why: „Die Studenten selbst.“
+q: Viele Studenten waren ___ darauf, hier gewesen zu sein. | stolz | traurig | böse | en: Many students were proud of having been here. | why: stolz auf → stolz darauf
+
+=== u51 | reading | Ein Tag an der Uni
+intro: University words in a student's diary entry. Perfekt with haben and sein.
+- Heute Morgen bin ich um acht Uhr in die Bibliothek gegangen. | This morning I went to the library at eight.
+- Ich habe zwei Stunden für die Prüfung gelernt. | I studied for two hours for the exam.
+- Um zehn hat die Vorlesung angefangen. Der Professor hat sehr schnell gesprochen. | At ten the lecture began. The professor spoke very fast.
+- Ich habe nicht alles verstanden, deshalb habe ich danach eine Kollegin gefragt. | I didn't understand everything, so afterwards I asked a fellow student.
+- Mittags haben wir in der Mensa gegessen. | At lunchtime we ate in the canteen.
+- Am Abend bin ich müde nach Hause gekommen und sofort eingeschlafen. | In the evening I came home tired and fell asleep at once.
+q: Der Professor hat sehr ___ gesprochen. | schnell | leise | langsam | en: The professor spoke very fast. | why: „Der Professor hat sehr schnell gesprochen.“
+q: Mittags haben sie in der ___ gegessen. | Mensa | Bibliothek | Vorlesung | en: At lunchtime they ate in the canteen. | why: „Mittags haben wir in der Mensa gegessen.“
+
+=== u52 | reading | Bertha Benz fährt los
+intro: In 1888 Bertha Benz made the first long journey by car. German loves compound words: Auto + Fahrt = Autofahrt.
+- Karl Benz hatte in Mannheim das erste Automobil gebaut. Aber niemand wollte es kaufen. | Karl Benz had built the first automobile in Mannheim. But nobody wanted to buy it.
+- Seine Frau Bertha hatte eine Idee: Sie wollte allen zeigen, dass das Auto funktioniert. | His wife Bertha had an idea: she wanted to show everyone that the car worked.
+- An einem Morgen im August 1888 fuhr sie mit ihren zwei Söhnen los — ohne ihrem Mann etwas zu sagen. | One morning in August 1888 she set off with her two sons — without telling her husband.
+- Die Reise ging von Mannheim nach Pforzheim, über hundert Kilometer. | The journey went from Mannheim to Pforzheim, over a hundred kilometres.
+- In Wiesloch kaufte sie Benzin in einer Apotheke. So wurde die Apotheke die erste Tankstelle der Welt. | In Wiesloch she bought petrol at a pharmacy. That's how the pharmacy became the first filling station in the world.
+- Unterwegs reparierte sie das Auto selbst, mit einer Hutnadel und einem Strumpfband. | On the way she repaired the car herself, with a hatpin and a garter.
+- Am Abend kam sie in Pforzheim an und schickte ihrem Mann ein Telegramm. | In the evening she arrived in Pforzheim and sent her husband a telegram.
+q: Bertha Benz fuhr mit ihren zwei ___ los. | Söhnen | Töchtern | Brüdern | en: Bertha Benz set off with her two sons. | why: „fuhr sie mit ihren zwei Söhnen los“
+q: Benzin kaufte sie in einer ___. | Apotheke | Bäckerei | Kirche | en: She bought petrol at a pharmacy. | why: „kaufte sie Benzin in einer Apotheke“
+q: „Tankstelle“ ist ein Kompositum aus „tanken“ und „___“. | Stelle | Stall | Telle | en: "Tankstelle" is a compound of "tanken" and "Stelle". | why: tanken (to fill up) + die Stelle (place) → die Tankstelle
+
+=== u52 | dialogue | Zusammengesetzte Wörter
+intro: Tom plays a word game with his colleague Mia: who can build the longest compound?
+Mia: Ich fange an: Haus. | I'll start: house.
+Tom: Haustür! | Front door!
+Mia: Haustürschlüssel! | Front-door key!
+Tom: Haustürschlüsselbund! | Bunch of front-door keys!
+Mia: Gut! Und was ist das Geschlecht? | Good! And what's the gender?
+Tom: Das letzte Wort bestimmt alles: der Bund, also der Haustürschlüsselbund. | The last word decides everything: der Bund, so der Haustürschlüsselbund.
+Mia: Richtig! Jetzt du: Zimmer. | Right! Now you: room.
+Tom: Zimmermann. Zimmermannshut. Zimmermannshutgeschäft! | Carpenter. Carpenter's hat. Carpenter's-hat shop!
+Mia: Das Wort gibt es doch gar nicht! | That word doesn't even exist!
+Tom: Doch! Ich habe es gerade erfunden. | Yes it does! I've just invented it.
+q: Beim Kompositum bestimmt das ___ Wort das Geschlecht. | letzte | erste | längste | en: In a compound, the last word decides the gender. | why: der Haustürschlüssel + der Bund → der Haustürschlüsselbund
+q: die Haustür + der Schlüssel = ___ Haustürschlüssel | der | die | das | en: the front door + the key = the front-door key | why: the last part (der Schlüssel) gives the gender
+
+=== u53 | dialogue | Im Automuseum
+intro: Stuttgart is the home of Mercedes-Benz and Porsche. Tom and his friend Felix look at old cars. Adjective endings everywhere.
+Felix: Schau mal, das rote Auto dort! Das ist ein alter Porsche aus den Fünfzigerjahren. | Look at the red car there! That's an old Porsche from the fifties.
+Tom: Ein schönes Auto! Und der große, schwarze Wagen daneben? | A beautiful car! And the big black car next to it?
+Felix: Das ist ein Mercedes. Mit diesem schweren Wagen fuhren früher Politiker. | That's a Mercedes. Politicians used to drive in this heavy car.
+Tom: Ich habe noch nie ein so langes Auto gesehen! | I've never seen such a long car!
+Felix: Und hier ist das erste Auto von Benz, mit drei dünnen Rädern. | And here is Benz's first car, with three thin wheels.
+Tom: Es sieht aus wie ein großes Fahrrad mit einem kleinen Motor. | It looks like a big bicycle with a small engine.
+Felix: Welches Auto würdest du nehmen, wenn du dürftest? | Which car would you take if you were allowed?
+Tom: Ehrlich gesagt? Das alte, rote Auto. Mit meinem schwarzen Hut passt es perfekt! | To be honest? The old red car. It goes perfectly with my black hat!
+q: Das ___ Auto ist ein alter Porsche. | rote | roten | roter | en: The red car is an old Porsche. | why: das + neuter nominative → -e: das rote Auto
+q: Das erste Auto von Benz hatte drei dünne ___. | Räder | Motoren | Türen | en: Benz's first car had three thin wheels. | why: „mit drei dünnen Rädern“
+q: Tom würde das alte, ___ Auto nehmen. | rote | roter | rotes | en: Tom would take the old red car. | why: das + neuter accusative → -e
+
+=== u53 | gouin | Ich tanke
+intro: A Gouin series at the petrol station. Put the steps back in order.
+- Ich fahre zur Tankstelle. | I drive to the petrol station.
+- Ich halte an der Säule an. | I stop at the pump.
+- Ich mache den Motor aus. | I switch off the engine.
+- Ich öffne den Tank. | I open the tank.
+- Ich tanke das Auto voll. | I fill the car up.
+- Ich gehe in den Laden und bezahle an der Kasse. | I go into the shop and pay at the till.
+- Ich steige ein und fahre weiter. | I get in and drive on.
+
+=== u54 | reading | Der Dichter im Turm
+intro: In Tübingen the poet Friedrich Hölderlin lived in a tower by the river for 36 years — in the house of a carpenter. Relative clauses.
+- Hölderlin war ein Dichter, den man heute zu den größten der deutschen Sprache zählt. | Hölderlin was a poet who today is counted among the greatest of the German language.
+- Mit sechsunddreißig Jahren wurde er krank. Die Ärzte, die ihn behandelten, konnten ihm nicht helfen. | At thirty-six he fell ill. The doctors who treated him could not help him.
+- Ein Tischler, der seine Gedichte liebte, nahm ihn in sein Haus auf. Er hieß Ernst Zimmer. | A carpenter who loved his poems took him into his house. His name was Ernst Zimmer.
+- Das Haus, in dem Hölderlin wohnte, hatte einen kleinen Turm am Neckar. | The house in which Hölderlin lived had a little tower on the Neckar.
+- Dort lebte er sechsunddreißig Jahre, bis zu seinem Tod im Jahr 1843. | There he lived for thirty-six years, until his death in 1843.
+- Die Familie, für die er bald ein Teil des Hauses war, kümmerte sich bis zum Ende um ihn. | The family, for whom he was soon part of the household, took care of him to the end.
+q: Ernst Zimmer war ein ___. | Tischler | Dichter | Arzt | en: Ernst Zimmer was a carpenter. | why: „Ein Tischler, der seine Gedichte liebte“
+q: Das Haus, in ___ Hölderlin wohnte, hatte einen Turm. | dem | den | das | en: The house in which Hölderlin lived had a tower. | why: in + dative neuter → dem
+q: Hölderlin lebte ___ Jahre im Turm. | sechsunddreißig | sechzehn | dreiundsechzig | en: Hölderlin lived in the tower for thirty-six years. | why: „Dort lebte er sechsunddreißig Jahre“
+
+=== u54 | reading | Hälfte des Lebens
+intro: The first stanza of Hölderlin's most famous poem (1804). Note the old verb ending "hänget" (= hängt) and "ihr" addressing the swans.
+- Mit gelben Birnen hänget | With yellow pears
+- Und voll mit wilden Rosen | and full of wild roses
+- Das Land in den See, | the land hangs down into the lake,
+- Ihr holden Schwäne, | you gracious swans,
+- Und trunken von Küssen | and drunk with kisses
+- Tunkt ihr das Haupt | you dip your heads
+- Ins heilignüchterne Wasser. | into the holy-sober water.
+q: Das Land ist voll mit wilden ___. | Rosen | Birnen | Schwänen | en: The land is full of wild roses. | why: „Und voll mit wilden Rosen“
+q: „hänget“ ist eine alte Form von „___“. | hängt | hing | hängen | en: "hänget" is an old form of "hängt". | why: poetic -et ending: hänget = hängt
+
+=== u55 | dialogue | Die Bächle
+intro: Freiburg is famous for sunshine, solar energy and the little streams that run through its streets.
+Lena: Pass auf, Tom! Nicht in das Bächle treten! | Watch out, Tom! Don't step into the little stream!
+Tom: Was ist ein Bächle? | What's a Bächle?
+Lena: Das sind die kleinen Bäche in den Straßen. Sie werden mit Wasser aus dem Fluss gefüllt. | Those are the little streams in the streets. They're filled with water from the river.
+Tom: Und warum soll ich nicht hineintreten? | And why shouldn't I step in?
+Lena: Man sagt: Wer in ein Bächle tritt, muss einen Freiburger heiraten! | People say: whoever steps into a Bächle has to marry someone from Freiburg!
+Tom: Oh. Dann bleibe ich lieber auf der Straße. Wozu wurden die Bächle früher gebaut? | Oh. Then I'd better stay on the street. What were the Bächle built for in the past?
+Lena: Sie wurden im Mittelalter zum Löschen von Feuer und für die Tiere benutzt. Heute werden sie im Sommer von Kindern geliebt. | In the Middle Ages they were used for putting out fires and for animals. Today children love them in summer.
+Tom: Und die vielen Solardächer? | And all the solar roofs?
+Lena: Hier wird viel Strom mit Sonnenenergie produziert. Freiburg ist eine grüne Stadt. | A lot of electricity is produced here with solar energy. Freiburg is a green city.
+q: Die Bächle werden mit Wasser aus dem ___ gefüllt. | Fluss | See | Meer | en: The Bächle are filled with water from the river. | why: „Sie werden mit Wasser aus dem Fluss gefüllt.“
+q: Wer in ein Bächle tritt, muss einen Freiburger ___. | heiraten | bezahlen | rufen | en: Whoever steps into a Bächle has to marry someone from Freiburg. | why: the legend: „muss einen Freiburger heiraten!“
+q: Hier wird viel Strom mit ___ produziert. | Sonnenenergie | Kohle | Wind | en: Here a lot of electricity is produced with solar energy. | why: „mit Sonnenenergie produziert“
+
+=== u56 | dialogue | Beim Arzt
+intro: In Baden-Baden, Tom doesn't feel well. He sees a doctor. Body parts and reflexive verbs.
+Ärztin: Guten Tag, Herr Tom. Was fehlt Ihnen denn? | Good afternoon, Mr Tom. What's the matter with you?
+Tom: Ich fühle mich seit gestern nicht wohl. Mir tut der Rücken weh, und ich habe Kopfschmerzen. | I haven't been feeling well since yesterday. My back hurts and I've got a headache.
+Ärztin: Haben Sie schwer gearbeitet? | Have you been working hard?
+Tom: Ja, ich habe ein Dach gebaut. Ich habe mich drei Tage lang kaum ausgeruht. | Yes, I've been building a roof. I've hardly rested for three days.
+Ärztin: Dann müssen Sie sich jetzt erholen. Legen Sie sich hin und ruhen Sie sich aus. | Then you must recover now. Lie down and rest.
+Tom: Darf ich in die Therme gehen? | May I go to the thermal baths?
+Ärztin: Unbedingt! Das warme Wasser hilft dem Rücken. Schon die Römer haben sich hier gebadet. | Absolutely! The warm water helps your back. Even the Romans bathed here.
+Tom: Danke, Frau Doktor. Ich freue mich schon darauf. | Thank you, doctor. I'm already looking forward to it.
+q: Tom tut der ___ weh. | Rücken | Fuß | Bauch | en: Tom's back hurts. | why: „Mir tut der Rücken weh“
+q: Tom muss sich jetzt ___. | erholen | beeilen | anziehen | en: Tom must recover now. | why: „Dann müssen Sie sich jetzt erholen.“
+q: Schon die ___ haben hier gebadet. | Römer | Griechen | Franken | en: Even the Romans bathed here. | why: „Schon die Römer haben sich hier gebadet.“
+
+=== u56 | reading | Mark Twain im Bad
+intro: The American writer Mark Twain loved the Friedrichsbad in Baden-Baden.
+- Mark Twain besuchte Baden-Baden im Jahr 1878. | Mark Twain visited Baden-Baden in 1878.
+- Er hatte Schmerzen in den Armen und Schultern. | He had pain in his arms and shoulders.
+- Nach einem Bad im Friedrichsbad fühlte er sich wie neu. | After a bath in the Friedrichsbad he felt like new.
+- Er schrieb: „Nach zehn Minuten vergisst man die Zeit, nach zwanzig Minuten die Welt.“ | He wrote: "After ten minutes you forget time, after twenty minutes the world."
+- Noch heute gehen die Leute hierher, um sich zu entspannen. | People still come here today to relax.
+q: Twain hatte Schmerzen in den Armen und ___. | Schultern | Füßen | Ohren | en: Twain had pain in his arms and shoulders. | why: „in den Armen und Schultern“
+q: Nach zwanzig Minuten vergisst man die ___. | Welt | Zeit | Schmerzen | en: After twenty minutes you forget the world. | why: „nach zwanzig Minuten die Welt“
+
+=== u57 | reading | Hänsel und Gretel (1857)
+intro: The authentic opening of the Grimms' tale in the spelling of 1857. Tap the old forms: Walde (dative -e), Theuerung (Teuerung), daß (dass).
+- Vor einem großen Walde wohnte ein armer Holzhacker mit seiner Frau und seinen zwei Kindern; | Before a great forest there lived a poor woodcutter with his wife and his two children;
+- das Bübchen hieß Hänsel und das Mädchen Gretel. | the little boy was called Hansel and the girl Gretel.
+- Er hatte wenig zu beißen und zu brechen, | He had little to bite and to break (little to eat),
+- und einmal, als große Theuerung ins Land kam, konnte er auch das tägliche Brot nicht mehr schaffen. | and once, when a great famine came to the land, he could no longer even provide the daily bread.
+- Wie er sich nun Abends im Bette Gedanken machte und sich vor Sorgen herumwälzte, seufzte er und sprach zu seiner Frau: | Now as he lay worrying in bed in the evening and tossed about with cares, he sighed and said to his wife:
+- „Was soll aus uns werden? wie können wir unsere armen Kinder ernähren, da wir für uns selbst nichts mehr haben?“ | "What is to become of us? How can we feed our poor children, since we no longer have anything for ourselves?"
+q: Der Vater war ein armer ___. | Holzhacker | Bäcker | König | en: The father was a poor woodcutter. | why: „ein armer Holzhacker“
+q: „Theuerung“ schreibt man heute „___“. | Teuerung | Teurung | Theurung | en: "Theuerung" is written "Teuerung" today. | why: the old th became t in 1901: Thür → Tür, Theuerung → Teuerung
+q: Der Vater konnte das tägliche ___ nicht mehr schaffen. | Brot | Wasser | Geld | en: The father could no longer provide the daily bread. | why: „konnte er auch das tägliche Brot nicht mehr schaffen“
+
+=== u57 | dialogue | Die Kuckucksuhr
+intro: In a Black Forest village, Tom wants to buy a cuckoo clock for his mother.
+Verkäufer: Grüß Gott! Suchen Sie eine Kuckucksuhr? | Hello! Are you looking for a cuckoo clock?
+Tom: Ja, für meine Mutter in England. Welche ist die schönste? | Yes, for my mother in England. Which is the nicest?
+Verkäufer: Diese hier ist ganz aus Holz gemacht, von Hand geschnitzt. Jede Stunde kommt der Kuckuck heraus. | This one is made entirely of wood, carved by hand. Every hour the cuckoo comes out.
+Tom: Und in der Nacht auch? Meine Mutter schläft schlecht. | At night too? My mother sleeps badly.
+Verkäufer: Kein Problem, in der Nacht kann man ihn ausschalten. | No problem, at night you can switch him off.
+Tom: Gut. Und dazu ein Stück Schwarzwälder Kirschtorte, bitte! | Good. And a piece of Black Forest gateau with it, please!
+Verkäufer: Die gibt es im Café nebenan. Mit viel Sahne und Kirschwasser! | You'll find that in the café next door. With lots of cream and cherry brandy!
+q: Die Uhr ist ganz aus ___ gemacht. | Holz | Metall | Glas | en: The clock is made entirely of wood. | why: „ganz aus Holz gemacht“
+q: Der Kuckuck kommt jede ___ heraus. | Stunde | Minute | Woche | en: The cuckoo comes out every hour. | why: „Jede Stunde kommt der Kuckuck heraus.“
+
+=== u58 | dialogue | Auf dem Bodensee
+intro: On the ferry from Konstanz. Germany, Austria and Switzerland all touch Lake Constance.
+Tom: Wo genau liegt hier die Grenze? | Where exactly is the border here?
+Matrose: Im See? Nirgends! Die drei Länder haben die Grenze im Wasser nie festgelegt. | In the lake? Nowhere! The three countries have never fixed the border in the water.
+Tom: Wirklich? Und wem gehört dann das Wasser? | Really? Then whom does the water belong to?
+Matrose: Allen zusammen, sagt man. Dort drüben, hinter den Bergen, liegt Österreich. Und links von uns ist die Schweiz. | To all of them together, people say. Over there, behind the mountains, is Austria. And to our left is Switzerland.
+Tom: Und was steht da am Hafen, auf der hohen Säule? | And what's that at the harbour, on the tall column?
+Matrose: Das ist die Imperia. Sie dreht sich langsam im Kreis. | That's the Imperia. She turns slowly in a circle.
+Tom: Ich stelle mich an die Seite, damit ich ein Foto machen kann. | I'll stand at the side so that I can take a photo.
+Matrose: Aber fallen Sie nicht ins Wasser! Dann sind Sie vielleicht in drei Ländern gleichzeitig. | But don't fall into the water! Then you might be in three countries at once.
+q: Die Grenze im See wurde nie ___. | festgelegt | gefunden | bezahlt | en: The border in the lake was never fixed. | why: „haben die Grenze im Wasser nie festgelegt“
+q: Hinter den Bergen liegt ___. | Österreich | die Schweiz | Italien | en: Austria lies behind the mountains. | why: „hinter den Bergen, liegt Österreich“
+q: Tom stellt sich an die ___. | Seite | Säule | Grenze | en: Tom stands at the side. | why: wohin? → an die Seite (accusative)
+
+=== u59 | reading | Der Schneider von Ulm
+intro: Ulm has the tallest church tower in the world — and a famous failed flight. Comparisons: höher, am höchsten.
+- Das Ulmer Münster hat den höchsten Kirchturm der Welt: 161,5 Meter. | Ulm Minster has the tallest church tower in the world: 161.5 metres.
+- Er ist höher als der Kölner Dom und viel höher als die Frauenkirche in München. | It's taller than Cologne Cathedral and much taller than the Frauenkirche in Munich.
+- Wer bis ganz oben steigen will, muss 768 Stufen laufen. | Anyone who wants to climb right to the top has to walk up 768 steps.
+- Im Jahr 1811 wollte der Schneider Albrecht Berblinger höher fliegen als alle anderen. | In 1811 the tailor Albrecht Berblinger wanted to fly higher than everyone else.
+- Er baute Flügel aus Holz und Stoff und sprang von einer Mauer an der Donau. | He built wings of wood and cloth and jumped off a wall by the Danube.
+- Leider flog er nicht am weitesten, sondern fiel direkt ins Wasser. | Unfortunately he did not fly the furthest; he fell straight into the water.
+- Heute weiß man: Seine Flügel waren gut. Nur der Wind war an diesem Tag zu schwach. | Today we know: his wings were good. It was only that the wind was too weak that day.
+q: Der Turm ist ___ als der Kölner Dom. | höher | hoher | am höchsten | en: The tower is taller than Cologne Cathedral. | why: comparative: hoch → höher
+q: Bis ganz oben sind es ___ Stufen. | 768 | 161 | 1811 | en: It's 768 steps to the very top. | why: „muss 768 Stufen laufen“
+q: Berblinger fiel direkt ins ___. | Wasser | Gras | Feuer | en: Berblinger fell straight into the water. | why: „fiel direkt ins Wasser“
+
+=== u59 | dialogue | Einstein aus Ulm
+intro: Tom and his colleague talk about famous people from Ulm.
+Kollegin: Weißt du, wer der berühmteste Mann aus Ulm ist? | Do you know who the most famous man from Ulm is?
+Tom: Der Schneider, der fliegen wollte? | The tailor who wanted to fly?
+Kollegin: Nein, noch berühmter: Albert Einstein! Er wurde 1879 hier geboren. | No, even more famous: Albert Einstein! He was born here in 1879.
+Tom: Einstein war bestimmt klüger als wir alle zusammen. | Einstein was certainly cleverer than all of us together.
+Kollegin: Bestimmt. Aber er hat gesagt, Fantasie sei wichtiger als Wissen. | Certainly. But he said imagination was more important than knowledge.
+Tom: Dann habe ich vielleicht doch eine Chance! | Then maybe I do have a chance after all!
+q: Einstein wurde ___ in Ulm geboren. | 1879 | 1811 | 1905 | en: Einstein was born in Ulm in 1879. | why: „Er wurde 1879 hier geboren.“
+q: Einstein sagte, Fantasie sei ___ als Wissen. | wichtiger | wichtig | am wichtigsten | en: Einstein said imagination was more important than knowledge. | why: comparative + als: wichtiger als
+
+=== u60 | reading | Die Fuggerei
+intro: The world's oldest social housing, in Augsburg. Genitives: des Hauses, der Stadt, wegen, trotz, während.
+- Jakob Fugger war einer der reichsten Männer seiner Zeit. | Jakob Fugger was one of the richest men of his time.
+- Im Jahr 1516 baute er in Augsburg eine kleine Stadt für die Armen: die Fuggerei. | In 1516 he built a little town for the poor in Augsburg: the Fuggerei.
+- Die Bewohner der Fuggerei zahlen bis heute weniger als einen Euro Miete im Jahr. | To this day the residents of the Fuggerei pay less than one euro of rent a year.
+- Dafür müssen sie jeden Tag drei Gebete für die Familie des Gründers sprechen. | In return they have to say three prayers a day for the founder's family.
+- Während des Krieges wurde die Fuggerei fast ganz zerstört, aber man hat sie wieder aufgebaut. | During the war the Fuggerei was almost completely destroyed, but it was rebuilt.
+- Trotz des niedrigen Preises ist es nicht leicht, hier eine Wohnung zu bekommen. | Despite the low price, it isn't easy to get a flat here.
+q: Jakob Fugger war einer der ___ Männer seiner Zeit. | reichsten | reichste | reichen | en: Jakob Fugger was one of the richest men of his time. | why: genitive plural after einer der: der reichsten Männer
+q: Die Bewohner zahlen weniger als einen ___ im Jahr. | Euro | Taler | Cent | en: The residents pay less than one euro a year. | why: „weniger als einen Euro Miete im Jahr“
+q: ___ des Krieges wurde die Fuggerei zerstört. | Während | Wegen | Statt | en: During the war the Fuggerei was destroyed. | why: während + genitive = during
+
+=== u60 | dialogue | Am Ende des Monats
+intro: Tom checks his money with Lena on the phone. Genitives in everyday talk.
+Lena: Wie geht es deinem Konto am Ende des Monats? | How is your bank account doing at the end of the month?
+Tom: Nicht schlecht! Wegen der vielen Arbeit habe ich kaum Zeit, Geld auszugeben. | Not bad! Because of all the work I hardly have time to spend money.
+Lena: Und trotz des teuren Zimmers? | And despite the expensive room?
+Tom: Das Zimmer ist nicht teuer. Es ist das Zimmer eines Kollegen, der gerade im Urlaub ist. | The room isn't expensive. It's a colleague's room, and he's on holiday right now.
+Lena: Statt eines Hotels also ein Zimmer umsonst. Du bist ein echter Schwabe geworden! | So instead of a hotel, a free room. You've become a real Swabian!
+Tom: Was heißt das? | What does that mean?
+Lena: Die Schwaben sind berühmt dafür, dass sie sparen. „Schaffe, schaffe, Häusle baue!“ | The Swabians are famous for saving money. "Work, work, build a little house!"
+q: Wegen der vielen ___ hat Tom kaum Zeit, Geld auszugeben. | Arbeit | Freunde | Reisen | en: Because of all the work Tom hardly has time to spend money. | why: „Wegen der vielen Arbeit“
+q: Das Zimmer gehört einem ___. | Kollegen | Freund von Lena | Hotel | en: The room belongs to a colleague. | why: „Es ist das Zimmer eines Kollegen“
+q: Die Schwaben sind berühmt dafür, dass sie ___. | sparen | singen | kochen | en: The Swabians are famous for saving. | why: „dass sie sparen“

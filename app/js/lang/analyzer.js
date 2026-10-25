@@ -214,7 +214,7 @@ function prefixVerbReadings(word, L) {
   for (const p of DE.SEP_PREFIXES) {
     if (!word.startsWith(p) || word.length - p.length < 3) continue;
     const rest = word.slice(p.length);
-    const hits = L.lookupForm(rest).filter((h) => L.get(h.id)?.p === 'v');
+    const hits = L.lookupForm(rest).filter((h) => L.get(h.id)?.p === 'v' && !L.get(h.id).v?.sep);
     if (!hits.length) continue;
     const c = group(L, hits);
     c.forEach((x) => x.notes.push(`${word} = ${p} + ${rest}: a form of the separable verb ${p}${x.entry.l.replace(/^sich /, '')}.`));
@@ -362,7 +362,7 @@ function contextDE(tokens, words, L) {
     if (clause.length < 2) { clause = []; return; }
     const last = clause[clause.length - 1];
     const pre = last.t.toLowerCase();
-    const byWord = DE.SEP_PREFIXES.includes(pre) && L.sepIndex().get(pre);
+    const byWord = L.sepIndex().get(pre); // any prefix a lexicon verb actually separates: an, auf… but also weh (wehtun), kaputt
     if (byWord) {
       for (const w of clause.slice(0, -1)) {
         for (const e of byWord.get(w.t) || []) {

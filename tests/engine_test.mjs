@@ -118,7 +118,7 @@ eq(best('Ich rufe dich morgen an.', 'an', de)?.l, 'anrufen', 'separable prefix')
 eq(best('Ich fahre mit dem Bus.', 'dem', de)?.labels, ['dative masculine singular'], 'mit + dem');
 eq(best('Die Kinder spielen im Garten.', 'Kinder', de)?.labels, ['nominative plural', 'accusative plural', 'genitive plural'], 'Kinder');
 eq(best('Er ging nach Hause.', 'ging', de)?.labels, ['1st person singular (ich) · simple past (Präteritum)', '3rd person singular (er/sie/es) · simple past (Präteritum)'], 'ging');
-eq(best('Das ist meine Haustür.', 'Haustür', de)?.l, 'Tür', 'compound in text');
+eq(best('Das ist meine Gartentür.', 'Gartentür', de)?.l, 'Tür', 'compound in text');
 eq(best("Vado a casa dell'amico.", "dell'", it)?.l, 'di', "dell'");
 eq(best('Lo vedo domani.', 'Lo', it)?.pos, 'pronoun', 'lo pronoun');
 eq(best('Voglio vederlo.', 'vederlo', it)?.l, 'vedere', 'vederlo');

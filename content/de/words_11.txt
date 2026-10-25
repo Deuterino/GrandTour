@@ -145,3 +145,47 @@ jahrhundertelang|adv|for centuries
 stundenlang|adv|for hours
 # greet
 wow|intj|wow
+# school
+Mensa|n.f|university canteen
+Kompositum|n.n|compound word|note=Plural Komposita. The last part decides the gender: der Haustürschlüssel.
+Geschlecht|n.n|gender; sex|note=Plural Geschlechter.
+# home
+Bund|n.m|bunch (of keys); federation, alliance|note=der Schlüsselbund; der Bund = the federal government.
+Haustür|n.f|front door
+Schlüsselbund|n.m|bunch of keys
+Säule|n.f|column, pillar; (petrol) pump
+Stufe|n.f|step, stair; level
+Bewohner|n.m|inhabitant, resident|note=Feminine Bewohnerin.
+# tech
+Automobil|n.n|automobile, motor car|note=Old-fashioned: today das Auto.
+Telegramm|n.n|telegram
+produzieren|v|to produce
+# clothes
+Strumpfband|n.n|garter
+# nature
+wild|a|wild
+Schwan|n.m|swan|note=Plural Schwäne.
+Bach|n.m|stream, brook|note=Plural Bäche; Swabian/Alemannic diminutive: das Bächle.
+Kuckuck|n.m|cuckoo|note=die Kuckucksuhr = cuckoo clock.
+# body
+Haupt|n.n|head (literary); chief|reg=lit;note=everyday: der Kopf. das Hauptbahnhof = main station.
+Doktor|n.m|doctor (title; coll. physician)|note=Frau Doktor, Herr Doktor.
+Therme|n.f|thermal baths, spa
+# work
+Holzhacker|n.m|woodcutter (old)|reg=lit;note=Today: Holzfäller.
+Gründer|n.m|founder|note=Feminine Gründerin.
+schnitzen|v|to carve (wood)
+# desc
+hold|a|gracious, lovely (poetic)|reg=lit;note=Ihr holden Schwäne (Hölderlin).
+trunken|a|drunk, intoxicated (poetic)|reg=lit;note=Everyday: betrunken.
+gleichzeitig|a|simultaneous; at the same time
+# act
+tunken|v|to dip
+wälzen|v|to roll, to turn over|note=sich herumwälzen = to toss and turn.
+# money
+Teuerung|n.f|price rise; (old) famine, dearth|reg=lit;note=Old spelling Theuerung.
+# people
+Schwabe|n.m|Swabian (person from Swabia)|note=Weak noun: die Schwaben. Feminine Schwäbin; schwäbisch = Swabian.
+# desc
+solar|a|solar|note=die Solaranlage = solar panels; das Solardach = solar roof.
+heilignüchtern|a|holy-sober (Hölderlin's coinage)|reg=lit
