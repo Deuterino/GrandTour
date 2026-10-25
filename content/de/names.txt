@@ -306,3 +306,38 @@ Häusle|name|Swabian for Häuschen (little house): Häusle baue
 Ernst|name|Ernst (Ernest); as an adjective: ernst = serious
 Zimmer|name|Zimmer (surname): Ernst Zimmer, Hölderlin's carpenter host
 Bübchen|name|little boy (old diminutive of Bube)
+Sepp|name|Sepp (Bavarian for Josef)
+Therese|name|Therese (of Saxe-Hildburghausen), Ludwig I's bride (1810)
+Theresienwiese|place|the Oktoberfest meadow in Munich
+Starnberger|name|from Starnberg (invariable): der Starnberger See
+Walt|name|Walt (Disney)
+Disney|name|Walt Disney (1901–1966)
+Ilz|place|the Ilz river (Passau)
+Inn|place|the Inn river (Innsbruck, Passau)
+Versailles|place|Versailles, the French royal palace
+Mary|name|Mary
+Shelley|name|Mary Shelley (1797–1851), author of Frankenstein
+Victor|name|Victor
+Frankenstein|name|Frankenstein
+Jesus|name|Jesus
+Lüftlmalerei|name|Lüftlmalerei: Bavarian fresco painting on house fronts
+Königssee|place|the Königssee lake, Berchtesgaden
+Neuschwanstein|place|Neuschwanstein castle
+Theresia|name|Maria Theresia (1717–1780), Habsburg empress
+Antoinette|name|Marie Antoinette (1755–1793), daughter of Maria Theresa, Queen of France
+Wörthersee|place|the Wörthersee lake, Carinthia
+Getreidegasse|place|Salzburg street where Mozart was born
+Leopold|name|Leopold (Mozart), Wolfgang's father
+Maximilian|name|Maximilian I (1459–1519), emperor
+Linzer|name|from Linz (invariable): die Linzer Torte
+Habsburger|name|the Habsburgs, Austria's ruling dynasty (1278–1918)
+Gloriette|place|the Gloriette pavilion in Schönbrunn's park
+Dachl|name|Austrian diminutive of Dach: das Goldene Dachl in Innsbruck
+Adso|name|Adso of Melk, narrator of The Name of the Rose
+Umberto|name|Umberto (Eco)
+Eco|name|Umberto Eco (1932–2016), Italian writer
+Benedikt|name|Saint Benedict (c. 480–547), founder of the Benedictine order
+Ora|name|ora (Latin): pray — ora et labora = pray and work
+et|name|et (Latin): and
+labora|name|labora (Latin): work
+Lindwurm|name|the Lindwurm, Klagenfurt's dragon

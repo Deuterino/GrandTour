@@ -1,0 +1,206 @@
+# German unit stories, units 61–70 (Bayern: Berge und Biergärten).
+
+=== u61 | dialogue | Im Biergarten
+intro: Munich in summer. Tom meets his new colleague Sepp in a beer garden. Bavarians greet with "Grüß Gott" and "Servus".
+Sepp: Servus, Tom! Setz dich doch! | Hi, Tom! Do sit down!
+Tom: Grüß Gott, Sepp! Hier ist es ja wunderschön, unter den großen Bäumen. | Hello, Sepp! It's really beautiful here, under the big trees.
+Sepp: Gell? Magst du eine Maß? Das ist ein Liter Bier. | Isn't it? Would you like a Maß? That's a litre of beer.
+Tom: Ein ganzer Liter? Das ist mir halt ein bisschen zu viel. Ich nehme lieber eine Halbe. | A whole litre? That's just a bit too much for me. I'd rather have a half.
+Sepp: Wie du willst. Und eine Brezn dazu, die musst du unbedingt probieren! | As you like. And a pretzel with it, you absolutely must try that!
+Tom: Darf man eigentlich sein eigenes Essen mitbringen? | Are you actually allowed to bring your own food?
+Sepp: Ja, freilich! In einem echten Biergarten darf man das. Nur die Getränke kauft man hier. | Yes, of course! In a real beer garden you may. You just buy the drinks here.
+Tom: Das ist ja praktisch. Prost! | That's really handy. Cheers!
+Sepp: Prost! Auf deine Zeit in München! | Cheers! To your time in Munich!
+q: Eine Maß ist ein ___ Bier. | Liter | Glas | halber Liter | en: A Maß is a litre of beer. | why: „Das ist ein Liter Bier.“
+q: Im Biergarten darf man sein eigenes ___ mitbringen. | Essen | Bier | Glas | en: In a beer garden you may bring your own food. | why: „Nur die Getränke kauft man hier.“
+q: „Setz dich ___!“ (= a friendly invitation) | doch | denn | ja | en: "Do sit down!" | why: doch makes the imperative friendly
+
+=== u61 | reading | Das erste Oktoberfest
+intro: Why the Oktoberfest begins in September.
+- Im Oktober 1810 heiratete der Kronprinz Ludwig von Bayern die Prinzessin Therese. | In October 1810 Crown Prince Ludwig of Bavaria married Princess Therese.
+- Zur Hochzeit lud man die Bürger von München zu einem großen Pferderennen ein. | For the wedding the people of Munich were invited to a big horse race.
+- Das Fest gefiel allen so gut, dass man es im nächsten Jahr wiederholte. | Everybody liked the festival so much that it was repeated the next year.
+- Die Wiese, auf der es stattfand, heißt bis heute Theresienwiese. | The meadow where it took place is still called the Theresienwiese today.
+- Später legte man das Fest in den September, weil das Wetter dann wärmer ist. | Later the festival was moved to September, because the weather is warmer then.
+- Darum beginnt das Oktoberfest heute im September und endet im Oktober. | That's why the Oktoberfest starts in September today and ends in October.
+q: Zur Hochzeit gab es ein großes ___. | Pferderennen | Konzert | Feuer | en: For the wedding there was a big horse race. | why: „zu einem großen Pferderennen“
+q: Das Fest beginnt heute im September, weil das Wetter dann ___ ist. | wärmer | kälter | schöner zu Hause | en: The festival starts in September today because the weather is warmer then. | why: „weil das Wetter dann wärmer ist“
+
+=== u62 | dialogue | Auf die Zugspitze
+intro: In Garmisch, Tom and Lena plan to climb Germany's highest mountain. Modal verbs: what you can, must and should do.
+Lena: Wollen wir morgen auf die Zugspitze steigen? | Shall we climb the Zugspitze tomorrow?
+Tom: Gern! Aber kann man das an einem Tag schaffen? | Gladly! But can you do it in one day?
+Lena: Zu Fuß ist es schwer. Wir müssen sehr früh losgehen und dürfen keine Pause zu lang machen. | On foot it's hard. We have to set off very early and mustn't take too long a break.
+Tom: Was sollen wir mitnehmen? | What should we take with us?
+Lena: Du solltest gute Schuhe und eine warme Jacke tragen. Oben kann es auch im Sommer schneien. | You should wear good shoes and a warm jacket. At the top it can snow even in summer.
+Tom: Und wenn wir zu müde sind? | And if we're too tired?
+Lena: Dann können wir mit der Seilbahn hinunterfahren. Man muss sich nicht schämen! | Then we can go down by cable car. There's no need to be ashamed!
+Tom: Gut. Ich möchte oben ein Foto machen, auf 2962 Metern! | Good. I'd like to take a photo at the top, at 2,962 metres!
+q: Sie müssen sehr ___ losgehen. | früh | spät | langsam | en: They have to set off very early. | why: „Wir müssen sehr früh losgehen“
+q: Tom ___ gute Schuhe tragen. | sollte | darf nicht | muss nicht | en: Tom should wear good shoes. | why: „Du solltest gute Schuhe … tragen.“ (advice)
+q: Hinunter können sie mit der ___ fahren. | Seilbahn | U-Bahn | Fähre | en: They can go down by cable car. | why: „mit der Seilbahn hinunterfahren“
+
+=== u62 | gouin | Wir steigen auf den Berg
+intro: A Gouin series on the mountain. Put the steps back in order.
+- Wir stehen um fünf Uhr auf. | We get up at five.
+- Wir packen Wasser und Brot in den Rucksack. | We pack water and bread in the rucksack.
+- Wir gehen durch den Wald. | We walk through the forest.
+- Der Weg wird steiler. | The path gets steeper.
+- Wir klettern über die Felsen. | We climb over the rocks.
+- Endlich stehen wir oben am Kreuz. | At last we stand at the top by the cross.
+- Wir sehen die Alpen in vier Ländern. | We see the Alps in four countries.
+
+=== u63 | reading | Der Märchenkönig
+intro: King Ludwig II built Neuschwanstein near Füssen. The Präteritum of history.
+- Ludwig der Zweite wurde mit achtzehn Jahren König von Bayern. | Ludwig II became King of Bavaria at eighteen.
+- Er liebte die Musik von Wagner, die Berge und die alten Sagen. | He loved Wagner's music, the mountains and the old legends.
+- Über einer Schlucht bei Füssen ließ er ein Schloss bauen, das wie ein Traum aussah: Neuschwanstein. | Above a gorge near Füssen he had a castle built that looked like a dream: Neuschwanstein.
+- Er gab so viel Geld aus, dass seine Minister Angst bekamen. | He spent so much money that his ministers became afraid.
+- Im Jahr 1886 nahm man ihm die Macht. Wenige Tage später fand man ihn tot im Starnberger See. | In 1886 he was stripped of power. A few days later he was found dead in Lake Starnberg.
+- Wie er starb, weiß bis heute niemand genau. | To this day nobody knows exactly how he died.
+- Nur wenige Wochen nach seinem Tod durften Touristen das Schloss besuchen. Walt Disney kam auch — und baute es für seine Filme nach. | Only a few weeks after his death tourists were allowed to visit the castle. Walt Disney came too — and copied it for his films.
+q: Ludwig wurde mit ___ Jahren König. | achtzehn | achtzig | acht | en: Ludwig became king at eighteen. | why: „mit achtzehn Jahren König von Bayern“
+q: Ludwig liebte die Musik von ___. | Wagner | Mozart | Bach | en: Ludwig loved Wagner's music. | why: „Er liebte die Musik von Wagner“
+q: Wie Ludwig starb, weiß ___ genau. | niemand | jeder | der Minister | en: Nobody knows exactly how Ludwig died. | why: „weiß bis heute niemand genau“
+
+=== u63 | reading | Der gestiefelte Kater
+intro: A fairy tale the Grimms printed in 1812. Told simply in the Präteritum.
+- Ein Müller hatte drei Söhne. Als er starb, bekam der jüngste Sohn nur den Kater. | A miller had three sons. When he died, the youngest son got only the tomcat.
+- „Was soll ich mit einem Kater?“, sagte der Sohn traurig. | "What am I to do with a tomcat?" said the son sadly.
+- „Lass mir ein Paar Stiefel machen“, sagte der Kater, „dann helfe ich dir.“ | "Have a pair of boots made for me," said the cat, "then I'll help you."
+- Mit den Stiefeln ging der Kater in den Wald und fing Rebhühner für den König. | In his boots the cat went into the forest and caught partridges for the king.
+- Der König freute sich, und der Kater erzählte ihm von seinem reichen Herrn, dem Grafen. | The king was delighted, and the cat told him about his rich master, the count.
+- Dann besiegte der Kater mit einem Trick einen bösen Zauberer und nahm sein Schloss. | Then with a trick the cat defeated a wicked sorcerer and took his castle.
+- Am Ende heiratete der arme Müllersohn die Prinzessin. | In the end the poor miller's son married the princess.
+q: Der jüngste Sohn bekam nur den ___. | Kater | Hund | Esel | en: The youngest son got only the tomcat. | why: „bekam der jüngste Sohn nur den Kater“
+q: Der Kater wollte ein Paar ___. | Stiefel | Handschuhe | Hüte | en: The cat wanted a pair of boots. | why: „Lass mir ein Paar Stiefel machen“
+q: Am Ende heiratete der Müllersohn die ___. | Prinzessin | Königin | Hexe | en: In the end the miller's son married the princess. | why: „heiratete der arme Müllersohn die Prinzessin“
+
+=== u64 | dialogue | An der Steinernen Brücke
+intro: Regensburg's Stone Bridge is almost 900 years old. Next to it, a tiny sausage kitchen has been grilling for centuries.
+Tom: Hast du Lust, eine Bratwurst zu essen? | Do you feel like eating a bratwurst?
+Lena: Hier, in der kleinen Wurstküche? Es ist bestimmt schwer, einen Platz zu finden. | Here, in the little sausage kitchen? It's surely hard to find a seat.
+Tom: Wir können versuchen, draußen am Fluss zu sitzen. | We can try to sit outside by the river.
+Lena: Gute Idee. Es ist schön, die Brücke von hier zu sehen. Sie ist fast neunhundert Jahre alt. | Good idea. It's nice to see the bridge from here. It's almost nine hundred years old.
+Tom: Und die Wurstküche? | And the sausage kitchen?
+Lena: Fast genauso alt. Sie hat angefangen, Essen für die Arbeiter zu kochen, die die Brücke gebaut haben. | Almost as old. It started cooking food for the workers who built the bridge.
+Tom: Dann vergiss nicht, Senf und Sauerkraut zu bestellen! | Then don't forget to order mustard and sauerkraut!
+q: Es ist schwer, einen ___ zu finden. | Platz | Fluss | Arbeiter | en: It's hard to find a seat. | why: „einen Platz zu finden“
+q: Die Brücke ist fast ___ Jahre alt. | neunhundert | neunzig | neunzehn | en: The bridge is almost nine hundred years old. | why: „Sie ist fast neunhundert Jahre alt.“
+q: Die Wurstküche kochte zuerst für die ___. | Arbeiter | Könige | Touristen | en: The sausage kitchen first cooked for the workers. | why: „Essen für die Arbeiter zu kochen“
+
+=== u65 | dialogue | Drei Flüsse
+intro: In Passau three rivers meet: the Danube, the Inn and the Ilz. Da- and wo-compounds.
+Tom: Woran erkennt man die drei Flüsse? | How can you tell the three rivers apart?
+Führerin: Daran, dass sie verschiedene Farben haben. Die Donau ist blau-grün, der Inn ist hellgrün und die Ilz ist fast schwarz. | By the fact that they have different colours. The Danube is blue-green, the Inn is light green and the Ilz is almost black.
+Tom: Woher kommt das Schwarz? | Where does the black come from?
+Führerin: Die Ilz kommt aus dem Bayerischen Wald, aus dunklen Mooren. Daher hat sie ihre Farbe. | The Ilz comes from the Bavarian Forest, from dark moors. That's where it gets its colour.
+Tom: Und was bedeuten die Striche an der Wand dort? | And what do the marks on the wall there mean?
+Führerin: Damit zeigt man, wie hoch das Wasser bei den Hochwassern stand. Der höchste Strich ist von 2013. | They show how high the water stood in the floods. The highest mark is from 2013.
+Tom: So hoch? Das kann ich kaum glauben! | That high? I can hardly believe it!
+Führerin: Man glaubt es nicht. Aber die Leute von Passau sprechen noch heute davon. | You can't believe it. But the people of Passau still talk about it today.
+q: Man erkennt die Flüsse ___, dass sie verschiedene Farben haben. | daran | darauf | dafür | en: You can tell the rivers apart by their different colours. | why: erkennen an → daran
+q: Die Ilz ist fast ___. | schwarz | grün | blau | en: The Ilz is almost black. | why: „die Ilz ist fast schwarz“
+q: Der höchste Strich ist von ___. | 2013 | 1954 | 2002 | en: The highest mark is from 2013. | why: „Der höchste Strich ist von 2013.“
+
+=== u66 | dialogue | Die Landshuter Hochzeit
+intro: Every four years Landshut re-enacts a royal wedding from 1475. Tom and Lena watch the procession. Konjunktiv II: wishes and dreams.
+Lena: Schau, die Braut! Sie trägt ein Kleid wie vor fünfhundert Jahren. | Look, the bride! She's wearing a dress like five hundred years ago.
+Tom: Wenn ich ein Ritter wäre, würde ich auch auf einem Pferd reiten. | If I were a knight, I'd ride a horse too.
+Lena: Und wenn ich eine Prinzessin wäre, hätte ich ein Schloss. | And if I were a princess, I'd have a castle.
+Tom: Ein Schloss könnte ich dir bauen. Ich bin doch Zimmermann! | I could build you a castle. I'm a carpenter, after all!
+Lena: Aus Holz? Das würde nicht lange stehen. | Out of wood? That wouldn't stand for long.
+Tom: Doch! Wenn man es richtig baut, steht es fünfhundert Jahre. Wie in Quedlinburg. | Yes it would! If you build it properly, it stands five hundred years. Like in Quedlinburg.
+Lena: Hättest du denn Lust zu heiraten, irgendwann? | Would you want to get married, some day?
+Tom: Vielleicht … wenn ich die richtige Frau gefunden hätte. | Maybe … if I had found the right woman.
+Lena: Und hast du sie noch nicht gefunden? | And haven't you found her yet?
+Tom: Das würde ich dir nur nach der Meisterprüfung sagen. | I'd only tell you that after my master's examination.
+q: Wenn Tom ein Ritter ___, würde er auf einem Pferd reiten. | wäre | ist | war | en: If Tom were a knight, he'd ride a horse. | why: unreal condition: wenn … wäre
+q: Wenn Lena eine Prinzessin wäre, ___ sie ein Schloss. | hätte | hat | habe | en: If Lena were a princess, she'd have a castle. | why: Konjunktiv II of haben: hätte
+q: Tom will es nach der ___ sagen. | Meisterprüfung | Hochzeit | Reise | en: Tom wants to say it after his master's examination. | why: „nur nach der Meisterprüfung“
+
+=== u67 | dialogue | Das Echo am Königssee
+intro: On the Königssee near Berchtesgaden, the boatman plays the trumpet. Tom and Lena talk about the weather and the next days.
+Bootsführer: Und jetzt: Ruhe, bitte! | And now: quiet, please!
+Lena: Hör mal! Das Echo kommt von den Felsen zurück, einmal, zweimal, siebenmal! | Listen! The echo comes back from the cliffs, once, twice, seven times!
+Tom: Unglaublich. Wird es morgen auch so schön sein? | Incredible. Will it be this lovely tomorrow too?
+Bootsführer: Leider nicht. Morgen wird es regnen, und am Nachmittag wird es ein Gewitter geben. | Unfortunately not. Tomorrow it will rain, and in the afternoon there will be a thunderstorm.
+Lena: Und am Wochenende? | And at the weekend?
+Bootsführer: Am Samstag wird die Sonne wieder scheinen. Aber in den Bergen wird es kalt werden. | On Saturday the sun will shine again. But it will get cold in the mountains.
+Tom: Dann werden wir am Samstag wiederkommen. | Then we'll come back on Saturday.
+Bootsführer: Und ich werde wieder für Sie spielen! | And I'll play for you again!
+q: Das Echo kommt von den ___ zurück. | Felsen | Häusern | Booten | en: The echo comes back from the cliffs. | why: „Das Echo kommt von den Felsen zurück“
+q: Morgen ___ es regnen. | wird | würde | war | en: Tomorrow it will rain. | why: future: werden + infinitive
+q: Am Samstag wird die ___ wieder scheinen. | Sonne | Lampe | Mond | en: On Saturday the sun will shine again. | why: „Am Samstag wird die Sonne wieder scheinen.“
+
+=== u68 | reading | Das unvollendete Versailles
+intro: On an island in the Chiemsee, Ludwig II built a copy of Versailles. Subordinate clauses and feelings.
+- Ludwig bewunderte den französischen König so sehr, dass er sein eigenes Versailles bauen wollte. | Ludwig admired the French king so much that he wanted to build his own Versailles.
+- Er wählte eine Insel im Chiemsee, weil er dort allein sein konnte. | He chose an island in the Chiemsee because he could be alone there.
+- Obwohl das Schloss sehr teuer war, baute er immer weiter. | Although the palace was very expensive, he kept on building.
+- Als Ludwig 1886 starb, waren nur zwanzig Zimmer fertig. | When Ludwig died in 1886, only twenty rooms were finished.
+- Er hatte nur zehn Tage in seinem Schloss gewohnt. | He had lived in his palace for only ten days.
+- Viele Besucher sind traurig, wenn sie die leeren Räume sehen. | Many visitors are sad when they see the empty rooms.
+q: Ludwig wollte ein eigenes ___ bauen. | Versailles | Neuschwanstein | Dorf | en: Ludwig wanted to build his own Versailles. | why: „dass er sein eigenes Versailles bauen wollte“
+q: Er wählte die Insel, weil er dort allein sein ___. | konnte | kann | gekonnt | en: He chose the island because he could be alone there. | why: after weil the verb goes to the end
+q: Ludwig hatte nur ___ Tage im Schloss gewohnt. | zehn | zwanzig | hundert | en: Ludwig had lived in the palace for only ten days. | why: „Er hatte nur zehn Tage in seinem Schloss gewohnt.“
+
+=== u68 | dialogue | Wie fühlst du dich?
+intro: In the evening, Lena notices that Tom is quiet.
+Lena: Du bist so still. Was ist los? | You're so quiet. What's wrong?
+Tom: Ich bin froh, dass du hier bist. Aber ich habe Angst, dass ich die Prüfung nicht bestehe. | I'm glad you're here. But I'm afraid I won't pass the exam.
+Lena: Du hast doch so viel gelernt! Ich bin sicher, dass du sie bestehst. | But you've learned so much! I'm sure you'll pass.
+Tom: Und manchmal bin ich traurig, weil meine Familie so weit weg ist. | And sometimes I'm sad because my family is so far away.
+Lena: Das verstehe ich. Ich wäre auch traurig, wenn ich so lange weg wäre. | I understand. I'd be sad too if I were away for so long.
+Tom: Aber wenn ich mit dir rede, geht es mir besser. | But when I talk to you, I feel better.
+Lena: Dann reden wir eben mehr! | Then we'll just talk more!
+q: Tom hat Angst, dass er die Prüfung nicht ___. | besteht | bestanden | bestehen | en: Tom is afraid he won't pass the exam. | why: after dass the verb goes to the end
+q: Tom ist manchmal traurig, ___ seine Familie so weit weg ist. | weil | obwohl | damit | en: Tom is sometimes sad because his family is so far away. | why: weil = because
+
+=== u69 | reading | Frankenstein in Ingolstadt
+intro: In Mary Shelley's novel (1818), Victor Frankenstein studies in Ingolstadt and creates his monster. The passive.
+- Ingolstadt hatte eine berühmte Universität, an der Medizin gelehrt wurde. | Ingolstadt had a famous university where medicine was taught.
+- In Mary Shelleys Roman wird der junge Victor Frankenstein dorthin geschickt, um zu studieren. | In Mary Shelley's novel the young Victor Frankenstein is sent there to study.
+- In einer dunklen Nacht wird von ihm ein neuer Mensch erschaffen. | One dark night he creates a new human being.
+- Aber das Wesen wird von allen gehasst, weil es so hässlich ist. | But the creature is hated by everyone because it is so ugly.
+- Heute kann man in Ingolstadt das alte Anatomie-Theater besuchen, wo früher Medizin unterrichtet wurde. | Today you can visit the old anatomy theatre in Ingolstadt, where medicine used to be taught.
+- Und in der Stadt werden heute Autos gebaut — zum Glück keine Monster! | And today cars are built in the city — luckily, no monsters!
+q: An der Universität wurde ___ gelehrt. | Medizin | Musik | Kunst | en: Medicine was taught at the university. | why: „an der Medizin gelehrt wurde“
+q: Das Wesen wird von allen ___. | gehasst | geliebt | gesucht | en: The creature is hated by everyone. | why: passive: wird gehasst
+q: In Ingolstadt werden heute ___ gebaut. | Autos | Schiffe | Häuser aus Holz | en: Cars are built in Ingolstadt today. | why: „in der Stadt werden heute Autos gebaut“
+
+=== u69 | dialogue | Das Vorstellungsgespräch
+intro: Tom has a job interview for after his journeyman years. Passive: what is done in the company.
+Chefin: Herzlich willkommen, Herr Tom. Erzählen Sie mir von Ihrer Erfahrung. | Welcome, Mr Tom. Tell me about your experience.
+Tom: Ich bin seit fast drei Jahren auf der Walz. Ich habe in über zwanzig Städten gearbeitet. | I've been on my journeyman travels for almost three years. I've worked in over twenty towns.
+Chefin: Beeindruckend. Bei uns werden vor allem alte Häuser repariert. Haben Sie das schon gemacht? | Impressive. We mainly repair old houses. Have you done that before?
+Tom: Ja, oft. In Quedlinburg wurde ich sogar für ein Fachwerkhaus aus dem Mittelalter geholt. | Yes, often. In Quedlinburg I was even brought in for a medieval half-timbered house.
+Chefin: Sehr gut. Und das Gehalt? Sie werden nach Tarif bezahlt. | Very good. And the salary? You'll be paid according to the collective agreement.
+Tom: Das ist fair. Wann wird entschieden? | That's fair. When will it be decided?
+Chefin: Nach Ihrer Meisterprüfung. Viel Glück! | After your master's examination. Good luck!
+q: Bei der Firma werden vor allem alte Häuser ___. | repariert | verkauft | gemalt | en: The company mainly repairs old houses. | why: passive: werden repariert
+q: Tom hat in über ___ Städten gearbeitet. | zwanzig | zwölf | zwei | en: Tom has worked in over twenty towns. | why: „in über zwanzig Städten“
+
+=== u70 | dialogue | Bei den Holzschnitzern
+intro: Oberammergau is famous for its Passion Play and its woodcarvers. Tom visits a workshop. Relative clauses.
+Holzschnitzer: Das ist die Figur, an der ich seit drei Monaten arbeite. | This is the figure I've been working on for three months.
+Tom: Drei Monate für eine Figur? Aus welchem Holz ist sie? | Three months for one figure? What wood is it made of?
+Holzschnitzer: Aus Linde. Das ist ein Holz, das weich ist und sich gut schnitzen lässt. | Lime wood. That's a wood that is soft and easy to carve.
+Tom: Und die bunten Bilder an den Häusern, die ich überall sehe? | And the colourful pictures on the houses that I see everywhere?
+Holzschnitzer: Das ist Lüftlmalerei. Die Maler, die sie gemacht haben, malten direkt auf den nassen Putz. | That's Lüftlmalerei. The painters who made them painted directly on the wet plaster.
+Tom: Und das Theater, in dem die Passion gespielt wird? | And the theatre where the Passion is performed?
+Holzschnitzer: Das ist das Passionstheater. Fast jeder, der hier wohnt, spielt mit — alle zehn Jahre. | That's the Passion Theatre. Almost everyone who lives here takes part — every ten years.
+q: Der Schnitzer arbeitet seit drei Monaten an der ___. | Figur | Tür | Kirche | en: The carver has been working on the figure for three months. | why: „die Figur, an der ich seit drei Monaten arbeite“
+q: Lindenholz ist ein Holz, ___ weich ist. | das | der | die | en: Lime wood is a wood that is soft. | why: das Holz → relative pronoun das
+q: Die Passion wird alle ___ Jahre gespielt. | zehn | vier | hundert | en: The Passion is performed every ten years. | why: „alle zehn Jahre“
+
+=== u70 | reading | Das Gelübde von 1633
+intro: Why a whole village has acted the same play every ten years for nearly four centuries.
+- Im Jahr 1633 kam die Pest nach Oberammergau. Viele Menschen starben. | In 1633 the plague came to Oberammergau. Many people died.
+- Die Bürger, die noch lebten, machten ein Gelübde: | The citizens who were still alive made a vow:
+- Wenn Gott sie rettete, wollten sie alle zehn Jahre das Leiden und Sterben von Jesus spielen. | If God saved them, they would perform the suffering and death of Jesus every ten years.
+- Man sagt, danach sei niemand mehr an der Pest gestorben. | It is said that after that nobody else died of the plague.
+- 1634 spielten sie das erste Mal. Seitdem halten sie ihr Versprechen. | In 1634 they performed it for the first time. Since then they have kept their promise.
+- Heute spielen über zweitausend Menschen aus dem Dorf mit. | Today over two thousand people from the village take part.
+q: 1633 kam die ___ nach Oberammergau. | Pest | Polizei | Post | en: In 1633 the plague came to Oberammergau. | why: „Im Jahr 1633 kam die Pest nach Oberammergau.“
+q: Die Bürger, ___ noch lebten, machten ein Gelübde. | die | der | denen | en: The citizens who were still alive made a vow. | why: plural subject → die

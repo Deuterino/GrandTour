@@ -284,7 +284,12 @@ function superlativeReadings(word, L) {
 const ordinalEn = (n) => { const s = ['th', 'st', 'nd', 'rd'], v = n % 100; return n.toLocaleString('en-US') + (s[(v - 20) % 10] || s[v] || s[0]); };
 
 // Compound numbers are written as one word and are not in the lexicon: build a reading on the fly (entry.syn = synthetic).
-function numberReading(word, { value, ordinal }, lang) {
+function numberReading(word, { value, ordinal, times }, lang) {
+  if (times) {
+    const entry = { id: `#num:${word.toLowerCase()}`, l: word.toLowerCase(), p: 'adv', en: `${value.toLocaleString('en-US')} times`, syn: 1,
+      n: 'Number + -mal = … times: einmal, zweimal, zehnmal, hundertmal.' };
+    return { entry, tags: [], score: 0, notes: [] };
+  }
   const n = ordinal ? ordinalEn(value) : value.toLocaleString('en-US');
   const note = lang === 'de'
     ? (ordinal ? 'Ordinals take adjective endings: der zwanzigste Mai, am einundzwanzigsten Juni.' : 'German says the units first: einundzwanzig = “one-and-twenty”. Numbers below a million are one word.')

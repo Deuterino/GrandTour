@@ -189,3 +189,83 @@ Schwabe|n.m|Swabian (person from Swabia)|note=Weak noun: die Schwaben. Feminine 
 # desc
 solar|a|solar|note=die Solaranlage = solar panels; das Solardach = solar roof.
 heilignüchtern|a|holy-sober (Hölderlin's coinage)|reg=lit
+# body
+Pest|n.f|plague|note=die Pest (1633) gave Oberammergau its Passion Play.
+# soc
+Gelübde|n.n|vow|note=ein Gelübde ablegen = to make a vow.
+Passion|n.f|Passion (of Christ); passion|note=das Passionsspiel = Passion play.
+Tarif|n.m|rate, tariff; pay scale|note=nach Tarif bezahlt = paid by the collective agreement.
+# nature
+Echo|n.n|echo
+Schlucht|n.f|gorge, ravine
+Moor|n.n|moor, bog
+Rebhuhn|n.n|partridge|note=Plural Rebhühner.
+Linde|n.f|lime tree, linden|note=das Lindenholz = lime wood, the carvers' favourite.
+# desc
+hellgrün|a|light green|note=hell- = light, dunkel- = dark: dunkelblau.
+bayerisch|a|Bavarian|note=der Bayerische Wald = the Bavarian Forest.
+freilich|adv|of course, certainly (southern)|reg=reg
+# greet
+gell|intj|right?, isn't it? (southern)|reg=reg;note=North: ne? or oder?
+# food
+Brezn|n.f|pretzel (Bavarian)|reg=reg;note=Standard: die Brezel.
+# work
+Fachwerk|n.n|half-timbering, timber frame|note=das Fachwerkhaus = half-timbered house.
+Schnitzer|n.m|carver; (coll.) blunder|note=der Holzschnitzer = woodcarver.
+# act
+komponieren|v|to compose (music)
+ausrutschen|v|to slip|note=Separable, with sein: Er ist ausgerutscht.
+rutschen|v|to slide, to slip
+staunen|v|to be amazed
+cremen|v|to put cream on|note=Usually sich eincremen = to put on sun cream or lotion: Hast du dich eingecremt?
+bemalen|v|to paint (decorate) something
+veranstalten|v|to organize, to hold (an event)
+beleuchten|v|to light up, to illuminate
+vergolden|v|to gild
+# time
+heuer|adv|this year (southern, Austrian)|reg=reg;note=Standard: dieses Jahr.
+# home
+Zeiger|n.m|hand (of a clock); pointer
+Haken|n.m|hook
+Tablett|n.n|tray
+Saal|n.m|hall (large room)|note=Plural Säle.
+Tüte|n.f|bag (paper or plastic)|note=Austrian: das Sackerl.
+Kupfer|n.n|copper
+Schindel|n.f|shingle, roof tile (wood or metal)
+Fassade|n.f|façade, front (of a building)
+Pavillon|n.m|pavilion
+Gitter|n.n|grid, lattice, bars
+# food
+Teig|n.m|dough, batter
+Streifen|n.m|strip, stripe
+Kilo|n.n|kilo|note=ein Kilo Tomaten.
+Espresso|n.m|espresso
+Cappuccino|n.m|cappuccino
+Schaum|n.m|foam|note=der Milchschaum = milk foam.
+Melange|n.f|Viennese milky coffee (Austrian)|reg=reg
+Paradeiser|n.m|tomato (Austrian)|reg=reg;note=Standard: die Tomate.
+Sackerl|n.n|little bag (Austrian)|reg=reg;note=Standard: die Tüte.
+Schlagobers|n.n|whipped cream (Austrian)|reg=reg;note=Standard: die Sahne, die Schlagsahne.
+Kaiserschmarrn|n.m|Kaiserschmarrn (shredded sweet pancake)
+Einspänner|n.m|black coffee with whipped cream, served in a glass (Vienna)
+Kaspressknödel|n.m|Tyrolean fried cheese dumpling
+# desc
+restlich|a|remaining
+brav|a|good, well-behaved; (old) kind, honest
+österreichisch|a|Austrian
+# num
+hunderte|num|hundreds|note=Also capitalized: Hunderte von Menschen.
+# free
+Festival|n.n|festival
+Erzähler|n.m|narrator, storyteller|note=Feminine Erzählerin; erzählen = to tell.
+Handschrift|n.f|handwriting; manuscript
+Benediktiner|n.m|Benedictine (monk)|note=der Benediktinerorden = the Benedictine order.
+Orden|n.m|(religious) order; medal
+# school
+Pronomen|n.n|pronoun
+Dativ|n.m|dative (case)
+Akkusativ|n.m|accusative (case)
+Nominativ|n.m|nominative (case)
+Genitiv|n.m|genitive (case)
+# home
+Vermieter|n.m|landlord|note=Feminine Vermieterin; mieten = to rent.

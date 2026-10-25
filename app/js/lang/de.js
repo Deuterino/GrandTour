@@ -465,6 +465,8 @@ export function parseNumber(word) {
   const s = word.toLowerCase();
   const v = cardinal(s);
   if (v != null) return { value: v };
+  const times = s.endsWith('mal') ? cardinal(s.slice(0, -3)) : null; // siebenmal = seven times
+  if (times) return { value: times, times: true };
   const m = s.match(/^(.+?)s?te[nrsm]?$/);
   const o = m && cardinal(m[1]);
   return o && o > 12 ? { value: o, ordinal: true } : null;

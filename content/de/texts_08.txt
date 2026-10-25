@@ -1,0 +1,246 @@
+# German unit stories, units 71–80 (Österreich: Servus, Österreich!).
+
+=== u71 | reading | Das Wunderkind
+intro: Wolfgang Amadeus Mozart was born in Salzburg in 1756. The Perfekt tells his childhood.
+- Mozart ist 1756 in Salzburg auf die Welt gekommen, in einem gelben Haus in der Getreidegasse. | Mozart was born in Salzburg in 1756, in a yellow house in the Getreidegasse.
+- Sein Vater Leopold war Musiker und hat ihm früh das Klavier gezeigt. | His father Leopold was a musician and showed him the piano early.
+- Mit fünf Jahren hat Wolfgang seine ersten kleinen Stücke komponiert. | At five Wolfgang composed his first little pieces.
+- Mit sechs ist er mit seiner Schwester durch Europa gereist. Sie haben vor Königen und Fürsten gespielt. | At six he travelled through Europe with his sister. They played for kings and princes.
+- Er hat Musik so leicht geschrieben, wie andere Leute Briefe schreiben. | He wrote music as easily as other people write letters.
+- Heute kann man sein Geburtshaus besuchen — und überall in der Stadt Mozartkugeln kaufen. | Today you can visit his birthplace — and buy Mozartkugeln everywhere in the city.
+q: Mozarts Geburtshaus ist ___. | gelb | rot | blau | en: Mozart's birthplace is yellow. | why: „in einem gelben Haus“
+q: Mit fünf Jahren hat Mozart Stücke ___. | komponiert | gekauft | gelesen | en: At five Mozart composed pieces. | why: „hat … seine ersten kleinen Stücke komponiert“
+q: Mit sechs ist er durch Europa ___. | gereist | gespielt | geschrieben | en: At six he travelled through Europe. | why: reisen → ist gereist (movement)
+
+=== u71 | dialogue | Österreichisch für Anfänger
+intro: Tom has arrived in Austria. At a market in Salzburg, he discovers that Austrians have their own words.
+Marktfrau: Grüß Gott! Was darf's sein? | Hello! What can I get you?
+Tom: Ich hätte gern ein Kilo Tomaten, bitte. | I'd like a kilo of tomatoes, please.
+Marktfrau: Paradeiser, meinen Sie? Gern! Und sonst noch was? | Paradeiser, you mean? Certainly! Anything else?
+Tom: Paradeiser? Ach so. Und Kartoffeln, bitte. | Paradeiser? I see. And potatoes, please.
+Marktfrau: Erdäpfel. Bitte schön. Brauchen Sie ein Sackerl? | Erdäpfel. Here you are. Do you need a little bag?
+Tom: Ein Sackerl? Ja, bitte! Ich lerne heute viele neue Wörter. | A Sackerl? Yes, please! I'm learning lots of new words today.
+Marktfrau: Sie sind wohl nicht von hier. Waren Sie heuer schon in Wien? | You're not from here, I suppose. Have you been to Vienna yet this year?
+Tom: Heuer? Nein, noch nicht. Aber ich habe schon eine Mozartkugel gegessen! | This year? No, not yet. But I've already eaten a Mozartkugel!
+q: In Österreich heißen Tomaten ___. | Paradeiser | Erdäpfel | Sackerl | en: In Austria tomatoes are called Paradeiser. | why: „Paradeiser, meinen Sie?“
+q: Ein „Sackerl“ ist eine kleine ___. | Tüte | Kartoffel | Frau | en: A "Sackerl" is a little bag. | why: Sackerl = Tüte (bag)
+q: „Heuer“ heißt „___“. | dieses Jahr | heute | morgen | en: "Heuer" means "this year". | why: heuer = in diesem Jahr (southern and Austrian)
+
+=== u72 | dialogue | In der Skihütte
+intro: Innsbruck lies between high mountains. After a day in the snow, Tom and his friend Max come into a mountain hut. Two-way prepositions.
+Max: Leg deine Handschuhe auf den Ofen. Dort werden sie schnell trocken. | Put your gloves on the stove. They'll get dry quickly there.
+Tom: Und wohin stelle ich die Schuhe? | And where do I put my shoes?
+Max: Stell sie unter die Bank, neben die Tür. | Put them under the bench, next to the door.
+Tom: Die Mütze hänge ich an den Haken. So, jetzt sitze ich endlich am Tisch! | I'll hang my hat on the hook. There, now I'm finally sitting at the table!
+Max: Was möchtest du essen? Es gibt Kaspressknödel und Kaiserschmarrn. | What would you like to eat? There's cheese dumplings and Kaiserschmarrn.
+Tom: Kaiserschmarrn! Der Name gefällt mir. | Kaiserschmarrn! I like the name.
+Max: Der Kaiser hat ihn geliebt. Morgen zeige ich dir das Goldene Dachl in der Altstadt. | The emperor loved it. Tomorrow I'll show you the Golden Roof in the old town.
+Tom: Ist es wirklich aus Gold? | Is it really made of gold?
+Max: Es hat über zweitausend vergoldete Kupferschindeln. Kaiser Maximilian hat von dort oben auf den Platz geschaut. | It has over two thousand gilded copper tiles. Emperor Maximilian looked down from up there onto the square.
+q: Tom legt die Handschuhe auf den ___. | Ofen | Tisch | Boden | en: Tom puts the gloves on the stove. | why: wohin? → auf den Ofen (accusative)
+q: Die Schuhe stehen jetzt unter ___ Bank. | der | die | den | en: The shoes are now under the bench. | why: wo? → dative: unter der Bank
+q: Das Goldene Dachl hat über zweitausend vergoldete ___. | Kupferschindeln | Fenster | Steine | en: The Golden Roof has over two thousand gilded copper tiles. | why: „über zweitausend vergoldete Kupferschindeln“
+
+=== u72 | gouin | Ich ziehe mich an
+intro: A Gouin series before going out into the snow. Put the steps back in order.
+- Ich ziehe die warme Hose an. | I put on the warm trousers.
+- Ich ziehe die dicken Socken an. | I put on the thick socks.
+- Ich ziehe den Pullover über den Kopf. | I pull the sweater over my head.
+- Ich setze die Mütze auf. | I put on the hat.
+- Ich ziehe die Handschuhe an. | I put on the gloves.
+- Ich öffne die Tür und gehe in den Schnee. | I open the door and go out into the snow.
+
+=== u73 | dialogue | Eine kleine Wohnung in Hallstatt
+intro: Hallstatt is so pretty that China built a copy of it. Tom looks for a room for his last weeks of work. Adjective endings.
+Vermieterin: Das ist eine kleine, aber sehr gemütliche Wohnung. | This is a small but very cosy flat.
+Tom: Was für ein schöner Blick auf den See! | What a lovely view of the lake!
+Vermieterin: Ja, und das alte Bett ist aus echtem Holz. Die blauen Vorhänge habe ich selbst genäht. | Yes, and the old bed is made of real wood. I sewed the blue curtains myself.
+Tom: Gibt es auch einen großen Kühlschrank? | Is there a big fridge too?
+Vermieterin: Einen kleinen. Hier in Hallstatt sind alle Häuser klein, wegen der steilen Berge. | A small one. Here in Hallstatt all the houses are small, because of the steep mountains.
+Tom: Und die vielen Touristen? | And all the tourists?
+Vermieterin: Am frühen Morgen und am späten Abend ist es ruhig. Dann gehört das Dorf wieder uns. | Early in the morning and late in the evening it's quiet. Then the village belongs to us again.
+Tom: Perfekt. Ich nehme die Wohnung. | Perfect. I'll take the flat.
+q: Die Wohnung ist klein, aber sehr ___. | gemütlich | teuer | laut | en: The flat is small but very cosy. | why: „eine kleine, aber sehr gemütliche Wohnung“
+q: Die ___ Vorhänge hat die Vermieterin selbst genäht. | blauen | blaue | blauer | en: The landlady sewed the blue curtains herself. | why: die + plural → -en: die blauen Vorhänge
+q: Am frühen ___ ist es ruhig. | Morgen | Mittag | Nachmittag | en: It's quiet early in the morning. | why: „Am frühen Morgen und am späten Abend ist es ruhig.“
+
+=== u73 | reading | Salz und Knochen
+intro: Hallstatt has the oldest salt mine in the world — and a famous bone house.
+- Schon vor siebentausend Jahren holten die Menschen hier Salz aus dem Berg. | As long as seven thousand years ago people took salt from the mountain here.
+- Salz war damals so wertvoll wie Gold. Darum nennt man es auch „weißes Gold“. | Salt was as valuable as gold at the time. That's why it is also called "white gold".
+- Weil der Friedhof sehr klein ist, holte man die Knochen nach einigen Jahren wieder aus der Erde. | Because the graveyard is very small, the bones were taken out of the earth again after some years.
+- Die Köpfe wurden bemalt, oft mit Blumen und mit dem Namen der toten Person. | The skulls were painted, often with flowers and the name of the dead person.
+- Heute kann man über sechshundert bemalte Köpfe im Beinhaus sehen. | Today you can see over six hundred painted skulls in the bone house.
+q: Salz nannte man auch „weißes ___“. | Gold | Brot | Wasser | en: Salt was also called "white gold". | why: „Darum nennt man es auch weißes Gold.“
+q: Der Friedhof in Hallstatt ist sehr ___. | klein | groß | alt | en: The graveyard in Hallstatt is very small. | why: „Weil der Friedhof sehr klein ist“
+
+=== u74 | dialogue | Mein Akku ist leer!
+intro: In Linz, the city of the Ars Electronica festival, Tom's phone dies at the worst moment.
+Tom: Oh nein, mein Akku ist leer! Wo kann hier ein Handy geladen werden? | Oh no, my battery is dead! Where can a phone be charged around here?
+Mitarbeiterin: Im Museum gibt es Steckdosen. Dort werden jeden Tag hunderte Handys geladen. | There are sockets in the museum. Hundreds of phones are charged there every day.
+Tom: Danke! Was wird hier eigentlich gezeigt? | Thanks! What is actually shown here?
+Mitarbeiterin: Hier wird Kunst mit Technik verbunden. Im September wird ein großes Festival veranstaltet. | Here art is combined with technology. In September a big festival is held.
+Tom: Und das große Gebäude am Fluss? | And the big building by the river?
+Mitarbeiterin: Das ist das Museum selbst. In der Nacht wird die ganze Fassade in bunten Farben beleuchtet. | That's the museum itself. At night the whole façade is lit up in bright colours.
+Tom: Toll. Und dann werde ich ein Foto machen — wenn mein Handy wieder geladen ist! | Great. And then I'll take a photo — once my phone is charged again!
+q: Tom muss sein ___ laden. | Handy | Auto | Fahrrad | en: Tom needs to charge his phone. | why: „mein Akku ist leer!“
+q: Hier wird Kunst mit Technik ___. | verbunden | verkauft | gemalt | en: Here art is combined with technology. | why: passive: wird verbunden
+q: In der Nacht wird die Fassade ___. | beleuchtet | gebaut | geschlossen | en: At night the façade is lit up. | why: „wird die ganze Fassade in bunten Farben beleuchtet“
+
+=== u74 | reading | Die Linzer Torte
+intro: The oldest known cake recipe in the world comes from Linz. Passive in a recipe.
+- Die Linzer Torte gilt als die älteste Torte der Welt. Ihr Rezept wurde schon 1653 aufgeschrieben. | The Linzer Torte is considered the oldest cake in the world. Its recipe was written down as early as 1653.
+- Zuerst werden Mehl, Butter, Zucker und Nüsse gemischt. | First flour, butter, sugar and nuts are mixed.
+- Der Teig wird in eine runde Form gedrückt. | The dough is pressed into a round tin.
+- Dann wird rote Marmelade darauf gestrichen. | Then red jam is spread on top.
+- Aus dem restlichen Teig werden dünne Streifen gemacht und wie ein Gitter auf die Torte gelegt. | Thin strips are made from the rest of the dough and laid on the cake like a lattice.
+- Die Torte wird eine Stunde gebacken. Am besten schmeckt sie am nächsten Tag. | The cake is baked for an hour. It tastes best the next day.
+q: Das Rezept wurde schon ___ aufgeschrieben. | 1653 | 1853 | 1953 | en: The recipe was written down as early as 1653. | why: „Ihr Rezept wurde schon 1653 aufgeschrieben.“
+q: Auf den Teig wird rote ___ gestrichen. | Marmelade | Butter | Sahne | en: Red jam is spread on the dough. | why: „Dann wird rote Marmelade darauf gestrichen.“
+
+=== u75 | dialogue | Im Kaffeehaus
+intro: In Vienna, a single coffee buys you the right to sit for hours. Polite Konjunktiv II with the waiter, the Herr Ober.
+Ober: Grüß Gott, der Herr. Was hätten Sie gern? | Good day, sir. What would you like?
+Tom: Ich hätte gern eine Melange, bitte. Und könnten Sie mir eine Zeitung bringen? | I'd like a Melange, please. And could you bring me a newspaper?
+Ober: Sehr gern. Möchten Sie auch etwas Süßes? Die Sachertorte wäre zu empfehlen. | With pleasure. Would you like something sweet too? The Sachertorte would be my recommendation.
+Tom: Gern. Dürfte ich auch ein Glas Wasser haben? | Gladly. Might I have a glass of water too?
+Ober: Das Wasser bekommen Sie bei uns immer dazu. | We always serve water with it.
+Tom: Wie lange darf man hier eigentlich sitzen? | How long are you actually allowed to sit here?
+Ober: So lange Sie wollen. Manche Gäste sitzen den ganzen Nachmittag bei einer Tasse Kaffee. | As long as you like. Some guests sit the whole afternoon over one cup of coffee.
+Tom: Dann würde ich gern bis zum Abend bleiben und lesen! | Then I'd like to stay until evening and read!
+q: Tom ___ gern eine Melange. | hätte | hat | habe | en: Tom would like a Melange. | why: polite: ich hätte gern
+q: Zum Kaffee bekommt man immer ein Glas ___. | Wasser | Wein | Milch | en: With coffee you always get a glass of water. | why: „Das Wasser bekommen Sie bei uns immer dazu.“
+q: Im Kaffeehaus darf man sitzen, so lange man ___. | will | muss | kann nicht | en: In the coffee house you may sit as long as you like. | why: „So lange Sie wollen.“
+
+=== u75 | reading | Wiener Kaffee
+intro: A Viennese coffee menu. In 2011 UNESCO listed the Viennese coffee house culture as intangible heritage.
+- Ein kleiner Schwarzer ist ein Espresso. | A "kleiner Schwarzer" is an espresso.
+- Eine Melange ist ein Kaffee mit viel Milch und Milchschaum, fast wie ein Cappuccino. | A Melange is a coffee with lots of milk and milk foam, almost like a cappuccino.
+- Ein Einspänner ist ein schwarzer Kaffee im Glas mit viel Schlagobers. | An Einspänner is black coffee in a glass with lots of whipped cream.
+- Schlagobers ist das österreichische Wort für Sahne. | Schlagobers is the Austrian word for whipped cream.
+- Wer einen Kaffee bestellt, bekommt immer ein Glas Wasser dazu, oft auf einem kleinen Tablett aus Silber. | Whoever orders a coffee always gets a glass of water with it, often on a little silver tray.
+q: Eine Melange ist fast wie ein ___. | Cappuccino | Espresso | Tee | en: A Melange is almost like a cappuccino. | why: „fast wie ein Cappuccino“
+q: „Schlagobers“ ist das österreichische Wort für ___. | Sahne | Zucker | Milch | en: "Schlagobers" is the Austrian word for whipped cream. | why: „Schlagobers ist das österreichische Wort für Sahne.“
+
+=== u76 | reading | Mozart und die Prinzessin
+intro: Schönbrunn Palace has 1,441 rooms. In 1762 a six-year-old boy played there for the Empress Maria Theresa. Präteritum.
+- Im Herbst 1762 kam die Familie Mozart nach Wien. | In autumn 1762 the Mozart family came to Vienna.
+- Die Kaiserin Maria Theresia lud sie nach Schönbrunn ein. | Empress Maria Theresa invited them to Schönbrunn.
+- Der kleine Wolfgang spielte so schön Klavier, dass alle staunten. | Little Wolfgang played the piano so beautifully that everyone was amazed.
+- Danach lief er durch den großen Saal, rutschte auf dem glatten Boden aus und fiel hin. | Afterwards he ran through the great hall, slipped on the smooth floor and fell over.
+- Eine kleine Prinzessin half ihm auf. Sie hieß Marie Antoinette. | A little princess helped him up. Her name was Marie Antoinette.
+- Wolfgang sagte zu ihr: „Du bist brav. Ich will dich heiraten.“ | Wolfgang said to her: "You are kind. I want to marry you."
+- Später wurde Marie Antoinette Königin von Frankreich — aber Mozart heiratete sie nie. | Later Marie Antoinette became Queen of France — but Mozart never married her.
+q: Die Familie Mozart kam im Herbst ___ nach Wien. | 1762 | 1756 | 1791 | en: The Mozart family came to Vienna in autumn 1762. | why: „Im Herbst 1762 kam die Familie Mozart nach Wien.“
+q: Wolfgang rutschte aus und ___ hin. | fiel | lief | spielte | en: Wolfgang slipped and fell over. | why: fallen → fiel (Präteritum)
+q: Die Prinzessin, die ihm half, hieß ___. | Marie Antoinette | Maria Theresia | Sisi | en: The princess who helped him was called Marie Antoinette. | why: „Sie hieß Marie Antoinette.“
+
+=== u76 | dialogue | In Schönbrunn
+intro: Tom and Lena visit Schönbrunn Palace.
+Lena: Wusstest du, dass die Habsburger über sechshundert Jahre regiert haben? | Did you know that the Habsburgs ruled for over six hundred years?
+Tom: Nein. Und wie viele Zimmer hat das Schloss? | No. And how many rooms does the palace have?
+Lena: Tausendvierhunderteinundvierzig! Maria Theresia hatte sechzehn Kinder. Sie brauchte viel Platz. | One thousand four hundred and forty-one! Maria Theresa had sixteen children. She needed lots of space.
+Tom: Sechzehn Kinder und ein Reich! Wie schaffte sie das? | Sixteen children and an empire! How did she manage that?
+Lena: Sie arbeitete von früh bis spät. Und sie hatte natürlich viele Diener. | She worked from morning till night. And of course she had lots of servants.
+Tom: Ich würde mich in so einem großen Haus verlaufen. | I'd get lost in such a big house.
+Lena: Ich auch. Komm, wir gehen in den Garten zur Gloriette. Von dort sieht man ganz Wien. | Me too. Come on, let's go into the garden to the Gloriette. From there you can see all of Vienna.
+q: Das Schloss hat ___ Zimmer. | 1441 | 641 | 1600 | en: The palace has 1,441 rooms. | why: „Tausendvierhunderteinundvierzig!“
+q: Maria Theresia hatte ___ Kinder. | sechzehn | sechs | sechzig | en: Maria Theresa had sixteen children. | why: „Maria Theresia hatte sechzehn Kinder.“
+
+=== u77 | dialogue | In der Apotheke
+intro: In Graz, Tom has caught a cold. At the pharmacy he describes his symptoms. Dative with body parts.
+Apothekerin: Grüß Gott! Was fehlt Ihnen? | Hello! What's the matter?
+Tom: Mir tut der Hals weh, und meine Nase läuft. | My throat hurts and my nose is running.
+Apothekerin: Haben Sie auch Fieber? | Do you have a temperature too?
+Tom: Ich glaube nicht. Aber mir ist kalt, und der Kopf tut mir weh. | I don't think so. But I'm cold, and my head hurts.
+Apothekerin: Das klingt nach einer Erkältung. Ich gebe Ihnen Tabletten gegen die Schmerzen und einen Tee für den Hals. | That sounds like a cold. I'll give you tablets for the pain and a tea for your throat.
+Tom: Danke. Darf ich trotzdem arbeiten? Ich bin Zimmermann. | Thank you. May I still work? I'm a carpenter.
+Apothekerin: Ein, zwei Tage sollten Sie sich ausruhen. Ihr Körper braucht Ruhe. | You should rest for a day or two. Your body needs rest.
+Tom: Gut. Dann schaue ich mir vom Bett aus den Uhrturm an! | Fine. Then I'll look at the clock tower from my bed!
+q: Tom tut der ___ weh. | Hals | Fuß | Rücken | en: Tom's throat hurts. | why: „Mir tut der Hals weh“
+q: Die Apothekerin gibt ihm Tabletten und einen ___. | Tee | Kaffee | Saft | en: The pharmacist gives him tablets and a tea. | why: „einen Tee für den Hals“
+q: „Mir ist kalt“: das Pronomen steht im ___. | Dativ | Akkusativ | Nominativ | en: In "Mir ist kalt" the pronoun is in the dative. | why: feeling cold/warm: mir ist kalt (dative)
+
+=== u77 | reading | Der verkehrte Uhrturm
+intro: Graz's landmark has a strange clock.
+- Der Uhrturm steht auf dem Schlossberg, hoch über der Altstadt von Graz. | The clock tower stands on the Schlossberg, high above the old town of Graz.
+- Seine Uhr ist anders als alle anderen: Der große Zeiger zeigt die Stunden, der kleine die Minuten. | Its clock is different from all others: the big hand shows the hours, the little one the minutes.
+- Früher hatte die Uhr nur einen Zeiger für die Stunden. | In the past the clock had only one hand, for the hours.
+- Damit die Leute in der Stadt ihn gut sehen konnten, machte man ihn groß. | So that the people in the town could see it well, it was made big.
+- Später kam ein kleiner Zeiger für die Minuten dazu. | Later a little hand for the minutes was added.
+q: Der große Zeiger zeigt die ___. | Stunden | Minuten | Sekunden | en: The big hand shows the hours. | why: „Der große Zeiger zeigt die Stunden“
+q: Früher hatte die Uhr nur ___ Zeiger. | einen | zwei | keinen | en: In the past the clock had only one hand. | why: „nur einen Zeiger für die Stunden“
+
+=== u78 | dialogue | Am Wörthersee
+intro: Tom takes a few days off at the Wörthersee near Klagenfurt. Lena joins him. Reflexive verbs.
+Lena: Ich freue mich so auf das Wasser! Hast du dich schon eingecremt? | I'm so looking forward to the water! Have you put sun cream on yet?
+Tom: Ja. Und du solltest dich auch eincremen, die Sonne ist stark. | Yes. And you should put some on too, the sun is strong.
+Lena: Mache ich. Weißt du, dass man hier bis September schwimmen kann? | I will. Do you know that you can swim here until September?
+Tom: Wirklich? Dann beeilen wir uns nicht. Wir ruhen uns heute einfach aus. | Really? Then let's not hurry. We'll just rest today.
+Lena: Erinnerst du dich an den Brunnen in Klagenfurt, mit dem Drachen? | Do you remember the fountain in Klagenfurt, with the dragon?
+Tom: Den Lindwurm? Ja! Ich habe mich ein bisschen vor ihm erschrocken. | The Lindwurm? Yes! He gave me a bit of a fright.
+Lena: Ein Zimmermann, der sich vor einem Drachen aus Stein fürchtet! | A carpenter who's afraid of a stone dragon!
+Tom: Er ist sehr groß! Komm, wir legen uns in die Sonne. | He's very big! Come on, let's lie in the sun.
+q: Lena soll sich auch ___. | eincremen | beeilen | erschrecken | en: Lena should put sun cream on too. | why: „du solltest dich auch eincremen“
+q: Am Wörthersee kann man bis ___ schwimmen. | September | Juni | Dezember | en: At the Wörthersee you can swim until September. | why: „dass man hier bis September schwimmen kann“
+q: Der Brunnen in Klagenfurt zeigt einen ___. | Drachen | König | Löwen | en: The fountain in Klagenfurt shows a dragon. | why: „mit dem Drachen“ — der Lindwurm
+
+=== u78 | reading | Eine Postkarte vom See
+intro: Tom writes to his parents. Reflexive verbs in a holiday postcard.
+- Liebe Mama, lieber Papa, | Dear Mum, dear Dad,
+- ich erhole mich gerade ein paar Tage am Wörthersee. | I'm recovering for a few days at the Wörthersee.
+- Das Wasser ist warm, und ich fühle mich wie im Urlaub — weil ich im Urlaub bin! | The water is warm, and I feel like I'm on holiday — because I am on holiday!
+- Lena ist auch hier. Wir verstehen uns sehr gut. | Lena is here too. We get on very well.
+- In zwei Monaten melde ich mich zur Meisterprüfung an. Ich freue mich und habe ein bisschen Angst. | In two months I'll register for the master's examination. I'm excited and a little scared.
+- Ich vermisse euch! Euer Tom | I miss you! Your Tom
+q: Tom erholt ___ am Wörthersee. | sich | ihn | mich | en: Tom is recovering at the Wörthersee. | why: sich erholen: er erholt sich
+q: Lena und Tom verstehen sich sehr ___. | gut | schlecht | selten | en: Lena and Tom get on very well. | why: „Wir verstehen uns sehr gut.“
+
+=== u79 | reading | Die Bibliothek von Melk
+intro: High above the Danube stands Melk Abbey. Genitives in a description of the abbey.
+- Das Stift Melk ist eines der größten Klöster Österreichs. | Melk Abbey is one of the largest monasteries in Austria.
+- Seit über neunhundert Jahren leben hier Mönche des Benediktinerordens. | Monks of the Benedictine order have lived here for over nine hundred years.
+- Die Bibliothek des Klosters hat etwa hunderttausend Bücher. | The abbey's library has about a hundred thousand books.
+- Die ältesten Handschriften der Bibliothek sind über tausend Jahre alt. | The library's oldest manuscripts are over a thousand years old.
+- Trotz des Krieges und vieler Feuer blieben die Bücher erhalten. | Despite war and many fires the books survived.
+- In Umberto Ecos berühmtem Roman „Der Name der Rose“ kommt der junge Erzähler Adso aus Melk. | In Umberto Eco's famous novel "The Name of the Rose" the young narrator Adso comes from Melk.
+q: Die Bibliothek ___ Klosters hat etwa hunderttausend Bücher. | des | der | dem | en: The abbey's library has about a hundred thousand books. | why: genitive neuter: des Klosters
+q: Trotz ___ Krieges blieben die Bücher erhalten. | des | der | dem | en: Despite the war the books survived. | why: trotz + genitive: trotz des Krieges
+q: Der Erzähler Adso kommt aus ___. | Melk | Wien | Rom | en: The narrator Adso comes from Melk. | why: „kommt der junge Erzähler Adso aus Melk“
+
+=== u79 | dialogue | Ein Gespräch mit einem Mönch
+intro: In the abbey garden, Tom speaks with a monk.
+Tom: Darf ich Sie etwas fragen? Wie lange leben Sie schon hier? | May I ask you something? How long have you been living here?
+Mönch: Seit vierzig Jahren. Ich bin mit zwanzig ins Kloster gekommen. | For forty years. I came into the abbey at twenty.
+Tom: Und was machen Sie den ganzen Tag? | And what do you do all day?
+Mönch: Wir beten, wir arbeiten, und wir unterrichten in der Schule des Klosters. „Ora et labora“, sagt die Regel des heiligen Benedikt. | We pray, we work, and we teach in the abbey's school. "Ora et labora", says the Rule of Saint Benedict.
+Tom: Bete und arbeite. Das gefällt mir. Ein Zimmermann arbeitet auch viel mit den Händen. | Pray and work. I like that. A carpenter also works a lot with his hands.
+Mönch: Das Dach unserer Kirche wurde übrigens von Zimmerleuten auf der Walz repariert. | The roof of our church, by the way, was repaired by journeyman carpenters.
+Tom: Wirklich? Dann sind wir fast Kollegen! | Really? Then we're almost colleagues!
+q: Der Mönch lebt seit ___ Jahren im Kloster. | vierzig | vier | vierzehn | en: The monk has been living in the abbey for forty years. | why: „Seit vierzig Jahren.“
+q: „Ora et labora“ heißt: Bete und ___. | arbeite | singe | schlafe | en: "Ora et labora" means: pray and work. | why: „Bete und arbeite.“
+
+=== u80 | reading | Die Bühne im See
+intro: Review: in Bregenz, operas are performed on a stage that floats on Lake Constance. Passive, relative clauses and Präteritum.
+- In Bregenz steht die größte Seebühne der Welt. Sie steht nicht am Ufer, sondern im Wasser. | In Bregenz stands the largest lake stage in the world. It isn't on the shore but in the water.
+- Jeden Sommer wird hier eine Oper gespielt, die siebentausend Menschen sehen können. | Every summer an opera is performed here that seven thousand people can watch.
+- Die Bühnenbilder, die oft riesig sind, werden für jede Oper neu gebaut. | The sets, which are often huge, are built new for every opera.
+- Einmal stand ein riesiger Kopf im See, ein anderes Mal ein Buch, so hoch wie ein Haus. | Once a giant head stood in the lake, another time a book as tall as a house.
+- Wenn es regnet, wird trotzdem gespielt. Nur bei Gewitter hört man auf. | When it rains, the performance goes on anyway. Only in a thunderstorm do they stop.
+- Die Sänger singen mit dem Wind, mit den Wellen und manchmal mit den Enten. | The singers sing with the wind, the waves and sometimes the ducks.
+q: Die Seebühne steht nicht am Ufer, sondern im ___. | Wasser | Wald | Theater | en: The lake stage is not on the shore but in the water. | why: „Sie steht nicht am Ufer, sondern im Wasser.“
+q: Die Bühnenbilder werden für jede Oper neu ___. | gebaut | gesungen | bezahlt | en: The sets are built new for every opera. | why: passive: werden gebaut
+q: Bei ___ hört man auf zu spielen. | Gewitter | Regen | Wind | en: In a thunderstorm the performance stops. | why: „Nur bei Gewitter hört man auf.“
+
+=== u80 | dialogue | Das Meisterstück
+intro: Review: the journeyman years are almost over. In Bregenz, Tom tells Lena about the piece he will make for his master's examination.
+Lena: Was wirst du für die Meisterprüfung bauen? | What will you build for your master's examination?
+Tom: Ein Meisterstück. Ich habe lange überlegt. Es wird ein kleiner Pavillon aus Holz, wie ein Gartenhaus. | A masterpiece. I thought about it for a long time. It's going to be a little wooden pavilion, like a summer house.
+Lena: Aus welchem Holz? | Out of which wood?
+Tom: Aus Eiche, die ich in Fulda gekauft habe. Erinnerst du dich an den Baum des Bonifatius? | Out of oak, which I bought in Fulda. Do you remember Boniface's tree?
+Lena: Natürlich! Und wo wird die Prüfung gemacht? | Of course! And where will the exam be held?
+Tom: In der Schweiz, am Ende meiner Reise. Danach fahre ich zurück an den Bodensee. | In Switzerland, at the end of my journey. Afterwards I'm going back to Lake Constance.
+Lena: Wenn du bestehst, feiern wir. Und wenn du nicht bestehst … feiern wir auch! | If you pass, we'll celebrate. And if you don't pass … we'll celebrate too!
+q: Tom baut einen kleinen ___ aus Holz. | Pavillon | Schrank | Turm | en: Tom is building a little wooden pavilion. | why: „Es wird ein kleiner Pavillon aus Holz“
+q: Das Holz ist ___. | Eiche | Linde | Holz aus Hamburg | en: The wood is oak. | why: „Aus Eiche, die ich in Fulda gekauft habe.“
+q: Die Prüfung wird in der ___ gemacht. | Schweiz | Österreich | Hamburg | en: The exam will be held in Switzerland. | why: „In der Schweiz, am Ende meiner Reise.“

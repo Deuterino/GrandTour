@@ -62,7 +62,7 @@ zeigen|v|to show|note=Zeig mal! = Show me!
 vorstellen|v|to introduce; (sich vorstellen) to imagine|note=Separable: Darf ich vorstellen? Ich stelle mir das vor (+Dat) = I imagine it.
 vorbereiten|v|to prepare|note=Separable: sich vorbereiten auf + Akk.
 bauen|v|to build
-schaffen|v|to manage, to accomplish; to create|note=Wir schaffen das! = We can do it! (strong in the sense 'create': schuf, geschaffen)
+schaffen|v|to manage, to accomplish; (south) to work|pret=schaffte;note=Wir schaffen das! = We can do it! Weak: schaffte, geschafft. In the sense 'to create' it is strong: schuf, geschaffen.
 herstellen|v|to produce, to manufacture|note=Separable.
 kaputt|a|broken|note=kaputtmachen = to break; kaputtgehen = to get broken.
 reparieren|v|to repair, to fix
@@ -121,7 +121,6 @@ stimmen|v|to be correct; to vote; to tune|note=Das stimmt = That's right.
 klappen|v|to work out (coll)|reg=coll;note=Hat es geklappt? = Did it work out?
 funktionieren|v|to work, to function
 gelingen|v|to succeed (impersonal)|gov=+Dat;note=Es ist mir gelungen = I managed (aux sein).
-schaffen|v|to manage
 lösen|v|to solve; to loosen
 vermeiden|v|to avoid|note=vermied – hat vermieden.
 erledigen|v|to take care of, to get done

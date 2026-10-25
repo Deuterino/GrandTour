@@ -172,7 +172,14 @@ def build_verb(e, recs, wikt, report):
             t, _, _, _, _ = conj_tables(mog, "mögen", report)
             return {"t": {"pres": t["k2"], "imp": ["-", "-"]}, "aux": "h", "cls": "irregular",
                     "note": "Past: wollte (no own past tense)."}
-    rec = next((r for r in recs if len(r.get("f", [])) > 20), recs[0] if recs else None)
+    full = [r for r in recs if len(r.get("f", [])) > 20]
+    # pret=schaffte picks the weak schaffen (to manage) over the strong one (schuf: to create)
+    want = e["kv"].get("pret")
+    if want:
+        full = [r for r in full if any(f == want for f, _ in r.get("f", []))] or full
+        if not any(f == want for r in full for f, _ in r.get("f", [])):
+            report.append(f"PRET-OVERRIDE-NOMATCH {lemma}: {want}")
+    rec = full[0] if full else (recs[0] if recs else None)
     if not rec:
         report.append(f"NOCONJ {lemma}")
         return out

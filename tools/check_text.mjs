@@ -23,7 +23,7 @@ try {
   const t = JSON.parse(read(`app/data/${lang}/texts.json`));
   for (const [uid, list] of Object.entries(t.units)) for (const x of list) {
     for (const l of x.lines) texts.push([`${uid}:${x.title}`, l.t]);
-    for (const q of x.questions || []) texts.push([`${uid}:${x.title}:q`, `${q.q} ${q.o[0]}`]);
+    for (const q of x.questions || []) texts.push([`${uid}:${x.title}:q`, q.q.replace(/\([^)]*\)/g, '').replace('___', q.o[0])]);
   }
 } catch (e) { /* no texts yet */ }
 const unknown = new Map();
