@@ -60,7 +60,8 @@ export function artPrep(prep, art) {
   if (!b || !ART_FORMS.includes(art)) return null;
   if (art === 'il') return b + 'l';
   if (art === 'i') return b + 'i';
-  return b + 'l' + art; // lo → dello, l' → dell', la → della, gli → degli, le → delle
+  if (art === 'gli') return b + 'gli'; // degli, agli, dagli, negli, sugli
+  return b + 'l' + art; // lo → dello, l' → dell', la → della, le → delle
 }
 
 // Reverse map for the reader: "dell'" → { prep: 'di', art: "l'" }

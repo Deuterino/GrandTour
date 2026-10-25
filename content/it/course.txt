@@ -1,0 +1,111 @@
+# Italian course: "Il Grand Tour" — from the Alps to Sicily, in the footsteps of Goethe's Italian Journey.
+# Section line:  ## n | Region | Section title | CEFR | emoji
+# Unit line:     n | City | emoji | Unit title | themes | grammar chapters | city fact | explicit words (comma-separated, optional)
+
+## 1 | Le Alpi e i laghi | Primi passi | A1 | 🏔️
+1 | Bolzano | 👋 | Hello, I'm… | greet,people | g-sounds,g-pronouns-essere-avere | Bolzano is bilingual — street signs are in Italian and German — and its museum keeps Ötzi, the 5,300-year-old Iceman. | ciao, salve, buongiorno, buonasera, buonanotte, arrivederci, grazie, prego, scusa, scusi, per favore, sì, no, come stai, bene, male, io, tu, Lei, chiamarsi, nome, piacere, essere, di, e, non, molto, anche, dove, abitare, a, in
+2 | Trento | 🧑 | Who is who | people | g-pronouns-essere-avere | The Council of Trent (1545–63) met here and reshaped the Catholic Church. | avere, lui, lei, noi, voi, loro, uomo, donna, ragazzo, ragazza, bambino, amico, amica, signore, signora, persona, gente, giovane, vecchio, simpatico, chi, cosa, qui, lì, studente, professore, medico, ma, o
+3 | Riva del Garda | 👨‍👩‍👧 | My family | fam | g-gender-articles | Lake Garda is Italy's largest lake; its north end at Riva is a paradise for windsurfers. | il, la, un, famiglia, padre, madre, genitore, figlio, figlia, fratello, sorella, marito, moglie, nonno, nonna, zio, zia, cugino, nipote, papà, mamma, cane, gatto, anno
+4 | Sirmione | 🏠 | Things and plurals | home | g-plural | Sirmione's castle rises straight out of Lake Garda; the poet Catullus had a villa at the tip of the peninsula. | casa, stanza, camera, cucina, bagno, porta, finestra, tavolo, sedia, letto, chiave, libro, cosa, città, problema, uovo, mano
+5 | Como | 🗣️ | What I do | act,daily | g-present-are | Alessandro Volta, inventor of the battery (and the "volt"), was born in Como. | parlare, lavorare, studiare, mangiare, guardare, ascoltare, aspettare, abitare, comprare, pagare, cercare, trovare, chiamare, giocare, amare, pensare, imparare, cominciare, sempre, mai, spesso, oggi, adesso, ancora
+6 | Milano | 🏙️ | Work and the city | work,city | g-present-ere-ire | Milan's cathedral took nearly six centuries to finish and has over 3,400 statues; Leonardo's Last Supper is nearby. | lavoro, ufficio, scrivere, leggere, prendere, vedere, vivere, credere, chiudere, dormire, aprire, partire, sentire, finire, capire, preferire, pulire, spedire
+7 | Bergamo | ❓ | Questions | q,talk,greet | g-questions-negation | Bergamo has an upper town (Città Alta) inside Venetian walls, reached by a funicular railway. | che, chi, cosa, come, dove, quando, perché, quanto, quale, domanda, risposta, niente, nessuno, mai, più, a presto, a domani, va bene, d'accordo, figurati, certo, esatto, beh, mah, ehi, dai, magari, peccato, italiano, inglese, tedesco, francese, spagnolo, americano
+8 | Brescia | 🎨 | Describing | desc | g-adjectives | Brescia's Capitolium temple was built by Emperor Vespasian in 73 AD; the Mille Miglia car race starts here. | grande, piccolo, bello, brutto, buono, cattivo, nuovo, vecchio, alto, basso, lungo, corto, rosso, bianco, nero, verde, blu, giallo, facile, difficile, caldo, freddo
+9 | Mantova | 🕰️ | Numbers and time | num,time | g-time-numbers | Mantua's Ducal Palace has 500 rooms; in Rigoletto, the Duke of Mantua sings "La donna è mobile". | zero, uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci, undici, dodici, tredici, quattordici, quindici, sedici, diciassette, diciotto, diciannove, venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta, cento, mille, milione, ora, minuto, mezzo, quarto, presto, tardi, numero
+10 | Cremona | 🎻 | Seasons in Cremona | free,time | review | Stradivari and Guarneri made violins in Cremona; master luthiers still work in its workshops. | musica, suonare, violino, bottega, gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre, dicembre, primavera, estate, autunno, inverno, stagione, mese
+
+## 2 | Il Nord-Est | Venezia e dintorni | A1 | 🛶
+11 | Verona | 💕 | Going and doing | move,act | g-irregular-present | Juliet's balcony in Verona is a 20th-century addition — but the Roman Arena (30 AD) still hosts operas. | andare, fare, stare, dare, venire, uscire, dire, bere, sapere, tenere, rimanere
+12 | Vicenza | 🏛️ | Everyday irregulars | act,daily | g-irregular-present | Andrea Palladio's villas and theater in Vicenza inspired buildings from London to the White House. | volere, potere, dovere, salire, scegliere, porre, tradurre, morire, piacere~v
+13 | Padova | 🧭 | Places and prepositions | city,place | g-prepositions | Padua's university (1222) is one of the oldest in the world; Galileo taught there for 18 years. | di, a, da, in, su, con, per, tra, fra, sopra, sotto, dentro, fuori, vicino, lontano, davanti, dietro, accanto, piazza, strada, chiesa
+14 | Venezia | 🛶 | My things | home,clothes | g-possessives | Venice is built on 118 islands linked by about 400 bridges; there are no cars at all. | mio, tuo, suo, nostro, vostro, loro, borsa, valigia, vestito, giacca, scarpa, cappello, telefono, chiave, gondola
+15 | Murano | 🏺 | There is, there are | desc,home | g-c-e-ci-sono | Murano's glassmakers were moved to the island in 1291 to protect Venice from fire — and were forbidden to leave. | ci, c'è, vetro, specchio, luce, colore, essere, stare
+16 | Treviso | 🍷 | Can, want, must | act,feel | g-modal | Treviso is the home of tiramisù and Prosecco wine — and of the Benetton fashion brand. | potere~v, volere, dovere~v, sapere, bisogna, vino, prosecco
+17 | Trieste | ☕ | My day | daily,time | g-reflexive | Trieste is Italy's coffee capital: order a "nero" here, not a caffè, and expect fierce winds called the bora. | alzarsi, svegliarsi, lavarsi, vestirsi, chiamarsi, sentirsi, divertirsi, sedersi, fermarsi, preoccuparsi, ricordarsi, colazione, pranzo, cena, lunedì, martedì, mercoledì, giovedì, venerdì, sabato, domenica, fine settimana, mattina, pomeriggio, sera, notte, giorno, settimana
+18 | Udine | 📅 | What I did | act,time | g-passato-prossimo | Udine's Piazza della Libertà is called "the most beautiful Venetian square on the mainland". | ieri, già, appena, scorso, fa, fatto, visto, preso, messo, scritto, letto, detto
+19 | Ferrara | 🚲 | Where I went | move,travel | g-passato-prossimo | Ferrara is Italy's city of bicycles, surrounded by 9 km of Renaissance walls you can ride along. | andare, venire, arrivare, partire, tornare, uscire, entrare, nascere, morire, restare, diventare, bicicletta, buon viaggio, buona giornata
+20 | Ravenna | 🧩 | Review: mosaics | free,story | review | Ravenna's glittering Byzantine mosaics are 1,500 years old; Dante is buried here, exiled from Florence. | arte, oro, antico, storia
+
+## 3 | Piemonte e Liguria | Ricordi e progetti | A2 | ⛵
+21 | Torino | 🛍️ | Shopping | money,clothes | g-direct-pronouns | Turin gave Italy its first capital (1861), its first cars (FIAT) and the gianduja chocolate-hazelnut spread. | lo, la, li, le, ne, negozio, prezzo, costare, soldi, euro, comprare, vendere, taglia, sconto
+22 | Asti | 😋 | Likes and dislikes | feel,food | g-indirect-pronouns | Asti's Palio, a bareback horse race through the town, has been run since at least 1275. | mi, ti, gli, le, ci, vi, piacere~v, dispiacere, mancare, servire, interessare, sembrare, auguri, complimenti, congratulazioni, compleanno, Natale, Pasqua, festa, regalo
+23 | Alba | 🍄 | When I was little | fam,time | g-imperfetto | Alba's white truffles are among the most expensive foods on Earth; Nutella was invented here in 1964. | da bambino, una volta, sempre, ogni giorno, mentre, di solito, ricordo, infanzia
+24 | Genova | ⚓ | Stories of the sea | travel,story | g-imperfetto | Christopher Columbus was born in Genoa; so was pesto alla genovese. | mare, nave, porto, marinaio, viaggio, all'improvviso, mentre
+25 | Portofino | 📢 | Do this! | act | g-imperativo | Tiny Portofino has been a harbor since Roman times; its colorful houses are copied in resorts worldwide. | guarda, senti, dimmi, vieni, va', fa', aspetta, prendi, scusa, attenzione
+26 | Cinque Terre | 🥾 | Plans | free,travel | g-futuro | The five villages of the Cinque Terre were reachable only by sea or footpath until the railway arrived in 1874. | domani, dopodomani, prossimo, futuro, progetto, sentiero, passeggiata
+27 | La Spezia | 🍝 | Some of it, there | food | g-ci-ne | La Spezia is the gateway to the Cinque Terre and home of the Italian Navy's great arsenal. | ci, ne, pasta, pane, olio, sale, acqua, un po'
+28 | Sanremo | 🌸 | Comparing | desc | g-comparatives | The Sanremo music festival (since 1951) is Italy's national obsession every February. | più, meno, come, migliore, peggiore, maggiore, minore, ottimo, pessimo, meglio, peggio
+29 | Aosta | 🙏 | Wishes and politeness | feel,talk | g-condizionale | Aosta, "the Rome of the Alps", still has its Roman gate and theater; French is co-official in the valley. | vorrei, potrei, dovrei, sarebbe, mi piacerebbe, desiderare, gentile
+30 | Parma | 🧀 | Review: food | food | review | Parma gives its name to Parmigiano Reggiano and prosciutto di Parma; it is a UNESCO City of Gastronomy. | formaggio, prosciutto, parmigiano, buon appetito, cin cin, salute
+
+## 4 | Emilia e Toscana | C'era una volta… | A2 | 🎭
+31 | Bologna | 🎓 | Give it to me | school | g-combined-pronouns | Bologna's university (1088) is the oldest in continuous operation in the Western world; the city has 40 km of porticoes. | glielo, me lo, te lo, ce lo, università, lezione, esame
+32 | Modena | 🏎️ | The thing that… | tech,feel | g-relative | Ferrari, Maserati and balsamic vinegar all come from around Modena; Pavarotti was born here. | che, cui, quale, macchina, motore
+33 | Lucca | 🧱 | Before that | time | g-trapassato | Lucca's Renaissance walls are so wide that the top is a tree-lined park for cycling; Puccini was born here. | prima, già, mai, ancora
+34 | Pisa | 🗼 | I think that… | mind,talk | g-congiuntivo-presente | The Leaning Tower of Pisa began to tilt during construction in 1178; it now leans about 4 degrees. | pensare, credere, sperare, volere, sembrare, bisogna, credo, penso, spero
+35 | Collodi | 🤥 | Pinocchio | story | g-passato-remoto | Carlo Lorenzini took the pen name Collodi from this Tuscan village; the Pinocchio Park here opened in 1956. | burattino, legno, falegname, naso, bugia, fata, grillo, Pinocchio, Geppetto, c'era una volta, fu, ebbe, disse, fece
+36 | Firenze | 🎨 | Art and opinions | free,mind | g-congiuntivo-presente | Florence was the cradle of the Renaissance; Dante's Florentine became the basis of modern Italian. | arte, artista, quadro, museo, bellezza, opinione, sebbene, benché, affinché, prima che
+37 | Fiesole | 🌄 | Doubts and hopes | mind,feel | g-congiuntivo-passato | From the hill of Fiesole, older than Florence itself, you see the whole city below. | dubitare, temere, sperare, immaginare, dubbio, speranza
+38 | Siena | 🐎 | If I were… | abs | g-periodo-ipotetico | Siena's Palio horse race lasts about 90 seconds and is run around the shell-shaped Piazza del Campo. | se, sarei, avrei, farei, potrei
+39 | San Gimignano | 🏰 | What's happening now | act | g-gerundio | San Gimignano still has 14 of its 72 medieval tower-houses — a skyline of status symbols. | stare, sto, mentre, torre
+40 | Montepulciano | 🍇 | Review: the wine town | food,free | review | Montepulciano's Vino Nobile has been praised since 1685, when a poet called it "king of all wines". | vino, cantina
+
+## 5 | Il Centro | Santi e città | B1 | ⛪
+41 | Arezzo | 🔨 | How it's done | work | g-passive-si | Arezzo's frescoes by Piero della Francesca and its huge monthly antiques fair draw visitors from everywhere. | si, essere, venire, fatto, costruito
+42 | Cortona | 🔍 | Some, any, none | abs | g-indefinites | Cortona is one of the oldest towns in Tuscany, founded by the Etruscans. | qualche, alcuno, ogni, ognuno, qualcuno, qualcosa, nessuno, niente, tutto, altro, certo
+43 | Perugia | 🍫 | Little words, big words | food,abs | g-word-formation | Perugia makes the Baci chocolates — each wrapped with a love note — and hosts a chocolate festival. | cioccolato, bacio, casetta, ragazzino, gattino
+44 | Assisi | 🕊️ | Saints and old texts | abs,story | g-old-texts | St. Francis of Assisi wrote the "Canticle of the Creatures", one of the first poems in Italian. | santo, frate, chiesa, preghiera, fede
+45 | Spoleto | 🎭 | Festival of two worlds | free | g-imperfetto | Spoleto's Festival dei Due Mondi has brought opera, theater and dance to its piazzas every summer since 1958. | festival, teatro, spettacolo, attore
+46 | Orvieto | 🍷 | Underground city | city,nature | g-passive-si | Orvieto sits on a cliff of volcanic tuff riddled with over 1,000 caves, wells and tunnels. | pozzo, grotta, sotto
+47 | Urbino | 🖌️ | The ideal city | free,abs | g-relative | Urbino was Raphael's birthplace and a model of the Renaissance "ideal city". | ideale, perfetto, pittore
+48 | Ancona | ⚓ | Ports and trade | travel,money | g-futuro | Ancona's name comes from the Greek for "elbow", after the curve of its coast. | porto, nave, commercio
+49 | Loreto | 🏠 | Legends | story | g-passato-remoto | Legend says angels carried the Holy House of Nazareth to Loreto in 1294. | leggenda, angelo, miracolo
+50 | L'Aquila | 🦅 | Review: rebuilding | city | review | L'Aquila, badly damaged by the 2009 earthquake, has been carefully rebuilt; it has "99" fountains, squares and churches by legend. | terremoto, ricostruire
+
+## 6 | Roma | Tutte le strade portano a Roma | B1 | 🏛️
+51 | Viterbo | ♨️ | Popes and baths | soc,body | g-passato-remoto | Viterbo was a papal city: the longest conclave in history (1268–71) happened here. | papa, bagno, terme
+52 | Tivoli | ⛲ | Gardens and fountains | nature | g-gerundio | Villa d'Este at Tivoli has hundreds of fountains, including one that once played music with water. | giardino, fontana, acqua
+53 | Roma | 🏟️ | The Colosseum | soc,story | g-imperfetto | The Colosseum (80 AD) held about 50,000 spectators; its floor could be flooded for mock sea battles. | impero, imperatore, gladiatore, storia
+54 | Trastevere | 🍕 | Neighborhood life | city,food | g-indirect-pronouns | Trastevere, "across the Tiber", is Rome's old working-class quarter of cobbles, ivy and trattorie. | quartiere, vicino, trattoria
+55 | Vaticano | ⛪ | Faith and power | abs,soc | g-congiuntivo-imperfetto | Vatican City is the smallest country in the world; the Swiss Guard has protected the Pope since 1506. | chiesa, Dio, fede, potere
+56 | Frascati | 🍾 | Out of town | free,food | g-condizionale | Romans escape to the Castelli Romani hills for porchetta and Frascati white wine. | gita, campagna, vino
+57 | Ostia Antica | 🏺 | Roman daily life | soc,home | g-trapassato | Ostia Antica was Rome's port: its ruins include a public toilet with seats for 20. | porto, antico, rovine
+58 | Latina | 🌾 | From marsh to farmland | nature,work | g-passive-si | The Pontine Marshes south of Rome were drained in the 1930s; Latina was founded on the reclaimed land. | campo, contadino, terra
+59 | Gaeta | 🏖️ | Seaside | nature,travel | g-periodo-ipotetico | Gaeta's "Montagna Spaccata" is a mountain split by a cleft, said to have cracked at the death of Christ. | spiaggia, mare, scoglio
+60 | Montecassino | 🙏 | War and peace | soc | g-passato-remoto | Montecassino abbey, founded by St. Benedict in 529, was destroyed in 1944 and rebuilt. | guerra, pace, soldato
+
+## 7 | Napoli e la Campania | Vedi Napoli e poi muori | B1 | 🌋
+61 | Napoli | 🍕 | Conversation and gestures | talk,food | g-imperativo | Pizza Margherita was named in 1889 for Queen Margherita; Neapolitan pizza-making is UNESCO heritage. | pizza, pizzaiolo, gesto
+62 | Pompei | 🌋 | A frozen moment | story,soc | g-trapassato | Pompeii was buried by Vesuvius in 79 AD; its graffiti still show election slogans and jokes. | vulcano, cenere, rovine
+63 | Ercolano | 📜 | Ancient papyri | school | g-passive-si | At Herculaneum a whole library of carbonized scrolls was found; scientists are now reading them with X-rays. | papiro, libro, biblioteca
+64 | Vesuvio | 🔥 | Danger and nature | nature,abs | g-futuro | Vesuvius is the only active volcano on mainland Europe; about 600,000 people live in its red zone. | pericolo, fuoco, terremoto
+65 | Sorrento | 🍋 | Lemons and songs | food,free | g-condizionale | Sorrento's lemons become limoncello; the song "Torna a Surriento" was written here in 1902. | limone, canzone, cantare
+66 | Capri | 🏝️ | Island life | nature,travel | g-gerundio | Capri's Blue Grotto glows because sunlight enters through an underwater opening. | isola, grotta, barca
+67 | Positano | 👗 | Fashion and style | clothes | g-adjectives | Positano's cliffside houses inspired a whole style of beach fashion in the 1950s. | moda, stile, vestito
+68 | Amalfi | 📜 | Old maritime power | soc,travel,work | g-passato-remoto | Amalfi was a maritime republic rivaling Venice and Genoa; it still makes handmade paper. | repubblica, carta, mercante
+69 | Salerno | 🩺 | Medicine | body | g-congiuntivo-presente | The Schola Medica Salernitana was Europe's first medical school, already famous around the year 1000. | medicina, medico, malattia
+70 | Paestum | 🏛️ | Review: Greek temples | story,abs | review | Paestum's Greek temples (6th–5th century BC) are better preserved than many in Greece itself. | tempio, greco
+
+## 8 | Il Sud | Pietre e mari | B1 | ☀️
+71 | Matera | 🪨 | Life in the stone | home,soc | g-imperfetto | Matera's Sassi cave dwellings have been inhabited for some 9,000 years; it was European Capital of Culture in 2019. | grotta, pietra, sasso
+72 | Alberobello | 🏘️ | The trulli | home | g-passive-si | The trulli of Alberobello have cone-shaped dry-stone roofs, once built so they could be dismantled before tax inspections. | tetto, pietra, casa
+73 | Bari | 🎅 | Saint Nicholas | story,abs | g-passato-remoto | The relics of St. Nicholas — the original Santa Claus — were brought to Bari by sailors in 1087. | santo, regalo, marinaio
+74 | Lecce | 🏛️ | The Florence of the South | city,free,people | g-relative | Lecce's soft local limestone allowed its Baroque churches to be carved like lace. | chiesa, barocco
+75 | Otranto | 🗺️ | East meets west | travel,soc | g-trapassato | Otranto is Italy's easternmost town; on clear days you can see Albania across the sea. | est, confine, mare
+76 | Taranto | 🐚 | Sea and myth | nature,story,people | g-gerundio | Taranto was founded by Spartans in 706 BC; the tarantella dance and the tarantula are named after it. | ballare, danza, ragno
+77 | Cosenza | 📚 | Books and learning | school | g-congiuntivo-imperfetto | Legend says the Visigoth king Alaric is buried with his treasure beneath the rivers of Cosenza. | tesoro, re, fiume
+78 | Tropea | 🧅 | Red onions and sunsets | food,nature | g-comparatives | Tropea's red onions are so sweet that you can even find red-onion ice cream in town. | cipolla, tramonto, spiaggia
+79 | Reggio Calabria | 🛡️ | The bronze warriors | soc,story | g-passive-si | The Riace Bronzes, two Greek warriors found by a diver in 1972, are the pride of Reggio's museum. | bronzo, guerriero, mare
+80 | Scilla | 🌊 | Monsters of the strait | story | g-periodo-ipotetico | Scylla, the six-headed monster of Homer's Odyssey, was said to lurk in the rocks of this fishing village. | mostro, mito, onda
+
+## 9 | Sicilia e Sardegna | Il viaggio finisce | B1+ | 🍋
+81 | Messina | ⛴️ | Crossing the strait | travel,time | g-futuro | Messina's cathedral has one of the world's largest astronomical clocks, with a golden lion that roars at noon. | traghetto, stretto, orologio
+82 | Taormina | 🎭 | Theater with a view | free,abs | g-condizionale | Taormina's Greek theater looks out over the sea to smoking Mount Etna. | teatro, vista, spettacolo
+83 | Catania | 🌋 | Living with Etna | nature | g-congiuntivo-presente | Catania has been rebuilt many times after Etna's eruptions; its elephant statue is made of lava. | lava, vulcano, mercato
+84 | Siracusa | 🏛️ | Greeks and inventors | school,story,tech | g-passato-remoto | Archimedes lived in Syracuse and supposedly shouted "Eureka!" in his bath. | scienza, inventore, matematica
+85 | Ragusa | ⛪ | Rebuilt after the earthquake | city,home | g-trapassato | After the 1693 earthquake, Ragusa and its neighbors were rebuilt in a glorious late Baroque style. | terremoto, ricostruire
+86 | Agrigento | 🏛️ | The valley of temples | story,abs | g-passive-si | Agrigento's Valley of the Temples holds some of the best-preserved Greek temples anywhere. | tempio, valle, dio
+87 | Palermo | 🍊 | Markets and mixtures | food,city,money | g-imperativo | Palermo's markets echo its Arab, Norman and Spanish past; try arancine and cannoli. | mercato, arancina, cannolo
+88 | Monreale | ✨ | Golden mosaics | free,abs,clothes | g-relative | Monreale Cathedral's mosaics cover about 6,400 square meters with gold. | mosaico, oro, luce
+89 | Cagliari | 🦩 | Sardinia | nature,people,fam | g-periodo-ipotetico | Pink flamingos live in the lagoons of Cagliari, right next to the city. | fenicottero, isola, laguna
+90 | Alghero | 🏁 | The journey's end | abs,feel,greet | review | In Alghero people still speak a form of Catalan; your Grand Tour ends at the sea. Bravo! | fine, viaggio, ricordo, arrivederci

@@ -318,12 +318,12 @@ export function pluralClass(entry) {
   const s = entry.l, p = entry.pl;
   if (!p) return entry.unc ? 'no plural' : '';
   if (entry.g === 'pl') return 'plural only';
-  const uml = (x) => x.replace(/a(?=[^a]*$)/, 'ä').replace(/o(?=[^o]*$)/, 'ö').replace(/u(?=[^u]*$)/, 'ü');
   const has = (base, end) => p === base + end;
+  // umlaut the last full vowel: Apfel → Äpfel, Haus → Häus-, Buch → Büch-
   const umlauted = (base) => {
-    const m = base.match(/^(.*?)(au|a|o|u)([^aou]*)$/);
+    const m = base.match(/^(.*?)(au|Au|a|A|o|O|u|U)([^aouAOU]*)$/);
     if (!m) return null;
-    const rep = { au: 'äu', a: 'ä', o: 'ö', u: 'ü' }[m[2]];
+    const rep = { au: 'äu', Au: 'Äu', a: 'ä', A: 'Ä', o: 'ö', O: 'Ö', u: 'ü', U: 'Ü' }[m[2]];
     return m[1] + rep + m[3];
   };
   if (p === s) return '– (no change)';
@@ -338,7 +338,6 @@ export function pluralClass(entry) {
   if (has(s, 'nen')) return '-nen';
   if (has(s, 's')) return '-s';
   if (/(um|on|a)$/.test(s) && p === s.replace(/(um|on|a)$/, 'en')) return '-um/-a → -en';
-  void uml;
   return 'irregular';
 }
 

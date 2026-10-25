@@ -16,7 +16,7 @@ const clampD = (d) => Math.min(10, Math.max(1, d));
 const initD = (g) => clampD(W[4] - (g - 3) * W[5]);
 
 export function retrievability(card, now = Date.now()) {
-  if (!card || !card.last) return 0;
+  if (!card || card.last == null) return 0;
   const t = Math.max(0, (now - card.last) / DAY);
   return Math.pow(1 + FACTOR * t / card.s, DECAY);
 }
@@ -29,7 +29,7 @@ function intervalDays(s, r = RETENTION) {
 // (the first attempt), otherwise stability would be inflated by same-minute repeats.
 export function review(card, grade, now = Date.now()) {
   let s, d;
-  if (!card || !card.last) {
+  if (!card || !card.n) {
     s = W[grade - 1];
     d = initD(grade);
   } else {
@@ -53,13 +53,13 @@ export function review(card, grade, now = Date.now()) {
     last: now,
     due: now + Math.round(intervalDays(s) * DAY),
     n: (card?.n || 0) + 1,
-    lapses: (card?.lapses || 0) + (grade === AGAIN && card?.last ? 1 : 0),
+    lapses: (card?.lapses || 0) + (grade === AGAIN && card?.n ? 1 : 0),
   };
 }
 
 // Mastery stage 0-5 shown as badges; 5 = "gold" (stable for two months or more).
 export function stage(card) {
-  if (!card || !card.last) return 0;
+  if (!card || !card.n) return 0;
   const s = card.s;
   if (s < 2) return 1;
   if (s < 7) return 2;
@@ -71,7 +71,7 @@ export function stage(card) {
 export const STAGE_NAMES = ['new', 'seen', 'learning', 'familiar', 'strong', 'mastered'];
 
 export function isDue(card, now = Date.now()) {
-  return !!card && !!card.last && card.due <= now;
+  return !!card && !!card.n && card.due <= now;
 }
 
 // Most-forgotten first, so a short review session does the most good.

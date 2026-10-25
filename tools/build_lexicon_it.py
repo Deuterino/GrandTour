@@ -363,6 +363,11 @@ def main():
         if it["_score"] == 0 and " " in it["l"]:
             parts = [word_score.get(w.strip("'"), 0) for w in re.split(r"[ ']", it["l"]) if w]
             it["_score"] = min(parts) * 0.5 if parts and min(parts) else 0
+    # greetings and set phrases have no single-word frequency: rank them with common words
+    nonzero = sorted((x["_score"] for x in out if x["_score"] > 0), reverse=True)
+    for it in out:
+        if it["_score"] == 0:
+            it["_score"] = nonzero[300] if "greet" in it["th"] else nonzero[len(nonzero) * 2 // 3]
     ranked = sorted(out, key=lambda x: -x["_score"])
     for i, it in enumerate(ranked, 1):
         it["r"] = i
