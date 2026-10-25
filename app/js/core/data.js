@@ -84,6 +84,7 @@ export class LangData {
 
   // All analyses of an exact token (case-sensitive first, then lowercase).
   lookupForm(token) {
+    token = token.replace(/[’‘ʼ]/g, "'"); // books use typographic apostrophes: l’amico, po’
     const f = this.forms();
     const exact = f.get(token) || [];
     const lower = token.toLowerCase() !== token ? f.get(token.toLowerCase()) || [] : [];
@@ -141,6 +142,7 @@ class ExtDict {
     this.forms = raw.forms || {};
   }
   lookup(token) {
+    token = token.replace(/[’‘ʼ]/g, "'");
     const out = [];
     for (const t of new Set([token, token.toLowerCase()])) {
       for (const e of this.byLemma.get(t.toLowerCase()) || []) if (e.l === t || e.l.toLowerCase() === t) out.push({ e, tag: 'lemma' });
@@ -346,7 +348,9 @@ function buildFormsIT(L) {
     san: 'santo', "sant'": 'santo', quel: 'quello', quei: 'quello', quegli: 'quello', "quell'": 'quello', "quest'": 'questo',
     "po'": 'poco', "c'": 'ci', "v'": 'vi', "m'": 'mi', "t'": 'ti', "s'": 'si', "l'": 'lo', "d'": 'di', "dov'": 'dove', "com'": 'come',
     "nessun'": 'nessuno', nessun: 'nessuno', alcun: 'alcuno', ciascun: 'ciascuno', qualcun: 'qualcuno', tal: 'tale', qual: 'quale',
-    ed: 'e', ad: 'a', od: 'o' };
+    ed: 'e', ad: 'a', od: 'o', "n'": 'ne', "ch'": 'che', "dev'": 'dovere',
+    // old articulated prepositions with con and per: col = con il, cogli = con gli, pel = per il
+    col: 'con', coi: 'con', cogli: 'con', colla: 'con', collo: 'con', colle: 'con', "coll'": 'con', pel: 'per', pei: 'per', pegli: 'per', "pell'": 'per' };
   for (const [form, lemma] of Object.entries(extra)) {
     const e = (L.byLemma.get(lemma) || []).find((x) => x.p !== 'n') || (L.byLemma.get(lemma) || [])[0];
     if (e) add(m, form, e.id, 'X:short');

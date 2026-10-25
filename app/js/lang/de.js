@@ -359,6 +359,8 @@ export const SEP_PREFIXES = ['zurück', 'zusammen', 'weiter', 'vorbei', 'voran',
 const OLD_RULES = [
   [/ß/g, 'ss'], [/^Th/, 'T'], [/th/g, 't'], [/ieng/g, 'ing'], [/iebt/g, 'ibt'], [/ey/g, 'ei'], [/niß$/, 'nis'],
   [/^C(?=[aou])/, 'K'], [/^C(?=[ei])/, 'Z'], [/dt$/, 't'], [/Brod/, 'Brot'], [/ä/g, 'e'], [/ae/g, 'ä'], [/oe/g, 'ö'], [/ue/g, 'ü'],
+  [/aa/g, 'a'], [/ack$/, 'ak'], // Waare → Ware, erschrack → erschrak
+  [/ern$/, 'eren'], [/erm$/, 'erem'], // andern → anderen, unserm → unserem
 ];
 
 export function spellingCandidates(word) {
@@ -370,6 +372,8 @@ export function spellingCandidates(word) {
     x = x.replace(re, rep);
   }
   out.add(x);
+  // old dative -e and old noun forms: im Walde → Wald, die Thüre → Tür
+  if (/^[A-ZÄÖÜ].{2,}e$/.test(word)) for (const y of [word, x]) out.add(y.slice(0, -1));
   out.delete(word);
   return [...out];
 }
@@ -380,7 +384,8 @@ export const ARCHAIC = {
   gieng: ['gehen', 'ging (old spelling)'], fieng: ['fangen', 'fing (old spelling)'], hieng: ['hängen', 'hing (old spelling)'],
   sprach: null, kam: null,
   seyn: ['sein', 'sein (old spelling)'], thun: ['tun', 'tun (old spelling)'], Mägdlein: ['Mädchen', 'girl, maiden (archaic diminutive)'],
-  allhier: ['hier', 'allhier = hier (old, poetic)'],
+  allhier: ['hier', 'allhier = hier (old, poetic)'], gerne: ['gern', 'gerne = gern (gladly), a little old-fashioned'],
+  siebene: ['sieben', 'siebene = sieben (seven), old'], O: ['oh', 'O = oh! (old spelling of the exclamation)'],
 };
 
 // Split an unknown compound into known nouns: Haustür → Haus + Tür.

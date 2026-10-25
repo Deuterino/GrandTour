@@ -2,7 +2,7 @@
 import { html, useMemo, useState, useEffect, cx, openSheet, closeSheet, toast } from './h.js';
 import * as store from '../core/store.js';
 import * as game from '../core/game.js';
-import { analyzeText, explain, lookupWord } from '../lang/analyzer.js';
+import { analyzeText, explain, lookupWord, posName } from '../lang/analyzer.js';
 import { Speak, Art, Mastery } from './components.js';
 import { posLine, dictLine } from './word.js';
 import { go } from './router.js';
@@ -69,8 +69,8 @@ export function WordPopup({ token, L, sentence }) {
       <${Speak} text=${token.t} lang=${L.lang}/></div>
     ${cands.slice(0, 3).map((c, i) => html`<${Candidate} c=${c} L=${L} primary=${i === 0}/>`)}
     ${!cands.length && ext && ext.length > 0 && ext.slice(0, 3).map((x) => html`<div class="pop-cand">
-      <div class="pop-word book">${x.e.a ? html`<span class="art">${x.e.a}</span> ` : ''}${x.e.l}</div>
-      <div class="pop-analysis">${x.e.p}${x.tag && x.tag !== 'lemma' ? ' · ' + x.tag : ''}</div>
+      <div class="pop-word book">${x.e.a ? html`<span class="art">${x.e.a}</span>${x.e.a.endsWith("'") ? '' : ' '}` : ''}${x.e.l}</div>
+      <div class="pop-analysis">${posName(x.e.p)}${x.tag && x.tag !== 'lemma' ? ' · ' + x.tag : ''}</div>
       <div style="font-weight:600;margin:.3rem 0">${x.e.g}</div>
       <div class="small muted">From the extended dictionary (not one of the 3,000 course words).</div></div>`)}
     ${!cands.length && (!ext || !ext.length) && html`<div class="pop-cand"><div class="muted">${ext ? 'Not in the dictionary.' : 'Looking it up…'}</div>

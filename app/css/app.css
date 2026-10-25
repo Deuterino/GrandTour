@@ -271,7 +271,7 @@ textarea.answer-input { min-height: 110px; resize: vertical; }
 
 /* ---------- reader ---------- */
 .reader { font-family: var(--book); font-size: var(--reader-size, 1.22rem); line-height: 1.75; }
-.reader p { margin: 0 0 1em; }
+.reader p { margin: 0 0 1em; white-space: pre-line; }
 .reader .w { cursor: pointer; border-radius: 4px; padding: 0 1px; transition: background .15s; }
 .reader .w:hover { background: var(--bg2); }
 .reader .w.sel { background: var(--accent-soft); color: var(--accent); }

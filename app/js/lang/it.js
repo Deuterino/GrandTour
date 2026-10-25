@@ -350,6 +350,8 @@ export function spellingCandidates(word) {
   out.add(word.replace(/j/g, 'i'));
   out.add(word.replace(/iuo/g, 'io').replace(/([^i])uo/, '$1o')); // giuoco → gioco, cuopre → copre
   out.add(word.replace(/([ei])a(no)?$/, '$1va$2')); // imperfetto without v: avea → aveva, sentiano → sentivano
+  // stress accents inside the word (Collodi writes accòrse, sùbito): standard spelling keeps only a final accent
+  out.add(word.replace(/[àèéìòóù](?=.)/g, (c) => ({ à: 'a', è: 'e', é: 'e', ì: 'i', ò: 'o', ó: 'o', ù: 'u' })[c]));
   out.delete(word);
   return [...out];
 }
@@ -379,6 +381,9 @@ export const ARCHAIC = {
   "si'": ['essere', "si' = sii (be!) — Laudato si' = be praised"],
   altissimu: ['alto', 'Altissimu = Altissimo (Most High: God) — old Umbrian'], bon: ['buono', 'bon = buono (good) — old'],
   onne: ['ogni', 'onne = ogni (every) — old Umbrian'], homo: ['uomo', 'homo = uomo (man) — Latin spelling'],
+  figliuolo: ['figlio', 'figliuolo = figlio (son) — old Tuscan'], figliuola: ['figlia', 'figliuola = figlia (daughter) — old Tuscan'],
+  figliuoli: ['figlio', 'figliuoli = figli (children, sons) — old Tuscan'], figliuole: ['figlia', 'figliuole = figlie (daughters) — old Tuscan'],
+  "diè": ['dare', 'diè = diede (gave) — old'], "vo'": ['volere', "vo' = voglio (I want) — old Tuscan"],
 };
 
 // Shortened forms: vien → viene, far → fare, son → sono, pover' → povero, quand' → quando

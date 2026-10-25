@@ -139,6 +139,7 @@ function markPhrases(words, L) {
 
 // All readings of one word, without context.
 export function lookupWord(word, L) {
+  word = word.replace(/[’‘ʼ]/g, "'"); // typographic apostrophes in books: l’, po’, tutt’
   let cands = group(L, L.lookupForm(word));
   if (L.lang === 'it') {
     if (!cands.length) cands = cliticReadings(word, L);
@@ -150,7 +151,7 @@ export function lookupWord(word, L) {
     for (const alt of L.engine.spellingCandidates(word)) {
       const c = group(L, L.lookupForm(alt));
       if (c.length) {
-        c.forEach((x) => x.notes.push(`Old spelling of “${alt}”.`));
+        c.forEach((x) => x.notes.push(`Old spelling or form of “${alt}”.`));
         cands = c;
         break;
       }
