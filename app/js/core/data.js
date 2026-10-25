@@ -269,6 +269,11 @@ function addFunctionWordsDE(L, m) {
     const e = L.lemma(prep, 'prep');
     if (e) add(m, form, e.id, `C:${prep}+${article}`);
   }
+  // jemand, niemand: jemanden (acc.), jemandem (dat.)
+  for (const lemma of ['jemand', 'niemand']) {
+    const e = L.lemma(lemma);
+    if (e) for (const [end, c] of [['en', 'akk'], ['em', 'dat'], ['es', 'gen']]) add(m, lemma + end, e.id, `P:${c}`);
+  }
   // meins, deins, unsers: possessives standing alone (Das ist meins.)
   for (const stem of ['mein', 'dein', 'sein', 'unser', 'euer']) {
     const e = (L.byLemma.get(stem) || []).find((x) => x.p === 'det');

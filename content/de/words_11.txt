@@ -269,3 +269,41 @@ Nominativ|n.m|nominative (case)
 Genitiv|n.m|genitive (case)
 # home
 Vermieter|n.m|landlord|note=Feminine Vermieterin; mieten = to rent.
+# money
+Tresor|n.m|safe, vault
+Patent|n.n|patent|note=das Patentamt = patent office.
+# home
+Eck|n.n|corner (southern)|reg=reg;note=Standard: die Ecke. das Dreiländereck = point where three countries meet.
+Sack|n.m|sack, bag|note=Plural Säcke.
+Stange|n.f|pole, rod
+Filz|n.m|felt|note=Filzpantoffeln = felt slippers.
+Pantoffel|n.m|slipper|note=Plural Pantoffeln.
+# school
+forschen|v|to research, to do research|note=die Forschung = research; der Forscher = researcher.
+Physik|n.f|physics
+Relativität|n.f|relativity
+Erfindung|n.f|invention|note=erfinden = to invent.
+# soc
+Parlament|n.n|parliament
+Vogt|n.m|bailiff, reeve (medieval governor)|reg=lit
+Einwohner|n.m|inhabitant|note=Feminine Einwohnerin.
+befehlen|v|to order, to command|note=Strong: befiehlt, befahl, befohlen.
+Alltag|n.m|everyday life
+# travel
+Zeppelin|n.m|Zeppelin, airship
+Bergsteiger|n.m|mountaineer, climber
+# desc
+wasserdicht|a|waterproof
+sonnig|a|sunny
+munter|a|lively, cheerful; awake|note=gesund und munter = fit and well.
+krumm|a|crooked, bent
+griechisch|a|Greek
+# act
+gleiten|v|to glide, to slide|note=Strong: glitt, ist geglitten.
+# greet
+grüezi|intj|hello (Swiss German)|reg=reg;note=Grüezi mitenand! = Hello everyone!
+merci|intj|thank you (Swiss, from French)|reg=reg
+# people
+Schweizer|n.m|Swiss (man)|note=Feminine Schweizerin; also as an invariable adjective: Schweizer Käse.
+# lang
+Rätoromanisch|n.n|Romansh (Switzerland's fourth language)

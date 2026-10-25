@@ -1,0 +1,206 @@
+# German unit stories, units 81–90 (Die Schweiz und zurück: Meisterprüfung).
+
+=== u81 | dialogue | Grüezi in Zürich
+intro: Tom has arrived in Switzerland for his last months on the road. In Zürich, people greet with "Grüezi" and speak Swiss German. Subordinate clauses.
+Bankerin: Grüezi! Kann ich Ihnen helfen? | Hello! Can I help you?
+Tom: Grüezi! Ich weiß nicht, ob ich hier richtig bin. Ich möchte Euro in Franken wechseln. | Hello! I don't know whether I'm in the right place. I'd like to change euros into francs.
+Bankerin: Da sind Sie richtig. Wie viel möchten Sie wechseln? | You're in the right place. How much would you like to change?
+Tom: Zweihundert Euro, bitte. Ich habe gehört, dass die Schweiz sehr teuer ist. | Two hundred euros, please. I've heard that Switzerland is very expensive.
+Bankerin: Das stimmt leider. Wenn Sie lange bleiben, brauchen Sie viele Franken! | Unfortunately that's true. If you stay long, you'll need lots of francs!
+Tom: Ist es wahr, dass unter der Bahnhofstraße Gold liegt? | Is it true that there's gold under the Bahnhofstrasse?
+Bankerin: Man sagt es. Aber ich darf Ihnen nicht sagen, wo die Tresore sind. | People say so. But I'm not allowed to tell you where the vaults are.
+Tom: Schade! Dann muss ich weiter als Zimmermann arbeiten. | Pity! Then I'll have to keep working as a carpenter.
+q: Tom weiß nicht, ___ er richtig ist. | ob | dass | wenn | en: Tom doesn't know whether he's in the right place. | why: ob = whether
+q: In der Schweiz bezahlt man mit ___. | Franken | Euro | Mark | en: In Switzerland you pay in francs. | why: „Euro in Franken wechseln“
+q: Unter der Bahnhofstraße sollen ___ sein. | Tresore | Brücken | Züge | en: There are said to be vaults under the Bahnhofstrasse. | why: „wo die Tresore sind“
+
+=== u81 | reading | Schweizerdeutsch
+intro: Swiss German sounds very different, but the written language is standard German — with a few Swiss habits.
+- In der Schweiz spricht man vier Sprachen: Deutsch, Französisch, Italienisch und Rätoromanisch. | Four languages are spoken in Switzerland: German, French, Italian and Romansh.
+- Im Alltag sprechen die Deutschschweizer Dialekt. Man sagt „Grüezi“ statt „Guten Tag“ und „Merci“ statt „Danke“. | In everyday life German-speaking Swiss speak dialect. They say "Grüezi" instead of "Guten Tag" and "Merci" instead of "Danke".
+- Viele Wörter enden auf „-li“: ein Häuschen ist ein „Hüsli“, ein bisschen ist „es bitzeli“. | Many words end in "-li": a little house is a "Hüsli", a little bit is "es bitzeli".
+- Geschrieben wird aber Hochdeutsch — nur ohne „ß“. Die Schweizer schreiben immer „ss“: Strasse, gross. | But standard German is written — only without "ß". The Swiss always write "ss": Strasse, gross.
+- Wenn Sie langsam und deutlich sprechen, versteht man Sie überall. | If you speak slowly and clearly, people understand you everywhere.
+q: In der Schweiz spricht man ___ Sprachen. | vier | drei | zwei | en: Four languages are spoken in Switzerland. | why: „vier Sprachen: Deutsch, Französisch, Italienisch und Rätoromanisch“
+q: Die Schweizer schreiben „Strasse“ ohne ___. | ß | s | t | en: The Swiss write "Strasse" without ß. | why: „nur ohne ß. Die Schweizer schreiben immer ss“
+
+=== u82 | reading | Einstein in Bern
+intro: In 1905, a young clerk at the patent office in Bern changed physics. Reported speech with the Konjunktiv I, as a biography would tell it.
+- Albert Einstein arbeitete ab 1902 im Patentamt in Bern. Er prüfte die Erfindungen anderer Leute. | From 1902 Albert Einstein worked in the patent office in Bern. He examined other people's inventions.
+- Später sagte er, die Arbeit sei gar nicht langweilig gewesen. | Later he said the work had not been boring at all.
+- Er habe nebenbei viel Zeit zum Denken gehabt. | He had had plenty of time to think on the side.
+- 1905 schrieb er vier Artikel, die die Physik veränderten. Man nennt es heute sein „Wunderjahr“. | In 1905 he wrote four papers that changed physics. Today it is called his "miracle year".
+- Man erzählt, die Idee der Relativität sei ihm in der Straßenbahn gekommen, als er auf den Uhrturm von Bern schaute. | The story goes that the idea of relativity came to him on the tram, as he looked back at Bern's clock tower.
+- Seine Wohnung in der Kramgasse kann man heute besuchen. | His flat in the Kramgasse can be visited today.
+q: Einstein arbeitete im ___ in Bern. | Patentamt | Bahnhof | Museum | en: Einstein worked in the patent office in Bern. | why: „im Patentamt in Bern“
+q: Er sagte, die Arbeit ___ nicht langweilig gewesen. | sei | ist | wird | en: He said the work had not been boring. | why: reported speech: Konjunktiv I: sei
+q: Man nennt 1905 sein „___“. | Wunderjahr | Glücksjahr | Arbeitsjahr | en: 1905 is called his "miracle year". | why: „sein Wunderjahr“
+
+=== u82 | dialogue | Was die Zeitung schreibt
+intro: Bern is the Swiss capital. In a café, a man reads Tom the news. Newspapers report in the Konjunktiv I.
+Herr Meier: Hören Sie mal: Die Regierung sagt, die Steuern würden nächstes Jahr nicht steigen. | Listen to this: the government says taxes won't go up next year.
+Tom: Und glauben Sie das? | And do you believe that?
+Herr Meier: Ein Politiker hat ja gesagt, er habe nie gelogen! | Well, a politician did say he had never lied!
+Tom: Und was steht da über das Wetter? | And what does it say about the weather?
+Herr Meier: Morgen werde es sonnig, schreibt die Zeitung. Am Wochenende gebe es Schnee in den Bergen. | Tomorrow it will be sunny, the paper writes. At the weekend there'll be snow in the mountains.
+Tom: Und wird über die Bären geschrieben? | And is anything written about the bears?
+Herr Meier: Ja! Die Bären im Bärenpark seien gesund und munter. Bern ohne Bären ist nicht Bern! | Yes! The bears in the bear park are said to be fit and well. Bern without bears isn't Bern!
+q: Ein Politiker sagte, er ___ nie gelogen. | habe | hat | hatte | en: A politician said he had never lied. | why: Konjunktiv I of haben: er habe
+q: Am Wochenende gebe es ___ in den Bergen. | Schnee | Regen | Sonne | en: At the weekend there will be snow in the mountains. | why: „Am Wochenende gebe es Schnee in den Bergen.“
+q: Bern ohne ___ ist nicht Bern. | Bären | Berge | Banken | en: Bern without bears isn't Bern. | why: Bern's emblem is a bear
+
+=== u83 | dialogue | An der Grenze in Basel
+intro: In Basel three countries meet at one point in the Rhine. Tom and Lena cross three borders in one afternoon. The passive.
+Lena: Hier, am Dreiländereck, werden drei Länder durch den Rhein verbunden: die Schweiz, Deutschland und Frankreich. | Here, at the three-country corner, three countries are joined by the Rhine: Switzerland, Germany and France.
+Tom: Und in Basel werden Medikamente gemacht, oder? | And medicines are made in Basel, aren't they?
+Lena: Ja, in Basel wird viel geforscht. Viele große Firmen haben hier ihre Labore. | Yes, a lot of research is done in Basel. Lots of big companies have their labs here.
+Tom: Im Sommer wird hier im Rhein geschwommen, habe ich gehört. | In summer people swim in the Rhine here, I've heard.
+Lena: Genau. Die Kleider werden in einen wasserdichten Sack gesteckt, und dann lässt man sich vom Fluss tragen. | Exactly. Your clothes are put into a waterproof bag, and then you let the river carry you.
+Tom: Und wo wird man wieder herausgeholt? | And where do you get pulled out again?
+Lena: Niemand holt dich heraus. Man schwimmt selbst ans Ufer! | Nobody pulls you out. You swim to the bank yourself!
+q: Am Dreiländereck werden ___ Länder verbunden. | drei | zwei | vier | en: At the three-country corner three countries are joined. | why: „werden drei Länder durch den Rhein verbunden“
+q: In Basel wird viel ___. | geforscht | gespielt | getanzt | en: A lot of research is done in Basel. | why: impersonal passive: es wird geforscht
+q: Die Kleider werden in einen wasserdichten ___ gesteckt. | Sack | Koffer | Schrank | en: The clothes are put into a waterproof bag. | why: „in einen wasserdichten Sack gesteckt“
+
+=== u84 | reading | Wilhelm Tell
+intro: The legend of Switzerland's national hero, as Schiller made it famous. Präteritum.
+- Vor über siebenhundert Jahren herrschte in der Schweiz ein grausamer Vogt. Er hieß Gessler. | Over seven hundred years ago a cruel bailiff ruled in Switzerland. His name was Gessler.
+- Gessler hängte seinen Hut auf eine Stange und befahl: Jeder muss den Hut grüßen! | Gessler hung his hat on a pole and ordered: everyone must salute the hat!
+- Der Jäger Wilhelm Tell ging mit seinem Sohn vorbei und grüßte den Hut nicht. | The hunter William Tell walked past with his son and did not salute the hat.
+- Zur Strafe musste er mit seiner Armbrust einen Apfel vom Kopf seines Sohnes schießen. | As punishment he had to shoot an apple off his son's head with his crossbow.
+- Tell zielte lange. Dann schoss er — und traf den Apfel. Sein Sohn war gerettet. | Tell aimed for a long time. Then he shot — and hit the apple. His son was saved.
+- Später tötete Tell den Vogt, und die Schweizer wurden frei. | Later Tell killed the bailiff, and the Swiss became free.
+- Ob es Tell wirklich gab, weiß niemand. Aber jedes Kind in der Schweiz kennt seine Geschichte. | Whether Tell really existed, nobody knows. But every child in Switzerland knows his story.
+q: Gessler hängte seinen ___ auf eine Stange. | Hut | Mantel | Apfel | en: Gessler hung his hat on a pole. | why: „Gessler hängte seinen Hut auf eine Stange“
+q: Tell musste einen Apfel vom Kopf seines ___ schießen. | Sohnes | Bruders | Vaters | en: Tell had to shoot an apple off his son's head. | why: genitive: vom Kopf seines Sohnes
+q: Tell ___ den Apfel. | traf | verlor | aß | en: Tell hit the apple. | why: treffen → traf (Präteritum)
+
+=== u84 | dialogue | Die Kapellbrücke
+intro: In Luzern, Tom the carpenter stands on Europe's oldest covered wooden bridge.
+Tom: Diese Brücke ist ein Traum für einen Zimmermann! Wie alt ist sie? | This bridge is a carpenter's dream! How old is it?
+Führerin: Die Kapellbrücke wurde im 14. Jahrhundert gebaut. 1993 brannte ein großer Teil ab. | The Chapel Bridge was built in the 14th century. In 1993 a large part of it burned down.
+Tom: Oh nein! Und dann? | Oh no! And then?
+Führerin: Sie wurde in nur acht Monaten wieder aufgebaut. Aber viele der alten Bilder unter dem Dach waren verloren. | It was rebuilt in only eight months. But many of the old paintings under the roof were lost.
+Tom: Was zeigen die Bilder? | What do the paintings show?
+Führerin: Die Geschichte der Stadt und ihrer Heiligen. | The history of the town and its saints.
+Tom: Und der Berg dort hinten? | And the mountain back there?
+Führerin: Das ist der Pilatus. Die Legende sagt, dass dort früher ein Drache gewohnt hat. | That's Mount Pilatus. Legend says a dragon used to live there.
+Tom: Gibt es in jeder Stadt einen Drachen? | Is there a dragon in every town?
+Führerin: In der Schweiz fast! | In Switzerland, almost!
+q: Die Kapellbrücke ist aus dem ___ Jahrhundert. | 14. | 18. | 20. | en: The Chapel Bridge dates from the 14th century. | why: „im 14. Jahrhundert gebaut“
+q: Nach dem Feuer wurde die Brücke in acht ___ wieder aufgebaut. | Monaten | Jahren | Wochen | en: After the fire the bridge was rebuilt in eight months. | why: „in nur acht Monaten wieder aufgebaut“
+
+=== u85 | reading | Eiger, Mönch und Jungfrau
+intro: From Interlaken you can see three famous mountains. The Plusquamperfekt for an adventure that had happened before.
+- Über Interlaken stehen drei berühmte Berge: der Eiger, der Mönch und die Jungfrau. | Above Interlaken stand three famous mountains: the Eiger, the Mönch and the Jungfrau.
+- Eine alte Geschichte sagt, der Mönch beschütze die Jungfrau vor dem Eiger. | An old story says the Monk protects the Maiden from the Ogre.
+- Die Nordwand des Eigers galt lange als unmöglich. Viele Bergsteiger waren dort gestorben. | The north face of the Eiger was long considered impossible. Many climbers had died there.
+- 1938 kamen endlich vier Männer oben an. Sie hatten drei Tage in der Wand verbracht. | In 1938 four men finally reached the top. They had spent three days on the face.
+- Nachdem sie zurückgekommen waren, feierte man sie wie Helden. | After they had come back, they were celebrated like heroes.
+- Heute fährt ein Zug durch den Berg bis zum Jungfraujoch, auf 3454 Meter. | Today a train runs through the mountain up to the Jungfraujoch, at 3,454 metres.
+q: Die drei Berge heißen Eiger, Mönch und ___. | Jungfrau | Pilatus | Matterhorn | en: The three mountains are called Eiger, Mönch and Jungfrau. | why: „der Eiger, der Mönch und die Jungfrau“
+q: Die Männer hatten drei Tage in der Wand ___. | verbracht | geschlafen | gefunden | en: The men had spent three days on the face. | why: Plusquamperfekt: hatten verbracht
+q: Der Zug fährt bis auf ___ Meter. | 3454 | 2962 | 4478 | en: The train goes up to 3,454 metres. | why: „bis zum Jungfraujoch, auf 3454 Meter“
+
+=== u85 | dialogue | Mut am Berg
+intro: Tom and Lena paraglide over Interlaken. Lena is braver than Tom.
+Lena: Ich hatte vorher noch nie solche Angst gehabt — und jetzt will ich es gleich noch einmal machen! | I had never been so scared before — and now I want to do it again straight away!
+Tom: Mir ist immer noch schlecht. Als wir gesprungen sind, hatte ich die Augen zugemacht. | I still feel sick. When we jumped, I had shut my eyes.
+Lena: Du hast ein Dach in Dresden gebaut, aber du hast Angst vor der Luft? | You built a roof in Dresden, but you're afraid of the air?
+Tom: Auf einem Dach habe ich Holz unter den Füßen! Hier hatte ich nur Wind. | On a roof I have wood under my feet! Up here I only had wind.
+Lena: Nachdem wir gelandet waren, hast du gelacht. Ich habe es gesehen! | After we had landed, you laughed. I saw it!
+Tom: Weil ich froh war, dass ich noch lebe! | Because I was glad I was still alive!
+q: Als sie gesprungen sind, hatte Tom die Augen ___. | zugemacht | aufgemacht | gewaschen | en: When they jumped, Tom had closed his eyes. | why: zumachen → hatte zugemacht
+q: Auf einem Dach hat Tom ___ unter den Füßen. | Holz | Wind | Wasser | en: On a roof Tom has wood under his feet. | why: „Auf einem Dach habe ich Holz unter den Füßen!“
+
+=== u86 | dialogue | Ohne Autos
+intro: Zermatt is car-free. Below the Matterhorn, Tom and Lena meet a goatherd. Adjective endings.
+Hirt: Grüezi! Schauen Sie, meine Ziegen mit dem schwarzen Hals! Die gibt es nur hier im Wallis. | Hello! Look, my goats with the black necks! They exist only here in the Valais.
+Lena: Wie lustig! Vorne sind sie schwarz und hinten weiß. | How funny! They're black at the front and white at the back.
+Tom: Und warum gibt es in Zermatt keine Autos? | And why are there no cars in Zermatt?
+Hirt: Weil die Luft sauber bleiben soll. Hier fahren nur kleine, elektrische Wagen. | Because the air should stay clean. Only small electric vehicles drive here.
+Lena: Und der berühmte Berg dort oben, mit der krummen Spitze? | And the famous mountain up there, with the crooked peak?
+Hirt: Das ist das Matterhorn. Es ist einer der berühmtesten Berge der Welt. | That's the Matterhorn. It's one of the most famous mountains in the world.
+Tom: Ein schöner Berg mit einer schiefen Spitze, wie ein altes Dach. | A beautiful mountain with a crooked tip, like an old roof.
+Hirt: Sie sehen alles mit den Augen eines Zimmermanns! | You see everything through a carpenter's eyes!
+q: Die Ziegen sind vorne schwarz und hinten ___. | weiß | braun | grau | en: The goats are black at the front and white at the back. | why: „Vorne sind sie schwarz und hinten weiß.“
+q: In Zermatt fahren nur ___, elektrische Wagen. | kleine | kleinen | kleiner | en: In Zermatt only small electric vehicles drive. | why: no article + plural nominative → -e: kleine Wagen
+q: Das Matterhorn ist einer der ___ Berge der Welt. | berühmtesten | berühmteste | berühmtester | en: The Matterhorn is one of the most famous mountains in the world. | why: genitive plural after der → -en
+
+=== u87 | reading | Die Bibliothek in Filzpantoffeln
+intro: St. Gallen's Abbey Library is one of the oldest in the world. Visitors wear felt slippers so as not to scratch the floor. Relative clauses.
+- Die Stiftsbibliothek, die im 8. Jahrhundert gegründet wurde, ist eine der ältesten Bibliotheken der Welt. | The Abbey Library, which was founded in the 8th century, is one of the oldest libraries in the world.
+- Über der Tür steht ein griechisches Wort, das „Apotheke der Seele“ bedeutet. | Above the door is a Greek word that means "pharmacy of the soul".
+- Der Saal, in dem die Bücher stehen, hat einen Boden aus Holz, den man schützen muss. | The hall in which the books stand has a wooden floor that must be protected.
+- Darum bekommen alle Besucher große Pantoffeln aus Filz, mit denen sie über den Boden gleiten. | That's why all visitors get big felt slippers, in which they glide over the floor.
+- Hier liegt auch ein Plan eines Klosters, der fast zwölfhundert Jahre alt ist. | Here there is also a plan of a monastery that is almost twelve hundred years old.
+q: Über der Tür steht ein Wort, das „Apotheke der ___“ bedeutet. | Seele | Bücher | Stadt | en: Above the door is a word meaning "pharmacy of the soul". | why: „Apotheke der Seele“
+q: Die Besucher bekommen Pantoffeln aus ___. | Filz | Holz | Leder | en: Visitors get slippers made of felt. | why: „große Pantoffeln aus Filz“
+q: Der Saal, in ___ die Bücher stehen, hat einen Holzboden. | dem | den | der | en: The hall in which the books stand has a wooden floor. | why: der Saal → in dem (dative)
+
+=== u88 | dialogue | Das kleine Land
+intro: In Vaduz, the capital of Liechtenstein, Tom asks a local about the tiny country. The passive.
+Tom: Stimmt es, dass Liechtenstein mehr Firmen als Einwohner hat? | Is it true that Liechtenstein has more companies than inhabitants?
+Frau Frick: Ja, das stimmt. Hier werden viele Firmen gegründet, weil die Steuern niedrig sind. | Yes, that's true. Lots of companies are founded here because taxes are low.
+Tom: Und wer regiert das Land? | And who governs the country?
+Frau Frick: Das Land wird vom Fürsten und vom Parlament regiert. Der Fürst wohnt dort oben im Schloss. | The country is governed by the prince and the parliament. The prince lives up there in the castle.
+Tom: Wird man hier auch für zu schnelles Fahren bestraft? | Do you get punished here for driving too fast too?
+Frau Frick: Natürlich! Unsere Gesetze werden sehr ernst genommen. Aber eine Armee hat Liechtenstein nicht. | Of course! Our laws are taken very seriously. But Liechtenstein doesn't have an army.
+Tom: Keine Armee? | No army?
+Frau Frick: Seit 1868 nicht mehr. Wir brauchen keine. | Not since 1868. We don't need one.
+q: In Liechtenstein werden viele Firmen ___. | gegründet | gebaut | verkauft | en: Lots of companies are founded in Liechtenstein. | why: passive: werden gegründet
+q: Das Land wird vom Fürsten und vom ___ regiert. | Parlament | König | Volk allein | en: The country is governed by the prince and the parliament. | why: „vom Fürsten und vom Parlament regiert“
+q: Seit ___ hat Liechtenstein keine Armee mehr. | 1868 | 1968 | 1918 | en: Liechtenstein has had no army since 1868. | why: „Seit 1868 nicht mehr.“
+
+=== u89 | dialogue | Wieder am Bodensee
+intro: Tom's journeyman years are over. He is back at Lake Constance, where Zeppelins are built, and visits Lena. Konjunktiv II: wishes and plans.
+Lena: Da bist du! Drei Jahre und ein Tag sind vorbei. Wie fühlst du dich? | There you are! Three years and a day are over. How do you feel?
+Tom: Komisch. Ich hätte nie gedacht, dass ich Deutschland so lieben würde. | Strange. I'd never have thought I would love Germany so much.
+Lena: Und was würdest du jetzt am liebsten machen? | And what would you most like to do now?
+Tom: Wenn ich könnte, würde ich mit dir in einem Zeppelin über den See fliegen. | If I could, I'd fly over the lake in a Zeppelin with you.
+Lena: Das kann man! Hier in Friedrichshafen fliegen sie noch. | You can do that! Here in Friedrichshafen they still fly.
+Tom: Wirklich? Dann wäre heute der perfekte Tag dafür. | Really? Then today would be the perfect day for it.
+Lena: Aber zuerst musst du noch etwas erledigen: deine Meisterprüfung! | But first you still have to do something: your master's examination!
+Tom: Ich weiß. Wenn ich sie nur schon bestanden hätte! | I know. If only I had already passed it!
+q: Tom hätte nie gedacht, dass er Deutschland so lieben ___. | würde | wird | wäre | en: Tom would never have thought he would love Germany so much. | why: würde + infinitive
+q: Tom würde gern in einem ___ fliegen. | Zeppelin | Flugzeug | Ballon | en: Tom would like to fly in a Zeppelin. | why: „würde ich mit dir in einem Zeppelin über den See fliegen“
+q: „Wenn ich sie nur schon bestanden ___!“ | hätte | habe | hatte | en: "If only I had already passed it!" | why: past wish: Konjunktiv II Plusquamperfekt: hätte bestanden
+
+=== u89 | gouin | Ich packe aus
+intro: A Gouin series: home again after three years. Put the steps back in order.
+- Ich öffne die Tür meiner neuen Wohnung. | I open the door of my new flat.
+- Ich stelle den schweren Rucksack in den Flur. | I put the heavy rucksack in the hall.
+- Ich packe die Kleidung aus und hänge sie in den Schrank. | I unpack my clothes and hang them in the wardrobe.
+- Ich lege die Bücher auf das Regal. | I put the books on the shelf.
+- Ich stelle die Kuckucksuhr aus dem Schwarzwald an die Wand. | I put the cuckoo clock from the Black Forest by the wall.
+- Ich hänge meinen schwarzen Hut an den Haken. | I hang my black hat on the hook.
+- Ich setze mich auf das Sofa und lächle. | I sit down on the sofa and smile.
+
+=== u90 | dialogue | Die Meisterprüfung
+intro: The final day. In front of the guild's examiners stands Tom's masterpiece: a little oak pavilion. All the grammar of the journey comes together.
+Meister Huber: Herr Tom, erklären Sie uns bitte Ihr Meisterstück. | Mr Tom, please explain your masterpiece to us.
+Tom: Gern. Das ist ein Pavillon aus Eiche, die ich in Fulda gekauft habe. Die Balken werden ohne Eisennägel verbunden, nur mit Nägeln aus Holz, wie in Quedlinburg. | Gladly. This is a pavilion of oak, which I bought in Fulda. The beams are joined without iron nails, only with wooden pegs, as in Quedlinburg.
+Meisterin Weber: Und das Dach? | And the roof?
+Tom: Die Schindeln habe ich in Innsbruck gelernt, die Form des Dachs in Dessau. Jede Stadt hat mir etwas beigebracht. | I learned the shingles in Innsbruck, the shape of the roof in Dessau. Every town has taught me something.
+Meister Huber: Wenn ich ehrlich bin, habe ich selten ein so schönes Stück gesehen. | To be honest, I have rarely seen such a beautiful piece.
+Meisterin Weber: Wir haben entschieden: Sie haben die Prüfung bestanden. Herzlichen Glückwunsch, Herr Meister! | We have decided: you have passed the examination. Congratulations, Master!
+Tom: Danke! Darf ich jemanden anrufen? | Thank you! May I call someone?
+Meister Huber: Ich glaube, sie wartet schon draußen. | I believe she's already waiting outside.
+q: Der Pavillon ist aus ___. | Eiche | Linde | Glas | en: The pavilion is made of oak. | why: „ein Pavillon aus Eiche“
+q: Die Balken werden mit Nägeln aus ___ verbunden. | Holz | Eisen | Gold | en: The beams are joined with wooden pegs. | why: „nur mit Nägeln aus Holz“
+q: Tom hat die Prüfung ___. | bestanden | verloren | vergessen | en: Tom has passed the examination. | why: „Sie haben die Prüfung bestanden.“
+
+=== u90 | dialogue | Bestanden!
+intro: Outside the guild hall, Lena is waiting.
+Lena: Und? Sag schon! | Well? Tell me!
+Tom: Bestanden! Ich bin Meister! | Passed! I'm a master!
+Lena: Ich wusste es! Ich bin so stolz auf dich. | I knew it! I'm so proud of you.
+Tom: Lena, in Landshut habe ich gesagt, ich würde dir etwas erst nach der Meisterprüfung sagen. | Lena, in Landshut I said I would only tell you something after my master's examination.
+Lena: Ich erinnere mich. Und? | I remember. And?
+Tom: Ich habe die richtige Frau gefunden. Schon an meinem ersten Tag, in Hamburg, als sie „Moin“ gesagt hat. | I've found the right woman. On my very first day, in Hamburg, when she said "Moin".
+Lena: Tom … | Tom …
+Tom: Willst du mit mir in meinem kleinen Pavillon wohnen? Er ist aus Eiche. Er hält fünfhundert Jahre. | Will you live with me in my little pavilion? It's made of oak. It will last five hundred years.
+Lena: Moin, Herr Meister. Ja! | Moin, Master. Yes!
+q: Lena ist sehr ___ auf Tom. | stolz | böse | müde | en: Lena is very proud of Tom. | why: „Ich bin so stolz auf dich.“
+q: Tom hat die richtige Frau in ___ gefunden. | Hamburg | Landshut | Fulda | en: Tom found the right woman in Hamburg. | why: „an meinem ersten Tag, in Hamburg“
+q: Lena sagt zum Schluss „Moin“ und „___“. | Ja | Nein | Tschüss | en: At the end Lena says "Moin" and "Yes". | why: „Moin, Herr Meister. Ja!“

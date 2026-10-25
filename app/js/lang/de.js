@@ -398,7 +398,7 @@ export function splitCompound(word, findNoun, skipWhole = false, findHead = find
       const leftEntry = findNoun(base) || findNoun(base + 'e') || findNoun(base + 'en');
       // the left part may be a compound itself: Zimmermanns|hut|geschäft
       if (!leftEntry && base.length >= 6) {
-        const inner = splitCompound(base, findNoun);
+        const inner = splitCompound(base, findNoun, false, findHead);
         if (inner) return { parts: [...inner.parts, `${DEF[headEntry.g === 'pl' ? 'pl' : headEntry.g][0]} ${headEntry.l}`], head: headEntry, headForm: head, left: inner.head, link };
       }
       if (leftEntry || base.length >= 3 && findNoun(base, 'any')) {

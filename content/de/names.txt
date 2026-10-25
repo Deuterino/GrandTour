@@ -341,3 +341,20 @@ Ora|name|ora (Latin): pray — ora et labora = pray and work
 et|name|et (Latin): and
 labora|name|labora (Latin): work
 Lindwurm|name|the Lindwurm, Klagenfurt's dragon
+Tell|name|William Tell, legendary Swiss hero
+Gessler|name|Gessler, the tyrannical bailiff in the Tell legend
+Eiger|place|the Eiger ("ogre"), Bernese Alps
+Jungfraujoch|place|the Jungfraujoch, Europe's highest railway station (3,454 m)
+Matterhorn|place|the Matterhorn (4,478 m), Zermatt
+Kramgasse|place|street in Bern's old town (Einstein's flat)
+Pilatus|place|Mount Pilatus, Lucerne
+Wallis|region|the Valais (canton in Switzerland)
+Hüsli|name|Swiss German for Häuschen (little house)
+bitzeli|name|Swiss German for bisschen: es bitzeli = a little bit
+li|name|-li: the Swiss German diminutive ending (Hüsli = Häuschen)
+ß|name|ß (Eszett, sharp s); written ss in Switzerland
+ss|name|ss: replaces ß in Swiss spelling
+Kapellbrücke|place|the Chapel Bridge, Lucerne (14th century)
+Friedrichshafen|city|Friedrichshafen on Lake Constance: Zeppelin town
+Huber|name|Huber (common surname in Bavaria and Austria)
+Frick|name|Frick (surname)

@@ -156,6 +156,12 @@ export function lookupWord(word, L) {
       }
     }
   }
+  // Strasse, gross: Switzerland writes ss for ß
+  if (!cands.length && L.lang === 'de' && word.includes('ss')) {
+    const alt = word.replace(/ss/g, 'ß');
+    cands = group(L, L.lookupForm(alt));
+    cands.forEach((x) => x.notes.push(`Swiss spelling of “${alt}” (Switzerland writes ss instead of ß).`));
+  }
   const archaic = L.engine.ARCHAIC[word] || L.engine.ARCHAIC[word.toLowerCase()];
   if (!cands.length && archaic) {
     const [lemma, note] = archaic;
