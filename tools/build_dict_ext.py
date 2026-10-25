@@ -58,14 +58,17 @@ def article(rec, lang):
 
 
 def gloss(rec):
+    """Up to three senses with their usage labels: "whore (dated, derogatory); girl; lass (archaic or regional)"."""
     senses = [s for s in rec.get("s", []) if s.get("g") and "of" not in s]
-    if not senses:
-        return ""
-    out = senses[0]["g"]
-    if len(senses) > 1 and len(out) < 40:
-        out += "; " + senses[1]["g"]
-    out = re.sub(r"\s+", " ", out).strip()
-    return out if len(out) <= 110 else out[:107].rsplit(" ", 1)[0] + "…"
+    parts = []
+    for s in senses[:3]:
+        g = re.sub(r"\s+", " ", s["g"]).strip()
+        q = (s.get("q") or "").split(",")[0].strip()
+        parts.append(f"{g} ({q})" if q and len(q) < 30 else g)
+        if sum(len(x) for x in parts) > 90:
+            break
+    out = "; ".join(parts)
+    return out if len(out) <= 150 else out[:147].rsplit(" ", 1)[0] + "…"
 
 
 def text_words(lang):

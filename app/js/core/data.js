@@ -144,9 +144,11 @@ class ExtDict {
   lookup(token) {
     token = token.replace(/[’‘ʼ]/g, "'");
     const out = [];
+    const seen = new Set();
+    const push = (e, tag) => { const k = e.i + '|' + tag; if (!seen.has(k)) { seen.add(k); out.push({ e, tag }); } };
     for (const t of new Set([token, token.toLowerCase()])) {
-      for (const e of this.byLemma.get(t.toLowerCase()) || []) if (e.l === t || e.l.toLowerCase() === t) out.push({ e, tag: 'lemma' });
-      for (const [idx, tag] of this.forms[t] || []) out.push({ e: this.entries[idx], tag });
+      for (const e of this.byLemma.get(t.toLowerCase()) || []) if (e.l === t || e.l.toLowerCase() === t) push(e, 'lemma');
+      for (const [idx, tag] of this.forms[t] || []) push(this.entries[idx], tag);
     }
     return out;
   }

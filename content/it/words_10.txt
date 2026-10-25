@@ -398,3 +398,14 @@ normanno|a|Norman; (n.) Norman|note=i Normanni ruled Sicily from 1072.
 bolognese|a|from Bologna; (n.) person from Bologna|note=la (salsa) bolognese = ragù alla bolognese.
 # greet
 eureka|intj|eureka! (I've found it!)
+# story — old and literary words of Collodi and Capuana: explained in the reader, not taught (x=1)
+maestà|n.f|majesty|x=1;note=Sua Maestà = His/Her Majesty; Capuana's kings are addressed as Maestà.
+reuccio|n.m|young king, prince (fairy tales)|x=1;note=re + -uccio: Capuana's Reuccio.
+reginotta|n.f|young queen, princess (fairy tales)|x=1;note=regina + -otta (Capuana).
+grullo|a|silly, foolish (Tuscan)|x=1
+birbone|n.m|rascal, scoundrel|x=1;note=Pinocchio is often called a birbone.
+quattrini|n.mpl|money, cash (old coins)|x=1;note=Non ho un quattrino = I haven't a penny.
+desinare|v|to dine, to have lunch (Tuscan, old)|reg=lit;x=1;note=Also a noun: il desinare = lunch.
+garbato|a|polite, courteous|x=1
+monello|n.m|rascal, street urchin|x=1
+burattinaio|n.m|puppeteer|x=1;note=Mangiafuoco is il burattinaio in Pinocchio.

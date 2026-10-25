@@ -1,6 +1,6 @@
 // Grand Tour service worker (generated from tools/sw_template.js by tools/build_app.py — edit the template).
 // App shell and course data are precached so the app works offline after the first visit.
-const VERSION = '6185472389d4';
+const VERSION = 'c001d5dd3e77';
 const SHELL = `gt-shell-${VERSION}`;
 const DATA = `gt-data-${VERSION}`;
 const PRECACHE_SHELL = [

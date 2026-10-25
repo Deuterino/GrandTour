@@ -313,3 +313,37 @@ Mittelalter|n.n|Middle Ages|note=No plural: im Mittelalter = in the Middle Ages.
 Ski|n.m|ski|note=Plural Ski or Skier; Ski fahren = to ski.
 Studium|n.n|(university) studies|note=Plural Studien.
 Umwelt|n.f|environment
+# story — old and literary words of the fairy tales: explained in the reader, not taught (x=1)
+Dirne|n.f|(old) girl, maiden; (today) prostitute|reg=lit;x=1;note=In fairy tales: eine kleine süße Dirne = a sweet little girl. Today the word is offensive.
+Weib|n.n|(old) woman, wife; (today) derogatory|reg=lit;x=1;note=Grimm: sein Weib = his wife. Today say Frau.
+Knabe|n.m|boy, lad (old, literary)|reg=lit;x=1;note=Weak noun: den Knaben. Today: der Junge.
+Muhme|n.f|aunt (old)|reg=lit;x=1
+Gevatter|n.m|godfather; (old) neighbour, old friend|reg=lit;x=1;note=Gevatter Tod = Death (Grimm).
+Gemahl|n.m|husband, spouse (formal, old)|reg=lit;x=1;note=Feminine Gemahlin = wife, consort.
+Jungfrau|n.f|maiden, virgin|reg=lit;x=1;note=Fairy tales: eine schöne Jungfrau = a beautiful maiden.
+alsbald|adv|soon, at once (old)|reg=lit;x=1
+sogleich|adv|immediately, at once|x=1;note=Written German; in speech: sofort.
+geschwind|a|quick, swift (old)|reg=lit;x=1
+Stube|n.f|room, parlour (old)|reg=lit;x=1;note=die gute Stube = the best room. Today: das Zimmer.
+Kammer|n.f|chamber, small room|x=1
+Leib|n.m|body (literary)|reg=lit;x=1;note=Today: der Körper. bei lebendigem Leib = alive.
+Stall|n.m|stable, cowshed|x=1
+Brei|n.m|porridge, mash|x=1;note=Der süße Brei (Grimm).
+herab|adv|down (towards the speaker)|x=1;note=her- = towards me, hin- = away from me: herab / hinab.
+hinab|adv|down (away from the speaker)|x=1
+umher|adv|around, about|x=1;note=umhergehen = to walk about.
+herbei|adv|over here, up (towards the speaker)|x=1;note=herbeikommen = to come over.
+nieder|adv|down|x=1;note=sich niederlegen = to lie down.
+heran|adv|up to, near (towards)|x=1
+herauf|adv|up (towards the speaker)|x=1
+herunter|adv|down (towards the speaker)|x=1
+entzwei|adv|in two, broken|x=1
+Wirt|n.m|landlord, innkeeper|x=1;note=Old spelling Wirth; das Wirtshaus = inn.
+Schüssel|n.f|bowl, dish|x=1
+Tuch|n.n|cloth; scarf|x=1;note=Plural Tücher.
+Dolch|n.m|dagger|x=1
+erblicken|v|to catch sight of|x=1
+gewahr|a|aware (literary)|reg=lit;x=1;note=etwas gewahr werden = to become aware of something.
+schier|adv|almost, nearly (old)|reg=lit;x=1;note=schier unmöglich = almost impossible.
+wohlan|intj|well then!, come on! (old)|reg=lit;x=1
+fürwahr|adv|truly, indeed (old)|reg=lit;x=1

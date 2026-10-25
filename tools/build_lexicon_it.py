@@ -372,6 +372,8 @@ def main():
         for k in ("note", "reg", "gov"):
             if k in kv:
                 item[{"note": "n"}.get(k, k)] = kv[k]
+        if kv.get("x"):
+            item["x"] = 1  # lookup-only word (old or literary): explained in the reader, never taught
         if e["pos"].startswith("n."):
             item.update(build_noun(e, recs, report))
         elif e["pos"] == "v":
@@ -417,6 +419,8 @@ def main():
         if not line.strip() or line.startswith("#"):
             continue
         l, kind, en = line.split("|")[:3]
+        if l.lower() in {x["l"].lower() for x in out if x["p"] != "name"} and kind == "name":
+            continue  # already a word (Rotkäppchen, Pinocchio): the name would only duplicate it
         out.append({"id": f"{l}~name", "l": l, "p": "name", "en": en, "th": ["name"], "x": 1, "kind": kind, "r": 99999})
     write_json(ROOT / "app/data/it/lexicon.json", {"lang": "it", "v": 1, "entries": out})
     (ROOT / "build/report_it.txt").write_text("\n".join(report) + "\n", encoding="utf-8")

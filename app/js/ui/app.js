@@ -28,6 +28,11 @@ function Toasts() {
 function SheetHost() {
   const [render, setRender] = useState(null);
   useEffect(() => onBus('sheet', (r) => setRender(() => r)), []);
+  useEffect(() => { // a sheet belongs to the page it was opened on
+    const close = () => setRender(null);
+    window.addEventListener('hashchange', close);
+    return () => window.removeEventListener('hashchange', close);
+  }, []);
   useEffect(() => {
     if (!render) return;
     const onKey = (e) => e.key === 'Escape' && closeSheet();
