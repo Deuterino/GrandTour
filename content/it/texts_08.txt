@@ -1,0 +1,182 @@
+# Italian unit stories, units 71–80 (Il Sud: Pietre e mari).
+
+=== u71 | dialogue | Quando abitavo nei Sassi
+intro: In Matera, Tom meets Giulia again. She is restoring frescoes in a cave church. An old man remembers life in the Sassi, the cave houses. The imperfetto.
+Signor Nicola: Quando ero bambino, abitavo qui, in una grotta come questa. | When I was a child, I lived here, in a cave like this one.
+Tom: In una grotta? E com'era la vita? | In a cave? And what was life like?
+Signor Nicola: Eravamo in nove, con il mulo e le galline. Dormivamo tutti nella stessa stanza. | There were nine of us, with the mule and the hens. We all slept in the same room.
+Giulia: E l'acqua? | And water?
+Signor Nicola: La prendevamo dalla cisterna. Non c'era la luce, né il bagno. Ma i vicini erano come una famiglia. | We took it from the cistern. There was no electricity, and no bathroom. But the neighbours were like a family.
+Tom: Perché siete andati via? | Why did you leave?
+Signor Nicola: Negli anni Cinquanta il governo ci ha dato case nuove. Per molti anni i Sassi sono rimasti vuoti. | In the fifties the government gave us new houses. For many years the Sassi stayed empty.
+Giulia: E oggi sono patrimonio dell'UNESCO, e nel 2019 Matera è stata capitale europea della cultura. | And today they're a UNESCO World Heritage site, and in 2019 Matera was European Capital of Culture.
+Signor Nicola: Chi l'avrebbe detto! La vergogna è diventata un orgoglio. | Who would have thought it! The shame has become a pride.
+q: Da bambino il signor Nicola ___ in una grotta. | abitava | ha abitato | abita | en: As a child Mr Nicola lived in a cave. | why: description of the past → imperfetto
+q: Dormivano tutti nella stessa ___. | stanza | casa | grotta del vicino | en: They all slept in the same room. | why: «Dormivamo tutti nella stessa stanza.»
+q: Nel 2019 Matera è stata capitale europea della ___. | cultura | musica | moda | en: In 2019 Matera was European Capital of Culture. | why: «capitale europea della cultura»
+
+=== u71 | reading | Novemila anni di storia
+intro: Matera is one of the oldest continuously inhabited cities in the world.
+- Gli uomini abitano nelle grotte di Matera da circa novemila anni. | People have lived in the caves of Matera for about nine thousand years.
+- I Sassi sono due quartieri scavati nella roccia: il Sasso Caveoso e il Sasso Barisano. | The Sassi are two neighbourhoods dug into the rock: the Sasso Caveoso and the Sasso Barisano.
+- Nel Medioevo i monaci dipinsero affreschi in più di centocinquanta chiese rupestri. | In the Middle Ages monks painted frescoes in more than a hundred and fifty rock churches.
+- Nel 1945 lo scrittore Carlo Levi descrisse la povertà dei Sassi nel suo libro «Cristo si è fermato a Eboli». | In 1945 the writer Carlo Levi described the poverty of the Sassi in his book "Christ Stopped at Eboli".
+- Oggi ci sono alberghi, ristoranti e musei nelle antiche case di pietra. | Today there are hotels, restaurants and museums in the old stone houses.
+q: Le persone abitano a Matera da circa ___ anni. | novemila | novecento | novanta | en: People have lived in Matera for about nine thousand years. | why: «da circa novemila anni»
+q: Carlo Levi scrisse «Cristo si è fermato a ___». | Eboli | Matera | Roma | en: Carlo Levi wrote "Christ Stopped at Eboli". | why: the title of the book
+
+=== u72 | reading | I trulli di Alberobello
+intro: The cone-roofed trulli of Apulia were built without mortar. The si construction and the passive.
+- I trulli si costruivano con pietre a secco, cioè senza malta. | Trulli were built with dry stones, that is, without mortar.
+- Il tetto a cono si faceva con lastre di pietra messe in cerchio, una sopra l'altra. | The cone-shaped roof was made with stone slabs laid in a circle, one on top of the other.
+- Si racconta che i conti di Conversano volessero evitare le tasse del re su ogni nuova casa. | It is said that the Counts of Conversano wanted to avoid the king's taxes on every new house.
+- Quando arrivavano gli ispettori, i trulli venivano smontati in poche ore! | When the inspectors came, the trulli were taken apart in a few hours!
+- Sui tetti si dipingevano simboli bianchi: cuori, croci, soli. | White symbols were painted on the roofs: hearts, crosses, suns.
+- Oggi ad Alberobello si trovano più di millecinquecento trulli, e in molti si può anche dormire. | Today there are more than fifteen hundred trulli in Alberobello, and you can even sleep in many of them.
+q: I trulli si costruivano senza ___. | malta | pietre | finestre | en: Trulli were built without mortar. | why: «con pietre a secco, cioè senza malta»
+q: Quando arrivavano gli ispettori, i trulli ___ smontati. | venivano | andavano | erano stati | en: When the inspectors came, the trulli were taken apart. | why: venire + participle = passive action
+q: Ad Alberobello ci sono più di millecinquecento ___. | trulli | chiese | torri | en: There are more than fifteen hundred trulli in Alberobello. | why: «più di millecinquecento trulli»
+
+=== u72 | dialogue | Una notte in un trullo
+intro: Tom sleeps in a trullo. The owner shows him around.
+Proprietario: Ecco il suo trullo. Si sta fresco d'estate e caldo d'inverno. | Here's your trullo. It's cool in summer and warm in winter.
+Tom: Le pareti sono spessissime! | The walls are very thick!
+Proprietario: Sì, quasi un metro. E guardi il tetto: non c'è niente che lo tenga, solo le pietre. | Yes, almost a metre. And look at the roof: there's nothing holding it up, just the stones.
+Tom: E quel simbolo bianco sul tetto, che cosa significa? | And that white symbol on the roof, what does it mean?
+Proprietario: È un cuore trafitto. Si dice che protegga la casa. | It's a pierced heart. They say it protects the house.
+Tom: Allora stanotte dormirò tranquillo. | Then tonight I'll sleep peacefully.
+q: Nel trullo si sta fresco d'___. | estate | inverno | notte | en: In a trullo it's cool in summer. | why: «Si sta fresco d'estate e caldo d'inverno.»
+q: Le pareti sono spesse quasi un ___. | metro | chilometro | centimetro | en: The walls are almost a metre thick. | why: «quasi un metro»
+
+=== u73 | reading | San Nicola di Bari
+intro: The original Santa Claus lies in Bari. In 1087 a group of sailors brought his bones here. The passato remoto.
+- San Nicola visse nel quarto secolo a Myra, in Asia Minore. Era un vescovo molto generoso. | St Nicholas lived in the fourth century in Myra, in Asia Minor. He was a very generous bishop.
+- Una leggenda racconta che di notte lasciò tre sacchi d'oro nella casa di tre ragazze povere. | A legend says that at night he left three bags of gold in the house of three poor girls.
+- Nel 1087 sessantadue marinai di Bari partirono per Myra con tre navi. | In 1087 sixty-two sailors from Bari set off for Myra with three ships.
+- Presero le ossa del santo e le portarono a Bari. | They took the saint's bones and brought them to Bari.
+- I baresi costruirono per lui una grande basilica, dove le ossa sono ancora oggi. | The people of Bari built a great basilica for him, where the bones still are today.
+- Dal suo nome olandese, Sinterklaas, è nato il nome americano «Santa Claus». | From his Dutch name, Sinterklaas, came the American name "Santa Claus".
+q: San Nicola era un ___ molto generoso. | vescovo | re | marinaio | en: St Nicholas was a very generous bishop. | why: «Era un vescovo molto generoso.»
+q: Nel 1087 i marinai ___ le ossa del santo. | presero | prendevano | prendono | en: In 1087 the sailors took the saint's bones. | why: passato remoto of prendere: presero
+q: «Santa Claus» viene dal nome ___ Sinterklaas. | olandese | inglese | tedesco | en: "Santa Claus" comes from the Dutch name Sinterklaas. | why: «Dal suo nome olandese, Sinterklaas»
+
+=== u73 | gouin | Le orecchiette
+intro: In the old town of Bari, women make orecchiette in the street. A Gouin series. Put the steps back in order.
+- Metto la farina sul tavolo e faccio un buco nel centro. | I put the flour on the table and make a hole in the middle.
+- Verso l'acqua nel buco. | I pour the water into the hole.
+- Impasto per dieci minuti. | I knead for ten minutes.
+- Faccio dei cordoncini lunghi e sottili. | I make long, thin cords.
+- Taglio piccoli pezzi con il coltello. | I cut little pieces with the knife.
+- Con il pollice do a ogni pezzo la forma di un piccolo orecchio. | With my thumb I give each piece the shape of a little ear.
+- Metto le orecchiette al sole ad asciugare. | I put the orecchiette in the sun to dry.
+
+=== u74 | dialogue | La bottega della cartapesta
+intro: Lecce, "the Florence of the South", is built of a soft stone that can be carved like lace. Tom visits a papier-mâché workshop. Relative pronouns.
+Artigiano: Questa è la statua a cui lavoro da due mesi: San Francesco. | This is the statue I've been working on for two months: St Francis.
+Tom: È di legno? | Is it wood?
+Artigiano: No, è di cartapesta: carta, colla e paglia. È la tecnica che usavano i barbieri di Lecce nel Seicento. | No, it's papier-mâché: paper, glue and straw. It's the technique that the barbers of Lecce used in the seventeenth century.
+Tom: I barbieri? | The barbers?
+Artigiano: Sì! Erano persone che avevano poco lavoro e tanta fantasia. Facevano statue per le chiese che non avevano soldi per il marmo. | Yes! They were people who had little work and lots of imagination. They made statues for churches that didn't have money for marble.
+Tom: E le chiese di pietra, i cui ornamenti sembrano di pizzo? | And the stone churches, whose decorations look like lace?
+Artigiano: Quella è la pietra leccese, di cui è fatta tutta la città. È così morbida che si lavora con il coltello. | That's Lecce stone, which the whole city is made of. It's so soft you can work it with a knife.
+q: È la statua a ___ l'artigiano lavora da due mesi. | cui | che | quale | en: It's the statue the craftsman has been working on for two months. | why: lavorare a → a cui
+q: La cartapesta è fatta di carta, colla e ___. | paglia | pietra | legno | en: Papier-mâché is made of paper, glue and straw. | why: «carta, colla e paglia»
+q: La pietra leccese è così ___ che si lavora con il coltello. | morbida | dura | bianca | en: Lecce stone is so soft that it can be worked with a knife. | why: «È così morbida che si lavora con il coltello.»
+
+=== u75 | reading | Otranto, 1480
+intro: Otranto is Italy's easternmost town. On clear days you can see Albania. The trapassato prossimo.
+- Nel luglio del 1480 una grande flotta turca arrivò davanti a Otranto. | In July 1480 a great Turkish fleet arrived off Otranto.
+- Gli abitanti avevano chiuso le porte della città e avevano chiesto aiuto a Napoli. | The inhabitants had closed the town gates and had asked Naples for help.
+- Ma l'aiuto non arrivò in tempo. Dopo due settimane i turchi entrarono in città. | But help didn't arrive in time. After two weeks the Turks entered the town.
+- Ottocento uomini, che non avevano voluto cambiare religione, furono uccisi. | Eight hundred men, who had refused to change religion, were killed.
+- Le loro ossa si trovano ancora oggi nella cattedrale. | Their bones are still in the cathedral today.
+- Sul pavimento della stessa cattedrale c'è un grande mosaico del 1163, in cui si vede perfino re Artù! | On the floor of the same cathedral there is a great mosaic from 1163, in which you can even see King Arthur!
+q: Gli abitanti ___ chiuso le porte della città. | avevano | erano | hanno | en: The inhabitants had closed the town gates. | why: trapassato: avevano chiuso
+q: L'aiuto non arrivò in ___. | tempo | mare | città | en: Help didn't arrive in time. | why: «Ma l'aiuto non arrivò in tempo.»
+q: Nel mosaico della cattedrale si vede re ___. | Artù | Carlo | Nicola | en: In the cathedral mosaic you can see King Arthur. | why: «in cui si vede perfino re Artù!»
+
+=== u75 | dialogue | Si vede l'Albania?
+intro: On the lighthouse point near Otranto, at dawn.
+Giulia: Siamo nel punto più a est d'Italia. Il sole sorge qui prima che in tutto il resto del paese. | We're at the easternmost point of Italy. The sun rises here before anywhere else in the country.
+Tom: E quelle montagne laggiù, dall'altra parte del mare? | And those mountains over there, on the other side of the sea?
+Giulia: È l'Albania! Si vede solo quando il cielo è molto pulito. | That's Albania! You can only see it when the sky is very clear.
+Tom: Non avevo mai pensato che fosse così vicina. | I had never thought it was so close.
+Giulia: Settanta chilometri. Per secoli, da qui partivano e arrivavano navi per l'Oriente. | Seventy kilometres. For centuries ships left from here and arrived from the East.
+q: Il sole sorge qui prima che nel resto d'___. | Italia | Albania | Europa | en: The sun rises here before the rest of Italy. | why: «prima che in tutto il resto del paese»
+q: L'Albania si vede solo quando il cielo è molto ___. | pulito | scuro | nuvoloso | en: Albania can only be seen when the sky is very clear. | why: «quando il cielo è molto pulito»
+
+=== u76 | reading | La taranta
+intro: Taranto was founded by Spartans in 706 BC. The tarantula and the tarantella dance take their names from the city. The gerund.
+- Nei campi della Puglia, d'estate, molte donne lavoravano raccogliendo il grano. | In the fields of Apulia, in summer, many women worked harvesting the wheat.
+- Si credeva che alcune venissero morse da un ragno, la «taranta». | It was believed that some were bitten by a spider, the "taranta".
+- Le donne «tarantate» guarivano ballando per giorni, al suono di violini e tamburelli. | The "bitten" women were cured by dancing for days, to the sound of violins and tambourines.
+- Ballando sempre più veloce, entravano in una specie di sogno. | Dancing faster and faster, they entered a kind of dream.
+- Da questa tradizione è nata la «pizzica», una danza che oggi si balla in tutto il Salento. | From this tradition came the "pizzica", a dance that today is danced all over the Salento.
+- Ogni estate migliaia di giovani si riuniscono, cantando e ballando tutta la notte. | Every summer thousands of young people gather, singing and dancing all night.
+q: Le donne guarivano ___ per giorni. | ballando | ballato | ballare | en: The women were cured by dancing for days. | why: gerund = by …ing
+q: La «taranta» era un ___. | ragno | serpente | pesce | en: The "taranta" was a spider. | why: «un ragno, la taranta»
+q: Oggi i giovani si riuniscono, ___ tutta la notte. | ballando | ballati | ballare | en: Today young people gather, dancing all night. | why: gerund: ballando
+
+=== u77 | reading | Il tesoro di Alarico
+intro: Legend says the Visigoth king Alaric lies buried with his treasure beneath a river in Cosenza. The imperfect subjunctive after past verbs and "perché" (so that).
+- Nel 410 il re dei Visigoti, Alarico, conquistò Roma. | In 410 the king of the Visigoths, Alaric, conquered Rome.
+- Pochi mesi dopo morì in Calabria, vicino a Cosenza. | A few months later he died in Calabria, near Cosenza.
+- I suoi soldati volevano che nessuno trovasse mai la sua tomba. | His soldiers wanted nobody ever to find his tomb.
+- Deviarono il fiume Busento, perché potessero seppellirlo nel letto del fiume con il suo tesoro. | They diverted the river Busento so that they could bury him in the riverbed with his treasure.
+- Poi lasciarono che l'acqua tornasse al suo posto. | Then they let the water return to its place.
+- Si dice che uccisero gli schiavi che avevano lavorato, affinché nessuno parlasse. | It is said they killed the slaves who had done the work, so that nobody would talk.
+- Molti hanno cercato il tesoro, ma nessuno l'ha mai trovato. | Many have searched for the treasure, but nobody has ever found it.
+q: I soldati volevano che nessuno ___ la tomba. | trovasse | trova | troverà | en: The soldiers wanted nobody to find the tomb. | why: past main verb → congiuntivo imperfetto: trovasse
+q: Deviarono il fiume perché ___ seppellirlo. | potessero | possono | potranno | en: They diverted the river so that they could bury him. | why: perché (= so that) + congiuntivo imperfetto
+q: Alarico conquistò Roma nel ___. | 410 | 1410 | 41 | en: Alaric conquered Rome in 410. | why: «Nel 410 … conquistò Roma.»
+
+=== u78 | dialogue | Il gelato alla cipolla
+intro: Tropea is famous for its sweet red onions and its sunsets. Comparatives and superlatives.
+Gelataio: Vuole provare il gelato alla cipolla rossa? | Would you like to try the red-onion ice cream?
+Tom: Alla cipolla? Non è più strano del gelato al formaggio? | Onion? Isn't it stranger than cheese ice cream?
+Gelataio: La cipolla di Tropea è più dolce di tutte le altre. È dolcissima! | Tropea onions are sweeter than all the others. They're very sweet!
+Tom: … Ha ragione. È migliore di quanto pensassi! | … You're right. It's better than I thought!
+Giulia: Per me il gelato al limone resta il migliore. | For me lemon ice cream is still the best.
+Gelataio: E stasera guardate il tramonto dalla piazza: è il più bello della Calabria. | And this evening watch the sunset from the square: it's the most beautiful in Calabria.
+Tom: Più bello di quello di Amalfi? | More beautiful than the one in Amalfi?
+Gelataio: Molto più bello! Ma io sono di Tropea, non sono imparziale. | Much more beautiful! But I'm from Tropea, I'm not impartial.
+q: La cipolla di Tropea è più dolce ___ tutte le altre. | di | che | come | en: Tropea onions are sweeter than all the others. | why: comparing nouns → più … di
+q: Il gelato è ___ di quanto Tom pensasse. | migliore | meglio | più buonissimo | en: The ice cream is better than Tom thought. | why: adjective → migliore
+q: Per Giulia il gelato al limone resta il ___. | migliore | meglio | più buono di | en: For Giulia lemon ice cream is still the best. | why: relative superlative: il migliore
+
+=== u79 | reading | I Bronzi di Riace
+intro: In 1972 a diver found two Greek bronze warriors in the sea. The passive and si.
+- Il 16 agosto 1972 un sub di Roma, in vacanza a Riace, vide un braccio che usciva dalla sabbia, sotto il mare. | On 16 August 1972 a diver from Rome, on holiday in Riace, saw an arm sticking out of the sand under the sea.
+- Pensava che fosse un cadavere! Invece era una statua di bronzo. | He thought it was a dead body! Instead it was a bronze statue.
+- Accanto fu trovata un'altra statua. Erano due guerrieri greci di duemilacinquecento anni fa. | Next to it another statue was found. They were two Greek warriors from two thousand five hundred years ago.
+- Le statue furono restaurate per molti anni, prima a Firenze e poi a Reggio Calabria. | The statues were restored for many years, first in Florence and then in Reggio Calabria.
+- Oggi si possono vedere nel museo di Reggio. Gli occhi sono d'avorio e le labbra di rame. | Today they can be seen in the museum in Reggio. The eyes are ivory and the lips copper.
+- Non si sa chi le abbia fatte, né come siano finite in mare. | Nobody knows who made them, or how they ended up in the sea.
+q: Il sub pensava che fosse un ___. | cadavere | pesce | tesoro | en: The diver thought it was a dead body. | why: «Pensava che fosse un cadavere!»
+q: Le statue ___ restaurate per molti anni. | furono | ebbero | stettero | en: The statues were restored for many years. | why: passive: furono restaurate
+q: Gli occhi dei Bronzi sono d'___. | avorio | oro | argento | en: The Bronzes' eyes are ivory. | why: «Gli occhi sono d'avorio»
+
+=== u80 | dialogue | Tra Scilla e Cariddi
+intro: Review: in Scilla, where Homer placed a six-headed monster, Tom and Giulia watch the swordfish boats. If-clauses and the passato remoto of legend.
+Giulia: Nell'Odissea, Ulisse passò proprio qui, tra Scilla e Cariddi. | In the Odyssey, Ulysses passed right here, between Scylla and Charybdis.
+Tom: Chi erano? | Who were they?
+Giulia: Scilla era un mostro con sei teste, nascosto in quella roccia. Cariddi era un vortice dall'altra parte, in Sicilia. | Scylla was a monster with six heads, hidden in that rock. Charybdis was a whirlpool on the other side, in Sicily.
+Tom: Se fossi stato Ulisse, sarei tornato indietro! | If I had been Ulysses, I would have turned back!
+Giulia: Se tu fossi stato Ulisse, saresti ancora in viaggio! Disegni ogni roccia. | If you had been Ulysses, you'd still be travelling! You draw every rock.
+Tom: E quelle barche strane, con l'albero altissimo? | And those strange boats, with the very tall mast?
+Giulia: Sono le passerelle per il pesce spada. Un uomo guarda dall'alto, e quando vede il pesce, grida. | They're the swordfish boats. A man watches from up high, and when he sees the fish, he shouts.
+Tom: Se domani ci sarà pesce spada al ristorante, lo assaggerò. | If there's swordfish at the restaurant tomorrow, I'll taste it.
+q: Scilla era un mostro con sei ___. | teste | braccia | occhi | en: Scylla was a monster with six heads. | why: «un mostro con sei teste»
+q: Se Tom fosse stato Ulisse, ___ tornato indietro. | sarebbe | fosse | è | en: If Tom had been Ulysses, he would have turned back. | why: impossible past → condizionale passato: sarebbe tornato
+q: Le passerelle sono barche per il pesce ___. | spada | rosso | piccolo | en: The passerelle are boats for swordfish. | why: «le passerelle per il pesce spada»
+
+=== u80 | reading | Lo Stretto
+intro: Review: the Strait of Messina separates Calabria from Sicily. Present, past and future together.
+- Lo Stretto di Messina è largo solo tre chilometri nel punto più stretto. | The Strait of Messina is only three kilometres wide at its narrowest point.
+- Per attraversarlo, oggi si prende il traghetto: ci vogliono venti minuti. | To cross it, today you take the ferry: it takes twenty minutes.
+- Da secoli si parla di un ponte, ma non è mai stato costruito. | For centuries people have talked about a bridge, but it has never been built.
+- Le correnti sono fortissime, e una volta i marinai avevano paura dei mostri del mare. | The currents are very strong, and once sailors were afraid of the sea monsters.
+- Domani Tom prenderà il traghetto. Dall'altra parte lo aspetta la Sicilia, l'ultima tappa del suo viaggio. | Tomorrow Tom will take the ferry. On the other side Sicily is waiting for him, the last stage of his journey.
+q: Lo Stretto è largo solo ___ chilometri nel punto più stretto. | tre | trenta | tredici | en: The Strait is only three kilometres wide at its narrowest. | why: «largo solo tre chilometri»
+q: Il ponte non è mai stato ___. | costruito | chiuso | venduto | en: The bridge has never been built. | why: «non è mai stato costruito»
+q: La Sicilia è l'___ tappa del viaggio di Tom. | ultima | prima | seconda | en: Sicily is the last stage of Tom's journey. | why: «l'ultima tappa del suo viaggio»

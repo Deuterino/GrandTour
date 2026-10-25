@@ -284,3 +284,91 @@ molle|a|soft, limp
 turco|a|Turkish; (n.) Turk|note=Plural turchi.
 universale|a|universal|note=il Giudizio Universale = the Last Judgement.
 etrusco|a|Etruscan; (n.) Etruscan|note=Plural etruschi.
+# act
+allargare|v|to widen, to stretch|note=allargala = stretch it (tu imperative + la).
+tuffare|v|to plunge|note=Usually tuffarsi = to dive: si tuffa nel mare.
+brontolare|v|to grumble, to rumble
+navigare|v|to sail, to navigate; to surf (the web)
+riscoprire|v|to rediscover|note=Like scoprire: riscoperto.
+# food
+limoncello|n.m|limoncello (lemon liqueur)
+mattarello|n.m|rolling pin
+buccia|n.f|peel, skin (of fruit)|note=Plural bucce.
+bufala|n.f|buffalo (female); (coll.) hoax|note=la mozzarella di bufala.
+dieta|n.f|diet
+carbone|n.m|coal, charcoal
+# body
+indice|n.m|index finger; index
+# clothes
+grembiule|n.m|apron
+lino|n.m|linen
+sandalo|n.m|sandal|note=Plural sandali.
+cuoio|n.m|leather (hide)|note=di cuoio = leather (sandals, belts); la pelle is also used.
+# work
+dottoressa|n.f|(female) doctor|note=Masculine dottore.
+cartiera|n.f|paper mill
+tuffatore|n.m|diver|note=la Tomba del Tuffatore, Paestum.
+# nature
+eruzione|n.f|eruption
+solco|n.m|furrow, rut|note=Plural solchi.
+porpora|n.f|purple (dye)
+# city
+foro|n.m|forum; hole|note=il Foro Romano.
+# desc
+marinaro|a|seafaring, maritime|note=le repubbliche marinare: Venezia, Genova, Pisa, Amalfi.
+vulcanico|a|volcanic
+moderato|a|moderate
+ebreo|a|Jewish; (n.) Jew|note=Plural ebrei.
+arabo|a|Arab, Arabic; (n.) Arab
+napoletano|a|Neapolitan; (n.) person from Naples
+amalfitano|a|from Amalfi; (n.) person from Amalfi
+salernitano|a|from Salerno|note=la Scuola Medica Salernitana.
+positanese|a|from Positano; (n.) person from Positano
+# home
+trullo|n.m|trullo (Apulian cone-roofed stone house)|note=Plural trulli.
+malta|n.f|mortar (building)
+lastra|n.f|slab, sheet
+cisterna|n.f|cistern, tank
+marmo|n.m|marble
+ornamento|n.m|ornament, decoration
+pizzo|n.m|lace
+cartapesta|n.f|papier-mâché
+paglia|n.f|straw
+avorio|n.m|ivory
+rame|n.m|copper
+# city
+cattedrale|n.f|cathedral|note=Also il duomo.
+abitante|n.m|inhabitant|note=Same form for women: l'abitante.
+passerella|n.f|footbridge; catwalk; (Scilla) swordfish boat
+# people
+vescovo|n.m|bishop
+ispettore|n.m|inspector
+artigiano|n.m|craftsman, artisan
+schiavo|n.m|slave
+sub|n.m|scuba diver (short for subacqueo)|note=Invariable.
+# free
+taranta|n.f|tarantula (in Apulian tradition)|note=la tarantella and la pizzica: dances that "cured" the taranta's bite.
+pizzica|n.f|pizzica (fast folk dance of the Salento)
+tamburello|n.m|tambourine
+tappa|n.f|stage (of a journey), stop
+flotta|n.f|fleet
+# nature
+vortice|n.m|whirlpool, vortex
+corrente|n.f|current|note=Also an adjective: corrente = running, current.
+oriente|n.m|east, the Orient|note=il Medio Oriente = the Middle East.
+pollice|n.m|thumb
+cordoncino|n.m|thin cord, string
+# act
+smontare|v|to take apart, to dismantle
+deviare|v|to divert, to deviate
+trafiggere|v|to pierce|note=Irregular: trafissi, trafitto. un cuore trafitto = a pierced heart.
+# desc
+spesso|a|thick|note=Also the adverb spesso = often: un muro spesso (a thick wall), vengo spesso (I often come).
+sottile|a|thin, fine
+olandese|a|Dutch
+leccese|a|from Lecce|note=la pietra leccese = Lecce stone.
+barese|a|from Bari; (n.) person from Bari
+rupestre|a|rock, cave (adj.)|note=le chiese rupestri = rock-cut churches.
+tarantato|a|(believed) bitten by the taranta|note=le tarantate: women who danced to be cured.
+imparziale|a|impartial
+visigoto|a|Visigothic; (n.) Visigoth|note=Plural visigoti.

@@ -1,0 +1,176 @@
+# Italian unit stories, units 61–70 (Napoli e la Campania: Vedi Napoli e poi muori).
+
+=== u61 | dialogue | Dal pizzaiolo
+intro: In Naples, a pizzaiolo lets Tom try to make a Margherita. The imperative: commands with tu.
+Pizzaiolo: Vieni qua! Lavati le mani e mettiti il grembiule. | Come here! Wash your hands and put on the apron.
+Tom: Fatto. E adesso? | Done. And now?
+Pizzaiolo: Prendi la pasta e allargala con le dita, dal centro verso il bordo. Non usare il mattarello! | Take the dough and stretch it with your fingers, from the centre towards the edge. Don't use a rolling pin!
+Tom: Così va bene? | Is this all right?
+Pizzaiolo: Piano, piano! Non romperla. Ora metti il pomodoro, la mozzarella e una foglia di basilico. | Gently, gently! Don't break it. Now put on the tomato, the mozzarella and a basil leaf.
+Tom: Perché si chiama Margherita? | Why is it called Margherita?
+Pizzaiolo: Nel 1889 un pizzaiolo la fece per la regina Margherita: rosso, bianco e verde, come la bandiera! | In 1889 a pizzaiolo made it for Queen Margherita: red, white and green, like the flag!
+Tom: E adesso la metto nel forno? | And now do I put it in the oven?
+Pizzaiolo: Dammela! Il forno è a quattrocento gradi. Novanta secondi, e la pizza è pronta. Guarda e impara! | Give it to me! The oven is at four hundred degrees. Ninety seconds, and the pizza is ready. Watch and learn!
+q: «Prendi la pasta e ___ con le dita!» | allargala | la allarghi | allargarla | en: "Take the dough and stretch it with your fingers!" | why: pronoun attaches to the tu imperative: allarga + la
+q: «Non ___ il mattarello!» | usare | usa | usi | en: "Don't use a rolling pin!" | why: negative tu imperative = non + infinitive
+q: La pizza Margherita ha i colori della ___. | bandiera | regina | città | en: The Margherita has the colours of the flag. | why: «rosso, bianco e verde, come la bandiera!»
+
+=== u61 | reading | Parlare con le mani
+intro: In Naples, people talk with their hands as much as with words. A short guide to gestures — and the imperative.
+- Per dire «Che cosa vuoi?», unisci le punte delle dita e muovi la mano su e giù. | To say "What do you want?", join your fingertips and move your hand up and down.
+- Per dire «Buonissimo!», metti l'indice sulla guancia e giralo. | To say "Delicious!", put your index finger on your cheek and turn it.
+- Per dire «Andiamo via!», batti la mano sul polso. | To say "Let's go!", tap your hand on your wrist.
+- Per dire «Non me ne importa niente», passa le dita sotto il mento, in avanti. | To say "I don't care at all", flick your fingers forward under your chin.
+- Ma attento: non fare questi gesti davanti alla nonna! | But careful: don't make these gestures in front of grandma!
+q: Per dire «Buonissimo!», metti l'indice sulla ___. | guancia | fronte | bocca | en: To say "Delicious!", put your index finger on your cheek. | why: «metti l'indice sulla guancia e giralo»
+q: «Non ___ questi gesti davanti alla nonna!» | fare | fai | faccia | en: "Don't make these gestures in front of grandma!" | why: negative tu imperative = non + infinitive
+
+=== u62 | reading | Pompei, 24 agosto 79
+intro: In 79 AD Vesuvius buried Pompeii. When the archaeologists arrived, time had stopped. The trapassato prossimo.
+- Quella mattina il fornaio aveva già messo il pane nel forno. | That morning the baker had already put the bread in the oven.
+- Nel foro, qualcuno aveva scritto sul muro: «Votate per Marco Epidio Sabino!» | In the forum, someone had written on the wall: "Vote for Marcus Epidius Sabinus!"
+- Verso mezzogiorno il Vesuvio esplose. In poche ore la cenere aveva coperto tutta la città. | Towards midday Vesuvius exploded. Within a few hours the ash had covered the whole city.
+- Molte persone erano già scappate, ma altre erano rimaste nelle case. | Many people had already fled, but others had stayed in their houses.
+- Diciassette secoli dopo, gli archeologi trovarono il pane ancora nel forno, come l'aveva lasciato il fornaio. | Seventeen centuries later, the archaeologists found the bread still in the oven, as the baker had left it.
+- Sui muri trovarono anche scherzi, poesie e messaggi d'amore. | On the walls they also found jokes, poems and love messages.
+q: Il fornaio ___ già messo il pane nel forno. | aveva | era | ha | en: The baker had already put the bread in the oven. | why: trapassato: aveva messo
+q: In poche ore la cenere ___ coperto tutta la città. | aveva | era | è | en: Within a few hours the ash had covered the whole city. | why: trapassato: aveva coperto
+q: Molte persone ___ già scappate. | erano | avevano | sono | en: Many people had already fled. | why: scappare → essere: erano scappate
+
+=== u62 | dialogue | Tra le rovine
+intro: Tom and Giulia walk through Pompeii's streets.
+Tom: Guarda, i solchi delle ruote nella strada! Qui passavano i carri. | Look, the wheel ruts in the street! The carts used to pass here.
+Giulia: E queste pietre alte servivano per attraversare la strada senza bagnarsi i piedi. | And these high stones were for crossing the street without getting your feet wet.
+Tom: Non avevo mai visto una città così antica e così intera. | I had never seen such an old and complete city.
+Giulia: Neanch'io, prima di venirci la prima volta. Avevo letto molti libri, ma vederla è un'altra cosa. | Nor had I, before I came here the first time. I had read lots of books, but seeing it is something else.
+Tom: Che cosa c'è scritto su questo muro? | What's written on this wall?
+Giulia: «Sono stato qui.» Anche duemila anni fa i turisti scrivevano sui muri! | "I was here." Even two thousand years ago tourists wrote on the walls!
+q: Le pietre alte servivano per non bagnarsi i ___. | piedi | capelli | vestiti | en: The high stones were so as not to get your feet wet. | why: «senza bagnarsi i piedi»
+q: Giulia ___ letto molti libri prima di venire. | aveva | era | ha | en: Giulia had read many books before coming. | why: trapassato: aveva letto
+
+=== u63 | reading | La biblioteca bruciata
+intro: At Herculaneum, a whole library of burnt scrolls was found. Today scientists can read them. The passive and the si construction.
+- Nel 1752, sotto venti metri di roccia vulcanica, fu scoperta una villa romana. | In 1752, under twenty metres of volcanic rock, a Roman villa was discovered.
+- Nella villa furono trovati circa milleottocento rotoli di papiro. | In the villa about one thousand eight hundred papyrus scrolls were found.
+- I rotoli erano stati bruciati dal calore del vulcano: sembravano pezzi di carbone. | The scrolls had been burnt by the heat of the volcano: they looked like pieces of coal.
+- Per secoli non si potevano aprire: si rompevano appena si toccavano. | For centuries they couldn't be opened: they broke as soon as they were touched.
+- Oggi i rotoli vengono letti con i raggi X e con i computer, senza aprirli. | Today the scrolls are read with X-rays and computers, without opening them.
+- Nel 2023 si è letta per la prima volta una parola intera: «porpora». | In 2023 a whole word was read for the first time: "purple".
+q: Nella villa furono trovati circa milleottocento ___. | rotoli | libri | vasi | en: About 1,800 scrolls were found in the villa. | why: «circa milleottocento rotoli di papiro»
+q: Oggi i rotoli ___ letti con i raggi X. | vengono | sono stati ieri | vanno | en: Today the scrolls are read with X-rays. | why: venire + participle = passive action
+q: Per secoli i rotoli non si ___ aprire. | potevano | poteva | possono | en: For centuries the scrolls couldn't be opened. | why: si + plural verb: si potevano
+
+=== u64 | dialogue | Sul cratere del Vesuvio
+intro: Tom and Giulia climb to the crater of Vesuvius with a guide. The future — and the future of probability.
+Guida: Siamo a milleduecento metri. Laggiù vedete Napoli, e lì Pompei. | We're at twelve hundred metres. Down there you can see Naples, and there Pompeii.
+Tom: Quando ci sarà la prossima eruzione? | When will the next eruption be?
+Guida: Nessuno lo sa. Ma ci sarà, prima o poi. L'ultima è stata nel 1944. | Nobody knows. But there will be one, sooner or later. The last one was in 1944.
+Giulia: E le persone che abitano qui? Che cosa faranno? | And the people who live here? What will they do?
+Guida: Se il vulcano si sveglierà, gli scienziati lo sapranno qualche giorno prima. Allora tutti partiranno. | If the volcano wakes up, scientists will know a few days before. Then everyone will leave.
+Tom: Quante persone vivono nella zona rossa? | How many people live in the red zone?
+Guida: Saranno circa seicentomila. | There must be about six hundred thousand.
+Tom: Io qui non dormirei tranquillo. | I wouldn't sleep easy here.
+Guida: I napoletani dicono: il Vesuvio è un vicino di casa. A volte brontola, ma è di famiglia. | The Neapolitans say: Vesuvius is a neighbour. Sometimes it grumbles, but it's family.
+q: L'ultima eruzione è stata nel ___. | 1944 | 79 | 1631 | en: The last eruption was in 1944. | why: «L'ultima è stata nel 1944.»
+q: Se il vulcano si sveglierà, tutti ___. | partiranno | partono stati | partivano | en: If the volcano wakes up, everyone will leave. | why: se + future → future
+q: «Saranno circa seicentomila» significa: ___ seicentomila. | probabilmente sono | sicuramente erano | domani saranno | en: "Saranno circa seicentomila" means: there are probably about 600,000. | why: future of probability
+
+=== u65 | dialogue | Torna a Surriento
+intro: In Sorrento, among the lemon groves, Giulia's friend Carmela offers Tom a limoncello. The conditional.
+Carmela: Vorresti assaggiare il nostro limoncello? Lo facciamo con i limoni del giardino. | Would you like to taste our limoncello? We make it with the lemons from the garden.
+Tom: Volentieri! Come si fa? | Gladly! How is it made?
+Carmela: Si prendono le bucce dei limoni e si lasciano nell'alcol per qualche settimana. Poi si aggiungono acqua e zucchero. | You take the lemon peel and leave it in alcohol for a few weeks. Then you add water and sugar.
+Tom: Mi piacerebbe portarne una bottiglia a mia nonna. | I'd like to take a bottle of it to my grandmother.
+Carmela: Te ne darei due, ma è forte: non dovrebbe berlo tutto in una sera! | I'd give you two, but it's strong: she shouldn't drink it all in one evening!
+Giulia: Carmela, ci canteresti «Torna a Surriento»? | Carmela, would you sing "Torna a Surriento" for us?
+Carmela: Canterei, se tu cantassi con me. | I'd sing, if you sang with me.
+q: Carmela: «___ assaggiare il nostro limoncello?» | Vorresti | Vuoi stato | Volevi | en: Carmela: "Would you like to taste our limoncello?" | why: polite offer → condizionale: vorresti
+q: Per il limoncello si usano le ___ dei limoni. | bucce | foglie | radici | en: For limoncello you use lemon peel. | why: «Si prendono le bucce dei limoni»
+q: La nonna non ___ berlo tutto in una sera. | dovrebbe | deve stato | doveva | en: Grandma shouldn't drink it all in one evening. | why: advice → condizionale: dovrebbe
+
+=== u66 | dialogue | Nella Grotta Azzurra
+intro: On Capri, a boatman takes Tom and Giulia into the Blue Grotto. The gerund.
+Barcaiolo: Sdraiatevi nella barca! L'entrata è bassissima. | Lie down in the boat! The entrance is very low.
+Tom: Stiamo entrando? Non vedo niente! | Are we going in? I can't see anything!
+Barcaiolo: Aspettando un momento, gli occhi si abituano. Guardate l'acqua! | If you wait a moment, your eyes get used to it. Look at the water!
+Giulia: Che blu! Sembra che l'acqua stia brillando dal fondo. | What a blue! It looks as if the water is glowing from the bottom.
+Barcaiolo: È la luce del sole: entrando da un buco sotto l'acqua, diventa azzurra. | It's sunlight: coming in through a hole under the water, it turns blue.
+Tom: Sto pensando che nessun pittore potrebbe dipingere questo colore. | I'm thinking no painter could paint this colour.
+Barcaiolo: Allora non provarci! Guardalo e basta. | Then don't try! Just look at it.
+q: «Stiamo ___?» (entrare) | entrando | entrato | entrare | en: "Are we going in?" | why: stare + gerundio: stiamo entrando
+q: La luce, ___ da un buco sotto l'acqua, diventa azzurra. | entrando | entrata | entrare | en: The light, coming in through a hole under the water, turns blue. | why: gerund = coming in
+q: Per entrare nella grotta bisogna ___ nella barca. | sdraiarsi | alzarsi | sedersi in piedi | en: To enter the grotto you have to lie down in the boat. | why: «Sdraiatevi nella barca!»
+
+=== u67 | dialogue | La moda di Positano
+intro: In the 1950s, Positano gave its name to a style of light, colourful beachwear. Giulia shops for a dress. Adjective agreement.
+Commessa: Questo vestito bianco è di lino, fatto a mano qui a Positano. | This white dress is linen, handmade here in Positano.
+Giulia: È bellissimo, ma vorrei qualcosa di più colorato. | It's beautiful, but I'd like something more colourful.
+Commessa: Allora guardi questa gonna gialla, o queste camicie azzurre. | Then look at this yellow skirt, or these light-blue shirts.
+Tom: A me piacciono i sandali di cuoio. Sono fatti a mano anche loro? | I like the leather sandals. Are they handmade too?
+Commessa: Sì, li facciamo su misura in dieci minuti. Ci dice il suo numero? | Yes, we make them to measure in ten minutes. Will you tell us your size?
+Tom: Il quarantatré. Ma i miei piedi sono un po' larghi! | Forty-three. But my feet are a bit wide!
+Giulia: Prendo la gonna gialla e una camicia azzurra. E tu, con i sandali nuovi, sembrerai un vero positanese. | I'll take the yellow skirt and a light-blue shirt. And you, with your new sandals, will look like a real Positano native.
+q: Il vestito bianco è di ___. | lino | seta | cotone | en: The white dress is linen. | why: «è di lino»
+q: Giulia prende la gonna ___. | gialla | giallo | gialle | en: Giulia takes the yellow skirt. | why: la gonna → feminine singular: gialla
+q: Le camicie sono ___. | azzurre | azzurri | azzurra | en: The shirts are light blue. | why: le camicie → feminine plural: azzurre
+
+=== u68 | reading | La repubblica marinara
+intro: In the Middle Ages, tiny Amalfi was a great sea power. The passato remoto.
+- Nel Medioevo Amalfi fu una delle quattro repubbliche marinare, con Venezia, Genova e Pisa. | In the Middle Ages Amalfi was one of the four maritime republics, with Venice, Genoa and Pisa.
+- I suoi mercanti navigarono fino a Costantinopoli e in Africa. | Its merchants sailed as far as Constantinople and Africa.
+- Gli amalfitani scrissero le prime leggi del mare, la «Tavola Amalfitana». | The people of Amalfi wrote the first laws of the sea, the "Tavola Amalfitana".
+- Secondo la leggenda, un amalfitano inventò la bussola. | According to the legend, a man from Amalfi invented the compass.
+- Nel 1343 una tempesta distrusse il porto, e la potenza di Amalfi finì. | In 1343 a storm destroyed the port, and Amalfi's power came to an end.
+- Ma una cosa restò: la carta fatta a mano, che ancora oggi si produce nelle antiche cartiere. | But one thing remained: handmade paper, which is still produced today in the old paper mills.
+q: Amalfi fu una delle quattro repubbliche ___. | marinare | romane | toscane | en: Amalfi was one of the four maritime republics. | why: «una delle quattro repubbliche marinare»
+q: Nel 1343 una ___ distrusse il porto. | tempesta | guerra | malattia | en: In 1343 a storm destroyed the port. | why: «una tempesta distrusse il porto»
+q: Ad Amalfi si produce ancora la ___ fatta a mano. | carta | pasta | stoffa | en: Handmade paper is still produced in Amalfi. | why: «la carta fatta a mano»
+
+=== u69 | dialogue | Dal medico a Salerno
+intro: In Salerno, home of Europe's first medical school, Tom feels ill and sees a doctor. The congiuntivo after opinions and needs.
+Dottoressa: Che cosa si sente? | How are you feeling?
+Tom: Ho mal di testa, e mi fa male la gola. | I have a headache, and my throat hurts.
+Dottoressa: Vediamo… Credo che Lei abbia un po' di febbre. Sembra che sia un'influenza leggera. | Let's see… I think you have a slight temperature. It seems to be a mild flu.
+Tom: Posso continuare il viaggio? | Can I continue my journey?
+Dottoressa: È meglio che Lei si riposi due o tre giorni. Bisogna che beva molta acqua. | It's better that you rest for two or three days. You need to drink lots of water.
+Tom: E le medicine? | And medicine?
+Dottoressa: Le do qualcosa per la febbre. Ma la Scuola Medica Salernitana diceva già mille anni fa: dormi, mangia bene e sii allegro! | I'll give you something for the temperature. But the Salerno Medical School already said a thousand years ago: sleep, eat well and be cheerful!
+Tom: Mi sembra un ottimo consiglio. Spero che funzioni! | That seems excellent advice. I hope it works!
+q: La dottoressa crede che Tom ___ un po' di febbre. | abbia | ha | avere | en: The doctor thinks Tom has a slight temperature. | why: credo che → congiuntivo: abbia
+q: È meglio che Tom si ___ due o tre giorni. | riposi | riposa | riposare | en: It's better that Tom rests two or three days. | why: è meglio che → congiuntivo: si riposi
+q: Tom spera che il consiglio ___. | funzioni | funziona | funzionare | en: Tom hopes the advice works. | why: spero che → congiuntivo
+
+=== u69 | reading | La Scuola Medica Salernitana
+intro: Europe's first medical school, already famous around the year 1000.
+- A Salerno, più di mille anni fa, nacque la prima scuola di medicina d'Europa. | In Salerno, more than a thousand years ago, Europe's first school of medicine was born.
+- Ci insegnavano medici cristiani, ebrei e arabi, che traducevano i libri greci. | Christian, Jewish and Arab doctors taught there, translating Greek books.
+- C'erano anche donne medico: la più famosa fu Trotula, che scrisse libri sulla salute delle donne. | There were also women doctors: the most famous was Trotula, who wrote books on women's health.
+- I consigli della Scuola erano scritti in versi, perché si ricordassero facilmente. | The School's advice was written in verse, so that it could be remembered easily.
+- Uno dice: «Se ti mancano i medici, siano tuoi medici queste tre cose: mente allegra, riposo e una dieta moderata.» | One says: "If you lack doctors, let these three things be your doctors: a cheerful mind, rest and a moderate diet."
+q: A Salerno insegnavano medici cristiani, ebrei e ___. | arabi | inglesi | romani | en: Christian, Jewish and Arab doctors taught in Salerno. | why: «medici cristiani, ebrei e arabi»
+q: La donna medico più famosa fu ___. | Trotula | Giulia | Margherita | en: The most famous woman doctor was Trotula. | why: «la più famosa fu Trotula»
+
+=== u70 | reading | I templi di Paestum
+intro: Review: south of Salerno stand Greek temples older than the Parthenon in Athens.
+- Paestum fu fondata dai Greci verso il 600 avanti Cristo. La chiamavano Poseidonia. | Paestum was founded by the Greeks around 600 BC. They called it Poseidonia.
+- I suoi tre grandi templi sono tra i meglio conservati del mondo greco. | Its three great temples are among the best preserved in the Greek world.
+- Per secoli la zona fu una palude, e quasi nessuno ricordava i templi. | For centuries the area was a marsh, and almost nobody remembered the temples.
+- Nel Settecento i viaggiatori del Grand Tour li riscoprirono e li disegnarono. Anche Goethe venne qui nel 1787. | In the eighteenth century Grand Tour travellers rediscovered and drew them. Goethe came here too, in 1787.
+- Nel 1968 fu trovata una tomba con un dipinto famoso: un uomo che si tuffa nel mare. | In 1968 a tomb was found with a famous painting: a man diving into the sea.
+- Oggi, dopo i templi, si mangia la mozzarella di bufala, che si fa proprio qui. | Today, after the temples, you eat buffalo mozzarella, which is made right here.
+q: I Greci chiamavano Paestum ___. | Poseidonia | Neapolis | Siracusa | en: The Greeks called Paestum Poseidonia. | why: «La chiamavano Poseidonia.»
+q: Goethe venne a Paestum nel ___. | 1787 | 1968 | 600 | en: Goethe came to Paestum in 1787. | why: «Anche Goethe venne qui nel 1787.»
+q: Nella tomba c'è un uomo che si ___ nel mare. | tuffa | lava | perde | en: In the tomb there is a man diving into the sea. | why: «un uomo che si tuffa nel mare»
+
+=== u70 | dialogue | Il tuffatore
+intro: Review: in front of the painting of the Diver, Tom and Giulia talk about the journey so far.
+Giulia: Che cosa pensi che significhi il tuffatore? | What do you think the diver means?
+Tom: Forse il passaggio dalla vita alla morte. Ma a me sembra un uomo felice che salta nell'acqua. | Perhaps the passage from life to death. But to me it looks like a happy man jumping into the water.
+Giulia: Come te, quando sei partito per l'Italia! | Like you, when you set off for Italy!
+Tom: È vero. Se non fossi partito, non ti avrei conosciuta. | That's true. If I hadn't set off, I wouldn't have met you.
+Giulia: E adesso? Dove andrai? | And now? Where will you go?
+Tom: Basilicata, Puglia, Calabria, e poi la Sicilia. Verresti con me? | Basilicata, Apulia, Calabria, and then Sicily. Would you come with me?
+Giulia: Vorrei tanto, ma devo lavorare a Matera. Ci vediamo lì, nei Sassi! | I'd love to, but I have to work in Matera. We'll see each other there, in the Sassi!
+q: Se Tom non fosse partito, non ___ conosciuto Giulia. | avrebbe | avesse | ha | en: If Tom hadn't set off, he wouldn't have met Giulia. | why: impossible past → condizionale passato: avrebbe conosciuto
+q: Tom chiede: «___ con me?» | Verresti | Vieni stato | Venivi | en: Tom asks: "Would you come with me?" | why: polite question → condizionale: verresti
+q: Giulia deve lavorare a ___. | Matera | Napoli | Palermo | en: Giulia has to work in Matera. | why: «devo lavorare a Matera»

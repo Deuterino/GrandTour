@@ -304,3 +304,28 @@ labora|name|labora (Latin): work — ora et labora = pray and work
 II|name|II = secondo (second): Giulio II
 IV|name|IV = quarto (fourth): Clemente IV
 X|name|X = decimo (tenth): Gregorio X
+Carmela|name|Carmela
+Trotula|name|Trotula of Salerno (11th–12th century), physician
+Poseidonia|city|Poseidonia: the Greek name of Paestum
+Epidio|name|(Marco) Epidio (Sabino): a candidate on Pompeii's election graffiti
+Sabino|name|Sabino (Sabinus)
+Surriento|city|Sorrento in Neapolitan: Torna a Surriento (1902)
+Costantinopoli|city|Constantinople (Istanbul)
+Margherita|name|Margherita of Savoy (1851–1926), Queen of Italy
+Ulisse|name|Ulysses (Odysseus)
+Odissea|name|the Odyssey (Homer)
+Cariddi|place|Charybdis, the whirlpool facing Scylla
+Eboli|city|Eboli (Campania): Cristo si è fermato a Eboli
+Levi|name|Carlo Levi (1902–1975), writer and painter
+Myra|city|Myra (Asia Minor), St Nicholas's see
+Sinterklaas|name|Sinterklaas: Dutch St Nicholas, origin of "Santa Claus"
+Claus|name|(Santa) Claus
+Artù|name|King Arthur (re Artù)
+Albania|country|Albania
+Alarico|name|Alaric I (c. 370–410), king of the Visigoths
+Caveoso|place|(Sasso) Caveoso, Matera
+Barisano|place|(Sasso) Barisano, Matera
+Conversano|city|Conversano (Apulia): its counts built Alberobello
+Salento|region|the Salento, the heel of Italy
+Busento|place|the Busento river, Cosenza
+Riace|city|Riace (Calabria): i Bronzi di Riace

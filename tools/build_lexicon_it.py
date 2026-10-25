@@ -298,6 +298,14 @@ def build_adj(e, recs, report):
     rec = pick(recs)
     out = {}
     if not rec:
+        l = e["lemma"]
+        # no Wiktionary record (tarantato): regular agreement
+        if l.endswith("o") and " " not in l:
+            out.update({"f": l[:-1] + "a", "mp": l[:-1] + "i", "fp": l[:-1] + "e"})
+        elif l.endswith("e") and " " not in l:
+            out.update({"f": l, "mp": l[:-1] + "i", "fp": l[:-1] + "i"})
+        if out:
+            report.append(f"ADJ-RULE {l} (no record)")
         return out
     head = rec.get("head", "")
     hargs = rec.get("hargs") or {}
