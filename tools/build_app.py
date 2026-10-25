@@ -16,32 +16,38 @@ def make_icons():
     out = APP / "icons"
     out.mkdir(exist_ok=True)
 
-    def draw(size, maskable=False):
-        img = Image.new("RGBA", (size, size), (246, 239, 226, 255))
+    red, gold, cream = (157, 42, 34, 255), (201, 154, 28, 255), (246, 239, 226, 255)
+
+    def draw(size, bleed=False):
+        """bleed: a square filled to the edges (iOS rounds it itself; maskable icons are cropped to a circle),
+        with the artwork inside the central safe zone. Otherwise a rounded tile on a transparent background."""
+        if bleed:
+            img = Image.new("RGBA", (size, size), red)
+            box = size * 0.72
+        else:
+            img = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+            pad = int(size * 0.04)
+            ImageDraw.Draw(img).rounded_rectangle([pad, pad, size - pad, size - pad], radius=int(size * 0.22), fill=red)
+            box = size * 0.82
         d = ImageDraw.Draw(img)
-        pad = int(size * (0.18 if maskable else 0.06))
-        r = int(size * 0.22)
-        d.rounded_rectangle([pad, pad, size - pad, size - pad], radius=r, fill=(157, 42, 34, 255))
-        # compass rose / road: a gold arc and two flag stripes
-        cx = cy = size // 2
-        rr = int((size - 2 * pad) * 0.34)
-        d.ellipse([cx - rr, cy - rr, cx + rr, cy + rr], outline=(201, 154, 28, 255), width=max(3, size // 40))
-        w = max(4, size // 28)
-        d.polygon([(cx, cy - rr - w), (cx + w * 1.6, cy), (cx, cy + rr + w), (cx - w * 1.6, cy)], fill=(246, 239, 226, 255))
-        d.polygon([(cx - rr - w, cy), (cx, cy + w * 1.6), (cx + rr + w, cy), (cx, cy - w * 1.6)], fill=(201, 154, 28, 255))
-        # tri-color ribbons (German black-red-gold, Italian green-white-red) at the bottom corners
-        bw = int((size - 2 * pad) * 0.11)
-        y0 = size - pad - int(bw * 2.2)
-        for i, col in enumerate([(30, 30, 30), (221, 0, 0), (255, 206, 0)]):
-            d.rectangle([pad + int(bw * 0.9) + i * bw // 1, y0, pad + int(bw * 0.9) + (i + 1) * bw // 1 - 1, y0 + bw], fill=col)
-        for i, col in enumerate([(0, 146, 70), (255, 255, 255), (206, 43, 55)]):
-            x = size - pad - int(bw * 0.9) - (3 - i) * bw
-            d.rectangle([x, y0, x + bw - 1, y0 + bw], fill=col)
+        # compass rose above two flags (German black-red-gold, Italian green-white-red)
+        cx, cy = size / 2, size / 2 - box * 0.07
+        rr = box * 0.36
+        d.ellipse([cx - rr, cy - rr, cx + rr, cy + rr], outline=gold, width=max(3, size // 40))
+        w = max(4, size / 28)
+        d.polygon([(cx, cy - rr - w), (cx + w * 1.6, cy), (cx, cy + rr + w), (cx - w * 1.6, cy)], fill=cream)
+        d.polygon([(cx - rr - w, cy), (cx, cy + w * 1.6), (cx + rr + w, cy), (cx, cy - w * 1.6)], fill=gold)
+        bw, y0 = box * 0.10, size / 2 + box * 0.33
+        for flag, x0 in (([(30, 30, 30), (221, 0, 0), (255, 206, 0)], size / 2 - box * 0.46),
+                         ([(0, 146, 70), (255, 255, 255), (206, 43, 55)], size / 2 + box * 0.16)):
+            for i, col in enumerate(flag):
+                d.rectangle([x0 + i * bw, y0, x0 + (i + 1) * bw - 1, y0 + bw * 0.9], fill=col)
         return img
 
-    for sz, name in [(192, "icon-192.png"), (512, "icon-512.png"), (180, "apple-touch-icon.png")]:
+    for sz, name in [(192, "icon-192.png"), (512, "icon-512.png")]:
         draw(sz).save(out / name)
-    draw(512, maskable=True).save(out / "icon-maskable-512.png")
+    draw(180, bleed=True).convert("RGB").save(out / "apple-touch-icon.png")
+    draw(512, bleed=True).save(out / "icon-maskable-512.png")
 
 
 def build_sw():
