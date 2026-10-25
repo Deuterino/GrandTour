@@ -189,6 +189,24 @@ AUX_A = {"pulire", "insegnare", "prendere", "usare", "buttare", "riposare", "alz
          "dovere"}
 MODALS = {"potere", "volere", "dovere"}
 
+# Determiners and pronouns that agree like adjectives: lemma (m. sg.) -> (f. sg., m. pl., f. pl.); "-" = no such form
+FUNC_FORMS = {
+    "mio": ("mia", "miei", "mie"), "tuo": ("tua", "tuoi", "tue"), "suo": ("sua", "suoi", "sue"),
+    "nostro": ("nostra", "nostri", "nostre"), "vostro": ("vostra", "vostri", "vostre"),
+    "questo": ("questa", "questi", "queste"), "quello": ("quella", "quelli", "quelle"),
+    "codesto": ("codesta", "codesti", "codeste"), "stesso": ("stessa", "stessi", "stesse"),
+    "tutto": ("tutta", "tutti", "tutte"), "alcuno": ("alcuna", "alcuni", "alcune"),
+    "altro": ("altra", "altri", "altre"), "certo": ("certa", "certi", "certe"),
+    "tanto": ("tanta", "tanti", "tante"), "molto": ("molta", "molti", "molte"),
+    "poco": ("poca", "pochi", "poche"), "troppo": ("troppa", "troppi", "troppe"),
+    "parecchio": ("parecchia", "parecchi", "parecchie"), "quanto": ("quanta", "quanti", "quante"),
+    "quale": ("quale", "quali", "quali"), "tale": ("tale", "tali", "tali"),
+    "qualcuno": ("qualcuna", "-", "-"), "nessuno": ("nessuna", "-", "-"),
+    "ognuno": ("ognuna", "-", "-"), "ciascuno": ("ciascuna", "-", "-"),
+    "esso": ("essa", "essi", "esse"), "colui": ("colei", "coloro", "coloro"), "costui": ("costei", "costoro", "costoro"),
+    "glielo": ("gliela", "glieli", "gliele"),
+}
+
 
 def reflexivize(t):
     """Tables of a non-reflexive verb -> reflexive (ricordo -> mi ricordo, ricorda! -> ricordati!)."""
@@ -344,6 +362,9 @@ def main():
             a = build_adj(e, recs, report)
             if a:
                 item["a"] = a
+        elif e["lemma"] in FUNC_FORMS and item["p"] in ("det", "pron", "adv"):
+            f, mp, fp = FUNC_FORMS[e["lemma"]]
+            item["a"] = {"f": f, "mp": mp, "fp": fp}
         ipa, aud = best_ipa(recs), best_audio(recs)
         if ipa:
             item["ipa"] = ipa

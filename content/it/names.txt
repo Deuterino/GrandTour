@@ -54,3 +54,174 @@ Dante|name|Dante Alighieri, poet (1265–1321)
 Collodi|name|Carlo Collodi, author of Pinocchio (1826–1890)
 Galileo|name|Galileo Galilei, scientist
 Lucignolo|name|Lucignolo ("Candlewick"), Pinocchio's friend
+Agrigento|city|Agrigento (Sicily): Valley of the Temples
+Alba|city|Alba (Piedmont): white truffles
+Alberobello|city|Alberobello (Apulia): trulli houses
+Alghero|city|Alghero (Sardinia)
+Amalfi|city|Amalfi, on the Amalfi Coast
+Ancona|city|Ancona, port on the Adriatic
+Aosta|city|Aosta, in the Alps
+Arezzo|city|Arezzo (Tuscany)
+Assisi|city|Assisi (Umbria): St Francis
+Asti|city|Asti (Piedmont)
+Bari|city|Bari, capital of Apulia
+Bergamo|city|Bergamo (Lombardy)
+Brescia|city|Brescia (Lombardy)
+Cagliari|city|Cagliari, capital of Sardinia
+Capri|city|Capri, island in the Bay of Naples
+Catania|city|Catania (Sicily), at the foot of Etna
+Como|city|Como, on Lake Como
+Cortona|city|Cortona (Tuscany)
+Cosenza|city|Cosenza (Calabria)
+Cremona|city|Cremona: violin makers
+Ercolano|city|Herculaneum
+Ferrara|city|Ferrara (Emilia-Romagna)
+Fiesole|city|Fiesole, above Florence
+Frascati|city|Frascati, near Rome
+Gaeta|city|Gaeta (Lazio)
+Aquila|city|L'Aquila, capital of Abruzzo
+Spezia|city|La Spezia (Liguria)
+Latina|city|Latina (Lazio)
+Lecce|city|Lecce (Apulia): baroque city
+Loreto|city|Loreto (Marche)
+Lucca|city|Lucca (Tuscany)
+Mantova|city|Mantua
+Matera|city|Matera (Basilicata): the Sassi
+Messina|city|Messina (Sicily)
+Modena|city|Modena: balsamic vinegar
+Monreale|city|Monreale, near Palermo
+Montecassino|city|Montecassino abbey
+Montepulciano|city|Montepulciano (Tuscany)
+Murano|city|Murano: Venetian glass
+Orvieto|city|Orvieto (Umbria)
+Ostia|city|Ostia, Rome's ancient port
+Otranto|city|Otranto (Apulia)
+Padova|city|Padua
+Paestum|city|Paestum: Greek temples
+Parma|city|Parma: ham and Parmesan
+Perugia|city|Perugia, capital of Umbria
+Pompei|city|Pompeii
+Portofino|city|Portofino (Liguria)
+Positano|city|Positano, on the Amalfi Coast
+Ragusa|city|Ragusa (Sicily)
+Ravenna|city|Ravenna: mosaics
+Reggio|city|Reggio (Calabria or Emilia)
+Salerno|city|Salerno (Campania)
+Gimignano|city|San Gimignano (Tuscany): towers
+Sanremo|city|Sanremo: the song festival
+Scilla|city|Scilla (Calabria)
+Siracusa|city|Syracuse (Sicily)
+Sirmione|city|Sirmione, on Lake Garda
+Sorrento|city|Sorrento (Campania)
+Spoleto|city|Spoleto (Umbria)
+Taormina|city|Taormina (Sicily)
+Taranto|city|Taranto (Apulia)
+Tivoli|city|Tivoli, near Rome
+Trastevere|city|Trastevere, a district of Rome
+Trento|city|Trento (Trentino)
+Treviso|city|Treviso (Veneto)
+Tropea|city|Tropea (Calabria)
+Udine|city|Udine (Friuli)
+Urbino|city|Urbino (Marche): Raphael's birthplace
+Vaticano|city|the Vatican
+Vicenza|city|Vicenza: Palladio's city
+Viterbo|city|Viterbo (Lazio)
+Londra|city|London
+Parigi|city|Paris
+Berlino|city|Berlin
+Vienna|city|Vienna
+Monaco|city|Munich (Monaco di Baviera) or Monaco
+Madrid|city|Madrid
+Atene|city|Athens
+Mosca|city|Moscow
+Boston|city|Boston
+Piemonte|region|Piedmont
+Liguria|region|Liguria
+Lombardia|region|Lombardy
+Veneto|region|Veneto
+Emilia|region|Emilia (Emilia-Romagna)
+Romagna|region|Romagna (Emilia-Romagna)
+Umbria|region|Umbria
+Lazio|region|Lazio
+Abruzzo|region|Abruzzo
+Campania|region|Campania
+Puglia|region|Apulia
+Basilicata|region|Basilicata
+Calabria|region|Calabria
+Friuli|region|Friuli
+Trentino|region|Trentino
+Grecia|country|Greece
+Portogallo|country|Portugal
+Olanda|country|Holland
+Russia|country|Russia
+Cina|country|China
+Giappone|country|Japan
+Brasile|country|Brazil
+Canada|country|Canada
+Australia|country|Australia
+Africa|country|Africa
+Asia|country|Asia
+Egitto|country|Egypt
+Adriatico|place|the Adriatic Sea
+Tirreno|place|the Tyrrhenian Sea
+Dolomiti|place|the Dolomites
+Appennini|place|the Apennines
+Garda|place|Lake Garda
+Ischia|place|Ischia, island near Naples
+Elba|place|Elba, island off Tuscany
+Leonardo|name|Leonardo (da Vinci)
+Michelangelo|name|Michelangelo Buonarroti
+Raffaello|name|Raphael
+Giotto|name|Giotto, painter (c. 1267–1337)
+Botticelli|name|Sandro Botticelli, painter
+Caravaggio|name|Caravaggio, painter
+Verdi|name|Giuseppe Verdi, composer
+Puccini|name|Giacomo Puccini, composer
+Rossini|name|Gioachino Rossini, composer
+Vivaldi|name|Antonio Vivaldi, composer
+Colombo|name|Christopher Columbus (Cristoforo Colombo)
+Garibaldi|name|Giuseppe Garibaldi
+Manzoni|name|Alessandro Manzoni, novelist
+Petrarca|name|Petrarch, poet
+Boccaccio|name|Giovanni Boccaccio, writer
+Machiavelli|name|Niccolò Machiavelli
+Medici|name|the Medici family of Florence
+Cesare|name|Caesar; also a first name
+Romolo|name|Romulus, founder of Rome
+Geppetto|name|Geppetto, Pinocchio's father
+Pinocchio|name|Pinocchio, the wooden puppet
+Mangiafuoco|name|Mangiafuoco ("Fire-eater"), the puppet master
+Enrico|name|Enrico (Henry)
+Garrone|name|Garrone, Enrico's friend in Cuore
+Giorgio|name|Giorgio (George)
+Roberto|name|Roberto (Robert)
+Alessandro|name|Alessandro (Alexander)
+Andrea|name|Andrea (Andrew — a man's name in Italy)
+Stefano|name|Stefano (Stephen)
+Antonio|name|Antonio (Anthony)
+Lorenzo|name|Lorenzo (Laurence)
+Davide|name|Davide (David)
+Federico|name|Federico (Frederick)
+Riccardo|name|Riccardo (Richard)
+Carlo|name|Carlo (Charles)
+Mario|name|Mario
+Luigi|name|Luigi (Louis)
+Giacomo|name|Giacomo (James)
+Nicola|name|Nicola (Nicholas — a man's name in Italy)
+Laura|name|Laura
+Paola|name|Paola (Paula)
+Silvia|name|Silvia
+Valentina|name|Valentina
+Martina|name|Martina
+Sara|name|Sara (Sarah)
+Elisa|name|Elisa
+Beatrice|name|Beatrice
+Marta|name|Marta (Martha)
+Teresa|name|Teresa
+Giorgia|name|Giorgia
+Federica|name|Federica
+Caterina|name|Caterina (Catherine)
+Bianchi|name|Bianchi (common surname)
+Ferrari|name|Ferrari (common surname; the car maker)
+Esposito|name|Esposito (common surname in Naples)
+Colosseo|place|the Colosseum, Rome

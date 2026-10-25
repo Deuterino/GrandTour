@@ -55,3 +55,186 @@ Schiller|name|Friedrich Schiller, poet (1759–1805)
 Luther|name|Martin Luther (1483–1546)
 Mozart|name|Wolfgang Amadeus Mozart, composer
 Grimm|name|the Brothers Grimm, collectors of fairy tales
+Aachen|city|Aachen: Charlemagne's capital
+Augsburg|city|Augsburg (Bavaria)
+Baden-Baden|city|Baden-Baden, spa town
+Bamberg|city|Bamberg (Franconia)
+Basel|city|Basel (Switzerland)
+Bayern|region|Bavaria
+Bayreuth|city|Bayreuth: Wagner festival
+Berchtesgaden|city|Berchtesgaden (Bavarian Alps)
+Brandenburg|region|Brandenburg
+Bodensee|place|Lake Constance
+Bregenz|city|Bregenz (Austria)
+Bremen|city|Bremen
+Chemnitz|city|Chemnitz (Saxony)
+Chiemsee|place|Lake Chiemsee (Bavaria)
+Cottbus|city|Cottbus (Brandenburg)
+Darmstadt|city|Darmstadt (Hesse)
+Dessau|city|Dessau: the Bauhaus
+Düsseldorf|city|Düsseldorf
+Eisenach|city|Eisenach (Thuringia)
+Erfurt|city|Erfurt, capital of Thuringia
+Freiburg|city|Freiburg (Black Forest)
+Fulda|city|Fulda (Hesse)
+Füssen|city|Füssen, near Neuschwanstein
+Garmisch|city|Garmisch-Partenkirchen
+Graz|city|Graz (Austria)
+Görlitz|city|Görlitz (Saxony)
+Hallstatt|city|Hallstatt (Austria)
+Hannover|city|Hanover
+Heidelberg|city|Heidelberg
+Hessen|region|Hesse
+Franken|region|Franconia
+Ingolstadt|city|Ingolstadt (Bavaria)
+Innsbruck|city|Innsbruck (Austria)
+Interlaken|city|Interlaken (Switzerland)
+Jena|city|Jena (Thuringia)
+Kassel|city|Kassel: the Brothers Grimm
+Kiel|city|Kiel, on the Baltic
+Klagenfurt|city|Klagenfurt (Austria)
+Koblenz|city|Koblenz, where Rhine and Moselle meet
+Konstanz|city|Konstanz, on Lake Constance
+Landshut|city|Landshut (Bavaria)
+Linz|city|Linz (Austria)
+Luzern|city|Lucerne (Switzerland)
+Lübeck|city|Lübeck
+Lüneburg|city|Lüneburg
+Magdeburg|city|Magdeburg
+Mainz|city|Mainz: Gutenberg
+Mannheim|city|Mannheim
+Marburg|city|Marburg (Hesse)
+Meißen|city|Meissen: porcelain
+Melk|city|Melk abbey (Austria)
+Mosel|place|the Moselle river
+Münster|city|Münster
+Nürnberg|city|Nuremberg
+Oberammergau|city|Oberammergau (Bavaria)
+Passau|city|Passau, city of three rivers
+Potsdam|city|Potsdam
+Quedlinburg|city|Quedlinburg (Harz)
+Regensburg|city|Regensburg
+Ruhr|region|the Ruhr
+Rostock|city|Rostock, on the Baltic
+Rothenburg|city|Rothenburg ob der Tauber
+Rügen|place|Rügen island
+Sachsen|region|Saxony
+Thüringen|region|Thuringia
+Schwarzwald|place|the Black Forest
+Schwerin|city|Schwerin
+Schönbrunn|place|Schönbrunn Palace (Vienna)
+Spreewald|place|the Spreewald
+Gallen|city|St. Gallen (Switzerland)
+Stralsund|city|Stralsund
+Stuttgart|city|Stuttgart
+Trier|city|Trier: Roman Germany
+Tübingen|city|Tübingen
+Ulm|city|Ulm: the tallest church spire
+Vaduz|city|Vaduz, capital of Liechtenstein
+Wartburg|place|the Wartburg castle (Eisenach)
+Weimar|city|Weimar: Goethe and Schiller
+Wittenberg|city|Wittenberg: Luther
+Würzburg|city|Würzburg
+Zermatt|city|Zermatt, below the Matterhorn
+Österreich|country|Austria
+Schweiz|country|Switzerland (die Schweiz)
+Liechtenstein|country|Liechtenstein
+Europa|country|Europe
+Italien|country|Italy
+Holland|country|Holland
+Polen|country|Poland
+Tschechien|country|Czechia
+Ungarn|country|Hungary
+Dänemark|country|Denmark
+Schweden|country|Sweden
+Norwegen|country|Norway
+Griechenland|country|Greece
+Türkei|country|Turkey (die Türkei)
+Ostsee|place|the Baltic Sea
+Nordsee|place|the North Sea
+Harz|place|the Harz mountains
+Zugspitze|place|the Zugspitze, Germany's highest mountain
+Neckar|place|the Neckar river
+Weser|place|the Weser river
+Isar|place|the Isar river (Munich)
+Spree|place|the Spree river (Berlin)
+Mailand|city|Milan
+Venedig|city|Venice
+Florenz|city|Florence
+Neapel|city|Naples
+Prag|city|Prague
+Warschau|city|Warsaw
+Moskau|city|Moscow
+Brüssel|city|Brussels
+Boston|city|Boston
+Beethoven|name|Ludwig van Beethoven, composer
+Bach|name|Johann Sebastian Bach, composer
+Brahms|name|Johannes Brahms, composer
+Wagner|name|Richard Wagner, composer; also a common surname
+Schubert|name|Franz Schubert, composer
+Händel|name|George Frideric Handel, composer
+Haydn|name|Joseph Haydn, composer
+Dürer|name|Albrecht Dürer, painter
+Kant|name|Immanuel Kant, philosopher
+Einstein|name|Albert Einstein
+Heine|name|Heinrich Heine, poet
+Kafka|name|Franz Kafka, writer
+Gutenberg|name|Johannes Gutenberg, printer
+Barbarossa|name|Emperor Frederick Barbarossa
+Friedrich|name|Friedrich (Frederick)
+Karl|name|Karl (Charles)
+Ludwig|name|Ludwig (Louis)
+Wilhelm|name|Wilhelm (William)
+Otto|name|Otto
+Heinrich|name|Heinrich (Henry)
+Johann|name|Johann (John)
+Wolfgang|name|Wolfgang
+Moritz|name|Moritz (of Max und Moritz)
+Struwwelpeter|name|Shock-headed Peter
+Heidi|name|Heidi
+Rotkäppchen|name|Little Red Riding Hood
+Schneewittchen|name|Snow White
+Aschenputtel|name|Cinderella
+Rapunzel|name|Rapunzel
+Rumpelstilzchen|name|Rumpelstiltskin
+Dornröschen|name|Sleeping Beauty
+Holle|name|Mother Holle (Frau Holle)
+Stefan|name|Stefan (Stephen)
+Michael|name|Michael
+Andreas|name|Andreas (Andrew)
+Markus|name|Markus (Mark)
+Daniel|name|Daniel
+Tobias|name|Tobias
+Florian|name|Florian
+Jonas|name|Jonas
+Leon|name|Leon
+Ben|name|Ben
+Lea|name|Lea
+Laura|name|Laura
+Sarah|name|Sarah
+Hannah|name|Hannah
+Mia|name|Mia
+Marie|name|Marie
+Katharina|name|Katharina (Catherine)
+Lisa|name|Lisa
+Sabine|name|Sabine
+Monika|name|Monika
+Petra|name|Petra
+Claudia|name|Claudia
+Uwe|name|Uwe
+Jürgen|name|Jürgen
+Klaus|name|Klaus
+Dieter|name|Dieter
+Helga|name|Helga
+Greta|name|Greta
+Fritz|name|Fritz
+Franz|name|Franz
+Josef|name|Josef (Joseph)
+Schulz|name|Schulz (common surname)
+Fischer|name|Fischer (common surname; Fischer = fisherman)
+Meyer|name|Meyer (common surname)
+Becker|name|Becker (common surname)
+Hoffmann|name|Hoffmann (common surname)
+Schröder|name|Schröder (common surname)
+Neumann|name|Neumann (common surname)
+Krüger|name|Krüger (common surname)

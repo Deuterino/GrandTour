@@ -1,0 +1,538 @@
+# Italian grammar, part 3 (A2–B1)
+
+=== g-condizionale | The conditional: would, could, should | A2 | 🌙
+summary: -rei, -resti, -rebbe: polite requests (vorrei, potrebbe…?), advice (dovresti), wishes and "would" — built on the same stem as the future.
+--- section: Forms
+table:
+| | parlare | prendere | dormire | essere |
+| io | parl**erei** | prend**erei** | dorm**irei** | **sarei** |
+| tu | parl**eresti** | prend**eresti** | dorm**iresti** | **saresti** |
+| lui / lei | parl**erebbe** | prend**erebbe** | dorm**irebbe** | **sarebbe** |
+| noi | parl**eremmo** | prend**eremmo** | dorm**iremmo** | **saremmo** |
+| voi | parl**ereste** | prend**ereste** | dorm**ireste** | **sareste** |
+| loro | parl**erebbero** | prend**erebbero** | dorm**irebbero** | **sarebbero** |
+Irregular stems are the same as in the future: **avrei, andrei, farei, darei, starei, dovrei, potrei, saprei, vedrei, vivrei, verrei, vorrei, terrei, rimarrei, berrei**.
+Watch the double m: conditional *noi parler**emm**o* (we would speak) vs future *noi parler**em**o* (we will speak).
+--- section: Uses
+- **politeness**: *Vorrei un caffè. Potrebbe aiutarmi? Le dispiacerebbe chiudere la finestra?*
+- **advice**: *Dovresti dormire di più.* (You should sleep more.) *Al tuo posto, non lo farei.*
+- **wishes**: *Mi piacerebbe vedere Venezia. Andrei volentieri in vacanza.*
+- **"would" in hypotheses**: *Sarebbe bello! Con più tempo, imparerei il tedesco.*
+- **unconfirmed news** (newspapers): *Il ministro sarebbe malato* = the minister is reportedly ill.
+ex: Vorrei due biglietti per Firenze, per favore. | I'd like two tickets to Florence, please.
+ex: Potresti ripetere, per favore? | Could you repeat that, please?
+ex: Dovresti chiamare tua madre. | You should call your mother.
+--- section: The past conditional and the "future in the past"
+**avrei / sarei + participle** = would have: *Sarei venuto, ma ero malato.* (I would have come, but I was ill.)
+Italian also uses it where English says "would" about the future seen from the past: *Ha detto che **sarebbe venuto*** = He said he would come. (Not *verrebbe*!)
+ex: Avrei voluto vederti. | I would have liked to see you.
+ex: Mi ha promesso che mi avrebbe scritto. | He promised me he would write to me. | future in the past → past conditional
+--- tip: Vorrei…
+**Vorrei** = I would like: the polite way to ask for anything. *Vorrei un gelato. Vorrei sapere…*
+--- tip: "He said he would come"
+After a past verb of saying, English "would + verb" is the **past** conditional in Italian: *Ha detto che sarebbe venuto.*
+--- mistakes
+- *parlarei* → **parlerei** (-are verbs change a to e).
+- *Ha detto che verrebbe* → **Ha detto che sarebbe venuto**.
+- *Se avrei tempo…* → **Se avessi tempo…** (never the conditional after *se*).
+- *noi parleremo* (future) ≠ **noi parleremmo** (conditional).
+drill: conj 10 tenses=cond
+drill: choice 7 label=Conditional
+  q: ___ un bicchiere d'acqua, per favore. | Vorrei | Voglio essere | Vorrò | en: I'd like a glass of water, please. | why: polite request → vorrei
+  q: ___ (potere) aprire la finestra, per favore? | Potrebbe | Potrei | Potrà | en: Could you open the window, please? (formal) | why: polite Lei request → potrebbe
+  q: Sei stanco: ___ (dovere) riposarti. | dovresti | dovreste | dovrò | en: You're tired: you should rest. | why: advice → dovresti (tu)
+  q: Mi ___ (piacere) visitare la Sicilia. | piacerebbe | piacerei | piacerebbero | en: I'd like to visit Sicily. | why: piacere: what you like is the subject (visitare) → piacerebbe
+  q: Ha detto che ___ (venire) alle otto. | sarebbe venuto | verrebbe | verrà | en: He said he would come at eight. | why: future in the past → past conditional
+  q: Noi ___ (andare) volentieri al mare. | andremmo | andremo | anderemmo | en: We'd happily go to the seaside. | why: conditional noi -emmo; andare → andr-
+  q: Al tuo posto, io non lo ___ (fare). | farei | farò | facerei | en: If I were you, I wouldn't do it. | why: fare → far-ei
+
+=== g-combined-pronouns | Double pronouns: me lo, te la, glielo | B1 | 🧩
+summary: When "to someone" meets "it": mi + lo → me lo, ti + la → te la, gli / le + lo → glielo. ne joins the same way: me ne, gliene.
+--- section: The combinations
+table:
+| | + lo | + la | + li | + le | + ne |
+| mi | **me lo** | me la | me li | me le | me ne |
+| ti | **te lo** | te la | te li | te le | te ne |
+| gli / le / Le | **glielo** | gliela | glieli | gliele | gliene |
+| ci | **ce lo** | ce la | ce li | ce le | ce ne |
+| vi | **ve lo** | ve la | ve li | ve le | ve ne |
+| si | **se lo** | se la | se li | se le | se ne |
+The indirect pronoun comes first and its *-i* turns into *-e*: mi → me, ti → te, ci → ce, vi → ve, si → se. **gli** and **le** both become **glie-**, written as one word with the second pronoun: *glielo* = it to him **or** it to her.
+--- section: Position and agreement
+- Before a conjugated verb, as separate words: *Te lo do domani.*
+- Attached, as one word, to an infinitive, a tu/noi/voi command or a gerund: *Voglio dartelo. Dammelo! Dandoglielo…*
+- In compound tenses the participle agrees with lo / la / li / le / ne: *La lettera? Gliel'ho data. Le foto? Me le ha mandate.*
+- Reflexive verbs work the same way: *Mi lavo le mani → Me le lavo. Si mette il cappotto → Se lo mette.*
+- Fixed expressions: **andarsene** (me ne vado = I'm off), **farcela** (ce la faccio = I can make it), **cavarsela** (me la cavo = I get by).
+ex: Mi presti la penna? — Sì, te la presto. | Will you lend me your pen? — Yes, I'll lend it to you.
+ex: Hai dato il libro a Marco? — Sì, gliel'ho dato ieri. | Did you give the book to Marco? — Yes, I gave it to him yesterday.
+ex: Quante mele ti ha dato? — Me ne ha date tre. | How many apples did she give you? — She gave me three. | ne + agreement: date
+ex: Ce la fai? — Sì, ce la faccio! | Can you manage? — Yes, I can!
+--- tip: me lo, te lo, glielo
+"it to me" = **me lo**, "it to you" = **te lo**, "it to him / her" = **glielo**.
+--- tip: Dammelo! Dimmelo!
+In commands the pair sticks to the verb: *dammelo, dimmelo, portaglielo*.
+--- mistakes
+- *Lo mi dai?* → **Me lo dai?** (the indirect pronoun goes first).
+- *Gli lo do* / *Le lo do* → **Glielo do**.
+- *Me li ha regalato* → **Me li ha regalati**.
+drill: choice 7 label=Combine the pronouns
+  q: Mi presti la bici? — Sì, ___ presto. | te la | ti la | la ti | en: Will you lend me your bike? — Yes, I'll lend it to you. | why: ti + la → te la
+  q: Hai detto la verità a Paolo? — Sì, ___ detta. | gliel'ho | gli l'ho | l'ho gli | en: Did you tell Paolo the truth? — Yes, I told him. | why: gli + la → gliela → gliel' before ho; detta agrees with la verità
+  q: Chi ti ha regalato quei fiori? — ___ ha regalati mia sorella. | Me li | Mi li | Li mi | en: Who gave you those flowers? — My sister gave them to me. | why: mi + li → me li
+  q: Mi dai il giornale? — Sì, ___ do subito. | te lo | glielo | me lo | en: Will you give me the newspaper? — Yes, I'll give it to you right away. | why: it to you → te lo
+  q: Hai parlato del problema alla professoressa? — Sì, ___ ho parlato. | gliene | gliela | le ne | en: Did you talk to the teacher about the problem? — Yes, I talked to her about it. | why: le + ne → gliene
+  q: Il passaporto? Devo ___ subito. | darglielo | glielo dare | darlelo | en: The passport? I have to give it to him right away. | why: attached to the infinitive: dar(e) + glielo
+  q: Quel libro è mio: ___! | dammelo | dami lo | lo dammi | en: That book is mine: give it to me! | why: da' + me + lo → dammelo (consonant doubles)
+drill: order 4 label=Build the sentence
+  t: Te lo do domani. | en: I'll give it to you tomorrow. | why: indirect + direct before the verb
+  t: Me ne vado adesso. | en: I'm leaving now. | why: andarsene: me ne vado
+  t: Glielo spiego io. | en: I'll explain it to him. | why: glielo = it to him / her
+  t: Puoi dirmelo domani? | en: Can you tell me tomorrow? | why: attached to the infinitive: dir(e) + me + lo
+
+=== g-relative | Relative pronouns: che, cui, il quale | B1 | 🔗
+summary: che for subjects and objects (never left out!), cui after prepositions (con cui, di cui), il cui = whose, quello che = what, chi = whoever.
+--- section: che and cui
+- **che** = who, which, that — for subjects and direct objects. Unlike English, it can **never** be dropped: *Il libro **che** leggo* (the book I'm reading).
+- **cui** after a preposition: *la persona con cui lavoro, la città in cui vivo, il motivo per cui…*
+- **in cui** (where, when) can often be **dove**: *la casa dove sono nato; il giorno in cui ci siamo conosciuti*.
+ex: La signora che abita qui è molto gentile. | The lady who lives here is very kind.
+ex: Il film che abbiamo visto ieri era bellissimo. | The film (that) we saw yesterday was wonderful. | che can't be dropped
+ex: Ecco l'amico di cui ti ho parlato. | Here's the friend I told you about.
+--- section: il quale, il cui, quello che, chi
+- **il quale / la quale / i quali / le quali**: a formal alternative that shows gender and number, and joins prepositions: *del quale, alla quale, nei quali*. *La sorella di Marco, la quale vive a Roma…* (the sister, not Marco).
+- **il cui / la cui / i cui / le cui** = whose; the article agrees with the thing owned: *lo scrittore **il cui** libro ho letto; la signora **i cui** figli…*
+- **quello che / ciò che** = what (the thing that): *Non capisco quello che dici. Tutto ciò che vuoi.*
+- **chi** = he who, whoever, the people who — always with a singular verb: *Chi studia impara.*
+ex: Non è quello che volevo dire. | That's not what I meant.
+ex: Chi va piano va sano e va lontano. | Slow and steady wins the race. | proverb: who goes slowly goes safely and far
+--- tip: Never drop che
+English can say "the book I read"; Italian needs **che**: *il libro che ho letto*.
+--- tip: Preposition + cui
+*con cui, di cui, a cui, in cui, per cui* — never *con che*.
+--- mistakes
+- *La ragazza con che esco* → **con cui**.
+- *Il libro ho letto è bello* → **Il libro che ho letto è bello**.
+- *Cosa dici non è vero* → **Quello che dici non è vero**.
+drill: choice 7 label=Choose the relative pronoun
+  q: Il ragazzo ___ parla è mio fratello. | che | cui | quale | en: The boy who is talking is my brother. | why: subject → che
+  q: La città in ___ vivo è piccola. | cui | che | quale | en: The city I live in is small. | why: after a preposition → cui
+  q: Ecco il libro ___ ti ho parlato. | di cui | che | del che | en: Here's the book I told you about. | why: parlare di → di cui
+  q: Non capisco ___ dici. | quello che | che | cui | en: I don't understand what you're saying. | why: what = quello che / ciò che
+  q: ___ cerca, trova. | Chi | Che | Quale | en: Whoever seeks, finds. | why: chi = whoever (singular verb)
+  q: La signora ___ figlio studia a Roma è medico. | il cui | che | di cui il | en: The lady whose son studies in Rome is a doctor. | why: whose → il cui (agrees with figlio)
+  q: Il motivo per ___ sono qui è semplice. | cui | che | quale | en: The reason why I'm here is simple. | why: per cui = why, for which
+
+=== g-trapassato | The trapassato prossimo: had done | B1 | ⏪
+summary: avevo / ero + participle: the past before the past. Quando sono arrivato, il treno era già partito.
+--- section: Forms
+The imperfetto of **avere** or **essere** + past participle — the same auxiliary and agreement as in the passato prossimo.
+table:
+| | mangiare (avere) | partire (essere) |
+| io | **avevo** mangiato | **ero** partito / partita |
+| tu | **avevi** mangiato | **eri** partito / partita |
+| lui / lei | **aveva** mangiato | **era** partito / partita |
+| noi | **avevamo** mangiato | **eravamo** partiti / partite |
+| voi | **avevate** mangiato | **eravate** partiti / partite |
+| loro | **avevano** mangiato | **erano** partiti / partite |
+--- section: Use
+An action already completed before another past moment — often with **già** (already), **appena** (just), **mai** (never): *Ero appena tornato quando hai chiamato.*
+In reported speech it moves the passato prossimo one step back: *«Ho perso le chiavi» → Ha detto che **aveva perso** le chiavi.*
+In old books you will also meet the **trapassato remoto** after *appena, dopo che, quando* with the passato remoto: *Quando **ebbe finito**, uscì.* Recognize it; you won't need to use it.
+ex: Quando siamo arrivati alla stazione, il treno era già partito. | When we got to the station, the train had already left.
+ex: Non avevo mai visto il mare prima di quel giorno. | I had never seen the sea before that day.
+ex: Mi ha detto che aveva perso le chiavi. | He told me he had lost his keys.
+--- tip: Past before the past
+*Quando sono arrivato* (past) *, il film **era già cominciato*** (earlier past).
+--- mistakes
+- *Quando sono arrivato, il treno è già partito* → **era già partito**.
+- *Avevo andato* → **Ero andato** (same auxiliaries as the passato prossimo).
+drill: conj 8 tenses=trap
+drill: choice 5 label=Trapassato
+  q: Quando sono arrivato, il film ___ già cominciato. | era | è | sarà | en: When I arrived, the film had already started. | why: before another past event → trapassato: era cominciato
+  q: Non ___ mai visto una cosa simile. | avevo | ero | ho avuto | en: I had never seen anything like it. | why: vedere → avere: avevo visto
+  q: Mi ha detto che ___ perso il treno. | aveva | era | avesse | en: He told me he had missed the train. | why: reported earlier action → trapassato
+  q: Anna era già ___ quando hai chiamato. | uscita | uscito | usciva | en: Anna had already gone out when you called. | why: essere → agreement: uscita
+  q: Avevamo appena ___ quando ha cominciato a piovere. | mangiato | mangiando | mangiare | en: We had just eaten when it started to rain. | why: avere + past participle
+
+=== g-congiuntivo-presente | The present subjunctive | B1 | 💭
+summary: After verbs of opinion, wish, doubt and feeling + che: Penso che sia vero. Voglio che tu venga. Spero che stiate bene.
+--- section: Forms
+table:
+| | parlare | prendere | dormire | finire |
+| che io | parl**i** | prend**a** | dorm**a** | fin**isca** |
+| che tu | parl**i** | prend**a** | dorm**a** | fin**isca** |
+| che lui / lei | parl**i** | prend**a** | dorm**a** | fin**isca** |
+| che noi | parl**iamo** | prend**iamo** | dorm**iamo** | fin**iamo** |
+| che voi | parl**iate** | prend**iate** | dorm**iate** | fin**iate** |
+| che loro | parl**ino** | prend**ano** | dorm**ano** | fin**iscano** |
+The three singular forms are identical, so add the subject when it isn't clear: *che io sia, che tu sia*.
+Irregular verbs mostly build on the io form of the present (*vado → vada, faccio → faccia, vengo → venga, dico → dica, esco → esca*):
+table:
+| essere | avere | andare | fare | potere | volere | dovere | sapere | dare | stare |
+| **sia** | **abbia** | **vada** | **faccia** | **possa** | **voglia** | **debba** | **sappia** | **dia** | **stia** |
+| siamo | abbiamo | andiamo | facciamo | possiamo | vogliamo | dobbiamo | sappiamo | diamo | stiamo |
+| siano | abbiano | vadano | facciano | possano | vogliano | debbano | sappiano | diano | stiano |
+--- section: When to use it
+- **opinion**: *penso che, credo che, mi sembra che, immagino che*
+- **wish, will**: *voglio che, preferisco che, spero che*
+- **doubt**: *dubito che, non sono sicuro che, non so se*
+- **feelings**: *sono contento che, mi dispiace che, ho paura che*
+- **impersonal phrases**: *bisogna che, è necessario che, è importante che, è possibile che, è meglio che, sembra che*
+- **conjunctions**: *benché / sebbene* (although), *perché / affinché* (so that), *prima che* (before), *purché* (provided that), *a meno che* (unless), *senza che* (without)
+**Not** after certainty: *So che è vero. Sono sicuro che viene. È vero che…*
+**Same subject → infinitive**: *Voglio venire* (I want to come), *Penso di avere ragione.*
+ex: Penso che Marco abbia ragione. | I think Marco is right.
+ex: Spero che tu stia bene. | I hope you're well.
+ex: È importante che voi studiate ogni giorno. | It's important that you study every day.
+ex: Benché piova, usciamo. | Although it's raining, we're going out.
+--- tip: Penso che sia…
+Opinions, wishes, doubts and feelings + **che** → congiuntivo: *Credo che sia giusto. Spero che venga.*
+--- tip: So che è…
+Knowledge and certainty keep the indicative: *So che **è** vero.*
+--- mistakes
+- *Penso che è vero* (heard in speech) → standard **Penso che sia vero**.
+- *Voglio che vengo* → **Voglio venire** (same subject) or **Voglio che tu venga**.
+- *So che sia vero* → **So che è vero**.
+drill: conj 10 tenses=cong
+drill: choice 8 label=Indicative or subjunctive?
+  q: Penso che Marco ___ (avere) ragione. | abbia | abbiano | ha | en: I think Marco is right. | why: penso che → congiuntivo
+  q: Spero che tu ___ (stare) bene. | stia | stai | stiate | en: I hope you're well. | why: spero che → congiuntivo; stare → stia
+  q: Voglio che voi ___ (venire) con me. | veniate | venite | vengano | en: I want you to come with me. | why: voglio che → congiuntivo; voi → veniate
+  q: È importante che tu ___ (dormire) bene. | dorma | dormi | dormire | en: It's important that you sleep well. | why: è importante che → congiuntivo
+  q: So che Luca ___ (essere) a casa. | è | sia | fosse | en: I know Luca is at home. | why: certainty (so che) → indicative!
+  q: Benché ___ (piovere), usciamo. | piova | piove | piovono | en: Although it's raining, we're going out. | why: benché → always congiuntivo
+  q: Voglio ___ (imparare) l'italiano. | imparare | che imparo | che io impari | en: I want to learn Italian. | why: same subject → infinitive
+  q: Bisogna che loro ___ (fare) presto. | facciano | fanno | facciono | en: They need to hurry. | why: bisogna che → congiuntivo; fare → facciano
+
+=== g-passato-remoto | The passato remoto: the storytelling past | B1 | 📜
+summary: The past of fairy tales, history and novels — and of everyday speech in the south. Pinocchio is told in it: Geppetto prese il legno e cominciò a lavorare.
+--- section: Regular forms
+table:
+| | parlare | credere | dormire |
+| io | parl**ai** | cred**ei** / cred**etti** | dorm**ii** |
+| tu | parl**asti** | cred**esti** | dorm**isti** |
+| lui / lei | parl**ò** | cred**é** / cred**ette** | dorm**ì** |
+| noi | parl**ammo** | cred**emmo** | dorm**immo** |
+| voi | parl**aste** | cred**este** | dorm**iste** |
+| loro | parl**arono** | cred**erono** / cred**ettero** | dorm**irono** |
+--- section: Irregular verbs: the 1-3-3 pattern
+Most irregular verbs change only in **io, lui/lei and loro**; tu, noi and voi stay regular:
+table:
+| verb | io | tu | lui / lei | loro |
+| avere | **ebbi** | avesti | **ebbe** | **ebbero** |
+| fare | **feci** | facesti | **fece** | **fecero** |
+| dire | **dissi** | dicesti | **disse** | **dissero** |
+| prendere | **presi** | prendesti | **prese** | **presero** |
+| vedere | **vidi** | vedesti | **vide** | **videro** |
+| venire | **venni** | venisti | **venne** | **vennero** |
+| volere | **volli** | volesti | **volle** | **vollero** |
+| sapere | **seppi** | sapesti | **seppe** | **seppero** |
+| scrivere | **scrissi** | scrivesti | **scrisse** | **scrissero** |
+| mettere | **misi** | mettesti | **mise** | **misero** |
+| nascere | **nacqui** | nascesti | **nacque** | **nacquero** |
+| rispondere | **risposi** | rispondesti | **rispose** | **risposero** |
+**essere** is irregular throughout: fui, fosti, **fu**, fummo, foste, **furono**. **dare**: diedi, desti, diede, demmo, deste, diedero. **stare**: stetti, stesti, stette, stemmo, steste, stettero.
+--- section: When it is used
+- **written narrative**: novels, fairy tales, history books — *C'era una volta un re… Un giorno il re partì.*
+- **historical facts**: *Dante nacque a Firenze nel 1265. Colombo arrivò in America nel 1492.*
+- In conversation the north uses the passato prossimo for everything; Tuscany and the south also use the passato remoto for distant events. As a learner, **recognize** it in reading and use the passato prossimo when you speak.
+- The **imperfetto** still paints the background in stories: *C'**era** una volta… Il bambino **dormiva** quando il lupo **entrò**.*
+ex: C'era una volta un pezzo di legno. | Once upon a time there was a piece of wood. | Pinocchio's opening: imperfetto for the scene
+ex: Geppetto prese il legno e cominciò a lavorare. | Geppetto took the wood and began to work.
+ex: Dante nacque a Firenze nel 1265. | Dante was born in Florence in 1265.
+ex: Pinocchio corse a casa e non disse niente. | Pinocchio ran home and said nothing.
+--- tip: fu, ebbe, fece, disse
+Learn these four first: **fu** (was), **ebbe** (had), **fece** (did / made), **disse** (said) — they are on every page of a fairy tale.
+--- tip: The 1-3-3 pattern
+Irregular stem in **io, lui, loro**: *presi, prese, presero* — regular elsewhere: *prendesti, prendemmo, prendeste*.
+--- mistakes
+- *lui prendé* → **lui prese**; *lui vedé* → **lui vide**.
+- Talking about this morning: *stamattina vidi Marco* sounds odd → **stamattina ho visto Marco**.
+drill: conj 10 tenses=rem verbs=essere,avere,fare,dire,prendere,vedere,venire,volere,sapere,scrivere,mettere,nascere,dare,stare,parlare,dormire
+drill: choice 7 label=Passato remoto
+  q: Dante ___ (nascere) a Firenze nel 1265. | nacque | nacqui | nacquero | en: Dante was born in Florence in 1265. | why: lui → nacque
+  q: Il re ___ (dire): «Venite qui!» | disse | dissi | dissero | en: The king said: "Come here!" | why: dire → disse (lui)
+  q: Pinocchio ___ (fare) un salto e scappò. | fece | feci | fecero | en: Pinocchio jumped and ran away. | why: fare → fece (lui)
+  q: I due amici ___ (essere) molto felici. | furono | fummo | fu | en: The two friends were very happy. | why: essere: loro → furono
+  q: Quando ___ (vedere) il lupo, la bambina ebbe paura. | vide | vidi | videro | en: When she saw the wolf, the little girl was afraid. | why: vedere → vide (lei)
+  q: Noi ___ (andare) a Roma nel 1990. | andammo | andarono | andai | en: We went to Rome in 1990. | why: regular -are: noi andammo
+  q: Geppetto ___ (prendere) un pezzo di legno. | prese | presi | presero | en: Geppetto took a piece of wood. | why: prendere → prese (lui)
+
+=== g-congiuntivo-passato | The past subjunctive | B1 | 🕰️
+summary: abbia / sia + participle: Penso che sia partito. The same triggers as the present subjunctive, for something that has already happened.
+--- section: Forms
+The present subjunctive of **avere** or **essere** + past participle (the usual auxiliary and agreement):
+table:
+| | dormire (avere) | arrivare (essere) |
+| che io | **abbia** dormito | **sia** arrivato / arrivata |
+| che tu | **abbia** dormito | **sia** arrivato / arrivata |
+| che lui / lei | **abbia** dormito | **sia** arrivato / arrivata |
+| che noi | **abbiamo** dormito | **siamo** arrivati / arrivate |
+| che voi | **abbiate** dormito | **siate** arrivati / arrivate |
+| che loro | **abbiano** dormito | **siano** arrivati / arrivate |
+--- section: Use
+Main verb in the present + an **earlier** action: *Penso che **venga*** (I think he's coming) vs *Penso che **sia venuto*** (I think he came).
+It also follows superlatives: *È la città più bella che io **abbia** mai **visto**.*
+ex: Spero che tu abbia dormito bene. | I hope you slept well.
+ex: Mi dispiace che non siate venuti alla festa. | I'm sorry you didn't come to the party.
+ex: È la città più bella che io abbia mai visto. | It's the most beautiful city I've ever seen.
+ex: Non credo che Luca sia già arrivato. | I don't think Luca has arrived yet.
+--- tip: Spero che abbia…
+Hope, think, be sorry + something that **has happened** → *abbia / sia* + participle.
+--- mistakes
+- *Penso che è partito* → **Penso che sia partito**.
+- *Spero che hai dormito bene* → **Spero che tu abbia dormito bene**.
+drill: conj 8 tenses=congp
+drill: choice 5 label=Past subjunctive
+  q: Spero che tu ___ dormito bene. | abbia | hai | sia | en: I hope you slept well. | why: spero che + past → abbia + participle
+  q: Non credo che Luca sia già ___. (arrivare) | arrivato | arrivata | arrivati | en: I don't think Luca has arrived yet. | why: essere → agreement with Luca
+  q: È il libro più bello che io ___ mai letto. | abbia | ho | avessi | en: It's the most beautiful book I've ever read. | why: superlative + che → congiuntivo
+  q: Mi dispiace che voi non ___ venuti. | siate | siete | abbiate | en: I'm sorry you didn't come. | why: feelings → congiuntivo; venire → essere: siate venuti
+  q: Penso che Maria ___ già partita. | sia | è | abbia | en: I think Maria has already left. | why: penso che + past → sia partita
+
+=== g-congiuntivo-imperfetto | The imperfect subjunctive | B1 | 🌫️
+summary: -ssi, -ssi, -sse: after a past or conditional main verb (Volevo che tu venissi, Vorrei che restassi) and in "if" clauses (Se fossi ricco…).
+--- section: Forms
+table:
+| | parlare | prendere | dormire | essere |
+| che io | parl**assi** | prend**essi** | dorm**issi** | **fossi** |
+| che tu | parl**assi** | prend**essi** | dorm**issi** | **fossi** |
+| che lui / lei | parl**asse** | prend**esse** | dorm**isse** | **fosse** |
+| che noi | parl**assimo** | prend**essimo** | dorm**issimo** | **fossimo** |
+| che voi | parl**aste** | prend**este** | dorm**iste** | **foste** |
+| che loro | parl**assero** | prend**essero** | dorm**issero** | **fossero** |
+Almost every verb is regular. Irregular: **essere → fossi, dare → dessi, stare → stessi**, and the old stems **fare → facessi, dire → dicessi, bere → bevessi**.
+--- section: The sequence of tenses
+table:
+| main verb | same time | earlier |
+| present: Penso che… | **sia** | **sia stato** |
+| past or conditional: Pensavo che… / Vorrei che… | **fosse** | **fosse stato** |
+Other uses: wishes with **magari** (*Magari fosse vero!* = If only it were true!) and **come se** (as if): *Parla come se fosse il capo.*
+ex: Credevo che fosse più facile. | I thought it was easier.
+ex: Vorrei che tu restassi ancora un po'. | I'd like you to stay a little longer.
+ex: Magari avessi più tempo! | If only I had more time!
+ex: Mi guardava come se non mi conoscesse. | He looked at me as if he didn't know me.
+--- tip: Vorrei che + -ssi
+*Vorrei che tu **venissi**. Preferirei che **restassi**.* After a conditional, use the imperfect subjunctive.
+--- mistakes
+- *Volevo che vieni* → **Volevo che tu venissi**.
+- *Vorrei che tu resti* → **Vorrei che tu restassi**.
+drill: conj 8 tenses=congi
+drill: choice 6 label=Imperfect subjunctive
+  q: Pensavo che tu ___ (essere) italiano. | fossi | eri | sia | en: I thought you were Italian. | why: past main verb → congiuntivo imperfetto
+  q: Vorrei che tu ___ (restare) ancora un po'. | restassi | resti | restavi | en: I'd like you to stay a little longer. | why: vorrei che → congiuntivo imperfetto
+  q: Magari ___ (avere) più tempo! | avessi | ho | avrei | en: If only I had more time! | why: magari + congiuntivo imperfetto
+  q: Parla come se ___ (sapere) tutto. | sapesse | sa | saprebbe | en: He talks as if he knew everything. | why: come se → congiuntivo imperfetto
+  q: Volevano che noi ___ (fare) presto. | facessimo | facciamo | facevamo | en: They wanted us to hurry. | why: past main verb → facessimo
+  q: Era necessario che voi ___ (dire) la verità. | diceste | dite | dicevate | en: You had to tell the truth. | why: era necessario che → diceste
+
+=== g-periodo-ipotetico | If-sentences: se | B1 | 🔀
+summary: Three kinds: real (Se piove, resto a casa), unreal now (Se avessi tempo, verrei), impossible past (Se l'avessi saputo, sarei venuto).
+--- section: The three types
+table:
+| type | se + | main clause | example |
+| 1 real | presente / futuro | presente / futuro / imperativo | Se piove, resto a casa. |
+| 2 unreal now | congiuntivo imperfetto | condizionale | Se avessi tempo, verrei. |
+| 3 impossible (past) | congiuntivo trapassato | condizionale passato | Se l'avessi saputo, sarei venuto. |
+The **congiuntivo trapassato** is *avessi / fossi* + participle: *se avessi saputo, se fossi partito*.
+**Never** put the conditional after *se*: *se avrei* is the classic mistake.
+Mixed: a past condition with a present result — *Se avessi studiato, ora parlerei italiano.*
+In relaxed speech you will hear the imperfetto in both halves: *Se lo sapevo, venivo* (= if I'd known, I would have come). Recognize it; write type 3.
+ex: Se domani fa bel tempo, andiamo al mare. | If the weather's fine tomorrow, we'll go to the seaside.
+ex: Se fossi in te, non lo farei. | If I were you, I wouldn't do it.
+ex: Se avessi più soldi, comprerei una casa a Roma. | If I had more money, I'd buy a house in Rome.
+ex: Se l'avessi saputo prima, ti avrei aiutato. | If I'd known earlier, I would have helped you.
+--- tip: se + -ssi, then -rei
+*Se **avessi** tempo, **verrei**.* The congiuntivo goes with *se*, the conditional in the other half.
+--- mistakes
+- *Se avrei tempo* → **Se avessi tempo**.
+- *Se sarei ricco* → **Se fossi ricco**.
+drill: choice 6 label=If-sentences
+  q: Se ___ (avere) tempo, verrei con voi. | avessi | avrei | ho | en: If I had time, I would come with you. | why: unreal now: se + congiuntivo imperfetto
+  q: Se domani ___ (piovere), restiamo a casa. | piove | piovesse | pioverebbe | en: If it rains tomorrow, we'll stay at home. | why: real condition: se + presente
+  q: Se fossi ricco, ___ (comprare) una barca. | comprerei | comprassi | compro | en: If I were rich, I'd buy a boat. | why: main clause → condizionale
+  q: Se l'avessi saputo, ___ (venire). | sarei venuto | verrei | venissi | en: If I'd known, I would have come. | why: impossible past → condizionale passato
+  q: Se ___ (essere) in te, non lo farei. | fossi | sarei | sono | en: If I were you, I wouldn't do it. | why: se + congiuntivo imperfetto
+  q: Se avessi studiato, ora ___ (parlare) italiano. | parlerei | avrei parlato | parlassi | en: If I had studied, I'd speak Italian now. | why: mixed: past condition, present result → condizionale presente
+
+=== g-gerundio | The gerund: stare + -ando / -endo | A2 | 🔄
+summary: -ando / -endo: Sto mangiando (I'm eating right now) — and on its own: Camminando, ho visto Marco (while walking…).
+--- section: Forms
+- **-are → -ando**: parlare → parl**ando**, andare → and**ando**
+- **-ere, -ire → -endo**: prendere → prend**endo**, dormire → dorm**endo**
+- old stems: **fare → facendo, dire → dicendo, bere → bevendo, tradurre → traducendo, porre → ponendo**
+- **essere → essendo, avere → avendo**
+--- section: stare + gerundio
+An action in progress **right now**: *Che cosa stai facendo? — Sto leggendo.* In the past: *Stavo uscendo quando hai chiamato.*
+Italian uses it far less than English: plans and longer periods use the simple present — *Domani **vado** a Roma* (I'm going to Rome tomorrow), *Abito a Milano* (I'm living in Milan).
+--- section: The gerund on its own
+It means *while, by, because* — and its subject must be the same as the main verb's: *Studiando molto, ho imparato* (by studying), *Essendo stanco, sono andato a letto* (being tired). Pronouns attach: *Guardandolo, ho capito.*
+**Gerundio passato**: *avendo / essendo* + participle = having done: *Avendo finito, sono uscito.*
+ex: Che cosa stai facendo? — Sto preparando la cena. | What are you doing? — I'm making dinner.
+ex: Stavamo dormendo quando è suonato il telefono. | We were sleeping when the phone rang.
+ex: Sbagliando s'impara. | You learn by making mistakes. | proverb
+ex: Camminando per Roma, ho visto il Colosseo. | Walking through Rome, I saw the Colosseum.
+--- tip: Sto + -ando / -endo = right now
+*Sto **mangiando**. Stai **dormendo**? Stanno **arrivando**!*
+--- mistakes
+- *Sono mangiando* → **Sto mangiando**.
+- *Sto andando a Roma domani* → **Domani vado a Roma**.
+- *faccendo* → **facendo**.
+drill: choice 6 label=Gerund
+  q: Che cosa stai ___? (fare) | facendo | faccendo | fando | en: What are you doing? | why: fare → facendo (old stem fac-)
+  q: Stavamo ___ quando è suonato il telefono. (dormire) | dormendo | dormando | dormito | en: We were sleeping when the phone rang. | why: -ire → -endo
+  q: Domani ___ a Roma. | vado | sto andando | andando | en: I'm going to Rome tomorrow. | why: plans → simple present, not stare + gerundio
+  q: ___ s'impara. (sbagliare) | Sbagliando | Sbagliato | Sbaglio | en: You learn by making mistakes. | why: "by …ing" → gerundio
+  q: Sto ___ una lettera a mia nonna. (scrivere) | scrivendo | scrivando | scritto | en: I'm writing a letter to my grandmother. | why: -ere → -endo
+  q: ___ stanco, sono andato a letto presto. (essere) | Essendo | Stando | Essere | en: Being tired, I went to bed early. | why: gerund of essere: essendo
+
+=== g-passive-si | The passive and the impersonal si | B1 | 🏛️
+summary: essere / venire + participle (Il Colosseo fu costruito…), and si: Qui si parla italiano. In Italia si mangia bene.
+--- section: The passive
+**essere + participle** (agreeing with the subject) + **da** (by): *Il libro è stato scritto da Collodi.* The tense is shown by *essere*: è scritto, è stato scritto, era scritto, fu scritto, sarà scritto.
+- **venire + participle** (simple tenses only) stresses the action: *La porta viene chiusa alle otto* (the door gets closed at eight).
+- **andare + participle** = must be: *Il biglietto va comprato prima* (the ticket must be bought beforehand).
+ex: Il Colosseo fu costruito quasi duemila anni fa. | The Colosseum was built almost two thousand years ago.
+ex: La pizza margherita è stata inventata a Napoli. | Pizza margherita was invented in Naples.
+--- section: si
+- **si passivante**: si + verb agreeing with the thing — *Si vende casa. Si vendono case.* (House for sale. Houses for sale.)
+- **si impersonale** = one, you, people: *In Italia si mangia bene. Si dice che…* (They say that…). Adjectives after it are plural: *Quando si è giovani…*
+- With reflexive verbs: **ci si** — *Ci si alza presto* (one gets up early).
+- Compound tenses use **essere**: *Si è mangiato bene. Si sono vendute molte case.*
+ex: In Italia si mangia molto bene. | You eat very well in Italy.
+ex: Si vendono biciclette usate. | Used bicycles for sale.
+ex: Come si dice questa parola in tedesco? | How do you say this word in German?
+--- tip: Qui si parla italiano
+*si + singular verb* for one thing or none; *si + plural verb* for plural things: *Si parlano molte lingue.*
+--- mistakes
+- *Si vende biciclette* → **Si vendono biciclette**.
+- *La casa è stata costruito* → **La casa è stata costruita**.
+drill: choice 7 label=Passive and si
+  q: Questo libro è stato ___ da Collodi. (scrivere) | scritto | scritta | scrivuto | en: This book was written by Collodi. | why: passive: participle agrees with il libro
+  q: In questo negozio si ___ biciclette. (vendere) | vendono | vende | vendiamo | en: Bicycles are sold in this shop. | why: si + plural noun → plural verb
+  q: In Italia si ___ bene. (mangiare) | mangia | mangiano | mangiamo | en: You eat well in Italy. | why: impersonal si → 3rd person singular
+  q: La porta ___ chiusa ogni sera alle dieci. | viene | vengono | è stata | en: The door is closed every evening at ten. | why: venire + participle = the action happening (gets closed)
+  q: Il biglietto ___ comprato prima di salire. | va | viene stato | è andato | en: The ticket must be bought before boarding. | why: andare + participle = must be …
+  q: Il Colosseo ___ costruito quasi duemila anni fa. | fu | è | viene | en: The Colosseum was built almost two thousand years ago. | why: past event → fu costruito (or è stato costruito)
+  q: Come si ___ "albero" in tedesco? (dire) | dice | dicono | dici | en: How do you say "albero" in German? | why: impersonal si → si dice
+
+=== g-indefinites | Some, any, every, nothing: indefinites | A2 | ♾️
+summary: qualche (+ singular!), alcuni, un po' di, ogni, ognuno, qualcuno, qualcosa, nessuno, niente, tutto, altro.
+--- section: Overview
+table:
+| meaning | with a noun | on its own |
+| some, a few | **qualche** libro (singular!), **alcuni** libri, **dei** libri, **un po' di** pane | **qualcuno** (someone), **qualcosa** (something), **alcuni** |
+| every, each | **ogni** giorno (singular, never changes), **ciascun** giorno | **ognuno**, **ciascuno** (everyone, each one) |
+| no, not any | **nessun** libro, **nessuna** idea (singular) | **nessuno** (nobody), **niente** / **nulla** (nothing) |
+| all, whole | **tutto il** giorno, **tutti i** giorni (+ article!) | **tutto** (everything), **tutti** (everybody) |
+| other | **un altro** caffè, **gli altri** | **altro**: *Altro?* (Anything else?) |
+--- section: Negatives and little words
+- After the verb, Italian needs **non** too: *Non ho visto nessuno. Non c'è niente. Non ho mai detto niente.* At the start of the sentence, no *non*: *Nessuno è venuto. Niente è impossibile.*
+- **qualcosa di** + adjective: *qualcosa di bello, niente di speciale*; **qualcosa da** + infinitive: *qualcosa da bere*.
+ex: Ho comprato qualche libro per le vacanze. | I bought a few books for the holidays. | qualche + singular
+ex: Non ho visto nessuno. | I didn't see anybody.
+ex: Vuoi qualcosa da bere? | Would you like something to drink?
+ex: Tutti i bambini amano le favole. | All children love fairy tales.
+ex: Ogni giorno è una nuova avventura. | Every day is a new adventure.
+--- tip: qualche and ogni + singular
+*qualche amico* (some friends), *ogni giorno* (every day) — the noun stays singular.
+--- tip: Non … nessuno / niente
+*Non vedo **niente**. Non conosco **nessuno**.* Two negatives make a negative in Italian.
+--- mistakes
+- *qualche libri* → **qualche libro** or **alcuni libri**.
+- *Ho visto nessuno* → **Non ho visto nessuno**.
+- *tutti giorni* → **tutti i giorni**; *ogni giorni* → **ogni giorno**.
+drill: choice 8 label=Indefinites
+  q: Ho ___ amico a Napoli. | qualche | alcuni | qualcuno | en: I have a few friends in Naples. | why: qualche + singular noun
+  q: Non c'è ___ in casa. | nessuno | ognuno | niente nessuno | en: There's nobody home. | why: non … nessuno
+  q: Vuoi ___ da bere? | qualcosa | qualche | ogni | en: Do you want something to drink? | why: something = qualcosa
+  q: Vado in palestra ___ giorno. | ogni | tutti | ognuno | en: I go to the gym every day. | why: ogni + singular, never changes
+  q: ___ i ragazzi sono andati alla festa. | Tutti | Ogni | Tutto | en: All the boys went to the party. | why: tutti + article + noun
+  q: Non ho mangiato ___. | niente | nessuno | qualcosa | en: I didn't eat anything. | why: non … niente
+  q: C'è ___ di bello alla televisione? | qualcosa | qualche | nessuno | en: Is there anything good on TV? | why: qualcosa di + adjective
+  q: ___ è venuto alla lezione. | Nessuno | Non nessuno | Niente | en: Nobody came to the lesson. | why: nessuno at the start → no non
+
+=== g-word-formation | Building words: suffixes and prefixes | B1 | 🧱
+summary: Italian grows families of words: -ino (small), -one (big), -accio (bad), -mente (-ly), -tore, -zione, -ezza, ri-, s-, in-.
+--- section: Small, big and ugly: the alterati
+- **-ino, -etto, -ello** (small, dear): *gatto → gattino, casa → casetta, albero → alberello*
+- **-one** (big): *libro → librone, naso → nasone*
+- **-accio** (bad, nasty): *tempo → tempaccio* (awful weather), *parola → parolaccia* (swear word)
+Many have become words of their own: *il panino* (from pane), *il telefonino* (mobile phone), *il portone* (main door), *il postino*, *il fazzoletto*.
+--- section: Adverbs in -mente
+Feminine adjective + **-mente** (= -ly): *lenta → lentamente, felice → felicemente*. After *-le / -re* the e drops: *facile → facilmente, regolare → regolarmente*. Irregular: *buono → bene, cattivo → male*.
+--- section: Nouns from verbs and adjectives
+- **-tore / -trice** (the person): *lavorare → lavoratore / lavoratrice, scrivere → scrittore / scrittrice*
+- **-zione** (the action): *creare → creazione, spiegare → spiegazione*
+- **-mento**: *cambiare → cambiamento*
+- **-ezza, -ità, -enza** (qualities): *bello → bellezza, felice → felicità, paziente → pazienza*
+--- section: Prefixes and compounds
+- **ri-** = again: *fare → rifare, leggere → rileggere*
+- **s-** = the opposite: *fortuna → sfortuna, contento → scontento*
+- **in- / im- / il- / ir-** = not: *utile → inutile, possibile → impossibile, legale → illegale, regolare → irregolare*
+- **dis-**: *onesto → disonesto, ordine → disordine*
+- **compounds**: *porta + foglio → il portafoglio* (wallet), *arco + baleno → l'arcobaleno* (rainbow), *capo + luogo → il capoluogo* (regional capital)
+ex: Il gattino dorme nel cestino. | The kitten is sleeping in the little basket.
+ex: Parla lentamente, per favore. | Speak slowly, please.
+ex: È impossibile! | It's impossible!
+ex: Che tempaccio! | What awful weather!
+ex: Mio nonno era un grande lavoratore. | My grandfather was a hard worker.
+--- tip: -ino = small, -one = big
+*un gattino* (kitten), *un librone* (a huge book), *un tempaccio* (rotten weather).
+--- tip: -mente = -ly
+*vero → veramente, facile → facilmente, lento → lentamente*.
+--- mistakes
+- *lentomente* → **lentamente** (use the feminine form).
+- *facilemente* → **facilmente**.
+- *inpossibile* → **impossibile** (in- becomes im- before p and b).
+drill: choice 8 label=Build the word
+  q: Un piccolo gatto è un ___. | gattino | gattone | gattaccio | en: A little cat is a kitten. | why: -ino = small
+  q: Un libro molto grande è un ___. | librone | librino | libretto | en: A very big book is a "big book". | why: -one = big
+  q: lento → ___ | lentamente | lentomente | lentemente | en: slow → slowly | why: feminine form + -mente
+  q: facile → ___ | facilmente | facilemente | facilomente | en: easy → easily | why: -le / -re drop the e before -mente
+  q: Il contrario di "possibile" è ___. | impossibile | inpossibile | dispossibile | en: The opposite of "possible" is "impossible". | why: in- becomes im- before p and b
+  q: leggere di nuovo = ___ | rileggere | releggere | sleggere | en: to read again = to reread | why: ri- = again
+  q: Chi lavora è un ___. | lavoratore | lavorista | lavorazione | en: Someone who works is a worker. | why: -tore = the person who does it
+  q: bello → la ___ | bellezza | bellità | bellenza | en: beautiful → beauty | why: -ezza makes nouns from adjectives
+
+=== g-old-texts | Reading old books: Pinocchio, Cuore, the fairy tales | B1 | 📚
+summary: 19th-century Italian (Collodi, De Amicis, Manzoni) is easy to read once you know a few old forms: the passato remoto, egli / ella, fo and vo, and pronouns stuck to verbs.
+--- section: The narrative tenses
+Stories run on the **passato remoto** (disse, fece, ebbe, fu) with the **imperfetto** for the background and the **trapassato remoto** after *quando, appena, dopo che*: *Quand'ebbe finito di mangiare, Pinocchio uscì.*
+--- section: Old pronouns and forms
+table:
+| in old books | today | meaning |
+| egli, ei, e' | lui | he |
+| ella | lei | she |
+| esso / essa | lui / lei, esso (it) | it, he / she |
+| essi / esse, eglino | loro | they |
+| costui / costei / coloro | quest'uomo / questa donna / quelle persone | this man / this woman / those people |
+| fo, vo | faccio, vado | I do, I go |
+| debbo, deggio | devo | I must |
+| veggo | vedo | I see |
+| avea, dicea, facea | aveva, diceva, faceva | had, said, did (imperfetto without v) |
+| perchè (grave accent) | perché | why, because |
+| giuoco, figliuolo | gioco, figliolo | game, son |
+--- section: Pronouns after the verb, Tuscan words
+Old writers attach pronouns to conjugated verbs: *disselo* = lo disse (he said it), *vedesi* = si vede, *trovavasi* = si trovava.
+Collodi was Florentine: **babbo** (dad), **il mi' babbo** (my dad), **bimbo** (child), **uscio** (door), **desinare** (to have lunch), **balocchi** (toys), **garbato** (polite).
+Elisions are everywhere: *quand'era* (quando era), *pover'uomo*, *gran signore*, *far presto*, *voler bene*.
+ex: C'era una volta... — Un re! — diranno subito i miei piccoli lettori. | Once upon a time there was... — A king! my little readers will say at once. | the first line of Pinocchio
+ex: No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno. | No, children, you're wrong. Once upon a time there was a piece of wood.
+ex: Il babbo di Pinocchio si chiamava Geppetto. | Pinocchio's dad was called Geppetto. | babbo: Tuscan for papà
+ex: Egli disse che sarebbe tornato. | He said he would come back. | egli = lui (literary)
+--- tip: egli and ella
+In books **egli** = lui (he) and **ella** = lei (she). Don't use them in conversation.
+--- tip: Tap it!
+Old forms are explained when you tap them in the reader: *fo* → fare, *avea* → aveva, *disselo* → lo disse.
+--- mistakes
+- In conversation *egli, ella, fo, vo, debbo* sound like an opera libretto: say **lui, lei, faccio, vado, devo**.
+drill: choice 7 label=Modern Italian, please
+  q: «Ei disse di no.» → ___ disse di no. | Lui | Ehi | Lei | en: He said no. | why: ei / egli = lui (he)
+  q: «Il babbo di Pinocchio» → il ___ di Pinocchio | papà | nonno | bambino | en: Pinocchio's dad | why: babbo = papà (Tuscan)
+  q: «Io fo il mio dovere.» → Io ___ il mio dovere. | faccio | sono | vado | en: I do my duty. | why: fo = faccio (old Tuscan)
+  q: «Vo a casa.» → ___ a casa. | Vado | Voglio | Volo | en: I'm going home. | why: vo = vado
+  q: «Perchè piangi?» → ___ piangi? | Perché | Perche | Per che | en: Why are you crying? | why: modern perché has an acute accent (é)
+  q: «Debbo partire.» → ___ partire. | Devo | Debo | Dovrei | en: I must leave. | why: debbo = devo (old form)
+  q: «Disselo e partì.» → ___ disse e partì. | Lo | Gli | Ne | en: He said it and left. | why: old style: disselo = lo disse

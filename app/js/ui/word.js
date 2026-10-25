@@ -56,7 +56,7 @@ export function dictLine(entry, lang) {
   } else if (entry.p === 'v') {
     const pp = (lang === 'de' ? DE : IT).principalParts(entry);
     if (pp) parts.push(pp.text);
-  } else if (entry.p === 'a' && entry.a) {
+  } else if ((entry.p === 'a' || lang === 'it') && entry.a) {
     if (lang === 'de' && entry.a.cmp) parts.push(`${entry.a.cmp}, ${entry.a.sup || ''}`.replace(/, $/, ''));
     if (lang === 'it' && !entry.a.inv && entry.a.f && entry.a.f !== entry.l) parts.push(`${entry.a.f}, ${entry.a.mp}, ${entry.a.fp}`);
     if (lang === 'it' && entry.a.inv) parts.push('invariable');

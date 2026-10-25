@@ -265,6 +265,8 @@ function addFunctionWordsDE(L, m) {
     const e = L.lemma(prep, 'prep');
     if (e) add(m, form, e.id, `C:${prep}+${article}`);
   }
+  const werden = L.lemma('werden', 'v');
+  if (werden) add(m, 'worden', werden.id, 'V:pp.passive'); // Das Haus ist gebaut worden.
 }
 
 // ---------- Italian forms ----------
@@ -303,7 +305,18 @@ function buildFormsIT(L) {
       add(m, f.fs, id, 'A:fs');
       add(m, f.mp, id, 'A:mp');
       add(m, f.fp, id, 'A:fp');
-      for (const s of e.a?.sup || []) add(m, s, id, 'A:sup');
+      for (const s of e.a?.sup || []) {
+        const st = s.replace(/o$/, '');
+        add(m, s, id, 'A:sup.ms');
+        for (const [end, g] of [['a', 'fs'], ['i', 'mp'], ['e', 'fp']]) add(m, st + end, id, `A:sup.${g}`);
+      }
+    } else if (e.a) {
+      // determiners that agree like adjectives (mio, molto, quanto…); '-' = no such form
+      const f = IT.adjForms(e);
+      add(m, f.ms, id, f.fs === f.ms ? 'A:s' : 'A:ms');
+      if (f.fs !== f.ms) add(m, f.fs, id, 'A:fs');
+      if (f.mp === f.fp) { if (f.mp !== '-') add(m, f.mp, id, 'A:p'); }
+      else { add(m, f.mp, id, 'A:mp'); add(m, f.fp, id, 'A:fp'); }
     } else {
       add(m, e.l, id, 'X');
     }
@@ -312,10 +325,22 @@ function buildFormsIT(L) {
     san: 'santo', "sant'": 'santo', quel: 'quello', quei: 'quello', quegli: 'quello', "quell'": 'quello', "quest'": 'questo',
     "po'": 'poco', "c'": 'ci', "v'": 'vi', "m'": 'mi', "t'": 'ti', "s'": 'si', "l'": 'lo', "d'": 'di', "dov'": 'dove', "com'": 'come',
     "nessun'": 'nessuno', nessun: 'nessuno', alcun: 'alcuno', ciascun: 'ciascuno', qualcun: 'qualcuno', tal: 'tale', qual: 'quale',
-    "va'": 'andare', "fa'": 'fare', "di'": 'dire', "da'": 'dare', "sta'": 'stare', ed: 'e', ad: 'a', od: 'o' };
+    ed: 'e', ad: 'a', od: 'o' };
   for (const [form, lemma] of Object.entries(extra)) {
     const e = (L.byLemma.get(lemma) || []).find((x) => x.p !== 'n') || (L.byLemma.get(lemma) || [])[0];
     if (e) add(m, form, e.id, 'X:short');
+  }
+  // one-syllable tu imperatives: va' (andare), fa', di', da', sta'
+  for (const [form, lemma] of Object.entries({ "va'": 'andare', "fa'": 'fare', "di'": 'dire', "da'": 'dare', "sta'": 'stare' })) {
+    const e = L.lemma(lemma, 'v');
+    if (e) add(m, form, e.id, 'V:imp.0');
+  }
+  const entrambi = L.lemma('entrambi');
+  if (entrambi) add(m, 'entrambe', entrambi.id, 'A:fp');
+  // me lo, te la, ce ne, ve li, se lo: mi/ti/ci/vi/si turn -e before lo, la, li, le, ne
+  for (const [form, lemma] of [['me', 'mi'], ['te', 'ti'], ['ce', 'ci'], ['ve', 'vi'], ['se', 'si']]) {
+    const e = L.lemma(lemma, 'pron');
+    if (e) add(m, form, e.id, 'P:comb');
   }
   for (const [form, [lemma, tag]] of Object.entries(IT_ART)) {
     const e = L.lemma(lemma, 'art');

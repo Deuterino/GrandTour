@@ -1,0 +1,566 @@
+# Italian grammar, part 2 (A1–A2)
+
+=== g-irregular-present | Irregular verbs in the present | A1 | 🔀
+summary: The most frequent verbs are irregular: andare, fare, dare, stare, venire, uscire, dire, bere, sapere, tenere, rimanere.
+--- section: The big four: andare, fare, dare, stare
+table:
+| | andare | fare | dare | stare |
+| io | **vado** | **faccio** | **do** | **sto** |
+| tu | **vai** | **fai** | **dai** | **stai** |
+| lui / lei | **va** | **fa** | **dà** | **sta** |
+| noi | andiamo | **facciamo** | diamo | stiamo |
+| voi | andate | fate | date | state |
+| loro | **vanno** | **fanno** | **danno** | **stanno** |
+ex: Vado al mare con i miei amici. | I'm going to the seaside with my friends.
+ex: Che cosa fai stasera? | What are you doing tonight?
+ex: Come stai? — Sto bene, grazie. | How are you? — I'm fine, thanks.
+--- section: Verbs that add -g-
+table:
+| | venire | tenere | rimanere | salire | dire | uscire |
+| io | **vengo** | **tengo** | **rimango** | **salgo** | **dico** | **esco** |
+| tu | **vieni** | **tieni** | rimani | sali | **dici** | **esci** |
+| lui / lei | **viene** | **tiene** | rimane | sale | **dice** | **esce** |
+| noi | veniamo | teniamo | rimaniamo | saliamo | **diciamo** | usciamo |
+| voi | venite | tenete | rimanete | salite | **dite** | uscite |
+| loro | **vengono** | **tengono** | **rimangono** | **salgono** | **dicono** | **escono** |
+--- section: More irregulars
+- **bere** uses the old stem *bev-*: bevo, bevi, beve, beviamo, bevete, bevono.
+- **sapere**: so, sai, sa, sappiamo, sapete, sanno.
+- **scegliere**: scelgo, scegli, sceglie, scegliamo, scegliete, scelgono.
+- **morire**: muoio, muori, muore, moriamo, morite, muoiono.
+- **piacere**: piaccio, piaci, piace, piacciamo, piacete, piacciono.
+- **tradurre / produrre / porre**: traduco, produco, pongo (stems *traduc-, produc-, pon-*).
+ex: Vieni con noi? — No, rimango a casa. | Are you coming with us? — No, I'm staying home.
+ex: Che cosa bevi? — Bevo un'acqua frizzante. | What are you drinking? — Sparkling water.
+--- tip: vado, faccio, do, sto
+*andare*: vado, vai, va, andiamo, andate, vanno. *fare*: faccio, fai, fa, facciamo, fate, fanno.
+table:
+| | andare | fare | stare |
+| io | vado | faccio | sto |
+| tu | vai | fai | stai |
+| lui/lei | va | fa | sta |
+| noi | andiamo | facciamo | stiamo |
+| voi | andate | fate | state |
+| loro | vanno | fanno | stanno |
+--- tip: The -g- verbs
+*venire → vengo, vengono · tenere → tengo · rimanere → rimango · salire → salgo* — the g appears only in io and loro.
+--- mistakes
+- *ando* → **vado**; *faco* → **faccio**.
+- *venio* → **vengo**.
+drill: conj 12 tenses=pres verbs=andare,fare,dare,stare,venire,uscire,dire,bere,sapere,tenere,rimanere,salire,scegliere
+drill: choice 4 label=Choose the right form
+  q: Domani io ___ (andare) a Roma. | vado | ando | va | en: Tomorrow I'm going to Rome. | why: andare: io vado
+  q: Loro ___ (fare) colazione al bar. | fanno | faccono | fano | en: They have breakfast at the café. | why: fare: loro fanno
+  q: Noi ___ (dire) sempre la verità. | diciamo | diamo | dicemo | en: We always tell the truth. | why: dire: noi diciamo
+  q: A che ora ___ (uscire) tu? | esci | usci | esce | en: What time do you go out? | why: uscire: tu esci
+
+=== g-prepositions | Prepositions and articulated prepositions | A1 | 🧭
+summary: di, a, da, in, su join with the definite article: del, al, dal, nel, sul… — and each has its typical uses.
+--- section: Joining with the article
+table:
+| | il | lo | l' | la | i | gli | le |
+| **di** | del | dello | dell' | della | dei | degli | delle |
+| **a** | al | allo | all' | alla | ai | agli | alle |
+| **da** | dal | dallo | dall' | dalla | dai | dagli | dalle |
+| **in** | nel | nello | nell' | nella | nei | negli | nelle |
+| **su** | sul | sullo | sull' | sulla | sui | sugli | sulle |
+**con** may join (*col, coi*) but usually stays separate; **per, tra, fra** never join.
+ex: Il libro è sul tavolo, nella cucina. | The book is on the table, in the kitchen. | su + il, in + la
+ex: Vengo dall'ufficio e vado alla stazione. | I'm coming from the office and going to the station.
+--- section: Where? a or in?
+table:
+| use | preposition | examples |
+| cities, small islands | **a** | a Roma, a Capri |
+| countries, regions, big islands | **in** | in Italia, in Toscana, in Sicilia |
+| home, school, bed, the theatre | **a** | a casa, a scuola, a letto, a teatro |
+| many buildings and rooms | **in** | in banca, in ufficio, in cucina, in centro |
+| means of transport | **in** | in treno, in macchina, in aereo — but **a piedi** |
+| to/at someone's place | **da** | dal medico, da Marco, da me |
+--- section: Other key uses
+- **di**: possession and origin — *la macchina di Paolo, Sono di Napoli*; material — *una borsa di pelle*; partitive *del pane* (some bread).
+- **da**: from — *il treno da Milano*; since/for (time up to now) — *Studio italiano da due anni* (I've been studying Italian for two years, present tense!); purpose — *una macchina da corsa, un vestito da sera*.
+- **per**: for, through, in order to — *per te, per strada, per imparare*.
+- **tra / fra**: between, among, in (time from now) — *tra due giorni* (in two days).
+ex: Abito a Roma da tre anni. | I've lived in Rome for three years. | da + present tense
+ex: Ci vediamo tra un'ora. | See you in an hour.
+--- tip: di + il = del, a + la = alla…
+*di, a, da, in, su* + *il, lo, l', la, i, gli, le* make one word: **del, allo, dall', nella, sui, negli, sulle**.
+ex: Vado al cinema con gli amici dell'università. | I'm going to the cinema with my friends from university.
+--- tip: a Roma, in Italia
+**a** + city, **in** + country/region: *Abito a Firenze, in Toscana, in Italia.*
+--- mistakes
+- *in Roma* → **a Roma**; *a Italia* → **in Italia**.
+- *di il* → **del**; *in la* → **nella**.
+- *Studio italiano per due anni* (finished) vs **da due anni** (still studying).
+drill: artprep 10
+drill: choice 5 label=Which preposition?
+  q: Abito ___ Milano. | a | in | da | en: I live in Milan. | why: cities → a
+  q: Andiamo ___ Spagna in estate. | in | a | da | en: We're going to Spain in summer. | why: countries → in
+  q: Stasera vado ___ Marco. | da | a | in | en: Tonight I'm going to Marco's. | why: to someone's place → da
+  q: Vado al lavoro ___ macchina. | in | con la | a | en: I go to work by car. | why: transport → in (but a piedi)
+  q: Studio italiano ___ un anno. | da | per | in | en: I've been studying Italian for a year. | why: still going on → da + present
+
+=== g-possessives | My, your, his: possessives | A1 | 👜
+summary: Possessives agree with the thing owned and usually take the article: il mio libro, la sua casa — except singular family members.
+--- section: The forms
+table:
+| | m. sg. | f. sg. | m. pl. | f. pl. |
+| my | il **mio** | la **mia** | i **miei** | le **mie** |
+| your (tu) | il **tuo** | la **tua** | i **tuoi** | le **tue** |
+| his / her / your (Lei) | il **suo** | la **sua** | i **suoi** | le **sue** |
+| our | il **nostro** | la **nostra** | i **nostri** | le **nostre** |
+| your (voi) | il **vostro** | la **vostra** | i **vostri** | le **vostre** |
+| their | il **loro** | la **loro** | i **loro** | le **loro** |
+**suo** means his, her, its and polite your — it agrees with the *thing*, not the owner: *la sua macchina* = his/her car. **loro** never changes.
+--- section: The family exception
+With a **singular, unmodified** family member, drop the article: *mio padre, mia sorella, suo marito*. The article returns in the plural (*i miei fratelli*), with *loro* (*il loro figlio*), with a modifier (*la mia sorella maggiore*) and with affectionate forms (*la mia mamma, il mio papà, il mio fratellino*).
+ex: Mia madre e mio padre vivono a Bari. | My mother and father live in Bari. | no article
+ex: I miei genitori sono in vacanza. | My parents are on holiday. | plural → article
+ex: Marco e la sua ragazza. | Marco and his girlfriend. | la ragazza (not family) → article
+--- tip: suo = his OR her
+*la sua casa* can be his or her house — *suo/sua* agrees with *casa*, not with the owner.
+--- tip: mia madre, but i miei fratelli
+No article with singular family nouns; article in the plural and with *loro*.
+--- mistakes
+- *la mia madre* → **mia madre**.
+- *Marco e sua macchina* → **la sua macchina** (not family).
+- *le loros case* → **le loro case**.
+drill: choice 8 label=Choose the possessive
+  q: ___ fratello si chiama Luca. | Mio | Il mio | Mia | en: My brother is called Luca. | why: singular family member → no article
+  q: Dove sono ___ chiavi? | le mie | mie | i miei | en: Where are my keys? | why: le chiavi, feminine plural → le mie
+  q: Anna e ___ marito abitano qui. | suo | il suo | sua | en: Anna and her husband live here. | why: marito: singular family → suo
+  q: Paolo ama ___ macchina. | la sua | sua | il suo | en: Paolo loves his car. | why: la macchina → la sua (agrees with the car)
+  q: ___ figli sono grandi. | I loro | Loro | I loros | en: Their children are grown up. | why: loro always takes the article and never changes
+  q: Signora, è ___ borsa? | la Sua | la tua | sua | en: Madam, is this your bag? | why: polite your → la Sua
+  q: ___ genitori sono simpatici. | I tuoi | Tuoi | Le tue | en: Your parents are nice. | why: plural → article: i tuoi
+  q: Questa è ___ casa. | la nostra | nostra | il nostro | en: This is our house. | why: la casa → la nostra
+
+=== g-c-e-ci-sono | C'è, ci sono — and essere or stare? | A1 | 🏺
+summary: c'è / ci sono = there is / there are. essere is for what something is; stare for how someone is and where they stay.
+--- section: c'è and ci sono
+ex: C'è un bar qui vicino? | Is there a café near here?
+ex: Ci sono molti turisti a Venezia. | There are a lot of tourists in Venice.
+ex: Non c'è problema. | No problem.
+ex: C'era una volta un re. | Once upon a time there was a king. | past: c'era / c'erano
+--- section: essere or stare?
+table:
+| use | verb | example |
+| identity, origin, profession | **essere** | Sono Marco. Sono di Roma. È medico. |
+| permanent qualities | **essere** | La casa è grande. |
+| where something is (location) | **essere** | Dov'è la stazione? |
+| health, how you are | **stare** | Come stai? Sto bene. |
+| staying, remaining | **stare** | Sto a casa stasera. |
+| ongoing action | **stare + gerundio** | Sto mangiando. |
+| about to | **stare per** + infinitive | Sto per uscire. |
+| set phrases | **stare** | stare zitto, stare attento, stare in piedi |
+ex: Come sta tua madre? — Sta meglio, grazie. | How is your mother? — She's better, thanks.
+ex: State zitti, ragazzi! | Be quiet, children!
+--- tip: There is / there are
+**c'è** + singular, **ci sono** + plural: *C'è un problema. Ci sono due problemi.*
+--- tip: Come stai?
+Health and well-being use **stare**: *Sto bene. Sta male.* What something is uses **essere**: *È bello.*
+--- mistakes
+- *È un bar qui vicino?* when you mean "Is there…?" → **C'è un bar qui vicino?**
+- *Come sei?* means "What are you like?" — "How are you?" is **Come stai?**
+drill: choice 8 label=c'è, ci sono, essere or stare?
+  q: ___ un supermercato qui vicino? | C'è | Ci sono | È | en: Is there a supermarket near here? | why: singular → c'è
+  q: In questa città ___ molti musei. | ci sono | c'è | sono | en: There are many museums in this city. | why: plural → ci sono
+  q: Come ___ i tuoi genitori? | stanno | sono | ci sono | en: How are your parents? | why: health → stare
+  q: Mio padre ___ medico. | è | sta | c'è | en: My father is a doctor. | why: profession → essere
+  q: Stasera ___ a casa. | sto | sono stare | c'è | en: Tonight I'm staying home. | why: staying → stare
+  q: Il treno ___ per partire! | sta | è | c'è | en: The train is about to leave! | why: stare per = be about to
+  q: ___ una volta un falegname. | C'era | C'è stato | Era | en: Once upon a time there was a carpenter. | why: fairy-tale opening: C'era una volta
+  q: Dov'___ la stazione? | è | sta | c'è | en: Where is the station? | why: location of a place → essere
+
+=== g-modal | Can, want, must: modal verbs | A1 | 💪
+summary: potere, volere, dovere (and sapere = know how) are irregular and are followed by an infinitive.
+--- section: The forms
+table:
+| | potere | volere | dovere | sapere |
+| io | **posso** | **voglio** | **devo** | **so** |
+| tu | **puoi** | **vuoi** | **devi** | **sai** |
+| lui / lei | **può** | **vuole** | **deve** | **sa** |
+| noi | possiamo | vogliamo | dobbiamo | sappiamo |
+| voi | potete | volete | dovete | sapete |
+| loro | **possono** | **vogliono** | **devono** | **sanno** |
+--- section: Use
+The second verb is an **infinitive**: *Posso entrare? Voglio dormire. Devo lavorare.*
+- **potere** = can (be able / be allowed): *Posso aprire la finestra?*
+- **sapere** + infinitive = know how to: *So nuotare* (I can swim).
+- **volere** = want; **vorrei** (conditional) is the polite "I would like": *Vorrei un caffè, per favore.*
+- **dovere** = must, have to; also "to owe": *Ti devo dieci euro.*
+- **non dovere** = must not: *Non devi fumare qui.* "Don't have to" = **non è necessario / non c'è bisogno di**.
+Object pronouns go before the modal or attach to the infinitive: *Lo voglio vedere* = *Voglio vederlo*.
+ex: Sai cucinare? — Sì, ma non posso farlo oggi. | Can you cook? — Yes, but I can't do it today.
+ex: Dobbiamo partire alle sei. | We have to leave at six.
+--- tip: Modal + infinitive
+*Voglio **imparare** l'italiano. Devo **andare**. Puoi **ripetere**?*
+--- tip: sapere or potere?
+**So** nuotare = I know how to swim. **Posso** nuotare = I'm allowed / able to swim (now).
+--- mistakes
+- *Io posso nuotare* when you mean the skill → **So nuotare**.
+- *Voglio che vado* → **Voglio andare** (same subject → infinitive).
+drill: conj 8 tenses=pres verbs=potere~v,volere,dovere~v,sapere
+drill: choice 5 label=Choose the right form
+  q: ___ (potere) aprire la finestra? | Posso | Poto | Puoi aprire | en: May I open the window? | why: potere: io posso
+  q: Loro non ___ (volere) venire. | vogliono | volono | vuolono | en: They don't want to come. | why: volere: loro vogliono
+  q: Noi ___ (dovere) studiare. | dobbiamo | doviamo | deviamo | en: We have to study. | why: dovere: noi dobbiamo
+  q: Mio figlio ___ (sapere) leggere. | sa | può | sai | en: My son can (knows how to) read. | why: a learned skill → sapere
+  q: ___ un cappuccino, per favore. | Vorrei | Voglio | Volere | en: I'd like a cappuccino, please. | why: polite: vorrei
+
+=== g-reflexive | Reflexive verbs | A1 | 🪞
+summary: alzarsi, chiamarsi, divertirsi: the pronoun mi, ti, si, ci, vi, si goes before the verb, and the past uses essere.
+--- section: The pronouns
+table:
+| | pronoun | alzarsi (to get up) |
+| io | **mi** | mi alzo |
+| tu | **ti** | ti alzi |
+| lui / lei | **si** | si alza |
+| noi | **ci** | ci alziamo |
+| voi | **vi** | vi alzate |
+| loro | **si** | si alzano |
+The infinitive ends in **-si**: *alzarsi, vestirsi, sedersi*. With a modal the pronoun can go first or attach: *Mi devo alzare* = *Devo alzarmi*. In the imperative it attaches: *Alzati! Sbrigatevi!*
+ex: Come ti chiami? — Mi chiamo Chiara. | What's your name? — My name is Chiara.
+ex: La mattina mi sveglio alle sette. | In the morning I wake up at seven.
+ex: Ci vediamo domani! | See you tomorrow! | reciprocal: we see each other
+--- section: In the passato prossimo
+Reflexive verbs always use **essere**, and the participle agrees: *Mi sono alzato* (man) / *Mi sono alzata* (woman), *Ci siamo divertiti*.
+ex: Ieri ci siamo divertiti molto. | We had a lot of fun yesterday.
+--- section: Body parts and clothes
+Italian uses the reflexive instead of a possessive: *Mi lavo le mani* (I wash my hands), *Si mette la giacca* (He puts on his jacket).
+--- tip: mi, ti, si, ci, vi, si
+*mi alzo, ti alzi, si alza, ci alziamo, vi alzate, si alzano.*
+--- tip: Past: essere + agreement
+*Mi sono svegliata tardi.* (said by a woman) · *Si sono sposati nel 2010.*
+--- mistakes
+- *Io chiamo Marco* means "I'm calling Marco" → **Mi chiamo Marco**.
+- *Mi ho alzato* → **Mi sono alzato**.
+- *Lavo le mie mani* → **Mi lavo le mani**.
+drill: conj 8 tenses=pres,pp verbs=alzarsi,svegliarsi,chiamarsi,lavarsi,vestirsi,divertirsi,sentirsi,sedersi,fermarsi,preoccuparsi,ricordarsi
+drill: choice 5 label=Reflexive pronouns
+  q: Come ___ chiami? | ti | si | mi | en: What's your name? | why: tu → ti
+  q: Noi ___ alziamo presto. | ci | si | vi | en: We get up early. | why: noi → ci
+  q: Loro ___ divertono molto. | si | ci | li | en: They have a lot of fun. | why: loro → si
+  q: Ieri mi ___ svegliata tardi. | sono | ho | è | en: Yesterday I woke up late. | why: reflexive → essere
+  q: ___ le mani prima di mangiare! | Lavati | Ti lava | Lava te | en: Wash your hands before eating! | why: imperative: the pronoun attaches → lavati
+
+=== g-passato-prossimo | The passato prossimo | A2 | 📅
+summary: avere or essere + past participle: Ho mangiato. Sono andata. The everyday past tense.
+--- section: Participles
+table:
+| infinitive | participle | |
+| -are: parlare | parl**ato** | regular |
+| -ere: avere, vendere | av**uto**, vend**uto** | regular |
+| -ire: dormire | dorm**ito** | regular |
+| fare / dire | **fatto / detto** | irregular |
+| prendere / mettere | **preso / messo** | irregular |
+| vedere / leggere / scrivere | **visto / letto / scritto** | irregular |
+| aprire / chiudere / bere | **aperto / chiuso / bevuto** | irregular |
+| essere / stare / venire | **stato / stato / venuto** | irregular |
+| nascere / morire / rimanere | **nato / morto / rimasto** | irregular |
+| chiedere / rispondere / perdere | **chiesto / risposto / perso** | irregular |
+--- section: avere or essere?
+**avere** with most verbs — and always when there is a direct object: *Ho mangiato una pizza.*
+**essere** with verbs of **movement** (andare, venire, arrivare, partire, tornare, uscire, entrare), **change** (nascere, morire, diventare, crescere), **staying** (essere, stare, restare, rimanere), with **piacere, succedere, bastare, costare**, and with all **reflexive** verbs.
+With **essere** the participle agrees with the subject like an adjective: *Marco è andato, Anna è andata, i ragazzi sono andati, le ragazze sono andate.*
+ex: Ieri ho visto un film. | Yesterday I saw a film.
+ex: Siamo arrivati alle tre. | We arrived at three.
+ex: Che cosa è successo? | What happened?
+ex: Ti è piaciuto il libro? | Did you like the book? | piacere → essere
+--- section: Verbs with both
+Some verbs take **avere** when they have an object and **essere** when they don't: *Ho finito il lavoro / Il film è finito. Ho cambiato idea / Tutto è cambiato. Ho salito le scale / Sono salito.*
+--- tip: avere + participle
+*Ho **mangiato**. Hai **visto**? Abbiamo **fatto** una passeggiata.*
+--- tip: essere for movement and change — with agreement
+*Sono andat**o** / andat**a**. Siamo partit**i**.*
+ex: Mia sorella è nata a Firenze. | My sister was born in Florence.
+--- mistakes
+- *Ho andato* → **Sono andato**.
+- *Sono mangiato* → **Ho mangiato**.
+- *Anna è andato* → **Anna è andata**.
+- *Ho prenduto* → **Ho preso**.
+drill: conj 12 tenses=pp
+drill: choice 6 label=avere or essere?
+  q: Ieri ___ andati al cinema. | siamo | abbiamo | sono | en: Yesterday we went to the cinema. | why: andare → essere; noi siamo
+  q: Ho ___ una lettera. (scrivere) | scritto | scrivuto | scrivito | en: I wrote a letter. | why: scrivere → scritto
+  q: Maria è ___ alle otto. (uscire) | uscita | uscito | usciti | en: Maria went out at eight. | why: essere → agreement: uscita
+  q: Che cosa ___ fatto ieri? | hai | sei | ha | en: What did you do yesterday? | why: fare → avere
+  q: I bambini ___ nati in Italia. | sono | hanno | è | en: The children were born in Italy. | why: nascere → essere
+  q: Mi ___ piaciuta la festa. | è | ha | sono | en: I liked the party. | why: piacere → essere; agreement with la festa
+
+=== g-direct-pronouns | Direct object pronouns | A2 | 🎯
+summary: lo, la, li, le (and mi, ti, ci, vi) replace a direct object and go before the verb: Lo vedo. L'ho visto.
+--- section: The pronouns
+table:
+| | singular | plural |
+| 1st | **mi** (me) | **ci** (us) |
+| 2nd | **ti** (you) | **vi** (you all) |
+| 3rd masculine | **lo** (him, it) | **li** (them) |
+| 3rd feminine | **la** (her, it) | **le** (them) |
+| polite | **La** (you) | |
+--- section: Position
+- Before the conjugated verb: *Lo compro. Non la conosco.*
+- Attached to an infinitive: *Voglio comprarlo* (= *Lo voglio comprare*).
+- Attached to tu/noi/voi commands: *Prendilo! Mangiamola!*
+- **ecco** + pronoun: *Eccolo! Eccoci!*
+ex: Conosci Marco? — Sì, lo conosco bene. | Do you know Marco? — Yes, I know him well.
+ex: Dove sono le chiavi? — Non le trovo. | Where are the keys? — I can't find them.
+--- section: In the passato prossimo
+*lo* and *la* elide before *ho, hai, ha, hanno*: **l'ho, l'hai**. The participle **agrees** with lo/la/li/le:
+ex: Hai visto la partita? — Sì, l'ho vista. | Did you see the match? — Yes, I saw it. | la → vista
+ex: Hai comprato i biglietti? — Sì, li ho comprati. | Did you buy the tickets? — Yes, I bought them.
+--- tip: Before the verb
+*Il libro? **Lo** leggo stasera. La pizza? **La** mangio subito.*
+--- tip: l'ho vista, li ho presi
+With lo/la/li/le the past participle agrees: *La lettera? L'ho scritt**a**. I libri? Li ho lett**i**.*
+--- mistakes
+- *Vedo lo* → **Lo vedo**.
+- *La ho vista* → **L'ho vista**.
+- *Li ho comprato* → **Li ho comprati**.
+drill: choice 8 label=Choose the pronoun
+  q: Il caffè? ___ prendo senza zucchero. | Lo | La | Li | en: The coffee? I take it without sugar. | why: il caffè → lo
+  q: La signora Rossi? Non ___ conosco. | la | lo | le | en: Mrs Rossi? I don't know her. | why: feminine → la
+  q: I compiti? ___ faccio dopo. | Li | Le | Lo | en: The homework? I'll do it later. | why: masculine plural → li
+  q: Le foto? ___ ho messe sul tavolo. | Le | Li | La | en: The photos? I put them on the table. | why: feminine plural → le
+  q: Voglio ___ domani. (vedere + ti) | vederti | ti vedere | vedereti | en: I want to see you tomorrow. | why: attaches to the infinitive without its final -e
+  q: La mela? L'ho ___. (mangiare) | mangiata | mangiato | mangiati | en: The apple? I ate it. | why: agreement with la → mangiata
+  q: Dov'è Luca? — ___! | Eccolo | Eccoli | Ecco lui | en: Where's Luca? — There he is! | why: ecco + lo
+  q: Mi aiuti? — Sì, ___ aiuto. | ti | mi | ci | en: Will you help me? — Yes, I'll help you. | why: me → you: ti
+
+=== g-indirect-pronouns | Indirect pronouns and piacere | A2 | 😋
+summary: mi, ti, gli, le, ci, vi, gli = to me, to you, to him… and the key to "I like": mi piace.
+--- section: The pronouns
+table:
+| | singular | plural |
+| 1st | **mi** (to me) | **ci** (to us) |
+| 2nd | **ti** (to you) | **vi** (to you all) |
+| 3rd | **gli** (to him), **le** (to her) | **gli** (to them; formal: *loro* after the verb) |
+| polite | **Le** (to you) | |
+Verbs that take a person "to whom": *dare, dire, scrivere, telefonare, mandare, regalare, chiedere, rispondere, spiegare, mostrare*.
+ex: Gli scrivo una lettera. | I'm writing him a letter.
+ex: Le ho regalato un libro. | I gave her a book.
+ex: Ti telefono domani. | I'll call you tomorrow.
+--- section: piacere
+**piacere** works backwards: the thing you like is the subject, the person is the indirect object. *Mi piace la pizza* = pizza pleases me. Plural things take **piacciono**:
+table:
+| | singular thing / verb | plural things |
+| I like | **mi piace** la musica / ballare | **mi piacciono** i gatti |
+| you like | ti piace | ti piacciono |
+| he likes | gli piace | gli piacciono |
+| she likes | le piace | le piacciono |
+| we like | ci piace | ci piacciono |
+| they like | gli piace | gli piacciono |
+For emphasis: *A me piace il mare, a lui piace la montagna.* Past: *Mi è piaciuto il film. Mi sono piaciute le canzoni.*
+Similar verbs: **mancare** (*Mi manchi* = I miss you), **servire** (*Mi serve una penna* = I need a pen), **sembrare** (*Mi sembra giusto*), **interessare**, **dispiacere** (*Mi dispiace* = I'm sorry).
+--- tip: Mi piace / mi piacciono
+One thing or an action: **piace**. Several things: **piacciono**. *Mi piace il gelato. Mi piacciono i gelati.*
+--- tip: Mi manchi
+*mancare* is like *piacere*: **Mi manchi** = you are missing to me = I miss you.
+--- mistakes
+- *Io piaccio la pizza* → **Mi piace la pizza**.
+- *Mi piace i cani* → **Mi piacciono i cani**.
+- *Le piace* = she likes / you (formal) like; *Gli piace* = he likes / they like.
+drill: choice 8 label=Indirect pronouns and piacere
+  q: Ti ___ i film italiani? | piacciono | piace | piaci | en: Do you like Italian films? | why: plural thing → piacciono
+  q: A Marco ___ piace il calcio. | gli | le | lo | en: Marco likes football. | why: to him → gli
+  q: A Giulia ___ piacciono i fiori. | le | gli | la | en: Giulia likes flowers. | why: to her → le
+  q: ___ manchi molto! | Mi | Io | Me | en: I miss you a lot! | why: mancare like piacere: mi manchi
+  q: Mi ___ una penna. (servire) | serve | servo | servi | en: I need a pen. | why: the pen is the subject → serve
+  q: Il concerto ti è ___? | piaciuto | piaciuta | piaciuti | en: Did you like the concert? | why: essere + agreement with il concerto
+  q: Signora, ___ piace il caffè? | Le | La | Lei | en: Madam, do you like the coffee? | why: polite "to you" → Le
+  q: ___ ho telefonato ieri. (a Luca) | Gli | Lo | Le | en: I called him yesterday. | why: telefonare a qualcuno → gli
+
+=== g-imperfetto | The imperfetto | A2 | 🎞️
+summary: The imperfetto paints the background — what was going on, what used to happen, how things were.
+--- section: Forms
+table:
+| | parlare | prendere | dormire | essere |
+| io | parl**avo** | prend**evo** | dorm**ivo** | **ero** |
+| tu | parl**avi** | prend**evi** | dorm**ivi** | **eri** |
+| lui / lei | parl**ava** | prend**eva** | dorm**iva** | **era** |
+| noi | parl**avamo** | prend**evamo** | dorm**ivamo** | **eravamo** |
+| voi | parl**avate** | prend**evate** | dorm**ivate** | **eravate** |
+| loro | parl**avano** | prend**evano** | dorm**ivano** | **erano** |
+Almost every verb is regular. Irregular stems: **fare → facevo, dire → dicevo, bere → bevevo, porre → ponevo, tradurre → traducevo**.
+--- section: When to use it
+- **habits** in the past (used to): *Da bambino giocavo sempre a calcio.*
+- **descriptions** of people, places, weather, time, age: *Era una bella giornata. Avevo dieci anni.*
+- **actions in progress** (was doing): *Mentre leggevo, è arrivata Anna.*
+- **states of mind**: *Volevo dirti… Non sapevo che…*
+ex: Quando ero piccolo, abitavo in campagna. | When I was little, I lived in the country.
+ex: Faceva freddo e nevicava. | It was cold and it was snowing.
+--- tip: Background vs. event
+**Imperfetto** = scenery and habits (*era, faceva, abitavo*). **Passato prossimo** = what happened (*è arrivato, ho visto*).
+ex: Dormivo quando è suonato il telefono. | I was sleeping when the phone rang.
+--- tip: Easy endings
+*-avo, -evo, -ivo* + *-avi, -ava, -avamo, -avate, -avano*. Only *essere* is really irregular: ero, eri, era…
+--- mistakes
+- *Quando sono stato bambino* → **Quando ero bambino**.
+- *Ieri pioveva tutto il giorno* is fine; but "it rained twice" is **è piovuto due volte** (counted events → passato prossimo).
+drill: conj 10 tenses=impf
+drill: choice 6 label=Imperfetto or passato prossimo?
+  q: Da bambino ___ al mare ogni estate. | andavo | sono andato | vado | en: As a child I went to the seaside every summer. | why: habit → imperfetto
+  q: Ieri ___ un film bellissimo. | ho visto | vedevo | vedo | en: Yesterday I saw a wonderful film. | why: one completed event → passato prossimo
+  q: Mentre ___, è entrato il professore. | parlavamo | abbiamo parlato | parliamo | en: While we were talking, the teacher came in. | why: action in progress → imperfetto
+  q: ___ una bella giornata di sole. | Era | È stata | Fu | en: It was a beautiful sunny day. | why: description → imperfetto
+  q: Quando ___ dieci anni, abitavo a Napoli. | avevo | ho avuto | ero | en: When I was ten, I lived in Naples. | why: age in the past → imperfetto of avere
+  q: All'improvviso ___ il telefono. | è suonato | suonava | suona | en: Suddenly the phone rang. | why: sudden event → passato prossimo
+
+=== g-imperativo | Commands: the imperative | A2 | 📢
+summary: Parla! Prendi! Senta! — tu, noi, voi and the polite Lei form, with pronouns attached.
+--- section: Forms
+table:
+| | parlare | prendere | sentire | finire |
+| tu | **parla** | **prendi** | **senti** | **finisci** |
+| Lei (polite) | **parli** | **prenda** | **senta** | **finisca** |
+| noi | parliamo | prendiamo | sentiamo | finiamo |
+| voi | parlate | prendete | sentite | finite |
+The *tu* form of -are verbs ends in **-a**; the *Lei* form swaps the vowel (-are → -i, -ere/-ire → -a).
+--- section: Irregular tu forms
+table:
+| verb | tu | Lei |
+| andare | **va'** / vai | vada |
+| fare | **fa'** / fai | faccia |
+| dare | **da'** / dai | dia |
+| stare | **sta'** / stai | stia |
+| dire | **di'** | dica |
+| essere | **sii** | sia |
+| avere | **abbi** | abbia |
+| venire | vieni | venga |
+--- section: Negative and pronouns
+Negative *tu* = **non + infinitive**: *Non parlare! Non toccare!* Other persons just add *non*: *Non parliamo. Non parlate.*
+Pronouns **attach** to tu, noi and voi forms (*Prendilo! Diamoglielo! Alzatevi!*) and go **before** the Lei form (*Mi dica. Si accomodi.*). After the one-syllable forms *va', fa', da', sta', di'* the consonant doubles: **dimmi, fammi, dammi, vattene, stammi bene**.
+ex: Senta, scusi, dov'è la stazione? | Excuse me, where's the station? | polite Lei
+ex: Dimmi la verità! | Tell me the truth! | di' + mi → dimmi
+ex: Non preoccuparti! | Don't worry! | negative tu: non + infinitive (+ pronoun)
+--- tip: Friendly and polite
+*Scusa! Senti!* (to a friend) — *Scusi! Senta!* (polite). The polite form swaps the vowel.
+--- tip: Dimmi, fammi, dammi
+After *di', fa', da'* the pronoun doubles its consonant: *dimmi, fammi vedere, dammelo*.
+--- mistakes
+- *Non parla!* to a friend → **Non parlare!**
+- *Dici me!* → **Dimmi!**
+- *Si siede!* → **Si sieda!** (polite) or **Siediti!** (tu).
+drill: choice 8 label=Make the command
+  q: (tu, parlare) ___ più piano! | Parla | Parli | Parlare | en: Speak more slowly! | why: tu: -are → -a
+  q: (Lei, scusare) ___, signora! | Scusi | Scusa | Scusate | en: Excuse me, madam! | why: polite → -i
+  q: (tu, dire) ___ la verità! | Di' | Dici | Dica | en: Tell the truth! | why: dire: tu → di'
+  q: (tu, non toccare) ___! | Non toccare | Non tocca | Non tocchi | en: Don't touch! | why: negative tu → non + infinitive
+  q: (tu, alzarsi) ___! | Alzati | Ti alza | Alzarti | en: Get up! | why: pronoun attaches: alza + ti
+  q: (Lei, accomodarsi) ___! | Si accomodi | Accomodati | Si accomoda | en: Please, have a seat! | why: polite: pronoun before, -i ending
+  q: (voi, venire) ___ qui! | Venite | Venga | Vieni | en: Come here (all of you)! | why: voi → venite
+  q: (tu, dare + mi) ___ il libro! | Dammi | Dami | Dai mi | en: Give me the book! | why: da' + mi → dammi
+
+=== g-futuro | The future | A2 | 🔮
+summary: -rò, -rai, -rà: the future also expresses guesses ("Sarà vero" = it's probably true).
+--- section: Regular forms
+-are verbs change their *a* to **e**: *parlare → parlerò*.
+table:
+| | parlare | prendere | dormire |
+| io | parl**erò** | prend**erò** | dorm**irò** |
+| tu | parl**erai** | prend**erai** | dorm**irai** |
+| lui / lei | parl**erà** | prend**erà** | dorm**irà** |
+| noi | parl**eremo** | prend**eremo** | dorm**iremo** |
+| voi | parl**erete** | prend**erete** | dorm**irete** |
+| loro | parl**eranno** | prend**eranno** | dorm**iranno** |
+Spelling: *cercare → cercherò, pagare → pagherò, cominciare → comincerò, mangiare → mangerò*.
+--- section: Irregular stems
+table:
+| verb | future | verb | future |
+| essere | **sarò** | avere | **avrò** |
+| andare | **andrò** | fare | **farò** |
+| dare / stare | **darò / starò** | dovere / potere | **dovrò / potrò** |
+| sapere / vedere | **saprò / vedrò** | vivere | **vivrò** |
+| venire / volere | **verrò / vorrò** | tenere / rimanere | **terrò / rimarrò** |
+| bere | **berrò** | | |
+--- section: Uses
+- the future: *Domani pioverà.* (Italians often use the present: *Domani vado a Roma.*)
+- after **quando, se, appena** about the future: *Quando arriverai, ti chiamerò.*
+- **guesses** about the present: *Dov'è Marco? — Sarà a casa.* (He's probably at home.) *Che ore sono? — Saranno le otto.*
+ex: L'anno prossimo andrò in Sicilia. | Next year I'll go to Sicily.
+ex: Chi è alla porta? — Sarà il postino. | Who's at the door? — It must be the postman.
+--- tip: -rò, -rai, -rà, -remo, -rete, -ranno
+*parlerò, prenderò, dormirò* — and the -are verbs take an **e**.
+--- tip: Probably…
+*Sarà stanco* = He's probably tired. The future can mean "I suppose".
+--- mistakes
+- *parlarò* → **parlerò**.
+- *anderò* → **andrò**; *venirò* → **verrò**.
+drill: conj 10 tenses=fut
+drill: choice 5 label=Future
+  q: Domani ___ (essere) bel tempo. | sarà | essera | sarò | en: Tomorrow the weather will be fine. | why: essere → sarà
+  q: Quando ___ (venire) a trovarmi? | verrai | venirai | vieni rai | en: When will you come to see me? | why: venire → verrai
+  q: Noi ___ (mangiare) alle otto. | mangeremo | mangiaremo | mangieremo | en: We'll eat at eight. | why: mangiare → mangeremo (no i)
+  q: Non trovo Paolo. — ___ al lavoro. | Sarà | È stato | Sia | en: I can't find Paolo. — He's probably at work. | why: future of probability
+  q: Se ___ (avere) tempo, ti aiuterò. | avrò | averò | avrei | en: If I have time, I'll help you. | why: avere → avrò
+
+=== g-ci-ne | ci and ne | A2 | 🍝
+summary: ci = there, about it; ne = of it, some of them. Two little words every Italian sentence seems to need.
+--- section: ci
+- **there** (replacing a place): *Vai a Roma? — Sì, ci vado domani.*
+- **about it / of it** after *pensare a, credere a, riuscire a*: *Ci penso io!* (I'll take care of it!) *Non ci credo!* (I don't believe it!) *Non ci riesco* (I can't manage it).
+- in fixed expressions: **c'è / ci sono**, **ci vuole / ci vogliono** (it takes): *Ci vogliono due ore.* **volerci, metterci, farcela**.
+ex: Sei mai stato a Venezia? — Sì, ci sono stato l'anno scorso. | Have you ever been to Venice? — Yes, I was there last year.
+ex: Quanto tempo ci vuole per arrivare? | How long does it take to get there?
+--- section: ne
+- **of it, of them, some** — with numbers and quantities: *Quanti fratelli hai? — Ne ho due.* *Vuoi del pane? — Sì, ne prendo un po'.*
+- **about it, of it** after *parlare di, avere bisogno di, avere voglia di*: *Ne parliamo domani. Ne ho bisogno.*
+- **from there**: *Me ne vado* (I'm leaving).
+In the passato prossimo the participle agrees with what *ne* stands for: *Hai mangiato le mele? — Ne ho mangiate tre.*
+ex: Quante sorelle hai? — Ne ho una. | How many sisters do you have? — I have one.
+ex: Non ne posso più! | I can't take it any more!
+--- tip: ci = there
+*Vado al mare → **Ci** vado.* Also *Ci penso io* = leave it to me.
+--- tip: ne = of them
+*Quanti anni hai? — **Ne** ho trenta.* Italian needs *ne* when you give a quantity without repeating the noun.
+--- mistakes
+- *Ho due* (when the noun is understood) → **Ne ho due**.
+- *Vado lì* is fine, but **Ci vado** is more natural.
+drill: choice 8 label=ci or ne?
+  q: Vai in palestra oggi? — Sì, ___ vado alle sei. | ci | ne | la | en: Are you going to the gym today? — Yes, I'm going at six. | why: a place → ci
+  q: Quanti libri hai? — ___ ho cinquanta. | Ne | Ci | Li | en: How many books do you have? — I have fifty. | why: quantity → ne
+  q: Pensi spesso alle vacanze? — Sì, ___ penso sempre. | ci | ne | le | en: Do you often think about the holidays? — Yes, always. | why: pensare a → ci
+  q: Hai bisogno di aiuto? — Sì, ___ ho bisogno. | ne | ci | lo | en: Do you need help? — Yes, I need it. | why: avere bisogno di → ne
+  q: Quanto tempo ___ vuole? | ci | ne | si | en: How long does it take? | why: volerci = to take (time)
+  q: Vuoi delle fragole? — Sì, ___ prendo un po'. | ne | le | ci | en: Do you want some strawberries? — Yes, I'll have a few. | why: some of them → ne
+  q: Non ___ credo! | ci | ne | lo | en: I don't believe it! | why: credere a → ci
+  q: Me ___ vado. | ne | ci | lo | en: I'm leaving. | why: andarsene → me ne vado
+
+=== g-comparatives | Comparing: più, meno, migliore | A2 | 📏
+summary: più … di / che, meno … di / che, tanto … quanto, and the irregular migliore, peggiore, meglio, peggio.
+--- section: più / meno … di or che?
+- **di** before nouns, pronouns and numbers: *Marco è più alto di Luca. Sei più bravo di me.*
+- **che** when comparing two adjectives, verbs, adverbs, or nouns after the comparison: *È più bello che utile. Mi piace più leggere che scrivere. Ci sono più turisti che abitanti.*
+- equality: **(tanto) … quanto** or **(così) … come**: *È alto quanto me. Sei bravo come lui.*
+ex: Roma è più grande di Firenze. | Rome is bigger than Florence.
+ex: Questo vino è meno caro di quello. | This wine is less expensive than that one.
+ex: Preferisco camminare che correre. | I'd rather walk than run.
+--- section: Superlatives
+- relative: **il più / il meno … di**: *È la città più bella d'Italia.*
+- absolute: **-issimo** = very: *bello → bellissimo, buono → buonissimo, facile → facilissimo, ricco → ricchissimo*.
+--- section: Irregular forms
+table:
+| | comparative | superlative |
+| buono (good) | **migliore** / più buono | **ottimo** / il migliore |
+| cattivo (bad) | **peggiore** / più cattivo | **pessimo** / il peggiore |
+| grande | **maggiore** (older, greater) | massimo |
+| piccolo | **minore** (younger, lesser) | minimo |
+| bene (well — adverb) | **meglio** | benissimo |
+| male (badly — adverb) | **peggio** | malissimo |
+*Migliore* is an adjective (*un libro migliore*), *meglio* an adverb (*Sto meglio*). *Mio fratello maggiore* = my older brother.
+--- tip: di or che?
+Two people or things → **di**: *Anna è più giovane **di** Marco.* Two adjectives or two verbs → **che**: *più facile **che** utile*.
+--- tip: migliore or meglio?
+*Questo caffè è **migliore*** (better coffee — adjective). *Oggi sto **meglio*** (I feel better — adverb).
+--- mistakes
+- *più buono di* is possible but **migliore** is more common; *più meglio* is wrong.
+- *È più alto che me* → **più alto di me**.
+drill: choice 8 label=Compare
+  q: Il treno è più veloce ___ autobus. | dell' | che l' | come l' | en: The train is faster than the bus. | why: noun after → di + article: dell'autobus
+  q: È più facile dire ___ fare. | che | di | del | en: It's easier said than done. | why: two verbs → che
+  q: Mia sorella è ___ di me. (younger) | minore | meno | minima | en: My sister is younger than me. | why: younger → minore
+  q: Questo ristorante è ___ dell'altro. (better) | migliore | meglio | più meglio | en: This restaurant is better than the other one. | why: adjective → migliore
+  q: Come stai? — ___, grazie. (better) | Meglio | Migliore | Più bene | en: How are you? — Better, thanks. | why: adverb → meglio
+  q: La pasta è ___. (very good) | buonissima | molto buonissima | più buona | en: The pasta is very good. | why: absolute superlative: -issimo
+  q: È la ragazza più simpatica ___ classe. | della | di | che la | en: She's the nicest girl in the class. | why: relative superlative + di + article
+  q: Luca è alto ___ Marco. (as tall as) | quanto | che | di | en: Luca is as tall as Marco. | why: equality: (tanto) … quanto

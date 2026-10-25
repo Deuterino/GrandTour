@@ -406,3 +406,60 @@ export function splitCompound(word, findNoun, skipWhole = false) {
   }
   return null;
 }
+
+// "Büchlein" → Buch, "Kätzchen" → Katze, "Vöglein" → Vogel: candidate base nouns of a diminutive
+export function diminutiveBases(word) {
+  const m = word.match(/^([A-ZÄÖÜ].+?)(chen|lein)$/);
+  if (!m) return [];
+  const st = m[1];
+  const plain = st.replace(/äu/g, 'au').replace(/ä/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u');
+  const out = [];
+  for (const s of [st, plain]) out.push(s, s + 'e', s + 'en', s + 'el');
+  return [...new Set(out)];
+}
+
+// ---------- numbers (reader): "einundzwanzig" → 21, "zweihundertdreiundvierzigste" → 243rd ----------
+
+const NUM_UNIT = { ein: 1, eins: 1, eine: 1, zwei: 2, drei: 3, vier: 4, fünf: 5, sechs: 6, sieben: 7, acht: 8, neun: 9 };
+const NUM_TEEN = { zehn: 10, elf: 11, zwölf: 12, dreizehn: 13, vierzehn: 14, fünfzehn: 15, sechzehn: 16, siebzehn: 17, achtzehn: 18, neunzehn: 19 };
+const NUM_TENS = { zwanzig: 20, dreißig: 30, vierzig: 40, fünfzig: 50, sechzig: 60, siebzig: 70, achtzig: 80, neunzig: 90 };
+
+function below100(s) {
+  if (s in NUM_UNIT) return NUM_UNIT[s];
+  if (s in NUM_TEEN) return NUM_TEEN[s];
+  if (s in NUM_TENS) return NUM_TENS[s];
+  const m = s.match(/^(ein|zwei|drei|vier|fünf|sechs|sieben|acht|neun)und(.+)$/);
+  return m && NUM_TENS[m[2]] ? NUM_UNIT[m[1]] + NUM_TENS[m[2]] : null;
+}
+
+function below1000(s) {
+  const i = s.indexOf('hundert');
+  if (i < 0) return below100(s);
+  const pre = s.slice(0, i);
+  const mult = pre === '' ? 1 : NUM_UNIT[pre] || NUM_TEEN[pre]; // neunzehnhundert (years)
+  if (!mult || pre === 'eins' || pre === 'eine') return null;
+  const rest = s.slice(i + 7).replace(/^und/, '');
+  if (!rest) return mult * 100;
+  const r = below100(rest);
+  return r != null ? mult * 100 + r : null;
+}
+
+function cardinal(s) {
+  const i = s.indexOf('tausend');
+  if (i < 0) return below1000(s);
+  const mult = i === 0 ? 1 : below1000(s.slice(0, i));
+  if (!mult) return null;
+  const rest = s.slice(i + 7).replace(/^und/, '');
+  if (!rest) return mult * 1000;
+  const r = below1000(rest);
+  return r != null ? mult * 1000 + r : null;
+}
+
+export function parseNumber(word) {
+  const s = word.toLowerCase();
+  const v = cardinal(s);
+  if (v != null) return { value: v };
+  const m = s.match(/^(.+?)s?te[nrsm]?$/);
+  const o = m && cardinal(m[1]);
+  return o && o > 12 ? { value: o, ordinal: true } : null;
+}

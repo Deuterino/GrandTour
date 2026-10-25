@@ -107,11 +107,11 @@ function useBook(lang, bookId, L) {
 function knownShare(text, L, c) {
   const toks = analyzeText(text, L).filter((t) => t.k === 'w');
   if (!toks.length) return 1;
-  return toks.filter((t) => t.cands?.[0] && c.seen[t.cands[0].entry.id]).length / toks.length;
+  return toks.filter((t) => t.cands?.[0] && (t.cands[0].entry.syn || c.seen[t.cands[0].entry.id])).length / toks.length;
 }
 
 function Interlinear({ text, L }) {
-  const toks = useMemo(() => analyzeText(text, L), [text]);
+  const toks = useMemo(() => analyzeText(text, L), [text, L, L.ext]);
   return html`<p class="interlinear">${toks.filter((t) => t.k !== 's').map((t) => t.k === 'w'
     ? html`<span class="seg"><${TappableText} text=${t.t} L=${L}/><span class="gloss">${t.cands?.[0] ? shortEn(t.cands[0].entry).split(',')[0].slice(0, 18) : '·'}</span></span>`
     : html`<span class="seg">${t.t}<span class="gloss"> </span></span>`)}</p>`;
@@ -129,7 +129,10 @@ export function Reader({ bookId, chapter = 0 }) {
   const [showEn, setShowEn] = useState(false);
   const [playing, setPlaying] = useState(-1);
   const counted = useRef(new Set());
+  const [, setExtReady] = useState(!!L.ext);
   useEffect(() => () => speech.stop(), []);
+  // the extended dictionary covers words beyond the course (and overrides the analyzer's guesses), so load it with the book
+  useEffect(() => { if (!L.ext) L.loadExtended().then(() => setExtReady(true)); }, [L]);
   if (book.loading) return html`<div class="muted center" style="padding:2rem">Opening the book…</div>`;
   if (book.error) return html`<div><${BackBar} title="Library"/><div class="tip">${book.error.message}</div></div>`;
   const b = book.value;

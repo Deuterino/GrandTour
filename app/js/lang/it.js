@@ -260,25 +260,28 @@ export function irregularCells(entry, tense) {
 
 // ---------- clitics (reader) ----------
 
-const CLITIC_RE = /(glie(?:lo|la|li|le|ne)|(?:me|te|se|ce|ve)(?:lo|la|li|le|ne)|mi|ti|si|ci|vi|lo|la|li|le|gli|ne)$/;
+const CLITICS = ['glielo', 'gliela', 'glieli', 'gliele', 'gliene',
+  ...['me', 'te', 'se', 'ce', 've'].flatMap((p) => ['lo', 'la', 'li', 'le', 'ne'].map((d) => p + d)),
+  'mi', 'ti', 'si', 'ci', 'vi', 'lo', 'la', 'li', 'le', 'gli', 'ne'];
 
-// "vederlo" → [{ base: 'veder', clitics: ['lo'] }], "dimmelo" → di' + me + lo, "alzati" → alza + ti
+// Every way to read a word as verb + attached pronouns, most plausible first:
+// plain bases (alza + ti, disse + lo), then infinitives (veder → vedere + lo), then di'/fa'/da' + doubled clitic (dimmi, vattene).
 export function splitClitics(word) {
-  const out = [];
-  let w = word.toLowerCase();
-  const clitics = [];
-  for (let i = 0; i < 2; i++) {
-    const m = w.match(CLITIC_RE);
-    if (!m || w.length - m[0].length < 2) break;
-    clitics.unshift(m[0]);
-    w = w.slice(0, -m[0].length);
-    const bases = [w];
-    if (/(.)\1$/.test(w) && w.length <= 4) bases.push(w.slice(0, -1) + "'"); // dimmi → di', fammi → fa'
-    if (/r$/.test(w)) bases.push(w + 'e'); // veder → vedere
-    if (/rr$/.test(w)) bases.push(w + 'e');
-    for (const b of bases) out.push({ base: b, clitics: [...clitics] });
-  }
-  return out;
+  const tiers = [[], [], []];
+  const walk = (w, after) => {
+    for (const k of CLITICS) {
+      if (!w.endsWith(k) || w.length - k.length < 2) continue;
+      const b = w.slice(0, -k.length);
+      const clitics = [k, ...after];
+      tiers[0].push({ base: b, clitics });
+      if (/r$/.test(b)) tiers[1].push({ base: b + 'e', clitics });
+      if (!after.length && b.length <= 4 && b.slice(-1) === k[0] && k[0] !== 'g') tiers[2].push({ base: b.slice(0, -1) + "'", clitics });
+      if (b.length <= 3 && /[aei]$/.test(b)) tiers[2].push({ base: b + "'", clitics }); // dagli → da' + gli
+      if (!after.length) walk(b, clitics);
+    }
+  };
+  walk(word.toLowerCase(), []);
+  return tiers.flat();
 }
 
 export const CLITIC_MEANING = {
@@ -345,6 +348,134 @@ export function spellingCandidates(word) {
   out.add(word.replace(/ú/g, 'ù').replace(/í/g, 'ì').replace(/ó/g, 'ò').replace(/á/g, 'à'));
   out.add(word.replace(/chè$/, 'ché'));
   out.add(word.replace(/j/g, 'i'));
+  out.add(word.replace(/iuo/g, 'io').replace(/([^i])uo/, '$1o')); // giuoco → gioco, cuopre → copre
+  out.add(word.replace(/([ei])a(no)?$/, '$1va$2')); // imperfetto without v: avea → aveva, sentiano → sentivano
   out.delete(word);
   return [...out];
+}
+
+// Old and literary forms in 19th-century books → [modern lemma, explanation]
+export const ARCHAIC = {
+  ei: ['egli', 'ei = egli, lui (he) — old and poetic'], "e'": ['egli', "e' = egli, lui (he) — Tuscan"], eglino: ['egli', 'eglino = loro (they) — old'],
+  elleno: ['ella', 'elleno = loro (they, f.) — old'], fo: ['fare', 'fo = faccio (I do, I make) — old Tuscan'],
+  vo: ['andare', 'vo = vado (I go) — old Tuscan'], debbo: ['dovere', 'debbo = devo (I must) — old'], debbono: ['dovere', 'debbono = devono (they must) — old'],
+  deggio: ['dovere', 'deggio = devo (I must) — poetic'], dee: ['dovere', 'dee = deve (must) — old'], deono: ['dovere', 'deono = devono — old'],
+  veggo: ['vedere', 'veggo = vedo (I see) — old'], puote: ['potere', 'puote = può (can) — poetic'], ponno: ['potere', 'ponno = possono — poetic'],
+  "fe'": ['fare', "fe' = fece (did, made)"], "die'": ['dare', "die' = diede (gave)"], han: ['avere', 'han = hanno (they have)'],
+  fan: ['fare', 'fan = fanno (they do)'], dan: ['dare', 'dan = danno (they give)'], stan: ['stare', 'stan = stanno (they are, stay)'],
+  or: ['ora', 'or = ora (now)'], "mi'": ['mio', "mi' = mio / mia (my) — Tuscan"], "tu'": ['tuo', "tu' = tuo / tua (your) — Tuscan"],
+  "su'": ['suo', "su' = suo / sua (his, her) — Tuscan"], core: ['cuore', 'core = cuore (heart) — poetic'],
+  lagrima: ['lacrima', 'lagrima = lacrima (tear) — old spelling'], lagrime: ['lacrima', 'lagrime = lacrime (tears) — old spelling'],
+  imperocché: ['perché', 'imperocché = perché (because) — old'], laonde: ['quindi', 'laonde = perciò, quindi (therefore) — old'],
+  allorché: ['quando', 'allorché = quando (when) — literary'], sinché: ['finché', 'sinché = finché (until)'],
+  ove: ['dove', 'ove = dove (where) — literary'], onde: ['dove', 'onde = da dove (whence), or per cui (so that) — literary'],
+  niuno: ['nessuno', 'niuno = nessuno (nobody) — old'], cotesto: ['codesto', 'cotesto = codesto (that, near you) — Tuscan'],
+};
+
+// Shortened forms: vien → viene, far → fare, son → sono, pover' → povero, quand' → quando
+export function truncationCandidates(word) {
+  const w = word.toLowerCase();
+  if (w.length < 2) return [];
+  if (/'$/.test(w)) { const b = w.slice(0, -1); return [b + 'o', b + 'e', b + 'a', b + 'i']; }
+  if (/n$/.test(w)) return [w + 'o', w + 'e', w + 'a', w + 'i'];
+  if (/[lr]$/.test(w)) return [w + 'e', w + 'o', w + 'a', w + 'i'];
+  return [];
+}
+
+// lentamente → lenta (→ lento), facilmente → facile
+export function menteBases(word) {
+  const m = word.toLowerCase().match(/^(.{3,})mente$/);
+  return m ? [...new Set([m[1], m[1] + 'e'])] : [];
+}
+
+// Altered nouns and adjectives: gattino (gatto + -ino), librone, tempaccio, casette, piccolino
+// [pattern before the final vowel, suffix name, meaning, English prefix]
+const ALTERATI = [['olin', '-olino', 'small or dear', 'little'], ['ellin', '-ellino', 'small or dear', 'little'], ['icin', '-icino', 'small', 'little'],
+  ['in', '-ino', 'small or dear', 'little'], ['ett', '-etto', 'small', 'little'], ['ell', '-ello', 'small', 'little'],
+  ['ucci', '-uccio', 'small and dear', 'dear little'], ['ucc', '-uccio', 'small and dear', 'dear little'], ['on', '-one', 'big', 'big'],
+  ['acci', '-accio', 'bad or ugly', 'nasty'], ['acc', '-accio', 'bad or ugly', 'nasty'], ['ott', '-otto', 'sturdy, fairly big', 'sturdy']];
+export function alteratoBases(word) {
+  const w = word.toLowerCase();
+  const out = [];
+  for (const [pat, label, sense, en] of ALTERATI) {
+    const m = w.match(new RegExp(`^(.{2,}?)${pat}([oaie])$`));
+    if (!m) continue;
+    const st = m[1], soft = st.replace(/([cg])h$/, '$1'); // barchetta → barca
+    const end = m[2];
+    const big = pat === 'on';
+    const plural = big ? end === 'i' : end === 'i' || end === 'e';
+    // -one nouns are mostly masculine even from feminine bases (la porta → il portone)
+    const g = big ? (end === 'a' ? 'f' : 'm') : (end === 'a' || end === 'e' ? 'f' : 'm');
+    const sg = !plural ? w : big ? w.replace(/i$/, 'e') : w.replace(/i$/, 'o').replace(/e$/, 'a');
+    for (const base of new Set([st + 'o', st + 'a', st + 'e', soft + 'o', soft + 'a'])) out.push({ base, label, sense, en, g, plural, sg });
+  }
+  return out;
+}
+
+// "bellissime" → candidate lemmas (bello, belle…) of an absolute superlative, with the agreement it shows
+export function superlativeBases(word) {
+  const m = word.toLowerCase().match(/^(.{2,}?)issim([oaie])$/);
+  if (!m) return [];
+  const st = m[1], soft = st.replace(/([cg])h$/, '$1'); // ricchissimo → ricco, lunghissimo → lungo
+  const g = { o: 'ms', a: 'fs', i: 'mp', e: 'fp' }[m[2]];
+  return [...new Set([st + 'o', st + 'e', soft + 'o', soft + 'e', st + 'io'])].map((base) => ({ base, g }));
+}
+
+// ---------- numbers (reader): "ventitré" → 23, "duemilacinquecento" → 2500, "ventesimo" → 20th ----------
+
+const NUM_SMALL = { uno: 1, un: 1, due: 2, tre: 3, 'tré': 3, quattro: 4, cinque: 5, sei: 6, sette: 7, otto: 8, nove: 9, dieci: 10,
+  undici: 11, dodici: 12, tredici: 13, quattordici: 14, quindici: 15, sedici: 16, diciassette: 17, diciotto: 18, diciannove: 19 };
+const NUM_TENS = { venti: 20, trenta: 30, quaranta: 40, cinquanta: 50, sessanta: 60, settanta: 70, ottanta: 80, novanta: 90 };
+
+function below100(s) {
+  if (s in NUM_SMALL) return NUM_SMALL[s];
+  for (const [w, v] of Object.entries(NUM_TENS)) {
+    if (s === w) return v;
+    const u = s.startsWith(w) ? NUM_SMALL[s.slice(w.length)] : null;
+    if (u && u > 1 && u < 10 && u !== 8) return v + u; // ventidue, trentatré
+    const r = s.startsWith(w.slice(0, -1)) ? s.slice(w.length - 1) : null;
+    if (r === 'uno' || r === 'un' || r === 'otto') return v + (r === 'otto' ? 8 : 1); // ventuno, ventotto
+  }
+  return null;
+}
+
+function below1000(s) {
+  const i = s.indexOf('cent');
+  if (i < 0) return below100(s);
+  const pre = s.slice(0, i);
+  const mult = pre === '' ? 1 : NUM_SMALL[pre];
+  const rest = s.slice(i + 4);
+  if (!mult || mult > 9 || (pre && mult === 1) || !rest) return null;
+  for (const r of rest[0] === 'o' ? [rest.slice(1), rest] : [rest]) { // cento, centoventi, centotto, centuno
+    if (r === '') return mult * 100;
+    const v = below100(r);
+    if (v != null) return mult * 100 + v;
+  }
+  return null;
+}
+
+function cardinal(s) {
+  if (s.startsWith('mille')) {
+    const r = s === 'mille' ? 0 : below1000(s.slice(5));
+    return r != null ? 1000 + r : null;
+  }
+  const i = s.indexOf('mila');
+  if (i <= 0) return below1000(s);
+  const mult = below1000(s.slice(0, i));
+  if (mult == null || mult < 2) return null;
+  const rest = s.slice(i + 4);
+  const r = rest ? below1000(rest) : 0;
+  return r != null ? mult * 1000 + r : null;
+}
+
+export function parseNumber(word) {
+  const s = word.toLowerCase();
+  const v = cardinal(s);
+  if (v != null) return { value: v };
+  const m = s.match(/^(.+?)esim[oaie]$/); // ventesimo, ventitreesimo, centesimo
+  if (m) for (const b of [m[1], m[1] + 'e', m[1] + 'i', m[1] + 'a', m[1] + 'o']) {
+    const o = cardinal(b);
+    if (o != null && o > 10) return { value: o, ordinal: true };
+  }
+  return null;
 }

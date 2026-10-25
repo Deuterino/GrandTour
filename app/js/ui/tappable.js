@@ -9,7 +9,7 @@ import { go } from './router.js';
 import * as ai from '../core/ai.js';
 
 export function TappableText({ text, L, highlight = null, colorKnown = false, onWord = null, className = '', sentence = null }) {
-  const tokens = useMemo(() => analyzeText(text, L), [text, L]);
+  const tokens = useMemo(() => analyzeText(text, L), [text, L, L.ext]);
   const c = store.course(L.lang);
   return html`<span class=${className}>${tokens.map((t, i) => {
     if (t.k !== 'w') return t.t;
@@ -17,7 +17,7 @@ export function TappableText({ text, L, highlight = null, colorKnown = false, on
     let k = '';
     if (colorKnown) {
       if (!t.cands?.length) k = 'k-unknown';
-      else if (best && !c.seen[best.id]) k = 'k-new';
+      else if (best && !best.syn && !c.seen[best.id]) k = 'k-new';
       else if (best && game.mastery(c, best.id) < 3) k = 'k-learning';
     }
     const hl = highlight && best && highlight.has(best.id);
@@ -44,10 +44,10 @@ function Candidate({ c, L, primary }) {
     ${ex.notes.map((n) => html`<div class="tip">${n}</div>`)}
     <div style="font-size:1.05rem;font-weight:600;margin:.4rem 0">${e.en}</div>
     ${e.n && primary && html`<div class="small muted" style="margin-bottom:.4rem">${e.n}</div>`}
-    <div class="row between">
+    ${!e.syn && html`<div class="row between">
       <span class="small muted">${course.seen[e.id] ? html`<${Mastery} stage=${stage}/> your mastery` : 'not learned yet'}</span>
       <button class="btn small ghost" onClick=${() => { closeSheet(); go(`/${L.lang}/word/${encodeURIComponent(e.id)}`); }}>Full entry →</button>
-    </div>
+    </div>`}
   </div>`;
 }
 

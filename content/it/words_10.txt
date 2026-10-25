@@ -1,0 +1,56 @@
+# Italian core vocabulary, part 10 — words the grammar chapters and unit texts need
+# school
+studentessa|n.f|(female) student|note=Masculine studente; -essa makes many feminine forms: professoressa, dottoressa.
+# food
+frizzante|a|sparkling, fizzy|note=acqua frizzante / acqua naturale (still water).
+# work
+postino|n.m|postman, mail carrier|note=la posta = the mail; l'ufficio postale = the post office.
+# food
+cappuccino|n.m|cappuccino|note=Italians drink it at breakfast, rarely after 11 a.m. Plural cappuccini.
+# fam
+babbo|n.m|dad, daddy (Tuscan)|note=Tuscan for papà; Pinocchio calls Geppetto «babbo». Il mi' babbo = my dad.
+# func
+egli|pron|he (literary)|reg=lit;note=Written Italian only; in speech say lui.
+ella|pron|she (literary)|reg=lit;note=Written Italian only; in speech say lei.
+esso|pron|it; he (literary)|reg=lit;note=essa, essi, esse. Mostly for things and animals.
+colui|pron|the one, he (who)|reg=lit;note=colui che = he who; colei (f.), coloro (pl.) = those who.
+costui|pron|this man (often scornful)|reg=lit;note=costei (f.), costoro (pl.).
+glielo|pron|it to him / to her / to you (formal)|note=gli/le + lo → glielo; also gliela, glieli, gliele, gliel'.
+gliene|pron|some / of it to him or her|note=gli/le + ne → gliene: Gliene ho parlato.
+# home
+cestino|n.m|basket; wastepaper basket|note=From cesta + -ino.
+fazzoletto|n.m|handkerchief, tissue
+portone|n.m|main door, front gate|note=From porta + -one; masculine.
+uscio|n.m|door (Tuscan, literary)|reg=lit;note=Common in Pinocchio; today la porta.
+# people
+lettore|n.m|reader|note=Feminine lettrice.
+lavoratore|n.m|worker|note=Feminine lavoratrice.
+gattino|n.m|kitten|note=gatto + -ino.
+# free
+commedia|n.f|comedy; play|note=La Divina Commedia = Dante's Divine Comedy.
+# tech
+telefonino|n.m|mobile phone (colloquial)|note=Also il cellulare.
+# city
+capoluogo|n.m|regional or provincial capital|note=capo + luogo; plural capoluoghi.
+# food
+margherita|n.f|daisy; pizza margherita|note=Named after Queen Margherita (1889).
+# talk
+parolaccia|n.f|swear word|note=parola + -accia (bad).
+# abs
+creazione|n.f|creation
+sfortuna|n.f|bad luck|note=s- + fortuna. Che sfortuna! = What bad luck!
+disordine|n.m|mess, disorder|note=dis- + ordine.
+# desc
+scontento|a|dissatisfied, unhappy|note=s- + contento.
+irregolare|a|irregular|note=ir- + regolare.
+disonesto|a|dishonest|note=dis- + onesto.
+# act
+rifare|v|to redo, to do again|note=Conjugated like fare: rifaccio, rifai, rifà; rifatto.
+rileggere|v|to reread|note=Conjugated like leggere: riletto.
+cavarsela|phr|to get by, to manage|note=Me la cavo = I get by. Te la cavi? Ce la siamo cavata.
+# move
+bici|n.f|bike|note=Short for bicicletta; invariable: la bici, le bici.
+# school
+professoressa|n.f|(female) teacher, professor|note=Masculine professore.
+# func
+la|pron|her; it (feminine)|note=La vedo = I see her/it. Polite La = you (formal): La ringrazio. Before a vowel: l'ho vista.
