@@ -287,3 +287,28 @@ apropos|adv|by the way, speaking of
 voraus|adv|ahead|note=im Voraus = in advance.
 allzu|adv|all too
 keinerlei|det|no... whatsoever
+
+# time
+vierte|a|fourth|note=Ordinals add -te up to 19 (vierte, fünfte… but siebte, achte), -ste from 20: zwanzigste, dreißigste.
+fünfte|a|fifth
+sechste|a|sixth
+siebte|a|seventh
+achte|a|eighth
+neunte|a|ninth
+zehnte|a|tenth
+elfte|a|eleventh
+zwölfte|a|twelfth
+dreizehnte|a|thirteenth
+zwanzigste|a|twentieth
+dreißigste|a|thirtieth
+hundertste|a|hundredth
+
+# nature
+Kälte|n.f|cold, coldness
+Wärme|n.f|warmth
+
+# move
+spazieren|v|to stroll, to walk around|note=Usually spazieren gehen: Wir gehen im Park spazieren.
+
+# feel
+zornig|a|angry, wrathful|reg=lit

@@ -1,0 +1,411 @@
+# German grammar, part 3 (B1)
+
+=== g-praeteritum | The simple past (Präteritum) | B1 | 📜
+summary: The tense of stories, newspapers and fairy tales: es war einmal… Spoken German uses it mainly for sein, haben and the modals.
+--- section: Weak verbs: -te
+Stem + **-te** + endings (ich and er/sie/es have no extra ending):
+table:
+| | machen | arbeiten |
+| ich | mach**te** | arbeit**ete** |
+| du | mach**test** | arbeit**etest** |
+| er / sie / es | mach**te** | arbeit**ete** |
+| wir | mach**ten** | arbeit**eten** |
+| ihr | mach**tet** | arbeit**etet** |
+| sie / Sie | mach**ten** | arbeit**eten** |
+--- section: Strong verbs: a new vowel
+Strong verbs change their stem vowel and take **no -te**: *gehen → ging, kommen → kam, sehen → sah, sprechen → sprach, finden → fand, schreiben → schrieb, fahren → fuhr*. Again ich and er have no ending: *ich ging, er ging, wir gingen*.
+The principal parts shown with every verb in this app (*gehen – geht – **ging** – ist gegangen*) give you the past stem.
+ex: Es war einmal ein König, der hatte drei Töchter. | Once upon a time there was a king who had three daughters.
+ex: Rotkäppchen ging in den Wald und traf den Wolf. | Little Red Riding Hood went into the forest and met the wolf.
+--- section: In conversation
+People say *ich war, ich hatte, ich konnte, ich musste, ich wollte, es gab* even when speaking; for other verbs they prefer the Perfekt.
+ex: Gestern war ich müde, ich konnte nicht schlafen. | Yesterday I was tired; I couldn't sleep.
+--- tip: The tense of fairy tales
+Books and the Brothers Grimm tell stories in the Präteritum: **war, hatte, ging, kam, sah, sprach, sagte**. Recognising these unlocks the library.
+ex: Der Wolf sprach: „Guten Tag, Rotkäppchen.“ | The wolf said, "Good day, Little Red Riding Hood."
+--- tip: ich and er have no ending
+*ich ging, er ging · ich sagte, er sagte* — the same form.
+--- mistakes
+- *er gingt* → **er ging** (no -t).
+- Mixing weak and strong: *er gehte* → **er ging**.
+drill: conj 10 tenses=pret
+drill: choice 6 label=Which simple past?
+  q: Gestern ___ ich krank. (sein) | war | bin | wart | en: I was ill yesterday. | why: sein → war
+  q: Es ___ einmal ein Müller. (sein) | war | ist | wurde | en: Once upon a time there was a miller. | why: fairy-tale opening: Es war einmal…
+  q: Sie ___ nach Hause. (gehen) | ging | gingte | gehte | en: She went home. | why: gehen → ging (strong)
+  q: Wir ___ keine Zeit. (haben) | hatten | haben | hätten | en: We had no time. | why: haben → hatten
+  q: Er ___ das Fenster auf. (machen) | machte | macht | machtet | en: He opened the window. | why: weak: mach-te; aufmachen separates
+  q: Der König ___ : „Komm her!“ (sprechen) | sprach | sprechte | sprachte | en: The king said, "Come here!" | why: sprechen → sprach
+
+=== g-genitive | The genitive: whose? | B1 | 🏛️
+summary: des Mannes, der Frau: the genitive shows possession and follows wegen, trotz, während, statt.
+--- section: Forms
+table:
+| | masculine | feminine | neuter | plural |
+| genitive | **des** Vater**s** / eines Vaters | **der** Mutter / einer Mutter | **des** Kind**es** / eines Kindes | **der** Kinder |
+Masculine and neuter nouns add **-s** or **-es** (one syllable: usually -es: *des Mannes, des Hauses*). Weak nouns add -n: *des Menschen*. Names add -s: *Annas Buch, Peters Auto* (no apostrophe!).
+ex: Das ist das Auto meines Vaters. | That's my father's car.
+ex: Die Farbe des Hauses gefällt mir. | I like the color of the house.
+--- section: Genitive prepositions
+**wegen** (because of), **trotz** (despite), **während** (during), **statt** (instead of), **innerhalb / außerhalb** (inside / outside of):
+ex: Wegen des Regens bleiben wir zu Hause. | Because of the rain we're staying at home.
+ex: Trotz der Kälte gehen wir spazieren. | Despite the cold we're going for a walk.
+--- section: In everyday speech
+In conversation, *von + dative* often replaces the genitive (*das Auto von meinem Vater*), and *wegen* is often used with the dative (*wegen dem Regen*). Written German keeps the genitive.
+--- tip: des …-s, der …
+*das Haus **des** Lehrer**s**, das Auto **der** Lehrerin.* Masculine and neuter add -s.
+--- mistakes
+- *Anna's Buch* → **Annas Buch** (no apostrophe).
+- *des Lehrer* → **des Lehrers**.
+drill: case 8 cases=gen dets=def,indef
+drill: choice 4 label=Genitive
+  q: Das ist das Fahrrad ___ Bruders. | meines | meinem | meinen | en: That's my brother's bike. | why: genitive masculine: meines … -s
+  q: ___ des Wetters fahren wir nicht. | Wegen | Mit | Von | en: Because of the weather we're not going. | why: wegen + genitive
+  q: Das Ende ___ Films war traurig. | des | dem | der | en: The end of the film was sad. | why: der Film → genitive des Films
+  q: Das ist ___ Haus. (Peter) | Peters | Peter's | des Peter | en: That's Peter's house. | why: names add -s without apostrophe
+
+=== g-future | Future: werden + infinitive | B1 | 🔮
+summary: werden + infinitive expresses future plans, predictions and assumptions; the present tense is often enough.
+--- section: Futur I
+**werden** (conjugated, second place) + **infinitive** (end): *ich werde, du wirst, er wird, wir werden, ihr werdet, sie werden*.
+ex: Ich werde dich nie vergessen. | I'll never forget you.
+ex: Morgen wird es regnen. | It will rain tomorrow.
+ex: Er wird wohl krank sein. | He's probably ill. | werden + wohl = assumption
+--- section: Present for the future
+With a time expression, Germans usually just use the present: *Ich komme morgen.* Use *werden* for promises, predictions and emphasis.
+--- section: werden has three jobs
+**werden** + adjective/noun = to become (*Es wird kalt. Er wird Arzt.*); **werden** + infinitive = future; **werden** + participle = passive (*Das Haus wird gebaut*).
+--- tip: werden … infinitive
+*Ich **werde** morgen **arbeiten**.* — but *Ich arbeite morgen* says the same.
+--- mistakes
+- *Ich will morgen arbeiten* means "I want to" — the future is **ich werde**.
+drill: conj 8 tenses=fut1
+drill: choice 4 label=werden
+  q: Morgen ___ es schneien. | wird | werdet | will | en: It will snow tomorrow. | why: es → wird
+  q: ___ du mich anrufen? | Wirst | Wird | Werdest | en: Will you call me? | why: du → wirst
+  q: Er ___ Lehrer. | wird | will | werdet | en: He's becoming a teacher. | why: werden + noun = become
+  q: Wir ___ das schaffen! | werden | wollen | wird | en: We will manage it! | why: wir → werden
+
+=== g-relative | Relative clauses: der Mann, der… | B1 | 🔗
+summary: Relative pronouns look like der/die/das; their case comes from their role in the relative clause, and the verb goes last.
+--- section: The relative pronouns
+table:
+| | masculine | feminine | neuter | plural |
+| nominative | der | die | das | die |
+| accusative | den | die | das | die |
+| dative | dem | der | dem | **denen** |
+| genitive | **dessen** | **deren** | **dessen** | **deren** |
+**Gender and number** come from the noun it refers to; the **case** comes from its job inside the relative clause:
+ex: Der Mann, der dort steht, ist mein Lehrer. | The man who is standing there is my teacher. | der = subject (nom.)
+ex: Der Mann, den ich gesehen habe, ist mein Lehrer. | The man (whom) I saw is my teacher. | den = object (acc.)
+ex: Der Mann, dem ich helfe, ist mein Lehrer. | The man I'm helping is my teacher. | helfen + dative
+ex: Die Kinder, denen das Buch gehört, sind draußen. | The children who own the book are outside.
+ex: Die Frau, deren Auto rot ist, wohnt hier. | The woman whose car is red lives here.
+--- section: Rules
+- The relative clause is always set off by **commas**.
+- The **verb goes to the end**.
+- German never leaves out the relative pronoun (English "the man I saw" = *der Mann, den ich sah*).
+- After *alles, etwas, nichts, das* use **was**: *Alles, was du sagst, ist wahr.*
+--- tip: Gender from the noun, case from the clause
+*der Film, **den** ich sehe* (den = object of sehe). *der Film, **der** mir gefällt* (der = subject).
+--- tip: Verb last, commas around
+*Das ist das Buch, **das** ich **lese**.*
+--- mistakes
+- *Der Mann, wo ich gesehen habe* → **den ich gesehen habe**.
+- Leaving out the pronoun: *Das Buch ich lese* → **Das Buch, das ich lese**.
+drill: choice 8 label=Choose the relative pronoun
+  q: Das ist der Zug, ___ nach Wien fährt. | der | den | dem | en: That's the train that goes to Vienna. | why: subject → nominative der
+  q: Das ist der Zug, ___ ich nehme. | den | der | dem | en: That's the train I'm taking. | why: object of nehme → accusative den
+  q: Die Frau, ___ ich helfe, ist nett. | der | die | den | en: The woman I'm helping is nice. | why: helfen + dative; feminine → der
+  q: Das Kind, ___ dort spielt, ist mein Neffe. | das | der | dem | en: The child playing there is my nephew. | why: neuter subject → das
+  q: Die Leute, mit ___ ich arbeite, sind toll. | denen | den | die | en: The people I work with are great. | why: mit + dative plural → denen
+  q: Der Mann, ___ Frau Ärztin ist, heißt Paul. | dessen | deren | der | en: The man whose wife is a doctor is called Paul. | why: whose (masculine owner) → dessen
+  q: Das ist alles, ___ ich weiß. | was | das | der | en: That's all I know. | why: after alles → was
+  q: Die Bücher, ___ du mir gegeben hast, sind super. | die | denen | das | en: The books you gave me are great. | why: plural object → die
+
+=== g-konjunktiv2 | Wishes and politeness: Konjunktiv II | B1 | 🙏
+summary: würde + infinitive, hätte, wäre, könnte: the "would" forms for wishes, polite requests and unreal conditions.
+--- section: The forms
+table:
+| | würde | hätte | wäre | könnte | müsste |
+| ich | würde | hätte | wäre | könnte | müsste |
+| du | würdest | hättest | wär(e)st | könntest | müsstest |
+| er / sie / es | würde | hätte | wäre | könnte | müsste |
+| wir | würden | hätten | wären | könnten | müssten |
+| ihr | würdet | hättet | wär(e)t | könntet | müsstet |
+| sie / Sie | würden | hätten | wären | könnten | müssten |
+For most verbs use **würde + infinitive**: *Ich würde gern reisen.* For *sein, haben* and the modals use their own forms: *wäre, hätte, könnte, müsste, dürfte, sollte*.
+--- section: Uses
+ex: Ich hätte gern einen Kaffee. | I'd like a coffee. | polite ordering
+ex: Könnten Sie mir bitte helfen? | Could you help me, please?
+ex: Wenn ich Zeit hätte, würde ich dich besuchen. | If I had time, I would visit you. | unreal condition
+ex: Ich wäre gern reich. | I'd like to be rich.
+ex: Du solltest mehr schlafen. | You should sleep more. | advice
+--- section: The past: hätte/wäre + participle
+ex: Wenn ich das gewusst hätte, wäre ich gekommen. | If I had known that, I would have come.
+--- tip: würde = would
+*Ich **würde** gern Italienisch **lernen**.* — würde + infinitive at the end.
+--- tip: Polite requests
+**Könnten** Sie…? **Würden** Sie…? Ich **hätte** gern… — the polite way to ask for anything.
+--- mistakes
+- *Wenn ich würde Zeit haben* → **Wenn ich Zeit hätte**.
+- *Ich würde haben* — use **ich hätte**.
+drill: conj 6 tenses=wuerde,k2 verbs=sein,haben,können,werden,machen,gehen,kommen,müssen
+drill: choice 6 label=Konjunktiv II
+  q: Ich ___ gern ein Glas Wasser. | hätte | habe | würde | en: I'd like a glass of water. | why: polite: ich hätte gern…
+  q: ___ Sie mir das Salz geben? | Könnten | Können | Kannten | en: Could you pass me the salt? | why: polite request: könnten
+  q: Wenn ich reich ___, würde ich reisen. | wäre | bin | würde | en: If I were rich, I would travel. | why: unreal condition: wäre
+  q: Du ___ zum Arzt gehen. | solltest | sollst | sollen | en: You should go to the doctor. | why: advice: solltest
+  q: Was ___ du machen? | würdest | wirst | würde | en: What would you do? | why: du → würdest
+  q: Wenn ich Zeit gehabt hätte, ___ ich gekommen. | wäre | hätte | würde | en: If I had had time, I would have come. | why: kommen → sein: wäre gekommen
+
+=== g-zu-infinitive | zu + infinitive, um … zu | B1 | 🎯
+summary: Ich habe keine Zeit zu lesen. Ich lerne Deutsch, um in Wien zu arbeiten.
+--- section: zu + infinitive
+After many verbs and expressions — *versuchen, vergessen, anfangen, aufhören, hoffen, Lust haben, Zeit haben, es ist schön* — the second verb takes **zu** and goes to the end:
+ex: Ich versuche, mehr zu schlafen. | I'm trying to sleep more.
+ex: Hast du Lust, ins Kino zu gehen? | Do you feel like going to the cinema?
+ex: Es ist schwer, Deutsch zu lernen. | It's hard to learn German.
+With separable verbs **zu** goes inside: *anzurufen, aufzustehen, einzukaufen*.
+Modal verbs never take zu: *Ich kann schwimmen* (not *zu schwimmen*).
+--- section: um … zu, ohne … zu, statt … zu
+ex: Ich spare, um ein Auto zu kaufen. | I'm saving in order to buy a car.
+ex: Er ging, ohne Tschüss zu sagen. | He left without saying goodbye.
+--- tip: zu right before the verb
+*Ich habe keine Zeit, die Zeitung **zu lesen**.* Separable: *Vergiss nicht, mich **anzurufen**!*
+--- mistakes
+- *Ich kann zu schwimmen* → **Ich kann schwimmen**.
+- *zu anrufen* → **anzurufen**.
+drill: order 5 label=zu + infinitive
+  t: Ich habe keine Zeit zu lesen. | en: I have no time to read. | why: zu + infinitive at the end
+  t: Er versucht, früh aufzustehen. | en: He's trying to get up early. | why: separable: auf-zu-stehen
+  t: Ich lerne, um besser zu sprechen. | en: I'm studying in order to speak better. | why: um … zu
+  t: Vergiss nicht, mich anzurufen! | en: Don't forget to call me! | why: an-zu-rufen
+  t: Es macht Spaß, hier zu wohnen. | en: It's fun to live here. | why: zu + infinitive at the end
+
+=== g-plusquamperfekt | Before that: Plusquamperfekt | B1 | ⏮️
+summary: hatte/war + participle: the past before the past — often with nachdem and als.
+--- section: Form and use
+Use the simple past of **haben / sein** + participle for an event that happened *before* another past event:
+ex: Als ich ankam, war der Zug schon abgefahren. | When I arrived, the train had already left.
+ex: Nachdem wir gegessen hatten, gingen wir spazieren. | After we had eaten, we went for a walk.
+ex: Ich hatte das Buch schon gelesen. | I had already read the book.
+--- section: als, wenn, nachdem
+**als** = when (one event in the past): *Als ich Kind war…* **wenn** = when(ever) — repeated events or present/future: *Wenn ich in Berlin bin…, Immer wenn es regnete…* **nachdem** usually pairs with the Plusquamperfekt.
+--- tip: hatte/war + participle
+*Ich **hatte** schon **gegessen**, als er kam.* — the earlier of two past events.
+--- tip: als vs. wenn
+**als** for a single time in the past; **wenn** for every time, or for the present and future.
+ex: Als ich klein war, wohnten wir in Bonn. | When I was little, we lived in Bonn.
+--- mistakes
+- *Wenn ich Kind war* → **Als ich Kind war** (one period in the past).
+drill: conj 6 tenses=plup
+drill: choice 5 label=als, wenn or nachdem?
+  q: ___ ich jung war, spielte ich Klavier. | Als | Wenn | Nachdem | en: When I was young, I played the piano. | why: one period in the past → als
+  q: ___ es regnet, bleibe ich zu Hause. | Wenn | Als | Nachdem | en: When it rains, I stay at home. | why: present/repeated → wenn
+  q: ___ er gegessen hatte, schlief er ein. | Nachdem | Als | Wenn | en: After he had eaten, he fell asleep. | why: nachdem + Plusquamperfekt
+  q: Der Film ___ schon begonnen, als wir kamen. | hatte | war | hat | en: The film had already started when we came. | why: beginnen → haben: hatte begonnen
+  q: Sie ___ schon gegangen. | war | hatte | ist | en: She had already gone. | why: gehen → sein: war gegangen
+
+=== g-passive | The passive | B1 | 🏭
+summary: werden + participle: what is done, not who does it. Das Haus wird gebaut.
+--- section: Process passive
+**werden** + past participle. The object of the active sentence becomes the subject; the doer, if mentioned, takes **von + dative**:
+ex: Hier wird Deutsch gesprochen. | German is spoken here.
+ex: Das Haus wurde 1890 gebaut. | The house was built in 1890. | past: wurde
+ex: Der Brief wird von meiner Mutter geschrieben. | The letter is being written by my mother.
+table:
+| tense | example |
+| present | Das Auto **wird** repariert. |
+| simple past | Das Auto **wurde** repariert. |
+| Perfekt | Das Auto **ist** repariert **worden**. |
+| with a modal | Das Auto **muss** repariert **werden**. |
+In the passive Perfekt, *geworden* shortens to **worden**.
+--- section: State passive
+**sein** + participle describes the resulting state: *Die Tür wird geschlossen* (someone is closing it) → *Die Tür ist geschlossen* (it is closed).
+--- tip: werden + participle
+*Das Essen **wird** jetzt **gekocht**.* — the food is being cooked. Who cooks doesn't matter.
+--- mistakes
+- *Das Haus ist gebaut geworden* → **Das Haus ist gebaut worden**.
+drill: conj 6 tenses=pass
+drill: choice 4 label=Passive
+  q: Hier ___ nicht geraucht. | wird | ist | hat | en: There's no smoking here. | why: process passive: wird + participle
+  q: Das Buch ___ 1900 geschrieben. | wurde | wird | war | en: The book was written in 1900. | why: past passive: wurde
+  q: Das Fenster muss geputzt ___. | werden | worden | wird | en: The window has to be cleaned. | why: modal + participle + werden
+  q: Der Dieb ist gefangen ___. | worden | geworden | werden | en: The thief has been caught. | why: passive Perfekt: worden
+
+=== g-da-wo | da- and wo- compounds | B1 | 🔁
+summary: Instead of "an es" or "mit was", German says daran, damit, woran, womit.
+--- section: With things: da(r)- + preposition
+When a preposition refers to a thing or idea (not a person), use **da- + preposition** (dar- before a vowel):
+ex: Ich denke an meine Mutter. — Ich denke an sie. | I think of my mother. — I think of her. | person → preposition + pronoun
+ex: Ich denke an den Urlaub. — Ich denke daran. | I'm thinking about the holiday. — I'm thinking about it. | thing → daran
+ex: Ich freue mich darauf. | I'm looking forward to it.
+ex: Was machst du damit? | What are you doing with it?
+--- section: Questions: wo(r)- + preposition
+ex: Woran denkst du? | What are you thinking about?
+ex: Worauf wartest du? | What are you waiting for?
+ex: An wen denkst du? | Who are you thinking of? | person → an wen
+--- section: Verbs with prepositions
+Many verbs come with a fixed preposition — learn them together: **warten auf**, **denken an**, **sich freuen auf/über**, **sich interessieren für**, **Angst haben vor**, **träumen von**, **sprechen über/mit**, **sich erinnern an**, **abhängen von**.
+--- tip: da- for things, pronoun for people
+*Ich warte **darauf*** (on it) but *Ich warte **auf ihn*** (on him).
+--- mistakes
+- *Ich denke an es* → **Ich denke daran**.
+- *Auf was wartest du?* is colloquial — written: **Worauf wartest du?**
+drill: choice 6 label=da-/wo- compounds
+  q: Der Urlaub? Ich freue mich schon ___. | darauf | auf ihn | dafür | en: The holiday? I'm already looking forward to it. | why: sich freuen auf; thing → darauf
+  q: ___ denkst du? — An die Prüfung. | Woran | Wovon | Worauf | en: What are you thinking about? — The exam. | why: denken an → woran
+  q: Mein Freund? Ich warte ___. | auf ihn | darauf | worauf | en: My friend? I'm waiting for him. | why: person → auf ihn
+  q: Das Handy ist kaputt. Was hast du ___ gemacht? | damit | mit es | womit | en: The phone is broken. What did you do with it? | why: mit + thing → damit
+  q: ___ interessierst du dich? | Wofür | Woran | Wovon | en: What are you interested in? | why: sich interessieren für → wofür
+  q: Ich habe Angst ___. (vor dem Hund) | vor ihm | davor | dafür | en: I'm afraid of it (the dog). | why: animals and people → vor ihm
+
+=== g-nouns-weak | Weak nouns (n-Deklination) | B1 | 🦁
+summary: Some masculine nouns add -(e)n in every case except the nominative singular: der Mensch, den Menschen.
+--- section: The pattern
+table:
+| | singular | plural |
+| nominative | der Mensch | die Mensch**en** |
+| accusative | den Mensch**en** | die Mensch**en** |
+| dative | dem Mensch**en** | den Mensch**en** |
+| genitive | des Mensch**en** | der Mensch**en** |
+Which nouns? Almost all **masculine nouns ending in -e** for people and animals (*der Junge, der Kollege, der Kunde, der Löwe, der Affe, der Hase*) and masculine nouns in **-ant, -ent, -ist, -at** (*der Student, der Präsident, der Tourist, der Soldat*), plus *der Herr (den Herrn), der Mensch, der Bär, der Held, der Prinz, der Nachbar (-n)*.
+A few add **-ns** in the genitive: *der Name → des Namens, der Gedanke, der Glaube, der Wille*; *das Herz → des Herzens, dem Herzen*.
+ex: Kennst du den Studenten aus Spanien? | Do you know the student from Spain?
+ex: Ich spreche mit dem Kollegen. | I'm talking to my colleague.
+ex: Er hilft dem Herrn. | He's helping the gentleman.
+--- tip: -e for people and animals → -n
+*der Junge → den Jungen, dem Jungen, des Jungen.* Also *-ent, -ist, -ant* nouns: *den Studenten, dem Touristen*.
+--- mistakes
+- *Ich sehe den Student* → **den Studenten**.
+- *mit dem Herr* → **mit dem Herrn**.
+drill: choice 6 label=Weak nouns
+  q: Ich frage den ___. (Polizist) | Polizisten | Polizist | Polizists | en: I'm asking the police officer. | why: -ist nouns are weak: -en
+  q: Sie hilft dem ___. (Junge) | Jungen | Junge | Junges | en: She's helping the boy. | why: der Junge is weak: dem Jungen
+  q: Wie ist Ihr ___? | Name | Namen | Namens | en: What is your name? | why: nominative singular has no -n
+  q: Das ist das Auto des ___. (Nachbar) | Nachbarn | Nachbars | Nachbar | en: That's the neighbor's car. | why: der Nachbar: des Nachbarn
+  q: Wir sehen einen ___. (Löwe) | Löwen | Löwe | Löwes | en: We see a lion. | why: der Löwe is weak: einen Löwen
+  q: Ich danke dem ___. (Herr) | Herrn | Herr | Herren | en: I thank the gentleman. | why: der Herr: dem Herrn (plural: Herren)
+
+=== g-particles | Little words that make German sound German | B1 | 💬
+summary: doch, mal, ja, denn, eben, halt, schon, eigentlich — modal particles add tone, not content.
+--- section: The most useful particles
+table:
+| particle | tone | example |
+| **mal** | softens a request | Komm **mal** her! (Come here a sec!) |
+| **doch** | encouragement; "after all" | Komm **doch** mit! (Do come along!) |
+| **ja** | "as we both know"; surprise | Das ist **ja** toll! (That's really great!) |
+| **denn** | interest in questions | Was ist **denn** los? (What's the matter, then?) |
+| **eben / halt** | "that's just how it is" | Das ist **eben** so. |
+| **schon** | reassurance | Das wird **schon**. (It'll be fine.) |
+| **eigentlich** | "actually, by the way" | Wie heißt du **eigentlich**? |
+| **wohl** | probably | Er ist **wohl** krank. |
+These words don't translate one-to-one; they add friendliness, surprise or emphasis. Native speakers use them in almost every sentence.
+ex: Hilf mir doch mal! | Come on, give me a hand!
+ex: Wo warst du denn? | Where were you, then?
+ex: Das weißt du ja. | You know that, of course.
+--- tip: mal and doch soften commands
+*Komm **mal**! · Setz dich **doch**!* — friendlier than a bare imperative.
+--- tip: denn makes questions friendly
+*Was machst du **denn** hier?* shows interest or surprise.
+drill: choice 6 label=Which particle?
+  q: Komm ___ her, ich zeige dir was! | mal | denn | ja | en: Come here a sec, I'll show you something! | why: mal softens a request
+  q: Was ist ___ passiert? | denn | mal | doch | en: What happened, then? | why: denn in questions shows interest
+  q: Du kommst nicht mit? — ___! | Doch | Ja | Mal | en: You're not coming? — Yes I am! | why: doch contradicts a negative
+  q: Das ist ___ fantastisch! | ja | denn | mal | en: That's really fantastic! | why: ja expresses surprise/emphasis
+  q: Keine Sorge, das klappt ___. | schon | denn | mal | en: Don't worry, it'll work out. | why: schon reassures
+  q: Woher kommst du ___? | eigentlich | mal | doch | en: Where are you from, actually? | why: eigentlich = by the way / actually
+
+=== g-konjunktiv1 | Reported speech: Konjunktiv I | B1 | 📰
+summary: Er sagt, er sei krank. — newspapers report what people said with the Konjunktiv I.
+--- section: Forms
+Take the infinitive stem + **-e, -est, -e, -en, -et, -en**. Only the **er/sie/es** form is common, plus **sei** (sein) in all persons:
+table:
+| | sein | haben | kommen | können |
+| ich | sei | habe | komme | könne |
+| du | seist | habest | kommest | könnest |
+| er / sie / es | **sei** | **habe** | **komme** | **könne** |
+| wir | seien | haben → hätten | kommen → kämen | können |
+| sie | seien | haben → hätten | kommen → kämen | können |
+When a Konjunktiv I form looks like the present indicative, use the Konjunktiv II instead (*sie hätten, sie kämen*).
+ex: Der Minister sagte, er habe keine Zeit. | The minister said he had no time.
+ex: Sie behauptet, sie sei krank gewesen. | She claims she was ill.
+ex: Er sagt, er komme morgen. | He says he's coming tomorrow.
+--- section: In conversation
+Spoken German usually uses the indicative or *würde*: *Er sagt, er ist krank / er wäre krank.* The Konjunktiv I is mostly for news and formal writing — recognise it when you read.
+--- tip: sei, habe, komme
+*Er sagt, er **sei** müde. Sie sagt, sie **habe** Hunger.* — the reporter's way of saying "according to him/her".
+drill: choice 4 label=Reported speech
+  q: Er sagt, er ___ krank. | sei | sein | seid | en: He says he is ill. | why: reported speech: sei
+  q: Sie sagt, sie ___ keine Zeit. | habe | hab | haben | en: She says she has no time. | why: Konjunktiv I of haben: habe
+  q: Der Arzt meint, das ___ nicht gefährlich. | sei | seid | seien | en: The doctor thinks it's not dangerous. | why: das → sei
+  q: Sie sagten, sie ___ morgen. | kämen | kommen | komme | en: They said they'd come tomorrow. | why: sie kommen = indicative, so use Konjunktiv II kämen
+
+=== g-compounds | Word building: compounds, prefixes, suffixes | B1 | 🧩
+summary: German builds long words from short ones. Take them apart and you can understand thousands of new words.
+--- section: Compound nouns
+The **last part** is the main noun and decides the gender; earlier parts describe it. Linking sounds (**-s-, -n-, -es-, -er-**) are often added:
+table:
+| compound | parts | meaning |
+| die Haustür | das Haus + die Tür | front door |
+| der Bahnhof | die Bahn + der Hof | station |
+| die Arbeitszeit | die Arbeit + **s** + die Zeit | working hours |
+| der Straßenbahnfahrer | die Straße + **n** + die Bahn + der Fahrer | tram driver |
+| das Kinderzimmer | die Kinder + das Zimmer | children's room |
+Tap a compound in the reader: the app splits it into its parts for you.
+--- section: Suffixes
+table:
+| suffix | makes | example |
+| **-ung** | noun from verb (die) | wohnen → die Wohnung |
+| **-er** | person/tool (der) | lehren → der Lehrer |
+| **-in** | female person (die) | der Lehrer → die Lehrerin |
+| **-heit / -keit** | abstract noun (die) | frei → die Freiheit, möglich → die Möglichkeit |
+| **-chen / -lein** | small thing (das) | das Haus → das Häuschen |
+| **-lich / -ig / -bar** | adjective | der Freund → freundlich, die Lust → lustig, essen → essbar |
+| **-los** | without | arbeitslos (unemployed) |
+| **un-** | not | glücklich → unglücklich |
+--- section: Verb prefixes
+The same verb takes many meanings with prefixes: *kommen* (come) → *ankommen* (arrive), *bekommen* (receive), *mitkommen* (come along), *zurückkommen* (come back), *verkommen* (decay).
+--- tip: Read compounds from the end
+*Kinder|garten|lehrerin* = a female teacher (*Lehrerin*) at a kindergarten. The last word tells you what it is — and its gender.
+drill: choice 5 label=Build the word
+  q: das Haus + die Tür = ___ Haustür | die | das | der | en: the front door | why: The last part decides: die Tür.
+  q: frei → die ___ | Freiheit | Freiung | Freikeit | en: freedom | why: -heit makes an abstract noun.
+  q: der Freund → ___ (adjective) | freundlich | freundig | freundbar | en: friendly | why: -lich makes an adjective.
+  q: das Buch → das ___ (small) | Büchlein | Buchung | Bücher | en: little book | why: -lein (with umlaut) makes a diminutive.
+  q: die Zeitung + der Artikel = ___ Zeitungsartikel | der | die | das | en: the newspaper article | why: The last part decides: der Artikel.
+
+=== g-old-spelling | Reading old books | B1 | 🕯️
+summary: The Grimms' tales and other public-domain books use 19th-century spelling and a few old forms. Here is what changed.
+--- section: Spelling changes
+table:
+| old | modern | example |
+| **th** | t | Thür → Tür, Thier → Tier, thun → tun |
+| **ß** after a short vowel | ss | daß → dass, muß → muss, Schloß → Schloss |
+| **ie / ey** | i / ei | giebt → gibt, seyn → sein, bey → bei |
+| **-niß** | -nis | Geheimniß → Geheimnis |
+| **C** | K / Z | Caffee → Kaffee, Concert → Konzert |
+| **dt / d** | t | todt → tot, Brod → Brot |
+The reader recognises old spellings automatically and shows you the modern form when you tap the word.
+--- section: Old forms you will meet
+table:
+| old form | meaning | modern |
+| **ward** | became, was | wurde |
+| **gieng, fieng, hieng** | went, caught, hung | ging, fing, hing |
+| **sprach** | said | sagte (sprach is still used in writing) |
+| **dem Hause, im Walde** | (dative -e) | dem Haus, im Wald |
+| **Mägdlein, Geißlein** | girl, little goat | Mädchen, junge Ziege |
+| **gar** | very | sehr (gar schön = very beautiful) |
+ex: Es war einmal ein kleines süßes Mädchen. | Once upon a time there was a sweet little girl. | Rotkäppchen begins like this.
+ex: Da ward der König zornig. | Then the king became angry. | ward = wurde
+--- tip: Fairy tales speak in the Präteritum
+*war, hatte, ging, kam, sprach, sah, fand* — and *ward* for *wurde*. Learn these and the Grimms open up.
+--- tip: An extra -e in the dative
+*im Walde, dem Hause, zu Tage* is the old dative ending — still heard in set phrases like *nach Hause*.
+drill: choice 5 label=Old and new
+  q: "daß" in modern spelling is ___ | dass | das | da | why: ß after a short vowel became ss in 1996.
+  q: "Thür" is modern ___ | Tür | Tier | Thor | why: th became t (1901).
+  q: "Er ward müde" means ___ | He became tired | He was tired already | He will be tired | why: ward = wurde (became)
+  q: "Sie gieng in den Wald" — "gieng" is today ___ | ging | geht | gegangen | why: old spelling of ging
+  q: "im Walde" today is ___ | im Wald | in Walde | im Walden | why: the dative -e is dropped today

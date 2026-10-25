@@ -179,6 +179,7 @@ function buildFormsDE(L) {
         });
       } else if (e.pl) add(m, e.pl, id, 'N:pl');
       if (e.gen) add(m, e.gen, id, 'N:gen.sg');
+      for (const [k, f] of Object.entries(e.alt || {})) add(m, f, id, `N:${DE.CASES[+k.slice(2)]}.${k.slice(0, 2)}`);
     } else if (e.p === 'v' && e.v) {
       const inf = DE.infinitive(e);
       add(m, inf, id, 'V:inf');
@@ -210,6 +211,9 @@ function buildFormsDE(L) {
         const s = e.a.sup.replace(/^am /, '').replace(/en$/, '');
         for (const end of ADJ_ENDINGS) add(m, s + end, id, 'A:sup');
       }
+    } else if (e.p === 'name') {
+      add(m, e.l, id, 'X');
+      add(m, e.l + 's', id, 'N:gen.sg');
     } else {
       add(m, e.l, id, 'X');
     }
@@ -227,6 +231,7 @@ const DE_PRON = {
   wir: [['wir', 'nom'], ['uns', 'akk/dat'], ['unser', 'gen']],
   ihr: [['ihr', 'nom'], ['euch', 'akk/dat'], ['euer', 'gen']],
   Sie: [['Sie', 'nom/akk'], ['Ihnen', 'dat'], ['Ihrer', 'gen']],
+  wer: [['wer', 'nom'], ['wen', 'akk'], ['wem', 'dat'], ['wessen', 'gen']],
 };
 const DE_CONTRACT = { am: ['an', 'dem'], im: ['in', 'dem'], ins: ['in', 'das'], ans: ['an', 'das'], zum: ['zu', 'dem'],
   zur: ['zu', 'der'], vom: ['von', 'dem'], beim: ['bei', 'dem'], aufs: ['auf', 'das'], durchs: ['durch', 'das'],

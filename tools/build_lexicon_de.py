@@ -307,6 +307,12 @@ def main():
         it["r"] = i
     for it in out:
         del it["_score"]
+    # names: tap lookups only (x = not taught)
+    for line in (ROOT / "content/de/names.txt").read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.startswith("#"):
+            continue
+        l, kind, en = line.split("|")[:3]
+        out.append({"id": f"{l}~name", "l": l, "p": "name", "en": en, "th": ["name"], "x": 1, "kind": kind, "r": 99999})
     write_json(ROOT / "app/data/de/lexicon.json", {"lang": "de", "v": 1, "entries": out})
     (ROOT / "build/report_de.txt").write_text("\n".join(report) + "\n", encoding="utf-8")
     kinds = {}

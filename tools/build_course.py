@@ -46,7 +46,7 @@ def parse(lang):
 
 def main(lang):
     lex = json.loads((ROOT / f"app/data/{lang}/lexicon.json").read_text(encoding="utf-8"))
-    entries = lex["entries"]
+    entries = [e for e in lex["entries"] if not e.get("x")]
     by_id = {e["id"]: e for e in entries}
     by_lemma = {}
     for e in entries:

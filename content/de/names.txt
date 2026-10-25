@@ -1,0 +1,57 @@
+# Names (cities, countries, people) — for tap lookups only; not taught as vocabulary.
+Deutschland|der Staat|Germany
+Berlin|city|Berlin, capital of Germany
+Hamburg|city|Hamburg, port city in northern Germany
+München|city|Munich, capital of Bavaria
+Köln|city|Cologne
+Frankfurt|city|Frankfurt am Main
+Bonn|city|Bonn, West Germany's capital 1949–1990
+Dresden|city|Dresden
+Leipzig|city|Leipzig
+Wien|city|Vienna, capital of Austria
+Zürich|city|Zurich
+Bern|city|Bern, Swiss capital
+Salzburg|city|Salzburg
+Rom|city|Rome
+Paris|city|Paris
+London|city|London
+Amerika|country|America
+Kanada|country|Canada
+Spanien|country|Spain
+Frankreich|country|France
+England|country|England
+Russland|country|Russia
+China|country|China
+Japan|country|Japan
+Afrika|continent|Africa
+Asien|continent|Asia
+Rhein|river|the Rhine
+Donau|river|the Danube
+Elbe|river|the Elbe
+Alpen|mountains|the Alps
+Anna|name|Anna (woman's name)
+Maria|name|Maria (woman's name)
+Lena|name|Lena (woman's name)
+Sophie|name|Sophie (woman's name)
+Julia|name|Julia (woman's name)
+Emma|name|Emma (woman's name)
+Klara|name|Klara (woman's name)
+Peter|name|Peter (man's name)
+Paul|name|Paul (man's name)
+Jan|name|Jan (man's name)
+Max|name|Max (man's name)
+Lukas|name|Lukas (man's name)
+Felix|name|Felix (man's name)
+Tom|name|Tom (man's name)
+Thomas|name|Thomas (man's name)
+Hans|name|Hans (man's name)
+Gretel|name|Gretel (girl in the fairy tale)
+Hänsel|name|Hansel (boy in the fairy tale)
+Müller|name|Müller (surname; also "miller")
+Schmidt|name|Schmidt (common surname)
+Weber|name|Weber (surname)
+Goethe|name|Johann Wolfgang von Goethe, poet (1749–1832)
+Schiller|name|Friedrich Schiller, poet (1759–1805)
+Luther|name|Martin Luther (1483–1546)
+Mozart|name|Wolfgang Amadeus Mozart, composer
+Grimm|name|the Brothers Grimm, collectors of fairy tales

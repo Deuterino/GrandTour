@@ -235,7 +235,7 @@ export function caseEnding(ctx, noun, { cases = ['akk', 'dat'], dets = ['def', '
   const np = DE.nounPhrase(noun, { c, number, det, adj });
   const [art, ...rest] = np.text.split(' ');
   if (!np.art) return null;
-  const others = DE.GENDERS.map((g) => DE.CASES.map((cc) => det === 'def' ? DE.DEF[g][DE.CASES.indexOf(cc)] : DE.einWord(det === 'kein' ? 'kein' : 'ein', g, cc)))
+  const others = DE.GENDERS.map((g) => DE.CASES.map((cc) => det === 'def' ? DE.DEF[g][DE.CASES.indexOf(cc)] : DE.einWord(det === 'indef' ? 'ein' : det, g, cc)))
     .flat().filter((x) => x && x !== art);
   const opts = shuffle([art, ...sample([...new Set(others)], 3, ctx.rnd)], ctx.rnd);
   const gname = DE.GENDER_NAMES[noun.g === 'pl' ? 'pl' : noun.g];

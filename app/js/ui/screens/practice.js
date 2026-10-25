@@ -9,9 +9,9 @@ import * as DE from '../../lang/de.js';
 import * as IT from '../../lang/it.js';
 
 function knownEntries(ctx, pred) {
-  const seen = ctx.L.entries.filter((e) => ctx.c.seen[e.id] && pred(e));
+  const seen = ctx.L.entries.filter((e) => !e.x && ctx.c.seen[e.id] && pred(e));
   if (seen.length >= 8) return seen;
-  return ctx.L.entries.filter((e) => (ctx.unitOf.get(e.id) ?? 99) <= Math.max(ctx.unitIndex, 3) && pred(e));
+  return ctx.L.entries.filter((e) => !e.x && (ctx.unitOf.get(e.id) ?? 99) <= Math.max(ctx.unitIndex, 3) && pred(e));
 }
 
 const MODES = {

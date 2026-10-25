@@ -1,0 +1,370 @@
+# German grammar, part 1 (A1). Format: see tools/build_grammar.py
+
+=== g-sounds | Sounds and spelling | A1 | 🔤
+summary: German is spelled almost exactly as it sounds — learn a dozen rules and you can read anything aloud.
+--- section: Vowels and umlauts
+German vowels are pure (no gliding as in English "go"). A vowel is **long** before a single consonant or an *h* (*Sohn, fahren*) and **short** before two consonants (*Sonne, Mann*).
+The umlauts change the vowel: **ä** sounds like the *e* in "bed", **ö** is the *e* of "bed" said with rounded lips, **ü** is *ee* said with rounded lips.
+table:
+| letters | sounds like | examples |
+| **ei** | "eye" | mein, drei, Wein |
+| **ie** | "ee" | Liebe, vier, sie |
+| **eu / äu** | "oy" | neu, heute, Häuser |
+| **au** | "ow" (cow) | Haus, auch |
+| **ä** | e in "bed" | Männer, spät |
+| **ö** | rounded e | schön, hören |
+| **ü** | rounded ee | über, müde |
+ex: Mein Bruder ist heute müde. | My brother is tired today. | ei = "eye", eu = "oy", ü = rounded ee
+--- section: Consonants
+table:
+| letters | sounds like | examples |
+| **w** | English v | Wasser, wie |
+| **v** | English f | Vater, viel |
+| **z** | ts | Zeit, zehn |
+| **s** before a vowel | z | Sonne, sie |
+| **sch** | sh | Schule, schön |
+| **sp / st** at the start | shp / sht | sprechen, Straße |
+| **ch** after a, o, u | throat sound (Scottish "loch") | Buch, auch, Nacht |
+| **ch** after e, i, ä, ö, ü | soft hiss (like "huge") | ich, nicht, Milch |
+| **ß** | ss | heiß, Straße |
+| **-b, -d, -g** at the end | p, t, k | ab, Hund, Tag |
+ex: Wie viel Wasser? | How much water? | w = v, v = f
+ex: Ich spreche nicht schnell. | I don't speak fast. | ich (soft ch), sp = shp
+--- section: Stress and capitals
+Most German words are stressed on the **first syllable**: *Arbeit, Kinder, schreiben*. Prefixes like *be-, ver-, ge-* are never stressed: *bezahlen, verstehen*.
+**All nouns start with a capital letter** — this helps you spot them in a sentence: *Der Hund sieht die Katze.*
+--- tip: Read it as it's written
+German spelling is regular: every letter is pronounced, including final *-e* (*Name* = NAH-meh). Learn **ei = "eye"** and **ie = "ee"** first: *mein Bier* = "mine beer".
+ex: Die Liebe ist mein Leben. | Love is my life. | ie = ee, ei = eye
+--- tip: Capital letters mark nouns
+Every noun is capitalized, not just names. When you see a capital letter in the middle of a sentence, it is almost always a noun — and nouns come with **der, die** or **das**.
+ex: Das Kind trinkt Milch. | The child drinks milk.
+--- mistakes
+- Saying *w* as English w: *Wein* is "vine", not "wine".
+- Reading *ei* and *ie* the English way: *Wien* (Vienna) is "veen", *wein* is "vine".
+- Forgetting the final *-e*: *ich habe* has two syllables.
+drill: choice 5 label=How is it pronounced?
+  q: The letters ___ in "mein" sound like "eye" | ei | ie | en: | why: ei = "eye", ie = "ee"
+  q: "Wasser" starts with the sound ___ | v | w | f | why: German w is pronounced like English v.
+  q: "Vater" starts with the sound ___ | f | v | w | why: German v is usually pronounced like f.
+  q: "Zeit" starts with the sound ___ | ts | z | s | why: German z = ts.
+  q: The "ch" in "ich" is ___ | soft (like "huge") | hard (like "loch") | like "church" | why: After e, i, ä, ö, ü the ch is soft.
+
+=== g-pronouns-sein | Who? Pronouns, sein and haben | A1 | 👤
+summary: The six persons of the German verb, and the two verbs you need from the first day: sein (to be) and haben (to have).
+--- section: Personal pronouns
+table:
+| | singular | plural |
+| 1st person | **ich** (I) | **wir** (we) |
+| 2nd person | **du** (you, friend) | **ihr** (you all, friends) |
+| 3rd person | **er / sie / es** (he / she / it) | **sie** (they) |
+| polite "you" | **Sie** (one or more) | **Sie** |
+**du** is for family, friends, children and young people; **Sie** (always capital S) is for adults you don't know, at work, in shops. When unsure, use *Sie* — Germans will offer *du* if they want it ("Wir können uns duzen").
+**er, sie, es** follow the noun's grammatical gender: *der Tisch → er* (he/it), *die Lampe → sie*, *das Buch → es*.
+--- section: sein — to be
+table:
+| person | sein | haben |
+| ich | **bin** | **habe** |
+| du | **bist** | **hast** |
+| er / sie / es | **ist** | **hat** |
+| wir | **sind** | **haben** |
+| ihr | **seid** | **habt** |
+| sie / Sie | **sind** | **haben** |
+ex: Ich bin Anna. Wer bist du? | I'm Anna. Who are you?
+ex: Wir sind aus Amerika. | We are from America.
+ex: Haben Sie Zeit? | Do you have time? | Sie + 3rd-person plural form
+ex: Er hat einen Bruder. | He has a brother.
+--- section: haben where English uses "to be"
+German says it *has* hunger, thirst, time and fear: **Ich habe Hunger** (I'm hungry), **Ich habe Durst**, **Ich habe keine Zeit**, **Ich habe Angst**. Age, however, is *sein*: **Ich bin 30 (Jahre alt).**
+--- tip: Six persons
+German verbs change their ending for each person: *ich bin, du bist, er ist…* Learn the verb with its pronoun, never alone.
+table:
+| | sein | haben |
+| ich | bin | habe |
+| du | bist | hast |
+| er/sie/es | ist | hat |
+| wir | sind | haben |
+| ihr | seid | habt |
+| sie/Sie | sind | haben |
+--- tip: du or Sie?
+**du** for friends and family, **Sie** for strangers and at work. *Sie* takes the same verb form as *sie* (they): *Sind Sie müde?* = Are you tired?
+ex: Wie heißt du? | What's your name? (to a friend)
+ex: Wie heißen Sie? | What's your name? (polite)
+--- mistakes
+- *Ich bin Hunger* — say **Ich habe Hunger**.
+- *Ich habe 30 Jahre* — age uses sein: **Ich bin 30 Jahre alt.**
+- Writing polite *Sie* with a small s: *sie* = she/they.
+drill: choice 8 label=Choose the right form
+  q: Ich ___ Anna. | bin | ist | sind | en: I am Anna. | why: ich → bin
+  q: Du ___ sehr nett. | bist | bin | seid | en: You are very nice. | why: du → bist
+  q: Wir ___ aus Berlin. | sind | seid | ist | en: We are from Berlin. | why: wir → sind
+  q: ___ ihr müde? | Seid | Sind | Bist | en: Are you (all) tired? | why: ihr → seid
+  q: Er ___ einen Hund. | hat | habt | hast | en: He has a dog. | why: er → hat
+  q: Ich habe ___. | Hunger | hungrig bin | Hunger bin | en: I'm hungry. | why: Germans "have" hunger.
+  q: ___ Sie Zeit? | Haben | Hast | Habt | en: Do you have time? | why: Sie (polite) → haben
+  q: Das Buch ist neu. ___ ist sehr gut. | Es | Er | Sie | en: The book is new. It is very good. | why: das Buch → es
+
+=== g-gender | Gender: der, die, das | A1 | ⚖️
+summary: Every noun is masculine (der), feminine (die) or neuter (das). Learn the article with the noun — and use the rules that predict it.
+--- section: Three genders, one plural
+table:
+| | masculine | feminine | neuter | plural |
+| "the" | **der** Tisch | **die** Lampe | **das** Buch | **die** Bücher |
+| "a" | **ein** Tisch | **eine** Lampe | **ein** Buch | — (Bücher) |
+| "no / not a" | **kein** Tisch | **keine** Lampe | **kein** Buch | **keine** Bücher |
+Grammatical gender is about the *word*, not the thing: *das Mädchen* (the girl) is neuter, *der Löffel* (spoon) masculine, *die Gabel* (fork) feminine, *das Messer* (knife) neuter. In the plural all three use **die**.
+Throughout this app nouns are colored: **der = blue**, **die = red**, **das = green**.
+ex: Der Tisch, die Lampe und das Buch sind neu. | The table, the lamp and the book are new.
+--- section: Rules that work
+table:
+| ending / group | gender | examples |
+| -ung, -heit, -keit, -schaft | **die** (always) | die Zeitung, die Freiheit, die Mannschaft |
+| -ion, -tät, -ik, -ei, -ie | **die** | die Nation, die Universität, die Musik, die Polizei |
+| -in (female persons) | **die** | die Lehrerin, die Freundin |
+| -e (about 90%) | **die** | die Lampe, die Straße (but: der Junge, der Name, das Auge) |
+| -chen, -lein | **das** (always) | das Mädchen, das Brötchen |
+| -ment, -um, -ma | **das** | das Instrument, das Zentrum, das Thema |
+| verbs used as nouns | **das** | das Essen, das Leben |
+| -ling, -ismus, -ist, -or | **der** | der Frühling, der Tourismus, der Polizist, der Motor |
+| days, months, seasons | **der** | der Montag, der Mai, der Winter |
+In a compound noun, the **last part** decides: *das Haus + die Tür = die Haustür*.
+--- tip: Never learn a noun without its article
+Learn *der Tisch*, not *Tisch*. Say it aloud with the article — your ear will remember the pairing. The colors in the app help: blue der, red die, green das.
+ex: der Tisch, die Lampe, das Buch | the table, the lamp, the book
+--- tip: Endings that tell you the gender
+**die**: -ung, -heit, -keit, -schaft, -ion, -tät, and most nouns in -e. **das**: -chen and -lein (even *das Mädchen*). **der**: days, months, seasons.
+ex: die Zeitung, die Freiheit, die Universität | the newspaper, freedom, the university
+ex: das Mädchen, das Brötchen | the girl, the bread roll
+--- mistakes
+- *die Mädchen* for one girl — it's **das Mädchen** (because of -chen).
+- Guessing gender from meaning: *die Person* is feminine even for a man; *das Kind* is neuter.
+drill: gender 10
+drill: choice 4 label=Which article?
+  q: ___ Zeitung ist von heute. | Die | Der | Das | en: The newspaper is from today. | why: -ung nouns are always feminine.
+  q: ___ Mädchen ist sieben. | Das | Die | Der | en: The girl is seven. | why: -chen nouns are always neuter.
+  q: ___ Montag ist lang. | Der | Die | Das | en: Monday is long. | why: Days of the week are masculine.
+  q: ___ Haustür ist offen. | Die | Das | Der | en: The front door is open. | why: Compounds take the gender of the last part: die Tür.
+
+=== g-present | The present tense | A1 | 🕰️
+summary: Regular verbs take the endings -e, -st, -t, -en, -t, -en on the stem. The present also covers the English future and "I've been doing … since".
+--- section: Endings
+Take the infinitive, remove **-en** (or -n) to get the stem, and add the endings:
+table:
+| person | ending | machen | arbeiten | heißen |
+| ich | -e | mach**e** | arbeit**e** | heiß**e** |
+| du | -st | mach**st** | arbeit**est** | heiß**t** |
+| er / sie / es | -t | mach**t** | arbeit**et** | heiß**t** |
+| wir | -en | mach**en** | arbeit**en** | heiß**en** |
+| ihr | -t | mach**t** | arbeit**et** | heiß**t** |
+| sie / Sie | -en | mach**en** | arbeit**en** | heiß**en** |
+Stems ending in **-t / -d** add an *e* to be pronounceable (*du arbeitest, er findet*). Stems ending in **-s, -ß, -z** take only *-t* for du (*du heißt, du tanzt*).
+ex: Ich lerne Deutsch. | I'm learning German. | one present for "I learn" and "I am learning"
+ex: Was machst du heute? | What are you doing today?
+ex: Er arbeitet in Hamburg. | He works in Hamburg. | -t stem → arbeitet
+--- section: One tense, three meanings
+German has no "-ing" form: **ich spiele** = I play / I am playing. The present is also used for the future when a time word makes it clear: *Morgen fahre ich nach Berlin* (I'm going to Berlin tomorrow). And with **seit** it means "have been doing": *Ich wohne seit drei Jahren hier* (I have lived here for three years).
+ex: Morgen kommt mein Bruder. | My brother is coming tomorrow.
+ex: Ich lerne seit einem Jahr Deutsch. | I've been learning German for a year.
+--- tip: The six endings
+Stem + **-e, -st, -t, -en, -t, -en**. *spielen*: ich spiel**e**, du spiel**st**, er spiel**t**, wir spiel**en**, ihr spiel**t**, sie spiel**en**.
+--- tip: No "-ing" in German
+*Ich trinke Kaffee* = I drink coffee **and** I am drinking coffee. Don't look for a separate form.
+ex: Ich trinke gerade Kaffee. | I'm drinking coffee right now. | gerade = right now
+--- mistakes
+- *Ich bin lernen* for "I am learning" — just say **ich lerne**.
+- Forgetting the extra e: *du arbeitst* → **du arbeitest**.
+drill: conj 10 tenses=pres
+drill: choice 4 label=Choose the right form
+  q: Du ___ (arbeiten) viel. | arbeitest | arbeitst | arbeiten | en: You work a lot. | why: Stems in -t add an e: arbeit-e-st.
+  q: Wie ___ (heißen) du? | heißt | heißst | heißen | en: What's your name? | why: Stems in -ß take only -t for du.
+  q: Wir ___ (spielen) Fußball. | spielen | spielt | spiele | en: We play football. | why: wir → -en
+  q: Ihr ___ (lernen) schnell. | lernt | lernen | lernst | en: You (all) learn fast. | why: ihr → -t
+
+=== g-questions | Questions | A1 | ❓
+summary: W-questions put the question word first and the verb second; yes/no questions start with the verb.
+--- section: W-questions
+table:
+| word | meaning | example |
+| **wer** | who | Wer ist das? |
+| **was** | what | Was machst du? |
+| **wo** | where | Wo wohnst du? |
+| **woher** | where from | Woher kommen Sie? |
+| **wohin** | where to | Wohin fährst du? |
+| **wann** | when | Wann kommt der Zug? |
+| **warum** | why | Warum lernst du Deutsch? |
+| **wie** | how | Wie geht's? |
+| **wie viel / wie viele** | how much / many | Wie viel kostet das? |
+| **welcher, welche, welches** | which | Welches Buch? |
+Word order: **question word – verb – subject – rest**.
+ex: Woher kommst du? — Ich komme aus Kanada. | Where are you from? — I'm from Canada.
+ex: Wann beginnt der Kurs? | When does the course start?
+--- section: Yes/no questions
+Put the **verb first**: *Kommst du mit?* (Are you coming along?) *Hast du Zeit?* German has no "do" for questions. Answer **ja** or **nein** — and **doch** to contradict a negative question: *Kommst du nicht? — Doch!* (Aren't you coming? — Yes, I am!)
+ex: Sprechen Sie Englisch? | Do you speak English?
+ex: Hast du keinen Hunger? — Doch! | Aren't you hungry? — Yes, I am!
+--- tip: Verb in second place
+In a W-question the verb comes right after the question word: **Wo wohnst du?** In a yes/no question the verb comes first: **Wohnst du hier?**
+--- tip: doch
+*doch* is "yes" in answer to a negative question: *Bist du nicht müde? — Doch, sehr!*
+--- mistakes
+- *Wo du wohnst?* → **Wo wohnst du?**
+- *Wer* is "who", *wo* is "where" — not the other way round.
+- Answering *ja* to a negative question — use **doch**.
+drill: order 5 label=Make the question
+  t: Wo wohnst du? | en: Where do you live? | why: question word – verb – subject
+  t: Woher kommen Sie? | en: Where are you from? | why: question word – verb – subject
+  t: Sprichst du Deutsch? | en: Do you speak German? | why: yes/no question: verb first
+  t: Wann kommt der Bus? | en: When is the bus coming? | why: question word – verb – subject
+  t: Hast du heute Zeit? | en: Do you have time today? | why: yes/no question: verb first
+drill: choice 4 label=Which question word?
+  q: ___ heißt du? | Wie | Was | Wer | en: What's your name? | why: German asks "how are you called?"
+  q: ___ kommst du? — Aus Rom. | Woher | Wo | Wohin | en: Where are you from? — From Rome. | why: woher = from where
+  q: ___ fährst du? — Nach Wien. | Wohin | Woher | Wo | en: Where are you going? — To Vienna. | why: wohin = where to
+  q: ___ ist das? — Das ist mein Bruder. | Wer | Wo | Was | en: Who is that? — That's my brother. | why: wer = who
+
+=== g-plural | Plurals | A1 | 👯
+summary: German has several plural endings. Learn the plural with the noun — but these patterns cover most words.
+--- section: The plural patterns
+table:
+| pattern | singular | plural | typical for |
+| **-e** | der Tag | die Tag**e** | many masculine nouns |
+| **¨-e** | der Stuhl | die St**ü**hl**e** | masculine one-syllable nouns |
+| **-er / ¨-er** | das Kind / das Haus | die Kind**er** / die H**ä**us**er** | neuter one-syllable nouns |
+| **-(e)n** | die Frau | die Frau**en** | almost all feminine nouns |
+| **–** (no change) | der Lehrer | die Lehrer | -er, -el, -en, -chen, -lein |
+| **¨** (umlaut only) | der Apfel | die **Ä**pfel | some -el/-er nouns |
+| **-s** | das Auto | die Auto**s** | words from other languages, -a, -i, -o |
+| **-nen** | die Lehrerin | die Lehrerin**nen** | feminine -in |
+The plural article is always **die**, and in the dative plural almost every noun adds **-n**: *mit den Kindern*.
+ex: Ein Tag, zwei Tage. | One day, two days.
+ex: Die Kinder spielen mit den Hunden. | The children are playing with the dogs. | dative plural -n
+--- tip: Feminine nouns: -(e)n
+Almost every feminine noun forms its plural with **-n** or **-en**: *die Frau → die Frauen, die Lampe → die Lampen*. Feminine nouns in *-in* double the n: *die Freundin → die Freundinnen*.
+--- tip: Nouns in -er, -el, -chen don't change
+*der Lehrer → die Lehrer, das Mädchen → die Mädchen.* Only the article (die) shows it is plural — sometimes with an umlaut: *der Vater → die Väter*.
+--- mistakes
+- *die Kinds* — the plural of *das Kind* is **die Kinder**.
+- Forgetting the dative plural -n: *mit den Kinder* → **mit den Kindern**.
+drill: plural 10
+
+=== g-negation | Negation: nicht and kein | A1 | 🚫
+summary: kein negates nouns with ein or no article; nicht negates everything else.
+--- section: kein
+**kein** replaces *ein* — and is also used where there would be no article: *Ich habe ein Auto → Ich habe kein Auto. Ich habe Zeit → Ich habe keine Zeit.* It takes the same endings as *ein*, plus a plural: **keine**.
+table:
+| | masc. | fem. | neut. | plural |
+| nominative | kein | keine | kein | keine |
+| accusative | keinen | keine | kein | keine |
+| dative | keinem | keiner | keinem | keinen |
+ex: Das ist kein Problem. | That's no problem.
+ex: Wir haben keine Kinder. | We don't have any children.
+--- section: nicht
+**nicht** negates verbs, adjectives, adverbs, and nouns with a definite article or a possessive. It usually stands **at the end of the clause**, but **before** adjectives, adverbs of manner, prepositional phrases and the second part of the verb.
+ex: Ich komme heute nicht. | I'm not coming today.
+ex: Das ist nicht gut. | That's not good. | before the adjective
+ex: Das ist nicht mein Buch. | That's not my book. | possessive → nicht
+ex: Er wohnt nicht in Berlin. | He doesn't live in Berlin. | before the prepositional phrase
+--- tip: kein = "not a / no"
+If you'd say *ein* or no article, negate with **kein**: *Hast du ein Handy? — Nein, ich habe kein Handy.*
+--- tip: nicht for everything else
+*Ich verstehe das nicht. Das ist nicht teuer. Ich wohne nicht hier.*
+--- mistakes
+- *Ich habe nicht ein Auto* → **Ich habe kein Auto.**
+- *Ich habe nicht Zeit* → **Ich habe keine Zeit.**
+drill: choice 8 label=nicht or kein?
+  q: Ich habe ___ Zeit. | keine | nicht | kein | en: I don't have time. | why: noun without article → kein, feminine → keine
+  q: Das ist ___ gut. | nicht | kein | keine | en: That's not good. | why: adjective → nicht
+  q: Er hat ___ Bruder. | keinen | kein | nicht | en: He has no brother. | why: accusative masculine → keinen
+  q: Ich verstehe das ___. | nicht | kein | keine | en: I don't understand that. | why: verb → nicht at the end
+  q: Das ist ___ Problem. | kein | keine | nicht | en: That's no problem. | why: das Problem, nominative → kein
+  q: Wir wohnen ___ in Hamburg. | nicht | kein | keine | en: We don't live in Hamburg. | why: prepositional phrase → nicht
+  q: Sie hat ___ Kinder. | keine | kein | keinen | en: She has no children. | why: plural → keine
+  q: Das ist ___ mein Auto. | nicht | kein | keine | en: That's not my car. | why: possessive → nicht
+
+=== g-time | Numbers, time and dates | A1 | 🕰️
+summary: Numbers 21–99 are said "one-and-twenty", "halb drei" means 2:30, and dates use ordinal numbers.
+--- section: Numbers
+table:
+| | | |
+| 1 eins | 11 elf | 21 **einund**zwanzig |
+| 2 zwei | 12 zwölf | 30 dreißig |
+| 3 drei | 13 dreizehn | 45 **fünfund**vierzig |
+| 6 sechs | 16 **sech**zehn | 60 **sech**zig |
+| 7 sieben | 17 **sieb**zehn | 70 **sieb**zig |
+| 10 zehn | 20 zwanzig | 100 hundert, 1000 tausend |
+From 21 to 99 the units come first: **dreiundzwanzig** = three-and-twenty = 23. Big numbers are written as one word: 2024 = *zweitausendvierundzwanzig*. Years before 2000 are said in hundreds: 1989 = *neunzehnhundertneunundachtzig*.
+--- section: Telling the time
+table:
+| time | everyday | official |
+| 8:00 | acht Uhr | acht Uhr |
+| 8:15 | Viertel nach acht | acht Uhr fünfzehn |
+| 8:30 | **halb neun** (!) | acht Uhr dreißig |
+| 8:45 | Viertel vor neun | acht Uhr fünfundvierzig |
+| 20:10 | zehn nach acht | zwanzig Uhr zehn |
+**halb** refers to the *next* hour: *halb neun* = half (way) to nine = 8:30. *Um* means "at": *um sieben Uhr*. **Wie spät ist es? / Wie viel Uhr ist es?** = What time is it?
+ex: Der Zug kommt um halb drei. | The train arrives at 2:30. | halb drei = 2:30
+ex: Es ist Viertel vor zehn. | It's a quarter to ten.
+--- section: Days and dates
+Days, months and seasons are masculine: *am Montag* (on Monday), *im Mai* (in May), *im Winter*. Dates use ordinals with **am**: *am ersten Mai* (on May 1st), *am dritten Oktober*. Written: *am 3. Oktober*.
+ex: Mein Geburtstag ist am zwölften Juli. | My birthday is on July 12th.
+--- tip: Units before tens
+**24 = vierundzwanzig** (four-and-twenty). Say the small number first.
+--- tip: halb = half TO the next hour
+**halb drei** is 2:30, not 3:30. Think "halfway to three".
+--- mistakes
+- Reading 2:30 as *halb zwei* — it's **halb drei**.
+- *zweiundzwanzigste* is an ordinal (22nd); for counting say **zweiundzwanzig**.
+drill: choice 8 label=Numbers and time
+  q: 25 = ___ | fünfundzwanzig | zwanzigfünf | fünfzwanzig | why: units first: fünf-und-zwanzig
+  q: 67 = ___ | siebenundsechzig | sechzigsieben | siebenundsechzehn | why: units first; 60 = sechzig
+  q: 8:30 = ___ | halb neun | halb acht | acht halb | why: halb refers to the next hour.
+  q: 3:15 = Viertel ___ drei | nach | vor | um | why: Viertel nach = quarter past
+  q: 6:45 = Viertel ___ sieben | vor | nach | halb | why: Viertel vor = quarter to
+  q: Der Film beginnt ___ acht Uhr. | um | am | im | en: The film starts at eight. | why: clock times: um
+  q: Ich komme ___ Montag. | am | um | im | en: I'm coming on Monday. | why: days: am (an dem)
+  q: Wir fahren ___ August nach Italien. | im | am | um | en: We're going to Italy in August. | why: months and seasons: im (in dem)
+
+=== g-accusative | The accusative case | A1 | 🎯
+summary: The direct object goes into the accusative. Only the masculine changes: der → den, ein → einen.
+--- section: Nominative and accusative
+The **subject** (who does it) is nominative; the **direct object** (what or whom it is done to) is accusative. Only masculine articles change:
+table:
+| | masculine | feminine | neuter | plural |
+| nominative | **der** / ein / kein | die / eine | das / ein | die / keine |
+| accusative | **den** / **einen** / **keinen** | die / eine | das / ein | die / keine |
+ex: Der Hund sieht den Mann. | The dog sees the man. | subject der Hund, object den Mann
+ex: Den Mann sieht der Hund. | It's the man the dog sees. | the endings, not the order, show who does what
+ex: Ich habe einen Bruder und eine Schwester. | I have a brother and a sister.
+Because the case is marked, German word order can change without changing who does what.
+--- section: Pronouns in the accusative
+table:
+| nominative | ich | du | er | sie | es | wir | ihr | sie / Sie |
+| accusative | **mich** | **dich** | **ihn** | sie | es | **uns** | **euch** | sie / Sie |
+ex: Siehst du mich? — Ja, ich sehe dich. | Can you see me? — Yes, I see you.
+ex: Der Tee? Ich trinke ihn ohne Zucker. | The tea? I drink it without sugar. | der Tee → ihn
+--- section: Prepositions with the accusative
+**durch, für, gegen, ohne, um** (and *bis*, *entlang*) always take the accusative. A mnemonic: **DOGFU** — durch, ohne, gegen, für, um.
+ex: Das Geschenk ist für dich. | The present is for you.
+ex: Wir gehen durch den Park. | We walk through the park.
+ex: Ich trinke Kaffee ohne Milch. | I drink coffee without milk.
+--- tip: Only "der" changes
+In the accusative, **der → den** and **ein → einen**. Feminine, neuter and plural stay the same.
+table:
+| | nom. | acc. |
+| masc. | der / ein | **den / einen** |
+| fem. | die / eine | die / eine |
+| neut. | das / ein | das / ein |
+ex: Ich kaufe den Tisch, die Lampe und das Bett. | I'm buying the table, the lamp and the bed.
+--- tip: Who does what?
+Ask **wer?** (who?) for the subject and **wen? / was?** (whom? / what?) for the object. The object of *haben, sehen, kaufen, brauchen, essen, trinken* is accusative.
+ex: Ich brauche einen Stift. | I need a pen.
+--- mistakes
+- *Ich habe ein Bruder* → **einen Bruder** (der Bruder is masculine).
+- *für mir* → **für mich** (für always takes the accusative).
+drill: case 10 cases=akk dets=def,indef
+drill: choice 5 label=Choose the pronoun
+  q: Kennst du ___? (er) | ihn | er | ihm | en: Do you know him? | why: er → ihn in the accusative
+  q: Das ist für ___. (ich) | mich | mir | ich | en: That's for me. | why: für + accusative
+  q: Wir sehen ___ morgen. (ihr) | euch | ihr | uns | en: We'll see you (all) tomorrow. | why: ihr → euch
+  q: Liebst du ___? (ich) | mich | mir | mein | en: Do you love me? | why: ich → mich
+  q: Ich gehe ohne ___. (du) | dich | dir | du | en: I'm going without you. | why: ohne + accusative

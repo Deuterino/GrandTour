@@ -1,0 +1,497 @@
+# German grammar, part 2 (A1–A2)
+
+=== g-stemchange | Stem-changing verbs | A1 | 🔀
+summary: Many strong verbs change their vowel in the du and er/sie/es forms of the present: fahren → du fährst, sprechen → er spricht.
+--- section: The three patterns
+Only **du** and **er/sie/es** change; *ich, wir, ihr, sie* stay regular.
+table:
+| change | verb | du | er / sie / es |
+| **a → ä** | fahren | f**ä**hrst | f**ä**hrt |
+| | schlafen | schl**ä**fst | schl**ä**ft |
+| | tragen, waschen, fallen, laufen (au → äu) | tr**ä**gst | l**ä**uft |
+| **e → i** | sprechen | spr**i**chst | spr**i**cht |
+| | essen | **i**sst | **i**sst |
+| | helfen, geben, nehmen (nimmst), treffen, vergessen | h**i**lfst | h**i**lft |
+| **e → ie** | sehen | s**ie**hst | s**ie**ht |
+| | lesen | l**ie**st | l**ie**st |
+ex: Ich fahre nach Berlin. Fährst du mit? | I'm driving to Berlin. Are you coming along?
+ex: Sie spricht drei Sprachen. | She speaks three languages.
+ex: Er liest jeden Abend. | He reads every evening.
+ex: Nimmst du den Bus? | Are you taking the bus? | nehmen → du nimmst, er nimmt
+--- section: Irregular in the present
+**wissen**: ich weiß, du weißt, er weiß, wir wissen. **werden**: ich werde, du wirst, er wird. **nehmen**: du nimmst, er nimmt. **treten**: du trittst, er tritt.
+--- tip: Only du and er/sie/es change
+*sprechen*: ich spreche, **du sprichst, er spricht**, wir sprechen. The other forms keep the infinitive vowel.
+table:
+| | fahren | sprechen | sehen |
+| ich | fahre | spreche | sehe |
+| du | **fährst** | **sprichst** | **siehst** |
+| er/sie/es | **fährt** | **spricht** | **sieht** |
+| wir | fahren | sprechen | sehen |
+--- mistakes
+- *ich spriche* — the change never affects *ich*: **ich spreche**.
+- *du esst* → **du isst** (and *er isst*).
+drill: conj 10 tenses=pres verbs=fahren,sprechen,sehen,essen,lesen,schlafen,nehmen,geben,helfen,tragen,laufen,treffen,vergessen,waschen
+drill: choice 4 label=Choose the right form
+  q: Was ___ (essen) du gern? | isst | esst | essst | en: What do you like to eat? | why: e → i: du isst
+  q: Er ___ (fahren) nach Köln. | fährt | fahrt | fährst | en: He's driving to Cologne. | why: a → ä for er/sie/es
+  q: Ich ___ (sehen) nichts. | sehe | siehe | sieht | en: I don't see anything. | why: ich never changes
+  q: ___ (nehmen) du Milch? | Nimmst | Nehmst | Nimmt | en: Do you take milk? | why: nehmen → du nimmst
+
+=== g-possessive | My, your, his: possessives | A1 | 👜
+summary: mein, dein, sein, ihr, unser, euer, Ihr — they take the same endings as ein/kein.
+--- section: The possessives
+table:
+| person | possessive | example |
+| ich | **mein** | mein Vater, meine Mutter |
+| du | **dein** | dein Hund |
+| er / es | **sein** | sein Auto |
+| sie (she) | **ihr** | ihr Bruder |
+| wir | **unser** | unsere Wohnung |
+| ihr | **euer** | eure Kinder (euer drops its e) |
+| sie (they) | **ihr** | ihr Haus |
+| Sie (polite) | **Ihr** | Ihr Pass, bitte! |
+--- section: Endings like ein/kein
+The ending depends on the **noun owned**, not on the owner:
+table:
+| | masculine | feminine | neuter | plural |
+| nominative | mein | mein**e** | mein | mein**e** |
+| accusative | mein**en** | mein**e** | mein | mein**e** |
+| dative | mein**em** | mein**er** | mein**em** | mein**en** |
+ex: Das ist meine Schwester und das ist ihr Mann. | That's my sister and that's her husband.
+ex: Ich besuche meinen Onkel. | I'm visiting my uncle. | accusative masculine: meinen
+ex: Wir wohnen bei unseren Eltern. | We live with our parents. | dative plural: unseren
+--- tip: sein or ihr?
+**sein** = his/its, **ihr** = her/their, **Ihr** = your (polite). *Anna und ihr Bruder. Peter und seine Schwester.*
+--- tip: Endings come from the thing owned
+*mein Bruder, meine Schwester, mein Kind, meine Eltern* — like *ein, eine, ein*.
+--- mistakes
+- *Peter und ihre Schwester* when you mean Peter's sister → **seine Schwester**.
+- *Ich sehe mein Bruder* → **meinen Bruder** (accusative masculine).
+drill: case 6 cases=nom,akk dets=mein,dein,unser
+drill: choice 5 label=Choose the possessive
+  q: Anna und ___ Mann wohnen in Bonn. | ihr | sein | ihre | en: Anna and her husband live in Bonn. | why: her → ihr; der Mann → ihr (no ending in nominative)
+  q: Peter und ___ Frau kommen heute. | seine | ihre | sein | en: Peter and his wife are coming today. | why: his → sein; die Frau → seine
+  q: Ist das ___ Handy, Frau Weber? | Ihr | dein | ihr | en: Is that your phone, Mrs Weber? | why: polite your → Ihr
+  q: Wir besuchen ___ Großeltern. | unsere | unser | unseren | en: We're visiting our grandparents. | why: plural accusative → unsere
+  q: Ich rufe ___ Bruder an. | meinen | mein | meinem | en: I'm calling my brother. | why: anrufen + accusative; der Bruder → meinen
+
+=== g-modal | Modal verbs | A1 | 💪
+summary: können, müssen, wollen, sollen, dürfen, mögen/möchten — the modal is conjugated in second place, the main verb waits at the end as an infinitive.
+--- section: Meanings
+table:
+| modal | meaning | example |
+| **können** | can, be able to | Ich kann schwimmen. |
+| **müssen** | must, have to | Ich muss arbeiten. |
+| **wollen** | want to | Wir wollen tanzen. |
+| **sollen** | should, be supposed to | Du sollst schlafen. |
+| **dürfen** | may, be allowed to | Darf ich rauchen? |
+| **mögen** | to like | Ich mag Käse. |
+| **möchten** | would like (to) | Ich möchte einen Kaffee. |
+--- section: Forms
+Modals are irregular in the singular and have no ending for ich and er/sie/es:
+table:
+| | können | müssen | wollen | dürfen | sollen | möchten |
+| ich | kann | muss | will | darf | soll | möchte |
+| du | kannst | musst | willst | darfst | sollst | möchtest |
+| er/sie/es | kann | muss | will | darf | soll | möchte |
+| wir | können | müssen | wollen | dürfen | sollen | möchten |
+| ihr | könnt | müsst | wollt | dürft | sollt | möchtet |
+| sie/Sie | können | müssen | wollen | dürfen | sollen | möchten |
+--- section: The verb bracket
+The modal stands in **second position**; the infinitive goes to the **end**. Everything else sits inside this bracket (die Satzklammer):
+ex: Ich kann heute nicht kommen. | I can't come today. | kann … kommen
+ex: Wir müssen morgen früh aufstehen. | We have to get up early tomorrow.
+ex: Möchtest du etwas trinken? | Would you like something to drink?
+--- section: Watch out
+**nicht müssen** means "don't have to": *Du musst nicht kommen* = you don't have to come. "Must not" is **nicht dürfen**: *Hier darf man nicht parken* = you mustn't park here. **will** means "want", not "will"!
+--- tip: Modal second, infinitive last
+*Ich **kann** gut **schwimmen**.* — the modal is conjugated, the other verb stays in the infinitive at the end.
+ex: Er will heute Abend ins Kino gehen. | He wants to go to the cinema tonight.
+--- tip: muss nicht ≠ darf nicht
+**Du musst nicht** = you don't have to. **Du darfst nicht** = you're not allowed to.
+--- mistakes
+- *Ich will gehen* means "I want to go", not "I will go".
+- *Ich kann gehen nicht* → **Ich kann nicht gehen.**
+drill: conj 8 tenses=pres verbs=können,müssen,wollen,sollen,dürfen,mögen
+drill: order 5 label=Build the sentence
+  t: Ich kann heute nicht kommen. | en: I can't come today. | why: modal second, infinitive last
+  t: Wir müssen jetzt gehen. | en: We have to go now. | why: modal second, infinitive last
+  t: Darf ich hier sitzen? | en: May I sit here? | why: yes/no question: modal first, infinitive last
+  t: Möchtest du einen Kaffee trinken? | en: Would you like to drink a coffee? | why: the infinitive waits at the end
+  t: Er will Deutsch lernen. | en: He wants to learn German. | why: will = wants
+
+=== g-separable | Separable verbs | A1 | ✂️
+summary: Verbs like anrufen, aufstehen, einkaufen split in the present: the prefix jumps to the end of the clause.
+--- section: How they split
+Many verbs have a stressed prefix that **separates** in main clauses in the present and simple past, and goes to the very end:
+ex: Ich rufe dich morgen an. | I'll call you tomorrow. | anrufen → rufe … an
+ex: Wann stehst du auf? | When do you get up? | aufstehen
+ex: Der Zug fährt um acht Uhr ab. | The train leaves at eight. | abfahren
+Separable prefixes are mostly prepositions or adverbs: **ab, an, auf, aus, bei, ein, fest, fort, her, hin, los, mit, nach, vor, weg, zu, zurück, zusammen**.
+--- section: When they stay together
+In the **infinitive** (with modals), in **subordinate clauses**, and in the **participle** the prefix stays attached — and *ge-* or *zu* goes inside:
+table:
+| use | example |
+| main clause | Ich **kaufe** heute **ein**. |
+| with a modal | Ich muss heute **einkaufen**. |
+| subordinate clause | …, weil ich heute **einkaufe**. |
+| Perfekt | Ich habe heute **eingekauft**. |
+| zu + infinitive | Ich habe keine Zeit **einzukaufen**. |
+--- section: Inseparable prefixes
+**be-, emp-, ent-, er-, ge-, miss-, ver-, zer-** never separate and are never stressed, and their participle has no *ge-*: *bekommen → bekommen, verstehen → verstanden*.
+ex: Ich verstehe dich nicht. | I don't understand you. | ver- never separates
+--- tip: The prefix goes to the end
+*anrufen*: Ich **rufe** meine Mutter jeden Sonntag **an**. Look at the end of the sentence to find the full verb!
+ex: Kommst du mit? | Are you coming along? | mitkommen
+--- tip: Together again
+With a modal or after *weil/dass* the verb is whole: *Ich will dich **anrufen**.* *…, dass er morgen **ankommt**.*
+--- mistakes
+- *Ich anrufe dich* → **Ich rufe dich an.**
+- *Ich habe angerufen* is right; *Ich habe geanrufen* is not — *ge* goes inside: an**ge**rufen.
+drill: conj 8 tenses=pres verbs=anrufen,aufstehen,einkaufen,mitkommen,ankommen,abfahren,fernsehen,anfangen,aufhören,einladen
+drill: order 5 label=Build the sentence
+  t: Ich rufe dich morgen an. | en: I'll call you tomorrow. | why: rufe … an
+  t: Wann stehst du auf? | en: When do you get up? | why: the prefix auf goes to the end
+  t: Der Film fängt um acht an. | en: The film starts at eight. | why: anfangen → fängt … an
+  t: Ich muss heute einkaufen. | en: I have to go shopping today. | why: after a modal the verb stays whole
+  t: Wir sehen heute Abend fern. | en: We're watching TV tonight. | why: fernsehen → sehen … fern
+
+=== g-imperative | Commands: the imperative | A1 | 📢
+summary: Komm! Kommt! Kommen Sie! — three forms for du, ihr and Sie.
+--- section: Forms
+table:
+| | du | ihr | Sie |
+| kommen | **Komm!** | **Kommt!** | **Kommen Sie!** |
+| warten | **Warte!** | **Wartet!** | **Warten Sie!** |
+| sprechen | **Sprich!** | **Sprecht!** | **Sprechen Sie!** |
+| anrufen | **Ruf an!** | **Ruft an!** | **Rufen Sie an!** |
+| sein | **Sei!** | **Seid!** | **Seien Sie!** |
+- **du**: the du-form without *du* and without *-st*: du kommst → Komm! Verbs with e → i keep it (Sprich! Nimm! Hilf!) but a → ä do not (Fahr! Schlaf!).
+- **ihr**: the ihr-form without *ihr*: Kommt!
+- **Sie**: the infinitive + Sie: Kommen Sie!
+Add **bitte** and **mal** to soften a command: *Komm bitte mal her!*
+ex: Warte mal! | Wait a moment!
+ex: Sprechen Sie bitte langsam. | Please speak slowly.
+ex: Seid leise, Kinder! | Be quiet, children!
+--- tip: Three ways to give an order
+Friend: **Komm!** Group of friends: **Kommt!** Polite: **Kommen Sie!** — and *bitte* makes it friendly.
+--- mistakes
+- *Kommst!* → **Komm!** (drop the -st).
+- *Fähr!* → **Fahr!** (a → ä does not carry over to the imperative).
+drill: choice 6 label=Make the command
+  q: (du, kommen) ___ her! | Komm | Kommst | Kommt | en: Come here! | why: du-form without -st
+  q: (Sie, warten) ___ bitte! | Warten Sie | Wartet | Warte | en: Please wait! | why: polite: infinitive + Sie
+  q: (du, helfen) ___ mir! | Hilf | Helf | Hilfst | en: Help me! | why: e → i stays: hilf
+  q: (ihr, sein) ___ ruhig! | Seid | Sind | Sei | en: Be quiet! | why: ihr → seid
+  q: (du, fahren) ___ langsam! | Fahr | Fähr | Fährst | en: Drive slowly! | why: a → ä does not carry over
+  q: (du, anrufen) ___ mich ___! | Ruf … an | Anruf … | Rufst … an | en: Call me! | why: separable: Ruf mich an!
+
+=== g-dative | The dative case | A2 | 🎁
+summary: The dative marks the receiver (indirect object), follows certain verbs and prepositions, and changes every article.
+--- section: The forms
+table:
+| | masculine | feminine | neuter | plural |
+| nominative | der / ein | die / eine | das / ein | die / — |
+| accusative | den / einen | die / eine | das / ein | die / — |
+| dative | **dem / einem** | **der / einer** | **dem / einem** | **den** + noun**-n** |
+Plural nouns add **-n** in the dative (unless they end in -n or -s): *mit den Kinder**n***.
+--- section: The receiver
+With giving, showing, telling verbs (*geben, schenken, zeigen, sagen, bringen, erklären*) the person who receives is dative and the thing is accusative:
+ex: Ich gebe dem Kind einen Apfel. | I give the child an apple. | dem Kind = to the child
+ex: Er schenkt seiner Mutter Blumen. | He gives his mother flowers.
+--- section: Dative verbs
+Some common verbs take a dative object: **helfen, danken, gefallen, gehören, antworten, glauben** (a person), **gratulieren, passen, schmecken, fehlen, folgen, verzeihen**.
+ex: Ich helfe dir. | I'm helping you.
+ex: Das Buch gehört meinem Bruder. | The book belongs to my brother.
+ex: Gefällt dir die Stadt? | Do you like the city? | literally: does the city please you?
+--- section: Dative prepositions
+**aus, bei, mit, nach, seit, von, zu** (and *gegenüber, außer*) always take the dative. Contractions: **zum** (zu dem), **zur** (zu der), **vom** (von dem), **beim** (bei dem).
+ex: Ich fahre mit dem Zug zur Arbeit. | I go to work by train.
+ex: Wir wohnen seit einem Jahr bei meinen Eltern. | We've been living with my parents for a year.
+--- section: Pronouns
+table:
+| nominative | ich | du | er | sie | es | wir | ihr | sie / Sie |
+| dative | **mir** | **dir** | **ihm** | **ihr** | **ihm** | **uns** | **euch** | **ihnen / Ihnen** |
+--- tip: Dative = "to" or "for" someone
+*Ich gebe **dem Mann** das Buch* = I give the book **to the man**. dem (m/n), der (f), den + -n (pl).
+table:
+| | m | f | n | pl |
+| dat. | dem | der | dem | den …-n |
+--- tip: mit, nach, aus, zu, von, bei, seit
+These prepositions always take the dative: *mit **dem** Bus, zu **der** (zur) Schule, nach **dem** Essen*.
+--- tip: helfen, danken, gefallen, gehören
+*Ich helfe **dir**. Das gefällt **mir**. Das gehört **ihm**.*
+--- mistakes
+- *mit der Bus* → **mit dem Bus** (der Bus is masculine).
+- *Ich helfe dich* → **Ich helfe dir.**
+- Forgetting the plural -n: *mit den Kinder* → **mit den Kindern**.
+drill: case 10 cases=dat dets=def,indef
+drill: choice 6 label=Dative pronouns and verbs
+  q: Kannst du ___ helfen? (ich) | mir | mich | ich | en: Can you help me? | why: helfen + dative
+  q: Wie gefällt ___ Berlin? (du) | dir | dich | du | en: How do you like Berlin? | why: gefallen + dative
+  q: Das Auto gehört ___. (er) | ihm | ihn | sein | en: The car belongs to him. | why: gehören + dative
+  q: Ich fahre mit ___ Zug. | dem | den | der | en: I'm going by train. | why: mit + dative; der Zug → dem
+  q: Sie wohnt bei ___ Eltern. | ihren | ihre | ihrem | en: She lives with her parents. | why: bei + dative plural → ihren
+  q: Wir danken ___. (Sie) | Ihnen | Sie | Ihr | en: We thank you. | why: danken + dative; Sie → Ihnen
+
+=== g-twoway | Two-way prepositions: where? and where to? | A2 | 📍
+summary: an, auf, hinter, in, neben, über, unter, vor, zwischen take the dative for location (wo?) and the accusative for movement to a place (wohin?).
+--- section: wo? → dative, wohin? → accusative
+ex: Das Buch liegt auf dem Tisch. | The book is lying on the table. | wo? → dative
+ex: Ich lege das Buch auf den Tisch. | I'm putting the book on the table. | wohin? → accusative
+ex: Wir sind im Kino. | We're at the cinema. | im = in dem
+ex: Wir gehen ins Kino. | We're going to the cinema. | ins = in das
+--- section: Verb pairs
+German has pairs of verbs for position (dative) and putting (accusative):
+table:
+| position — wo? + dative | movement — wohin? + accusative |
+| **liegen** (lie) — liegt, lag, gelegen | **legen** (lay, put flat) |
+| **stehen** (stand) | **stellen** (stand something up, put) |
+| **sitzen** (sit) | **(sich) setzen** (sit down, seat) |
+| **hängen** (hang, be hanging) | **hängen** (hang something up) |
+ex: Die Flasche steht im Kühlschrank. | The bottle is in the fridge.
+ex: Ich stelle die Flasche in den Kühlschrank. | I'm putting the bottle in the fridge.
+ex: Das Bild hängt an der Wand. Ich hänge es an die Wand. | The picture hangs on the wall. I'm hanging it on the wall.
+--- section: The nine prepositions
+**an** (at, on — vertical surfaces, edges), **auf** (on top of), **hinter** (behind), **in** (in, into), **neben** (next to), **über** (over, above), **unter** (under), **vor** (in front of), **zwischen** (between). Contractions: *am, im, ans, ins, aufs*.
+--- tip: Is something moving to a new place?
+Movement to a place (**wohin?**) → accusative: *in den Park*. Location (**wo?**) → dative: *im Park*.
+ex: Ich gehe in den Park. Ich bin im Park. | I'm going into the park. I'm in the park.
+--- tip: legen/liegen, stellen/stehen, setzen/sitzen
+*Ich **lege** das Handy auf den Tisch (Akk). Jetzt **liegt** es auf dem Tisch (Dat).*
+--- mistakes
+- *Ich bin in den Park* → **Ich bin im Park.**
+- *Ich lege das Buch auf dem Tisch* → **auf den Tisch** (movement).
+drill: choice 8 label=Dative or accusative?
+  q: Die Katze schläft auf ___ Sofa. | dem | das | den | en: The cat is sleeping on the sofa. | why: wo? → dative; das Sofa → dem
+  q: Ich setze mich auf ___ Sofa. | das | dem | der | en: I sit down on the sofa. | why: wohin? → accusative; das Sofa → das
+  q: Wir gehen heute ins ___. | Kino | Kinos | Kinoe | en: We're going to the cinema today. | why: ins = in das (accusative, movement)
+  q: Das Bild hängt an ___ Wand. | der | die | den | en: The picture hangs on the wall. | why: wo? → dative; die Wand → der
+  q: Stell die Milch in ___ Kühlschrank! | den | dem | der | en: Put the milk in the fridge! | why: wohin? → accusative; der Kühlschrank → den
+  q: Der Hund liegt unter ___ Tisch. | dem | den | der | en: The dog is lying under the table. | why: wo? → dative; der Tisch → dem
+  q: Ich ___ das Buch auf den Tisch. | lege | liege | liegt | en: I put the book on the table. | why: legen (put) + accusative
+  q: Das Buch ___ auf dem Tisch. | liegt | legt | lege | en: The book is on the table. | why: liegen (be lying) + dative
+
+=== g-wordorder | Word order: the verb in second place | A2 | 🧱
+summary: In a German main clause the conjugated verb is always the second element — whatever comes first.
+--- section: Verb second (V2)
+The first position can hold the subject, a time, a place, an object — even a whole clause. The verb stays second and the subject moves after it:
+ex: Ich fahre morgen nach Berlin. | I'm going to Berlin tomorrow.
+ex: Morgen fahre ich nach Berlin. | Tomorrow I'm going to Berlin. | time first → subject after the verb
+ex: Nach Berlin fahre ich morgen. | It's to Berlin that I'm going tomorrow.
+--- section: The middle: time – manner – place
+Inside the sentence, information tends to come in the order **Te-Ka-Mo-Lo**: *temporal* (when), *kausal* (why), *modal* (how), *lokal* (where).
+ex: Ich fahre morgen wegen der Arbeit mit dem Zug nach Hamburg. | Tomorrow I'm taking the train to Hamburg for work. | wann – warum – wie – wohin
+--- section: Coordinating conjunctions don't count
+**und, aber, oder, denn, sondern** join two main clauses without changing the word order (they stand in "position zero"):
+ex: Ich bleibe zu Hause, denn ich bin krank. | I'm staying at home because I'm ill.
+ex: Er ist müde, aber er arbeitet noch. | He's tired, but he's still working.
+--- tip: The verb is always second
+*Heute **gehe** ich ins Kino.* — not *Heute ich gehe*. Put anything first, then the verb, then the subject.
+--- tip: When, why, how, where
+Time before place: *Ich gehe **heute** **ins Kino**.*
+--- mistakes
+- *Heute ich habe keine Zeit* → **Heute habe ich keine Zeit.**
+- *Ich gehe ins Kino heute* sounds odd — say **Ich gehe heute ins Kino.**
+drill: order 6 label=Verb in second place
+  t: Heute habe ich keine Zeit. | en: Today I don't have time. | why: time first, verb second, subject third
+  t: Morgen fahren wir nach Wien. | en: Tomorrow we're going to Vienna. | why: verb second
+  t: Am Wochenende spielen die Kinder Fußball. | en: At the weekend the children play football. | why: verb second
+  t: Ich gehe heute Abend ins Kino. | en: I'm going to the cinema tonight. | why: time before place
+  t: Er ist krank, aber er arbeitet. | en: He's ill, but he's working. | why: aber does not change word order
+  t: In Berlin wohnt mein Bruder. | en: My brother lives in Berlin. | why: place first, verb second
+
+=== g-perfekt | The Perfekt: talking about the past | A2 | 📅
+summary: Spoken German uses haben/sein + past participle for the past: Ich habe gegessen. Ich bin gefahren.
+--- section: How it's built
+The auxiliary **haben** or **sein** is conjugated in second place; the **past participle** goes to the **end**:
+ex: Ich habe gestern Pizza gegessen. | I ate pizza yesterday. | habe … gegessen
+ex: Wir sind nach Italien gefahren. | We went to Italy. | sind … gefahren
+--- section: Making the participle
+table:
+| type | pattern | examples |
+| weak (regular) | **ge- … -t** | machen → **ge**mach**t**, kaufen → **ge**kauf**t**, arbeiten → **ge**arbeit**et** |
+| strong | **ge- … -en**, often a new vowel | sehen → **ge**seh**en**, trinken → **ge**trunk**en**, gehen → **ge**gang**en** |
+| mixed | **ge- … -t** with a new vowel | bringen → gebracht, denken → gedacht, kennen → gekannt |
+| separable | prefix + **ge** + verb | einkaufen → ein**ge**kauft, anrufen → an**ge**rufen |
+| inseparable (be-, ver-, er-…) | no ge- | bezahlen → bezahlt, verstehen → verstanden |
+| -ieren | no ge- | studieren → studiert |
+The strong participles must be learned — that's why this app shows every verb with its principal parts: *trinken – trinkt – trank – hat getrunken*.
+--- section: haben or sein?
+**sein** is used for verbs of **movement from A to B** (gehen, fahren, fliegen, kommen, laufen) and **change of state** (aufwachen, einschlafen, sterben, werden, wachsen), plus **sein, bleiben, passieren**. Everything else — including all verbs with a direct object and all reflexive verbs — takes **haben**.
+ex: Ich bin um sieben aufgewacht. | I woke up at seven. | change of state → sein
+ex: Was ist passiert? | What happened?
+ex: Ich habe das Auto gefahren. | I drove the car. | with an object → haben
+--- tip: haben/sein + participle at the end
+*Ich **habe** einen Brief **geschrieben**.* The participle waits at the end of the sentence.
+--- tip: sein for movement and change
+*Ich **bin** nach Hause **gegangen**. Er **ist** eingeschlafen.* — everything else uses *haben*.
+ex: Wir sind gestern ins Kino gegangen. | We went to the cinema yesterday.
+--- tip: Spoken past = Perfekt
+In conversation Germans use the Perfekt for almost all past events. The simple past (*ging, sah*) belongs to writing — and to fairy tales.
+--- mistakes
+- *Ich habe gegangen* → **Ich bin gegangen.**
+- *Ich habe gestudiert* → **studiert** (no ge- for -ieren verbs).
+- *Ich habe gestern gearbeitet viel* → **Ich habe gestern viel gearbeitet.**
+drill: conj 10 tenses=perf
+drill: choice 6 label=haben or sein?
+  q: Ich ___ nach Rom geflogen. | bin | habe | hat | en: I flew to Rome. | why: movement → sein
+  q: Wir ___ viel gelacht. | haben | sind | hat | en: We laughed a lot. | why: no movement → haben
+  q: Er ___ um zehn eingeschlafen. | ist | hat | haben | en: He fell asleep at ten. | why: change of state → sein
+  q: Was ___ passiert? | ist | hat | sind | en: What happened? | why: passieren → sein
+  q: ___ du gut geschlafen? | Hast | Bist | Hat | en: Did you sleep well? | why: schlafen (no change of place) → haben
+  q: Sie ___ zu Hause geblieben. | ist | hat | haben | en: She stayed at home. | why: bleiben → sein
+
+=== g-subordinate | Subordinate clauses: the verb goes last | A2 | 🔚
+summary: After dass, weil, wenn, ob, als, obwohl and question words in indirect questions, the conjugated verb moves to the end of the clause.
+--- section: Verb to the end
+ex: Ich bleibe zu Hause, weil ich krank bin. | I'm staying home because I'm ill. | weil … bin
+ex: Ich glaube, dass er morgen kommt. | I think he's coming tomorrow.
+ex: Weißt du, wo der Bahnhof ist? | Do you know where the station is? | indirect question
+ex: Wenn ich Zeit habe, rufe ich dich an. | If I have time, I'll call you. | the subordinate clause counts as position 1 → verb next
+--- section: The conjunctions
+table:
+| conjunction | meaning |
+| **dass** | that |
+| **weil** | because |
+| **wenn** | if; when(ever) |
+| **ob** | whether, if |
+| **als** | when (one past event) |
+| **obwohl** | although |
+| **damit** | so that |
+| **bevor / nachdem** | before / after |
+| **während** | while |
+With separable verbs the prefix joins again (*…, weil ich früh aufstehe*); with compound tenses the auxiliary comes last (*…, weil ich gearbeitet habe*).
+--- section: weil vs. denn
+Both mean "because". **denn** keeps main-clause order (*denn ich bin krank*), **weil** sends the verb to the end (*weil ich krank bin*).
+--- tip: weil, dass, wenn … verb last
+*Ich lerne Deutsch, **weil** ich in Berlin **arbeite**.* A comma always comes before the conjunction.
+--- tip: Clause first? Verb right after
+***Wenn ich Zeit habe**, **komme** ich.* The whole wenn-clause is position 1, so the main verb comes immediately after the comma.
+--- mistakes
+- *…, weil ich bin krank* → **weil ich krank bin**.
+- *Wenn ich Zeit habe, ich komme* → **Wenn ich Zeit habe, komme ich.**
+drill: order 6 label=Verb to the end
+  t: Ich weiß, dass du müde bist. | en: I know that you're tired. | why: dass → verb last
+  t: Er kommt nicht, weil er krank ist. | en: He's not coming because he's ill. | why: weil → verb last
+  t: Weißt du, wo sie wohnt? | en: Do you know where she lives? | why: indirect question → verb last
+  t: Ich frage, ob er Zeit hat. | en: I'm asking whether he has time. | why: ob → verb last
+  t: Wenn es regnet, bleibe ich zu Hause. | en: If it rains, I stay at home. | why: clause first, then the main verb
+  t: Ich lerne Deutsch, weil ich in Wien arbeite. | en: I'm learning German because I work in Vienna. | why: weil → verb last
+
+=== g-adjendings | Adjective endings | A2 | 🎨
+summary: Before a noun, adjectives take endings that depend on the article in front of them. Three patterns cover everything.
+--- section: When are there endings?
+After *sein, werden, bleiben* an adjective has **no ending**: *Das Haus ist alt.* Before a noun it always has one: *das alt**e** Haus, ein alt**es** Haus, alt**e** Häuser.*
+--- section: 1. After der, die, das, dieser, jeder (weak)
+The article already shows the case, so the adjective only takes **-e** or **-en**:
+table:
+| | masculine | feminine | neuter | plural |
+| nom. | der alt**e** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
+| acc. | den alt**en** Mann | die alt**e** Frau | das alt**e** Haus | die alt**en** Häuser |
+| dat. | dem alt**en** Mann | der alt**en** Frau | dem alt**en** Haus | den alt**en** Häusern |
+| gen. | des alt**en** Mannes | der alt**en** Frau | des alt**en** Hauses | der alt**en** Häuser |
+--- section: 2. After ein, kein, mein (mixed)
+Where *ein* has no ending (masculine nominative, neuter nominative and accusative), the adjective shows the gender: **-er** / **-es**. Everywhere else it is like the weak pattern:
+table:
+| | masculine | feminine | neuter | plural |
+| nom. | ein alt**er** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
+| acc. | einen alt**en** Mann | eine alt**e** Frau | ein alt**es** Haus | keine alt**en** Häuser |
+| dat. | einem alt**en** Mann | einer alt**en** Frau | einem alt**en** Haus | keinen alt**en** Häusern |
+--- section: 3. No article (strong)
+With no article the adjective takes the endings of *der/die/das* itself: *kalt**er** Kaffee, kalt**e** Milch, kalt**es** Wasser*.
+table:
+| | masculine | feminine | neuter | plural |
+| nom. | kalt**er** Kaffee | kalt**e** Milch | kalt**es** Wasser | kalt**e** Getränke |
+| acc. | kalt**en** Kaffee | kalt**e** Milch | kalt**es** Wasser | kalt**e** Getränke |
+| dat. | kalt**em** Kaffee | kalt**er** Milch | kalt**em** Wasser | kalt**en** Getränken |
+ex: Ich trinke gern kalten Kaffee. | I like drinking cold coffee.
+ex: Wir haben ein kleines Haus mit einem großen Garten. | We have a small house with a big garden.
+--- tip: The rule of thumb
+If the article already shows the gender and case clearly (**der, den, dem, des…**), the adjective takes **-e** or **-en**. If it doesn't (**ein**, or no article), the adjective shows it: **-er, -es, -e**.
+ex: der neue Wagen — ein neuer Wagen | the new car — a new car
+--- tip: -en is the most common ending
+In the dative and genitive, and in the plural after an article, the ending is always **-en**: *mit dem neuen Auto, mit einer guten Freundin, die netten Leute*.
+--- mistakes
+- *ein neue Auto* → **ein neues Auto**.
+- *mit meinem neue Auto* → **neuen** (dative → -en).
+- Adding an ending after sein: *Das Haus ist alte* → **alt**.
+drill: adj 12 cases=nom,akk,dat dets=def,indef,none
+
+=== g-comparison | Comparing: bigger, better, the best | A2 | 📏
+summary: Add -er for the comparative and am -sten for the superlative; short adjectives often add an umlaut.
+--- section: Forms
+table:
+| | comparative | superlative |
+| schnell | schnell**er** | am schnell**sten** |
+| alt | **ä**lt**er** | am **ä**lt**esten** |
+| groß | gr**ö**ß**er** | am gr**ö**ß**ten** |
+| gut | **besser** | am **besten** |
+| viel | **mehr** | am **meisten** |
+| gern | **lieber** | am **liebsten** |
+| hoch | **höher** | am **höchsten** |
+| nah | **näher** | am **nächsten** |
+Adjectives ending in *-d, -t, -s, -ß, -z* add **-esten**: *am ältesten, am kürzesten*.
+--- section: Comparing two things
+**als** = than; **so … wie** = as … as:
+ex: Mein Bruder ist größer als ich. | My brother is taller than me.
+ex: Berlin ist nicht so alt wie Köln. | Berlin is not as old as Cologne.
+ex: Ich trinke lieber Tee als Kaffee. | I prefer tea to coffee.
+Before a noun, comparatives and superlatives take normal adjective endings: *ein größeres Haus, der schnellste Zug*.
+ex: Das ist der höchste Berg Deutschlands. | That's the highest mountain in Germany.
+--- tip: als and wie
+*größer **als*** (bigger than) but *so groß **wie*** (as big as). Never *größer wie*.
+--- tip: gut, viel, gern are irregular
+*gut – besser – am besten · viel – mehr – am meisten · gern – lieber – am liebsten*
+ex: Am liebsten esse ich Pizza. | Most of all I like eating pizza.
+--- mistakes
+- *mehr schnell* → **schneller**.
+- *größer wie ich* → **größer als ich**.
+drill: choice 8 label=Compare
+  q: Paris ist ___ als Bonn. (groß) | größer | großer | mehr groß | en: Paris is bigger than Bonn. | why: groß → größer
+  q: Tee schmeckt mir ___ als Kaffee. (gut) | besser | guter | mehr gut | en: I like tea better than coffee. | why: gut → besser
+  q: Er ist so alt ___ ich. | wie | als | dann | en: He is as old as I am. | why: so … wie
+  q: Sie ist älter ___ ihr Mann. | als | wie | so | en: She is older than her husband. | why: comparative + als
+  q: Im Winter ist es hier am ___. (kalt) | kältesten | kaltesten | kälter | en: It's coldest here in winter. | why: am + -sten; kalt → am kältesten
+  q: Ich trinke am ___ Wasser. (gern) | liebsten | gernsten | meisten | en: I like drinking water most of all. | why: gern → lieber → am liebsten
+  q: Wer hat ___ Geld? (viel) | mehr | vieler | mehrer | en: Who has more money? | why: viel → mehr (no ending)
+  q: Das ist der ___ Zug. (schnell) | schnellste | schnellster | schnellsten | en: That's the fastest train. | why: der + superlative + -e
+
+=== g-reflexive | Reflexive verbs | A2 | 🪞
+summary: sich freuen, sich waschen, sich erinnern: the reflexive pronoun refers back to the subject.
+--- section: The pronouns
+table:
+| | accusative | dative |
+| ich | **mich** | **mir** |
+| du | **dich** | **dir** |
+| er / sie / es | **sich** | **sich** |
+| wir | uns | uns |
+| ihr | euch | euch |
+| sie / Sie | **sich** | **sich** |
+ex: Ich freue mich auf das Wochenende. | I'm looking forward to the weekend.
+ex: Wir treffen uns um acht. | We're meeting at eight. | also "each other"
+ex: Er hat sich nicht erinnert. | He didn't remember. | reflexive verbs take haben
+--- section: Accusative or dative?
+Usually accusative. The **dative** pronoun is used when the sentence has another accusative object — typically a body part or clothing:
+ex: Ich wasche mich. | I wash (myself). | accusative
+ex: Ich wasche mir die Hände. | I wash my hands. | dative (die Hände is the object)
+ex: Stell dir vor! | Imagine! | sich vorstellen (to imagine) is dative-reflexive
+--- section: Common reflexive verbs
+**sich freuen** (auf/über), **sich ärgern** (über), **sich erinnern** (an), **sich interessieren** (für), **sich setzen**, **sich beeilen**, **sich fühlen**, **sich anziehen**, **sich treffen**, **sich entschuldigen**, **sich verlieben** (in).
+--- tip: The pronoun matches the subject
+*ich freue **mich**, du freust **dich**, er freut **sich**, wir freuen **uns**.*
+--- tip: Dative with a body part
+*Ich putze **mir** die Zähne.* — German doesn't say "my teeth" here.
+--- mistakes
+- *Ich freue mir* → **Ich freue mich.**
+- *Ich bin mich beeilt* → **Ich habe mich beeilt** (reflexive verbs take haben).
+drill: choice 8 label=Choose the reflexive pronoun
+  q: Ich freue ___ auf den Urlaub. | mich | mir | sich | en: I'm looking forward to the holiday. | why: ich → mich (accusative)
+  q: Setz ___ bitte! | dich | dir | sich | en: Please sit down! | why: du → dich
+  q: Er interessiert ___ für Musik. | sich | ihn | ihm | en: He's interested in music. | why: er → sich
+  q: Wir treffen ___ vor dem Kino. | uns | sich | euch | en: We're meeting in front of the cinema. | why: wir → uns
+  q: Ich wasche ___ die Hände. | mir | mich | sich | en: I'm washing my hands. | why: body part as object → dative
+  q: Beeilt ___! | euch | sich | dich | en: Hurry up (you all)! | why: ihr → euch
+  q: Erinnerst du ___ an mich? | dich | dir | sich | en: Do you remember me? | why: du → dich
+  q: Sie haben ___ verliebt. | sich | ihnen | sie | en: They fell in love. | why: sie (they) → sich

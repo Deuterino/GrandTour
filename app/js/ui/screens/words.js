@@ -26,7 +26,7 @@ export function Words() {
   const list = useMemo(() => {
     const norm = (s) => stripDiacritics(s.toLowerCase());
     const qq = norm(q.trim());
-    let items = L.entries;
+    let items = L.entries.filter((e) => !e.x);
     if (qq) items = items.filter((e) => norm(e.l).includes(qq) || norm(e.en).includes(qq) || (e.pl && norm(e.pl).includes(qq)));
     items = items.filter((e) => {
       if (f === 'learned') return !!c.seen[e.id];

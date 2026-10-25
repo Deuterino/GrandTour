@@ -1,0 +1,378 @@
+# Italian grammar, part 1 (A1). Format: see tools/build_grammar.py
+
+=== g-sounds | Sounds and spelling | A1 | 🔤
+summary: Italian is read exactly as written. Master c/g, the double consonants and the stress, and you can pronounce anything.
+--- section: Vowels
+Five pure vowels — **a e i o u** — always pronounced fully, even at the end of a word (*pane* = PAH-neh). *E* and *o* can be open or closed (*è* "eh", *é* "ay"), but you will be understood either way.
+--- section: c and g
+table:
+| spelling | sound | examples |
+| **c** + a, o, u | k | casa, come, cucina |
+| **c** + e, i | ch (church) | cena, ciao, cibo |
+| **ch** + e, i | k | che, chiesa, amiche |
+| **g** + a, o, u | g (go) | gatto, gola, gusto |
+| **g** + e, i | j (jet) | gelato, giorno, giallo |
+| **gh** + e, i | g (go) | spaghetti, laghi |
+| **gli** | lli in "million" | figlio, famiglia |
+| **gn** | ny in "canyon" | bagno, signore |
+| **sc** + e, i | sh | scena, sciare, pesce |
+| **sch** + e, i | sk | schiena, tedeschi |
+The **i** in *ciao, giorno, mangiare* is silent — it only makes the c/g soft. **h** is always silent (*ho, hai, ha*).
+ex: Ciao, che cosa mangi oggi? | Hi, what are you eating today? | ciao = chow, che = keh
+ex: Gli spaghetti sono buonissimi. | The spaghetti is delicious. | gli = lyee, gh = hard g
+--- section: Double consonants
+Double consonants are held longer — and change the meaning: *pala* (shovel) / *palla* (ball), *caro* (dear) / *carro* (cart), *sete* (thirst) / *sette* (seven), *nono* (ninth) / *nonno* (grandfather).
+ex: Mio nonno ha sette anni più di mia nonna. | My grandfather is seven years older than my grandmother. | nonno, sette: hold the double consonant
+--- section: Stress and accents
+Most words are stressed on the **second-to-last** syllable: *ra-GAZ-zo, a-MI-co*. Some are stressed earlier (*TE-le-fo-no, PAR-la-no, MAC-chi-na*) — the app shows these in the dictionary. A written accent marks a stressed **final** vowel: *città, perché, caffè, così, più*. The accent also separates *è* (is) from *e* (and), *dà* (gives) from *da* (from), *sì* (yes) from *si* (oneself).
+--- tip: c and g: hard or soft?
+**ca, co, cu, che, chi** = k · **ce, ci** = ch. **ga, go, gu, ghe, ghi** = g · **ge, gi** = j.
+ex: casa, cena, chiesa | house, dinner, church
+ex: gatto, gelato, spaghetti | cat, ice cream, spaghetti
+--- tip: Hold the double consonants
+*nono* (ninth) and *nonno* (grandfather) are different words. Pause slightly on doubles: *non-no, set-te, pal-la*.
+--- mistakes
+- Pronouncing the h in *ho, hai, ha* — it's always silent.
+- Saying *bruschetta* with "sh": *sch* = sk, so **bru-SKET-ta**.
+- Ignoring the accent: *e* = and, **è** = is.
+drill: choice 6 label=How is it pronounced?
+  q: "ciao" starts with the sound ___ | ch (church) | k | s | why: c + i = ch; the i is silent
+  q: "chiesa" starts with the sound ___ | k | ch | sh | why: ch + i = k
+  q: "giorno" starts with the sound ___ | j | g (go) | y | why: g + i = j
+  q: "famiglia": gli sounds like ___ | lli in million | glee | gl in glove | why: gli = palatal l
+  q: "pesce": sce sounds like ___ | sh | sk | sch | why: sc + e = sh
+  q: "è" means ___ | is | and | yes | why: e = and, è = is
+
+=== g-pronouns-essere-avere | Who? Pronouns, essere and avere | A1 | 👤
+summary: Italian usually drops the subject pronoun — the verb ending says who. Learn essere (to be) and avere (to have) first.
+--- section: Subject pronouns
+table:
+| | singular | plural |
+| 1st | **io** (I) | **noi** (we) |
+| 2nd | **tu** (you, informal) | **voi** (you all) |
+| 3rd | **lui / lei** (he / she) | **loro** (they) |
+| polite | **Lei** (you, formal) | **Loro** (rare; voi is normal) |
+Because the ending shows the person, pronouns are normally left out: *Sono americano* (I'm American). Use them for emphasis or contrast: *Io lavoro, tu dormi!*
+**Lei** (with a capital in writing) is the polite "you" and takes the 3rd-person verb: *Come sta Lei?*
+--- section: essere and avere
+table:
+| person | essere (to be) | avere (to have) |
+| io | **sono** | **ho** |
+| tu | **sei** | **hai** |
+| lui / lei / Lei | **è** | **ha** |
+| noi | **siamo** | **abbiamo** |
+| voi | **siete** | **avete** |
+| loro | **sono** | **hanno** |
+The **h** in *ho, hai, ha, hanno* is silent — it only distinguishes them from *o* (or), *ai* (to the), *a* (to), *anno* (year).
+ex: Sono di Boston. E tu? | I'm from Boston. And you? | pronoun dropped
+ex: Lei è italiana? | Are you Italian? (formal) / Is she Italian?
+ex: Abbiamo due figli. | We have two children.
+--- section: avere where English uses "to be"
+**avere fame** (to be hungry), **avere sete** (thirsty), **avere freddo / caldo** (cold / hot), **avere sonno** (sleepy), **avere paura** (afraid), **avere ragione / torto** (right / wrong), and age: **Ho trent'anni** (I'm thirty).
+ex: Ho fame e ho sete. | I'm hungry and thirsty.
+ex: Quanti anni hai? — Ho venticinque anni. | How old are you? — I'm twenty-five.
+--- tip: Drop the pronoun
+*Sono stanco* = I'm tired. The ending *-o* already means "I". Add *io* only for emphasis.
+--- tip: essere and avere
+table:
+| | essere | avere |
+| io | sono | ho |
+| tu | sei | hai |
+| lui/lei | è | ha |
+| noi | siamo | abbiamo |
+| voi | siete | avete |
+| loro | sono | hanno |
+--- tip: tu or Lei?
+**tu** for friends, family, children; **Lei** for strangers and at work: *Scusi, Lei è il signor Rossi?*
+--- mistakes
+- *Io sono fame* → **Ho fame**.
+- *Sono trenta anni* → **Ho trent'anni** (age uses avere).
+- Pronouncing the h: *ho* = "o".
+drill: choice 8 label=Choose the right form
+  q: Io ___ Marco. | sono | è | sei | en: I'm Marco. | why: io → sono
+  q: Tu ___ molto gentile. | sei | è | siete | en: You're very kind. | why: tu → sei
+  q: Noi ___ di Milano. | siamo | siete | sono | en: We're from Milan. | why: noi → siamo
+  q: Loro ___ una casa grande. | hanno | ha | avete | en: They have a big house. | why: loro → hanno
+  q: Quanti anni ___? | hai | sei | ha anni | en: How old are you? | why: age uses avere: hai
+  q: ___ fame! | Ho | Sono | Ha | en: I'm hungry! | why: avere fame
+  q: Signora, ___ italiana? | è | sei | siete | en: Madam, are you Italian? | why: polite Lei → 3rd person: è
+  q: Voi ___ ragione. | avete | siete | hanno | en: You (all) are right. | why: avere ragione; voi → avete
+
+=== g-gender-articles | Gender and the articles | A1 | ⚖️
+summary: Every noun is masculine or feminine, and the article changes with the first sound of the next word: il, lo, l', la, i, gli, le.
+--- section: Masculine or feminine?
+- Nouns in **-o** are usually masculine: *il libro, il ragazzo*. Exceptions: **la mano**, la radio, la foto, l'auto, la moto.
+- Nouns in **-a** are usually feminine: *la casa, la ragazza*. Exceptions: words in *-ma* from Greek (**il problema**, il programma, il sistema, il tema, il clima), *il papà, il pianeta, il cinema*.
+- Nouns in **-e** can be either: *il fiore, la notte, il pane, la chiave*. Clues: **-ore** masculine (il colore), **-zione / -sione** feminine (la stazione), **-ice** feminine (l'attrice).
+- Nouns ending in an accented vowel are often feminine (la città, la virtù); foreign words in a consonant are masculine (il bar, lo sport).
+--- section: The definite article
+table:
+| | before most consonants | before s + consonant, z, gn, ps, y | before a vowel |
+| masculine singular | **il** libro | **lo** zio, lo studente | **l'**amico |
+| masculine plural | **i** libri | **gli** zii, gli studenti | **gli** amici |
+| feminine singular | **la** casa | **la** zia | **l'**amica |
+| feminine plural | **le** case | **le** zie | **le** amiche |
+The article depends on the word **right after it**: *lo zio* but *il mio zio*; *gli amici* but *i vecchi amici*.
+--- section: The indefinite article
+table:
+| | before most consonants | s + consonant, z, gn… | before a vowel |
+| masculine | **un** libro | **uno** zio, uno studente | **un** amico (no apostrophe!) |
+| feminine | **una** casa | **una** zia | **un'**amica |
+ex: Ho un amico a Roma e un'amica a Napoli. | I have a (male) friend in Rome and a (female) friend in Naples. | un amico / un'amica
+ex: Lo zio di Marco è uno studente. | Marco's uncle is a student.
+ex: Gli studenti e le studentesse sono in classe. | The male and female students are in class.
+--- tip: Learn every noun with its article
+Not *libro* — **il libro**; not *mano* — **la mano**. The article tells you the gender.
+ex: il libro, la casa, l'amico, lo zio | the book, the house, the friend, the uncle
+--- tip: lo and gli
+Before **s + consonant** (studente, sport), **z** (zio), **gn, ps, y**: masculine **lo / gli / uno**.
+ex: lo studente, gli studenti, uno zaino | the student, the students, a backpack
+--- tip: Masculine "a" before a vowel has no apostrophe
+**un amico** (m), but **un'amica** (f). The apostrophe shows that the -a of *una* was dropped.
+--- mistakes
+- *il zio* → **lo zio**; *i studenti* → **gli studenti**.
+- *la problema* → **il problema**.
+- *un'amico* → **un amico** (masculine: no apostrophe).
+drill: gender 10
+drill: choice 5 label=Which article?
+  q: ___ studente è bravo. | Lo | Il | La | en: The student is good. | why: s + consonant → lo
+  q: ___ mano è fredda. | La | Il | Lo | en: The hand is cold. | why: la mano is feminine despite -o
+  q: Ho ___ problema. | un | una | uno | en: I have a problem. | why: il problema is masculine → un
+  q: ___ amici sono qui. | Gli | I | Le | en: The friends are here. | why: masculine plural before a vowel → gli
+  q: È ___ amica di Paolo. | un' | un | una | en: She's a friend of Paolo's. | why: feminine before a vowel → un'
+
+=== g-plural | Plurals | A1 | 👯
+summary: -o → -i, -a → -e, -e → -i — plus a handful of spelling rules and famous irregulars.
+--- section: The basic rules
+table:
+| singular | plural | example |
+| **-o** (m) | **-i** | il libro → i libri |
+| **-a** (f) | **-e** | la casa → le case |
+| **-e** (m or f) | **-i** | il fiore → i fiori, la notte → le notti |
+| **-a** (m) | **-i** | il problema → i problemi |
+| **-ista** | -i (m) / -e (f) | il turista → i turisti, la turista → le turiste |
+--- section: Spelling: keep the sound
+- **-ca / -ga** → **-che / -ghe**: l'amica → le amiche, la riga → le righe.
+- **-co / -go** → **-chi / -ghi** when stressed on the second-to-last syllable: il fuoco → i fuochi, il lago → i laghi — but **-ci / -gi** when stressed earlier: il medico → i medici. Famous exceptions: **l'amico → gli amici**, il nemico → i nemici, il greco → i greci.
+- **-cia / -gia**: after a consonant → -ce/-ge (l'arancia → le arance); after a vowel → -cie/-gie (la camicia → le camicie).
+- **-io** → **-i** (il figlio → i figli), but **-ii** if the i is stressed (lo zio → gli zii).
+--- section: Invariable nouns
+They don't change in the plural — only the article does: words with a **final accent** (la città → le città, il caffè), **foreign words** (il film → i film, lo sport → gli sport), shortened words (la foto, la moto, l'auto, il cinema), words in **-i** (la crisi → le crisi) and **-ie** (la serie).
+--- section: Irregular plurals
+table:
+| singular | plural | note |
+| l'uomo | gli **uomini** | man |
+| il dio | gli **dei** | god |
+| la moglie | le **mogli** | wife |
+| la mano | le **mani** | hand |
+| l'uovo | le **uova** | masculine sg → feminine pl in -a |
+| il braccio | le **braccia** | arm |
+| il dito | le **dita** | finger |
+| il labbro | le **labbra** | lip |
+| il paio | le **paia** | pair |
+ex: Ho comprato sei uova e due paia di scarpe. | I bought six eggs and two pairs of shoes.
+--- tip: -o → -i, -a → -e, -e → -i
+*il ragazzo → i ragazzi · la ragazza → le ragazze · il fiore → i fiori.*
+--- tip: Accented and foreign words don't change
+*una città → due città · un film → due film.* Only the article shows the plural.
+--- mistakes
+- *le cittas / le cittàe* → **le città**.
+- *gli amichi* → **gli amici**.
+- *i uovi* → **le uova**.
+drill: plural 10
+
+=== g-present-are | The present tense: -are verbs | A1 | 🗣️
+summary: Most Italian verbs end in -are and follow one pattern: parlo, parli, parla, parliamo, parlate, parlano.
+--- section: The endings
+Remove **-are** and add:
+table:
+| | ending | parlare | mangiare | cercare |
+| io | -o | parl**o** | mangi**o** | cerc**o** |
+| tu | -i | parl**i** | mang**i** | cerc**hi** |
+| lui / lei | -a | parl**a** | mangi**a** | cerc**a** |
+| noi | -iamo | parl**iamo** | mang**iamo** | cerc**hiamo** |
+| voi | -ate | parl**ate** | mangi**ate** | cerc**ate** |
+| loro | -ano | **pàr**l**ano** | **màn**gi**ano** | **cèr**c**ano** |
+- Verbs in **-care / -gare** add an **h** before i to keep the hard sound: *cerchi, paghiamo*.
+- Verbs in **-iare** don't double the i: *mangi* (not mangii), *studi*.
+- The loro form is stressed on the **stem**, not the ending: **PAR**-la-no, **TE**-le-fo-na-no.
+ex: Parli italiano? — Sì, parlo un po' d'italiano. | Do you speak Italian? — Yes, I speak a little Italian.
+ex: Dove abitate? — Abitiamo a Torino. | Where do you live? — We live in Turin.
+--- section: One tense, many meanings
+*Lavoro* = I work / I'm working / I'll work (with a time word). For actions happening right now Italian can also use **stare + gerund**: *Sto mangiando* (I'm eating right now).
+--- tip: -o, -i, -a, -iamo, -ate, -ano
+*parlare*: parl**o**, parl**i**, parl**a**, parl**iamo**, parl**ate**, parl**ano**.
+--- tip: cercare → cerchi
+Keep the hard sound: *cerco, cer**ch**i, cerca, cer**ch**iamo*. Same for *pagare → pa**gh**i*.
+--- mistakes
+- Stressing the ending in *parlano*: say **PAR**-la-no.
+- *mangii* → **mangi**; *cerci* → **cerchi**.
+drill: conj 10 tenses=pres verbs=parlare,lavorare,abitare,mangiare,cercare,pagare,studiare,guardare,ascoltare,aspettare,comprare,chiamare,giocare,cominciare,pensare,imparare
+drill: choice 4 label=Choose the right form
+  q: Noi ___ (parlare) italiano. | parliamo | parlate | parlano | en: We speak Italian. | why: noi → -iamo
+  q: Tu ___ (cercare) le chiavi? | cerchi | cerci | cerca | en: Are you looking for the keys? | why: -care adds h: cerchi
+  q: Loro ___ (lavorare) a Milano. | lavorano | lavorono | lavora | en: They work in Milan. | why: loro → -ano
+  q: Tu ___ (mangiare) la pizza? | mangi | mangii | mangia | en: Are you eating the pizza? | why: -iare: one i
+
+=== g-present-ere-ire | The present tense: -ere and -ire verbs | A1 | 🏙️
+summary: -ere and -ire verbs share most endings; many -ire verbs add -isc- (capisco, finisco).
+--- section: The endings
+table:
+| | -ere: prendere | -ire: dormire | -ire (isc): capire |
+| io | prend**o** | dorm**o** | cap**isco** |
+| tu | prend**i** | dorm**i** | cap**isci** |
+| lui / lei | prend**e** | dorm**e** | cap**isce** |
+| noi | prend**iamo** | dorm**iamo** | cap**iamo** |
+| voi | prend**ete** | dorm**ite** | cap**ite** |
+| loro | prend**ono** | dorm**ono** | cap**iscono** |
+-ere and -ire differ only in the voi form: *prendete / dormite*.
+--- section: The -isc- verbs
+Many -ire verbs insert **-isc-** in all forms except noi and voi: **capire, finire, preferire, pulire, spedire, costruire, colpire, restituire, ubbidire**. The dictionary entries in this app mark them "-isc-". The sound changes: *capi**sc**o* (sk) but *capi**sc**i* (sh).
+ex: Non capisco. Può ripetere? | I don't understand. Can you repeat?
+ex: Preferisci il tè o il caffè? | Do you prefer tea or coffee?
+ex: Il film finisce alle dieci. | The film ends at ten.
+ex: Prendo un caffè e leggo il giornale. | I'll have a coffee and read the paper.
+--- tip: -ere vs -ire
+Same endings except voi: *prend**ete*** but *dorm**ite***.
+--- tip: capisco, finisco, preferisco
+-isc- verbs: cap**isco**, cap**isci**, cap**isce**, capiamo, capite, cap**iscono**.
+--- mistakes
+- *capo* → **capisco** (capire is an -isc- verb).
+- *prendite* → **prendete**.
+drill: conj 10 tenses=pres verbs=prendere,vedere,leggere,scrivere,vivere,credere,chiudere,dormire,partire,sentire,aprire,capire,finire,preferire,pulire
+drill: choice 4 label=Choose the right form
+  q: Io non ___ (capire). | capisco | capo | capiso | en: I don't understand. | why: capire takes -isc-
+  q: Voi ___ (prendere) il treno? | prendete | prendite | prendiamo | en: Are you (all) taking the train? | why: -ere: voi → -ete
+  q: Loro ___ (dormire) fino alle nove. | dormono | dormano | dormiscono | en: They sleep until nine. | why: dormire has no -isc-
+  q: Tu ___ (preferire) il mare o la montagna? | preferisci | preferi | preferisce | en: Do you prefer the sea or the mountains? | why: -isc- verb: tu preferisci
+
+=== g-questions-negation | Questions and negation | A1 | ❓
+summary: A question can have the same word order as a statement — the voice rises. "non" goes right before the verb, and double negatives are normal.
+--- section: Questions
+Yes/no questions usually keep statement order; the intonation rises: *Parli inglese?* Question words come first:
+table:
+| word | meaning |
+| **chi** | who |
+| **che cosa / cosa / che** | what |
+| **dove** | where (dov'è = where is) |
+| **quando** | when |
+| **perché** | why (and because) |
+| **come** | how (com'è = how is) |
+| **quanto, quanta, quanti, quante** | how much, how many |
+| **quale, quali** | which (qual è — no apostrophe) |
+The subject often comes **after** the verb in questions: *Dove abita Marco? Quando arriva il treno?*
+ex: Come ti chiami? — Mi chiamo Giulia. | What's your name? — My name is Giulia.
+ex: Quanto costa? | How much does it cost?
+ex: Perché non vieni? — Perché sono stanco. | Why aren't you coming? — Because I'm tired.
+--- section: Negation
+**non** goes directly before the verb (and before object pronouns): *Non parlo tedesco. Non lo so.* Negative words like **niente, nessuno, mai, più, neanche** need **non** before the verb as well — Italian double negatives are correct:
+ex: Non vedo niente. | I don't see anything. | non … niente
+ex: Non c'è nessuno. | There's nobody there.
+ex: Non fumo più. | I don't smoke any more.
+ex: Non sono mai stato a Roma. | I've never been to Rome.
+If the negative word comes first, no *non*: *Nessuno lo sa* (nobody knows).
+--- tip: non before the verb
+*Non capisco.* · *Non lo so.* — nothing comes between *non* and the verb except object pronouns.
+--- tip: Double negatives are correct
+*Non ho visto **nessuno**. Non mangio **mai** carne.*
+--- mistakes
+- *Io capisco non* → **Io non capisco**.
+- *Vedo niente* → **Non vedo niente**.
+- *Qual'è* → **Qual è** (no apostrophe).
+drill: order 5 label=Build the sentence
+  t: Non parlo tedesco. | en: I don't speak German. | why: non before the verb
+  t: Non vedo niente. | en: I don't see anything. | why: double negative: non … niente
+  t: Dove abita tua sorella? | en: Where does your sister live? | why: question word first, subject after the verb
+  t: Non lo so. | en: I don't know. | why: non + object pronoun + verb
+  t: Non sono mai stato a Venezia. | en: I've never been to Venice. | why: non … mai around the auxiliary
+drill: choice 4 label=Which question word?
+  q: ___ ti chiami? | Come | Che | Quale | en: What's your name? | why: Italian asks "how do you call yourself?"
+  q: ___ costa il biglietto? | Quanto | Come | Quale | en: How much is the ticket? | why: quanto = how much
+  q: ___ è il bagno? | Dov' | Dove' | Come | en: Where is the bathroom? | why: dove + è = dov'è
+  q: ___ è il tuo numero? | Qual | Quale' | Qual' | en: What is your number? | why: qual è — without apostrophe
+
+=== g-adjectives | Adjectives: agreement and position | A1 | 🎨
+summary: Adjectives agree with their noun in gender and number, and usually come after it.
+--- section: Two kinds of adjectives
+table:
+| type | m. sg. | f. sg. | m. pl. | f. pl. |
+| **-o** adjectives | rosso | rossa | rossi | rosse |
+| **-e** adjectives | grande | grande | grandi | grandi |
+| invariable | blu, rosa, viola | blu | blu | blu |
+ex: un ragazzo alto, una ragazza alta, dei ragazzi alti, delle ragazze alte | a tall boy, a tall girl, tall boys, tall girls
+ex: un libro interessante, una storia interessante | an interesting book, an interesting story
+A mixed group (masculine + feminine) takes the **masculine plural**: *Marco e Anna sono stanchi.*
+--- section: Position
+Most adjectives come **after** the noun: *una macchina rossa, un film americano*. Some common ones often come **before** — **bello, buono, brutto, grande, piccolo, nuovo, vecchio, giovane, lungo** — and some change meaning with position: *un uomo povero* (poor, without money) / *un pover'uomo* (unfortunate); *un grande uomo* (great) / *un uomo grande* (big).
+--- section: bello, buono, quello before a noun
+**buono** behaves like *un/uno/una*: *un buon amico, un buono studente, una buona idea, una buon'amica*. **bello** and **quello** behave like the definite article:
+table:
+| article | bello | quello |
+| il | **bel** ragazzo | **quel** libro |
+| lo | **bello** zaino | **quello** studente |
+| l' | **bell'**uomo | **quell'**albero |
+| la | **bella** donna | **quella** casa |
+| i | **bei** ragazzi | **quei** libri |
+| gli | **begli** occhi | **quegli** studenti |
+| le | **belle** case | **quelle** case |
+**grande** may shorten to *gran* before a consonant (*un gran signore*), **santo** to *san* (*San Marco*, but *Santo Stefano, Sant'Anna*).
+--- tip: Agreement
+The adjective copies the noun: *la casa **bianca**, le case **bianche**, il libro **nuovo**, i libri **nuovi***.
+--- tip: bel, bello, bell', bei, begli
+**bello** before a noun works like *il/lo/l'/i/gli*: *un bel giorno, un bell'albero, dei bei fiori, dei begli occhi*.
+--- mistakes
+- *la casa bianco* → **la casa bianca**.
+- *i begli ragazzi* → **i bei ragazzi**.
+- *un buono libro* → **un buon libro**.
+drill: adj 10
+drill: choice 5 label=Make it agree
+  q: Le ragazze sono ___. (stanco) | stanche | stanchi | stanca | en: The girls are tired. | why: feminine plural: -che
+  q: È un ___ ragazzo. (bello) | bel | bello | bell' | en: He's a handsome boy. | why: before ra- (il ragazzo) → bel
+  q: Che ___ occhi! (bello) | begli | bei | belli | en: What beautiful eyes! | why: gli occhi → begli
+  q: Ho comprato una gonna ___. (blu) | blu | blua | blue | en: I bought a blue skirt. | why: blu is invariable
+  q: È un ___ amico. (buono) | buon | buono | buon' | en: He's a good friend. | why: masculine before a vowel → buon (no apostrophe)
+
+=== g-time-numbers | Numbers, time and dates | A1 | 🕰️
+summary: Numbers are written as one word, the time uses "sono le…", and dates use cardinal numbers except the first.
+--- section: Numbers
+table:
+| | | |
+| 1 uno | 11 undici | 21 **ventuno** |
+| 2 due | 12 dodici | 23 venti**tré** |
+| 3 tre | 16 sedici | 28 **ventotto** |
+| 7 sette | 17 diciassette | 30 trenta |
+| 10 dieci | 20 venti | 100 cento, 1000 mille, 2000 due**mila** |
+Before *uno* and *otto* the tens drop their last vowel: **ventuno, trentotto**. Numbers ending in *-tre* take an accent: *ventitré*. *Mille* becomes **-mila** in the plural: *duemila*.
+--- section: Telling the time
+**Che ora è? / Che ore sono?** — What time is it?
+table:
+| time | Italian |
+| 1:00 | **È l'una.** |
+| 3:00 | **Sono le tre.** |
+| 3:15 | Sono le tre e un quarto / e quindici. |
+| 3:30 | Sono le tre e mezza / e trenta. |
+| 3:45 | Sono le quattro meno un quarto. |
+| 12:00 | È mezzogiorno / È mezzanotte. |
+**At** what time? = **A che ora?** — *alle tre, all'una, a mezzogiorno*.
+ex: Il treno parte alle otto e mezza. | The train leaves at eight thirty.
+ex: Che ore sono? — Sono le dieci meno dieci. | What time is it? — Ten to ten.
+--- section: Dates
+Dates use cardinal numbers with the article: *il tre maggio, il venticinque dicembre*; only the first of the month is ordinal: **il primo giugno**. Days and months are lowercase.
+ex: Il mio compleanno è il ventidue aprile. | My birthday is on April 22nd.
+--- tip: Sono le… (except one o'clock)
+*Sono le due, sono le tre…* but **È l'una** and **È mezzogiorno**.
+--- tip: ventuno, ventotto
+Drop the final vowel before *uno* and *otto*: venti + uno = **ventuno**, trenta + otto = **trentotto**.
+--- mistakes
+- *Sono l'una* → **È l'una**.
+- *il tre di maggio* is understandable but the normal form is **il tre maggio**.
+- *ventiuno* → **ventuno**.
+drill: choice 8 label=Numbers and time
+  q: 21 = ___ | ventuno | ventiuno | vent'uno | why: venti + uno → ventuno
+  q: 38 = ___ | trentotto | trentaotto | trenta e otto | why: trenta + otto → trentotto
+  q: 2000 = ___ | duemila | duemille | due mille | why: mille → -mila in the plural
+  q: 1:00 = ___ | È l'una | Sono le una | È la una | why: one o'clock is singular: è l'una
+  q: 4:00 = ___ | Sono le quattro | È le quattro | Sono quattro | why: plural: sono le…
+  q: 2:30 = Sono le due e ___ | mezza | metà | mezzo ora | why: e mezza = half past
+  q: Il negozio apre ___ nove. | alle | a | in | en: The shop opens at nine. | why: a + le → alle
+  q: Oggi è il ___ marzo. (1st) | primo | uno | prima | en: Today is March 1st. | why: the first of the month is ordinal: il primo

@@ -1,0 +1,56 @@
+# Names (cities, countries, people) — for tap lookups only; not taught as vocabulary.
+Italia|country|Italy
+Roma|city|Rome, capital of Italy
+Milano|city|Milan
+Venezia|city|Venice
+Firenze|city|Florence
+Napoli|city|Naples
+Torino|city|Turin
+Genova|city|Genoa
+Bologna|city|Bologna
+Palermo|city|Palermo
+Verona|city|Verona
+Pisa|city|Pisa
+Siena|city|Siena
+Trieste|city|Trieste
+Bolzano|city|Bolzano
+Sicilia|region|Sicily
+Sardegna|region|Sardinia
+Toscana|region|Tuscany
+Germania|country|Germany
+Francia|country|France
+Spagna|country|Spain
+Inghilterra|country|England
+America|country|America
+Stati Uniti|country|the United States
+Europa|continent|Europe
+Austria|country|Austria
+Svizzera|country|Switzerland
+Tevere|river|the Tiber
+Arno|river|the Arno (river through Florence)
+Po|river|the Po
+Alpi|mountains|the Alps
+Vesuvio|mountain|Vesuvius
+Etna|mountain|Etna
+Marco|name|Marco (man's name)
+Luca|name|Luca (man's name)
+Paolo|name|Paolo (man's name)
+Giovanni|name|Giovanni (John)
+Giuseppe|name|Giuseppe (Joseph)
+Francesco|name|Francesco (Francis)
+Matteo|name|Matteo (Matthew)
+Pietro|name|Pietro (Peter)
+Giulia|name|Giulia (woman's name)
+Anna|name|Anna (woman's name)
+Maria|name|Maria (woman's name)
+Sofia|name|Sofia (woman's name)
+Chiara|name|Chiara (woman's name)
+Francesca|name|Francesca (woman's name)
+Elena|name|Elena (woman's name)
+Lucia|name|Lucia (woman's name)
+Tom|name|Tom (man's name)
+Rossi|name|Rossi (the most common Italian surname)
+Dante|name|Dante Alighieri, poet (1265–1321)
+Collodi|name|Carlo Collodi, author of Pinocchio (1826–1890)
+Galileo|name|Galileo Galilei, scientist
+Lucignolo|name|Lucignolo ("Candlewick"), Pinocchio's friend
