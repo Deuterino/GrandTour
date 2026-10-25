@@ -70,6 +70,18 @@ export class LangData {
     return this._forms;
   }
 
+  // Every inflected form of one entry (for blanking a word out of a sentence).
+  formsOf(id) {
+    if (!this._formsOf) {
+      this._formsOf = new Map();
+      for (const [form, list] of this.forms()) for (const a of list) {
+        if (!this._formsOf.has(a.id)) this._formsOf.set(a.id, new Set());
+        this._formsOf.get(a.id).add(form);
+      }
+    }
+    return this._formsOf.get(id) || new Set();
+  }
+
   // All analyses of an exact token (case-sensitive first, then lowercase).
   lookupForm(token) {
     const f = this.forms();

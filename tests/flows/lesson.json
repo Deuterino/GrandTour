@@ -1,0 +1,10 @@
+[["goto", "/#/de"], ["wait", 2500],
+ ["eval", "JSON.stringify([document.querySelector('.tabbar')?.getBoundingClientRect(), innerHeight, getComputedStyle(document.querySelector('.tabbar')).display])"],
+ ["click", "text:Start: Hamburg"], ["wait", 1500], ["shot", "l1_intro"],
+ ["eval", "document.querySelector('.player').innerText.slice(0,300)"],
+ ["click", "text:Got it"], ["wait", 600], ["shot", "l2"],
+ ["click", "text:Got it"], ["wait", 600],
+ ["eval", "document.querySelector('.player-body').innerText.slice(0,300)"],
+ ["click", ".choice"], ["wait", 700], ["shot", "l3_feedback"],
+ ["click", "text:Continue"], ["wait", 600], ["shot", "l4"]
+]

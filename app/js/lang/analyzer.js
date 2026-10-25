@@ -158,10 +158,9 @@ function contextDE(tokens, words, L) {
       const noun = [next, words[wi + 2]].find((x) => x && x.cands.some(isNounCand));
       const nounCand = noun?.cands.find(isNounCand);
       const prep = prev && DE_PREP_CASE[prev.t.toLowerCase()];
-      const allTags = art.tags;
-      art.tags = art.tags.filter((t) => {
-        const [, rest] = t.split(':');
-        const [c, g] = rest.split('.');
+      const allTags = art.tags.filter((t) => t.startsWith('D:'));
+      art.tags = allTags.filter((t) => {
+        const [c, g] = t.slice(2).split('.');
         if (nounCand) {
           const ng = nounCand.entry.g;
           const plural = nounCand.tags.every((x) => x.includes('.pl') || x === 'N:pl') || ng === 'pl';

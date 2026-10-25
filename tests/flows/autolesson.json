@@ -1,0 +1,1 @@
+[["goto", "/#/de"], ["wait", 2000], ["click", "text:Start: Hamburg"], ["wait", 1200], ["eval", "AUTOPLAY"], ["shot", "result1"], ["click", "text:Continue"], ["wait", 1200], ["shot", "home_after"], ["eval", "document.querySelector('#app').innerText.slice(0,300)"]]

@@ -157,8 +157,8 @@ h1 { font-size: 1.6rem; } h2 { font-size: 1.25rem; } h3 { font-size: 1.05rem; }
 .region h2 { font-family: var(--book); font-weight: 600; font-size: 1.35rem; margin: 0; }
 .region .sub { color: var(--muted); font-size: .85rem; }
 .cartouche { display: inline-block; padding: .55rem 1.2rem; border: 2px solid var(--line2); border-radius: 999px; background: var(--card); box-shadow: var(--shadow); }
-.path { position: relative; display: flex; flex-direction: column; align-items: center; gap: 1.05rem; padding: .5rem 0 1rem; }
-.stop { position: relative; display: flex; flex-direction: column; align-items: center; width: 100%; }
+.path { position: relative; display: flex; flex-direction: column; align-items: center; gap: 1.05rem; padding: .5rem 0 1rem; overflow-x: hidden; overflow-x: clip; }
+.stop { position: relative; display: flex; flex-direction: column; align-items: center; width: 210px; max-width: 60vw; }
 .stop-btn { position: relative; width: 78px; height: 72px; border-radius: 50%; border: 0; cursor: pointer; font-size: 1.9rem;
   background: var(--bg2); color: var(--muted); box-shadow: 0 6px 0 var(--line2), inset 0 0 0 3px var(--line); transition: transform .08s; }
 .stop-btn:active { transform: translateY(4px); box-shadow: 0 2px 0 var(--line2); }

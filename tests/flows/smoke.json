@@ -1,0 +1,1 @@
+[["goto", "/#/de"], ["wait", 3000], ["eval", "document.querySelector('#app').innerText.slice(0,400)"], ["shot", "home"]]
